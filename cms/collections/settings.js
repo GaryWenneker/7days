@@ -71,7 +71,7 @@ const collection = {
         {
           label: 'Image',
           name: 'image',
-          widget: 'image',
+          widget: 'string',
           required: false,
         },
         {

@@ -119,16 +119,7 @@ export const query = graphql`
     seo {
       title
       description
-      ogimage {
-        childImageSharp {
-          gatsbyImageData(
-            width: 1200
-            quality: 100
-            formats: [AUTO]
-            placeholder: NONE
-          )
-        }
-      }
+      ogimage
     }
   }
 `

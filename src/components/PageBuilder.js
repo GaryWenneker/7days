@@ -51,16 +51,7 @@ export const query = graphql`
         content
       }
       photo {
-        image {
-          childImageSharp {
-            gatsbyImageData(
-              width: 800
-              quality: 72
-              placeholder: DOMINANT_COLOR
-              formats: [AUTO, WEBP, AVIF]
-            )
-          }
-        }
+        image
         alt
       }
       variant
