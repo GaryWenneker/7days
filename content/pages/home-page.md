@@ -7,20 +7,17 @@ permalink: /
 thumbnail: ""
 blocks:
   - type: hero
-    title: Henlo.
+    title: 7Dagen
     content: |-
-      ## The most advanced starter for Gatsby & Netlify CMS.
+      ## Zoeken naar artikelen
 
-      Extensible, block based starter for Netlify CMS.\
-      Built with performance in mind, styled with TailwindCSS.
-
-      **Think lightweight WordPress.**
+      blah
     variant: centered
     buttons:
       - button:
           variant: default
           content: Documentation
-          url: https://github.com/clean-commit/gatsby-starter-henlo
+          url: https://google.com
   - type: perks
     title: Features
     columns:

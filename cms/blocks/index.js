@@ -59,6 +59,12 @@ const Config = {
       fields: [Title],
     },
     {
+      label: 'Recente Nieuwsartikelen',
+      name: 'recentNieuws',
+      widget: 'object',
+      fields: [Title],
+    },
+    {
       label: 'Form',
       name: 'form',
       widget: 'object',

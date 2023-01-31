@@ -1,0 +1,33 @@
+---
+id: 87e2cb3812a44a52bcb379e7c239c386
+type: nieuws
+layout: post
+title: "5 vragen over wat te doen als iemand vermist wordt"
+permalink: /nieuws/5-vragen-over-wat-te-doen-als-iemand-vermist-wordt/
+date: 2022-05-11T19:16:41.067Z
+author: 7biA1WiYB
+excerpt: "In Nederland raken jaarlijks 40.0000 mensen vermist. Wist je dat ongeveer de helft van deze vermiste personen jonger is dan 18 jaar? En weet jij eigenlijk ook wat je moet doen? Veel mensen niet namelijk. Daarom 5 vragen (en antwoorden) over wat te doen bij een vermissing.  "
+seo:
+  description: "5 vragen over wat te doen als iemand vermist wordt"
+  title: "5 vragen over wat te doen als iemand vermist wordt"
+---
+In Nederland raken jaarlijks 40.0000 mensen vermist. Wist je dat ongeveer de helft van deze vermiste personen jonger is dan 18 jaar? En weet jij eigenlijk ook wat je moet doen? Veel mensen niet namelijk. Daarom 5 vragen (en antwoorden) over wat te doen bij een vermissing.  
+
+    <h3>1. Wanneer is iemand officieel vermist?</h3>
+<p>Iedere dag verdwijnen mensen uit hun omgeving, soms tijdens vakanties en buitenlandse reizen. Uit onderzoek van de Universiteit Utrecht blijkt dat de politie per jaar ongeveer 40.000 meldingen over vermiste personen ontvangt. Gelukkig is zo’n 90 procent binnen een week weer terecht. Vermissingen die langer dan een jaar duren komen veel minder voor, gemiddeld zo'n 25 keer per jaar. </p>
+<p>Of iemand als vermist wordt beschouwd hangt af van de persoon en omstandigheden. Bij een klein kind wordt eerder aan een vermissing gedacht dan bij iemand van 18 jaar en ouder die een tijdje niets laat horen. Volgens de politie is een vermist persoon iemand die tegen (redelijke) verwachting in afwezig is uit zijn of haar gebruikelijke/veilige omgeving én van wie de verblijfplaats onbekend is.</p>
+<h3>2. Wat kun je doen als iemand vermist is?</h3>
+<p>Zodra je het vermoeden hebt dat iemand vermist is, moet je dat zo snel mogelijk melden bij de politie. In dringende gevallen kan dat via 112. Bij minder dringende gevallen kun je contact opnemen met de politie op 0900-8844.</p>
+<p>Je kunt ook naar het politiebureau in jouw woonplaats gaan. Het is slim om dan eerst een afspraak te maken bij de politie. Gaat het om dringende gevallen, dan kan de iemand naar jou toe laten komen. Op basis van de informatie die je gegeven hebt beslist de politie of, en welke acties nodig zijn. En wanneer ze uitgevoerd zullen worden.</p>
+<p>Heb je een idee waar iemand kan zijn, dan kun je ook contact opnemen met de politie. Gaat het om iemand die je goed kent zoals een klasgenoot, een buurjongen of een vriend, dan wil je misschien niet naar de politie. Je kunt het ook veilig en anoniem melden via 0800-7000 of <a href="https://www.politie.nl/themas/vermissing.html">online</a>. </p>
+<h3>3. Wat doet de politie met jouw informatie?</h3>
+<p>De politie kijkt eerst naar de aard en ernst van de vermissing. Om dit goed te kunnen beoordelen stelt de politie allerlei vragen en vullen ze samen met jou de Vragenlijst Vermist Persoon in. Het is slim om bij de eerste melding recente foto’s van de vermiste mee te brengen. Je kunt ze ook online versturen, dan is het belangrijk dat de foto zo groot mogelijk is qua bestand. Hierdoor blijft de kwaliteit van de foto goed en het vergroot de kans op herkenning bij eventuele publicatie.</p>
+<p>Op basis van de melding maakt een officier van de politie een inschatting van de urgentie. Is het urgent? Dan gaat de politie direct over tot onderzoek. Ze kunnen de woning onderzoeken of elektronische apparatuur, zoals telefoons en computers, gaan uitpluizen. Zijn er geen aanwijzingen dat de vermiste slachtoffer is van een misdrijf? Dan kan de politie ook geen privacygevoelige informatie - zoals gegevens van telefoonproviders of de bank - opvragen. Dat kan alleen wanneer er een vermoeden bestaat dat er sprake is van een misdrijf. Ook moet de officier van justitie hiervoor toestemming geven.</p>
+<p>Is er geen sprake van een urgente vermissing, dan kan het zijn dat je de vragenlijst thuis moet invullen. Tijdens een afspraak - uiterlijk de volgende dag - wordt deze met de politie samen doorgenomen. De reden dat ze dit doen is omdat uit onderzoek blijkt dat ongeveer drie van de vier vermiste personen binnen 24 uur weer terecht is.</p>
+<h3>4. Wat kan je zelf doen wanneer iemand vermist is?</h3>
+<p><strong>Contact zoeken via mobiele telefoon:</strong> Je kunt iemand op zijn of haar mobiele telefoon bellen. Bedenk alleen wel dat vaak bellen ervoor zorgt dat de batterij sneller leeg raakt. Aan de hand van de locatie van de telefoon kan iemand nog worden gevonden, maar alleen wanneer de telefoon aan staat. Dit is handig wanneer iemand een ongeluk heeft gehad en de telefoon niet kan beantwoorden. De politie mag alleen de locatie van een telefoon vaststellen als er sprake is van aantoonbaar (of hoge waarschijnlijkheid van) acuut levensgevaar. Of als er aanwijzingen zijn dat hij of zij slachtoffer is van een misdrijf.</p>
+<p><strong>Inzetten van social media</strong>: Er wordt ook vaak via social media contact gezocht of berichten over een vermissing geplaatst. Denk ook hier goed na of de situatie ernstig genoeg is. Het op internet plaatsen van gegevens kan - ook jaren later - nog steeds zichtbaar zijn via zoekmachines als Google. Wil je toch social media gebruiken? Richt je dan op informatie die helpt bij het herkennen van de persoon en omschrijf uiterlijke kenmerken zoals kleur haar, ogen en eventuele bijzonderheden zoals piercings of tatoeages.</p>
+<p><strong>Blijf kalm:</strong> Indien je alleen bent vraag dan of iemand bij je blijft en helpt. Zorg ervoor dat je bereikbaar blijft. Zorg er verder voor dat er altijd iemand thuis is om telefoontjes aan te nemen of schakel een antwoordapparaat of voicemail in.</p>
+<p><strong>Breng familie en vrienden op de hoogte:</strong> Neem contact op met familie en vrienden die iets kunnen weten over waar de vermiste mogelijk naartoe is gegaan. Denk ook aan familie of vrienden waarmee minder vaak contact is. Vertel wie er wordt vermist en vraag of ze informatie hebben die kan helpen en vraag of ze contact opnemen als ze iets weten. Bel ook met school of werk van de vermiste en vraag hen om informatie. Het is slim om een lijst bij te houden van wie je gesproken hebt en wat ze je verteld hebben. Die lijst kun je weer aan de politie geven.</p>
+<h3>5. Wat als een vermist iemand weer terecht is?</h3>
+<p>Laat het meteen aan de politie weten wanneer de vermiste terecht is. Het gebeurt nog (te) vaak dat de politie tijd steekt in een opsporing terwijl (de verblijfplaats van) de vermiste bekend is. Het is voor de politie handig om meer te leren over een vermissing. Een gesprek met de vermiste persoon is daarom erg belangrijk.</p>  

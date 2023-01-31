@@ -3,6 +3,7 @@ import { graphql } from 'gatsby';
 
 import Hero from '@/blocks/Hero';
 import RecentArticles from '../blocks/RecentArticles';
+import RecentNieuws from '../blocks/RecentNieuws';
 import ContentImage from '../blocks/ContentImage';
 import Perks from '../blocks/Perks';
 import Content from '../blocks/Content';
@@ -17,6 +18,8 @@ export default function PageBuilder({ blocks, preview = false }) {
               return <Hero key={i} data={block} />;
             case 'recentArticles':
               return <RecentArticles key={i} data={block} preview={preview} />;
+            case 'recentNieuws':
+              return <RecentNieuws key={i} data={block} preview={preview} />;
             case 'content_image':
               return <ContentImage key={i} data={block} preview={preview} />;
             case 'perks':

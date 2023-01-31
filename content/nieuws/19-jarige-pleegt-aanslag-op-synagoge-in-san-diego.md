@@ -1,0 +1,20 @@
+---
+id: bbaabd3dddca4613b0d5d6900e5012c2
+type: nieuws
+layout: post
+title: "19-jarige pleegt aanslag op synagoge in San Diego"
+permalink: /nieuws/19-jarige-pleegt-aanslag-op-synagoge-in-san-diego/
+date: 2022-05-11T19:16:41.067Z
+author: 7biA1WiYB
+excerpt: "Een 19-jarige man heeft dit weekend een aanslag gepleegd op een synagoge in de Verenigde Staten. Vier mensen raakten daarbij gewond waarvan er één is overleden in het ziekenhuis. De dader zou geïnspireerd zijn geraakt door de aanslagen in Nieuw-Zeeland eerder dit jaar.  "
+seo:
+  description: "19-jarige pleegt aanslag op synagoge in San Diego"
+  title: "19-jarige pleegt aanslag op synagoge in San Diego"
+---
+Een 19-jarige man heeft dit weekend een aanslag gepleegd op een synagoge in de Verenigde Staten. Vier mensen raakten daarbij gewond waarvan er één is overleden in het ziekenhuis. De dader zou geïnspireerd zijn geraakt door de aanslagen in Nieuw-Zeeland eerder dit jaar.  
+
+    <p>De schietpartij vond dit weekend plaats in de Amerikaanse stad San Diego. De dader, een 19-jarige man genaamd John Earnest, had het gemunt op de joodse gemeenschap. Hij beschoot daarom een synagoge waar op dat moment een dienst bezig was. In totaal waren meer dan honderd mensen aanwezig. Daartussen zat een politieagent die een vrije dag had. Hij heeft vele levens gered door Earnest te beschieten, waarna de dader vluchtte. Earnest is inmiddels opgepakt.</p>
+<h3>Geïnspireerd</h3>
+<p>Uit een bericht dat Earnest anoniem op internetforum 8chan - een forum waar veel extreemrechtse en nationalistische blanken op schrijven - zette, blijkt dat hij zich specifiek op joden richtte.  In datzelfde bericht noemt Earnest onder andere de dader van de aanslagen in <a href="https://original.sevendays.nl/nieuws/aanslagen-nieuw-zeeland-50-slachtoffers">Christchurch </a>als inspiratiebronnen voor zijn daden. Hij wilde met deze aanslag de Nieuw-Zeelandse terrorist ondersteunen.</p>
+<h3>Meerdere daden</h3>
+<p>Het was volgens zijn bericht niet de eerste aanslag die hij heeft gepleegd. De vorige mislukte echter. Eind maart waagde iemand namelijk een poging om een moskee in het Amerikaanse plaatsje Escondido in brand te steken. Het vuur werd op tijd ontdekt en kon makkelijk worden geblust. Earnest zegt verantwoordelijk te zijn geweest voor het stichten van die brand. Er wordt nu gekeken of het anonieme bericht op het internetforum waar dit allemaal instaat ook daadwerkelijk door Earnest geschreven is. </p>  

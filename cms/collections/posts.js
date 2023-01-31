@@ -38,7 +38,7 @@ const collection = {
     {
       label: 'Featured Image',
       name: 'thumbnail',
-      widget: 'image',
+      widget: 'string',
       default: '',
       required: false,
     },
