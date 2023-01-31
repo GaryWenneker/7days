@@ -1,6 +1,6 @@
 ---
-id: 2cb599c34c754c21a88fcf87404b461a
-type: nieuws
+id: 291c8eb1192f4680a5cb7df136250a45
+type: post
 layout: post
 title: "10 kijktips voor een leuke filmavond met Netflix"
 permalink: /blog/10-kijktips-voor-een-leuke-filmavond-met-netflix/

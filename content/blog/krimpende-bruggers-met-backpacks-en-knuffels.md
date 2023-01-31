@@ -1,0 +1,20 @@
+---
+id: 4af340f3baeb43fba07e811ade256f71
+type: post
+layout: post
+title: "Krimpende bruggers met backpacks en knuffels"
+permalink: /blog/krimpende-bruggers-met-backpacks-en-knuffels/
+date: 2022-05-11T19:16:41.067Z
+author: 7biA1WiYB
+excerpt: "Het nieuwe schooljaar is weer van start gegaan. De tweedeklassers zijn harstikke trots dat zij niet meer de kleinste van de school zijn. Derdeklassers krijgen door dat ze al bijna bij de bovenbouw horen. De vierdeklassers weten niet waar ze hun motivatie hebben verloren, terwijl de vijfdeklassers alleen maar stressen over tentamens. Dan heb je ook nog de zesdeklassers, die niet meer te onderscheiden zijn van de leraren. Maar ik vergeet een groep… de bruggers! Wat valt er veel over hen te vertellen...   "
+seo:
+  description: "Krimpende bruggers met backpacks en knuffels"
+  title: "Krimpende bruggers met backpacks en knuffels"
+---
+Het nieuwe schooljaar is weer van start gegaan. De tweedeklassers zijn harstikke trots dat zij niet meer de kleinste van de school zijn. Derdeklassers krijgen door dat ze al bijna bij de bovenbouw horen. De vierdeklassers weten niet waar ze hun motivatie hebben verloren, terwijl de vijfdeklassers alleen maar stressen over tentamens. Dan heb je ook nog de zesdeklassers, die niet meer te onderscheiden zijn van de leraren. Maar ik vergeet een groep… de bruggers! Wat valt er veel over hen te vertellen...   
+
+    <p class="Paragraph SCX113754570">Op de eerste schooldag zijn alle gangen geblokkeerd door groepjes nerveuze bruggers. Ze worden elk jaar kleiner en zijn inmiddels drie koppen kleiner dan de gemiddelde scholier. Ze maken ook drie keer zoveel geluid dan de gemiddelde scholier. De meesten hebben grote backpacktassen met daarin een complete survivaluitrusting. Van woordenboeken tot paraplu’s en van broodtrommels met snoeptomaatjes tot het boek <em>Hoe overleef ik de brugklas.</em></p>
+
+<p>In de hoek van de begane grond staat een klein jongetje met een sleutelhanger van een knuffelbeer op zijn rugzak. Hij kijkt angstig heen en weer en op zijn tas is een briefje geplakt. <em>Fijne dag, liefs mama</em>. De bel gaat en de bruggers rennen letterlijk alle kanten op. Trappen op, trappen af, gebouw hier, dan daar, en af en toe rent er een wanhopig tegen één muur. Misschien in de hoop om in Zweinstein te komen.<br><br><strong>'Meester!'</strong><br>In de eerste les aardrijkskunde pakken ze direct hun keurig gekafte boeken, nieuwe Spongebob-lijntjesschriften en natuurlijk de Bosatlas die tot hun survivaluitrusting behoort. Een paar leerlingen hebben al drie hoofdstukken vooruit gewerkt nadat ze hun boeken hadden gehaald.</p>
+<p>De leraar komt binnen en treft dertig enthousiaste leergierige blikken. Hij slaat op de tafel en roept: 'Klaar voor het nieuwe leven?' Eén brugger probeert zijn tranen te bedwingen die van schrik zijn ontstaan. Een ander overweegt naar voren te lopen om te vragen of de meester kan voorlezen uit zijn <em>Hoe overleef ik</em>-boek. En - 'Meester!' - hoor ik daar nu een eersteklasser vanuit de wc roepen of de meester zijn billen wil afvegen?<br><br><strong>Twee weken later..</strong><br>Na twee weken kennen de bruggers de meeste lokalen wel ongeveer. Ze rennen niet meer, maar lopen nog wel iets te snel. Een deel van de survivaluitrusting is verdwenen en meesters zijn leraren geworden. Het briefje op de tas van het jongetje is weg. Nu staat er: <em>Ik heb drank en drugs!</em> En de berenknuffel-sleutelhanger…? Die is onthoofd. <br><br>Geen zorgen, bruggers. Jullie gaan je steeds meer mengen met de massa en volgend jaar mogen jullie lachend kijken naar de onwetende nieuwe bruggers, terwijl jullie de schoolregels en cultuur allang kunnen dromen.</p>
+<p><em>Ga je bijna naar de brugklas? Onze pagina <a href="https://original.sevendays.nl/brugklas">Sevendays.nl/brugklas</a> staat bomvol slimme tips, interessant brugklasnieuws en grappige blogs die je klaarstomen voor de middelbare school. En misschien heb je ook wel iets aan onze speciale krant <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/actiesmetderden/brugklasvoorbeginners">Brugklas voor Beginners</a>! </em></p>  

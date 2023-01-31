@@ -1,0 +1,26 @@
+---
+id: 54f214809b7947f791d58a75ece6cf9b
+type: post
+layout: post
+title: "Waarom ik de middelbare school mis"
+permalink: /blog/waarom-ik-de-middelbare-school-mis/
+date: 2022-05-11T19:16:41.067Z
+author: 7biA1WiYB
+excerpt: "Het voelde vreemd, de eerste keren dat ik langs mijn middelbare school reed zonder er naar binnen te hoeven. En nog steeds voelt het vreemd. Soms fiets ik er expres voorbij, glimlach ik als ik een oude conciërge zie en het schoolplein dat ze beter niet hadden kunnen renoveren met al die felle kleuren. Zuchtend bedenk ik dat ik het mis.  "
+seo:
+  description: "Waarom ik de middelbare school mis"
+  title: "Waarom ik de middelbare school mis"
+---
+Het voelde vreemd, de eerste keren dat ik langs mijn middelbare school reed zonder er naar binnen te hoeven. En nog steeds voelt het vreemd. Soms fiets ik er expres voorbij, glimlach ik als ik een oude conciërge zie en het schoolplein dat ze beter niet hadden kunnen renoveren met al die felle kleuren. Zuchtend bedenk ik dat ik het mis.  
+
+    <p>Ja, ook de leraren mis ik en eigenlijk één in het bijzonder. Mijn docent Nederlands. Hem prijs ik graag even de hemel in, maar niet te hoog; hij moet wel met beide voeten op de grond blijven staan. Hij ergerde zich aan bepaalde ‘tekens’, had een stok waar hij woorden op het bord mee aanwees en had als enige een handschrift dat nog lelijker was dan dat van mij. Het mooiste aan hem vond ik dat hij gedichten kon voordragen alsof dát was waarvoor hij leefde. </p>
+<h3>De ruzies</h3>
+<p>Om de zoveel tijd was er ruzie in het groepje meiden waar ik mee optrok. De ruzies kenden geen regelmaat, maar kwamen onverwachts. Als een storm waar opeens de bliksem inslaat. Zo was er ooit een ruzie dat ging over een broodje. Dat iemand dit broodje niet mocht pakken, dat toch deed waardoor de ander laaiend werd. Het werd een soort ding, dat broodje, terwijl het in feite over meer ging dan alleen dat. Helaas verspreiden roddels zich razendsnel en gaan ze vaak een eigen leven leiden. Zo zijn meiden, en ik dus ook. In de klas waar ik nu lesgeef hoor ik meiden dezelfde soort ruzies maken en ik moet er soms gewoon even om lachen (sorry meiden). Toen ik op de middelbare school zat hield het ons op dreef. Het is niet het leukste om te missen, maar het druk maken over zo'n broodje, is achteraf gezien toch best grappig.</p>
+<h3>De zweetlucht</h3>
+<p>'Zweetlucht?', hoor ik je misschien hardop denken. Tja, blijkbaar is deze lucht het waard om over te schrijven en het te missen. En ook is de zweetlucht die er nog hing 'van de klas van 2007' in vele herinneringen aanwezig. En niet alleen de zweetlucht, maar ook de warmte of extreme koelte op school. Het leek wel alsof onze verwarming dagelijks in de war was. Of het gewoon niet deed. Of misschien deed de conciërge - naar wie ik glimlachte - hem gewoon nooit aan. Het is niet iets om te missen, maar toch, wanneer ik iets ruik dat op deze geur lijkt, dan denk ik aan mijn schooltijd.</p>
+<h3>Vriendinnen</h3>
+<p>Wat vond ik het altijd fijn dat ik na twee lesuren samen pauze kon houden. Dat we het konden hebben over hoe zwaar het was: mijn rugzak, het leven en de hoeveelheid huiswerk die we kregen. Over meiden die opeens hun haar hadden gekleurd, over jongens. Over roddels. Nog steeds klets ik met vriendinnen over van alles en nog wat, maar iedere levensfase is anders. Ook vond ik het fijn ergens bij te horen, hoewel de verdeling van leerlingen niet zo is zoals wij in Amerikaanse films te zien krijgen: de nerds, de losers, de hipsters, de populaire leerlingen, etc, is het toch - in een wat vagere lijn - aanwezig. Er was een hele eigen wereld, en in die wereld wist ik bij wie ik wilde horen en bij wie ik heel graag uit de buurt wilde blijven. Dat vond ik eigenlijk best prettig.</p>
+<h3>De mediatheek</h3>
+<p>Dit was dé plek waar ik was als ik niet in de les zat en er wel hoorde te zijn. Omdat ik iemand was die niet veel zei leek het erop dat leraren mij meer vertrouwden. Tenminste, zo voelde het. Daarom mocht ik vaker naar de wc of vriendinnen helpen met hun huiswerk. Als ik dit tweede zei, loog ik (sorry) en ging ik naar de mediatheek. Ik kwam hier ook in pauzes, in tussenuren. Het was een fijne plek waar ik graag tijd doorbracht.</p>
+<p>Boekenkasten stonden achter en naast elkaar, met boeken die nog kwamen uit de jaren '60 en waar de klas van 2007 ook hun boeken had geleend. Het was altijd een zooitje wanneer klassen geweest waren en dan probeerden de mediatheekjuffen het recht te zetten. Zij zuchten dan en wanneer het rechtstond knikten zij tevreden, tot er een nieuwe klas kwam en opnieuw de chaos uitbrak. Er hingen poëzieposters op de muren en computers (zonder aangesloten muizen) waren er ook. Voor mij was tijd doorbrengen in de mediatheek een soort vlucht van de les. Het was er vaak rustig en ik denk dat ik daarom deze plek zo kon waarderen. </p>
+<p>Bovenstaande is wat ik allemaal aan de middelbare school mis. En hoewel ik het mis, zou ik toch niet terug willen naar toen. Ik ben te oud en het is goed zo. Ik moet ook niet vergeten dat mensen alles mooier maken wat er in het verleden is gebeurd. Dus misschien was de hele middelbare school wel een ramp en was mijn hoogtepunt dat ene uurtje Nederlands in de week. </p>  
