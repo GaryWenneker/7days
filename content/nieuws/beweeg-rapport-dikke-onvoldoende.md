@@ -1,5 +1,5 @@
 ---
-id: 9e86499ce4794be0ad3a7cf85aec67fc
+id: fb658edf55ec4383ba58e8bc050e47b6
 type: nieuws
 layout: post
 title: "Beweeg-rapport: dikke onvoldoende"
@@ -18,4 +18,4 @@ Jongeren bewegen te weinig, hoor en lees je vaak. Maar is dat wel echt zo? En wa
 <p>Oké, dus jongeren bewegen te weinig. Maar waarom is dat zo erg? Takken: ‘Ze zeggen vaak dat het ze niet zoveel boeit, maar het heeft invloed op hun toekomstige gezondheid. Hoe sterk je botten worden, wordt bepaald in je tienerjaren. Als je te weinig beweegt, krijg je broze botten met alle gevolgen van dien.’</p>
 <p><strong>Goed nieuws</strong></p>
 <p>Naast waarschuwingen heeft Takken gelukkig ook goed nieuws. ‘Met een klein duwtje in de rug kan het al veel beter. En wat echt goed is in Nederland, is dat het verkeer geschikt is voor fietsers. Nederlandse jongeren fietsen veel en dat moeten we vasthouden.’</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

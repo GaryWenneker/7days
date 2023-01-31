@@ -1,5 +1,5 @@
 ---
-id: 202136b6b57d4c1c9d74add19de72b48
+id: 5d51c7c02aec4e5c8dd8aad4852dceef
 type: nieuws
 layout: post
 title: "Geen bommetjes! Staarten verboden!"
@@ -19,7 +19,7 @@ Zwemmen met een zeemeerminnenstaart is in Nieuw-Zeeland een enorme rage. Met een
         
   
   <div class="content">
-    <img height="577" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-31599857kl.jpg" alt="">  </div>
+    <img height="577" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-31599857kl.jpg" alt="">  </div>
 
   
 </div>

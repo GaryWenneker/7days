@@ -1,5 +1,5 @@
 ---
-id: 317965afba954faf969634a7dd72f345
+id: 840a424951874038aad404fcdcf47f3d
 type: nieuws
 layout: post
 title: "Geen tijger meer als huisdier in Dubai"
@@ -21,4 +21,4 @@ Rijkaards in de Verenigde Arabische Emiraten moeten op zoek naar nieuwe huisdier
 <p>Maar aan al dat pronken komt dus nu een einde. Wie nog met zijn exotische huisdier over straat wandelt, kan een gevangenisstraf van een half jaar krijgen én een boete tot maximaal 150.000 euro. Valt je huistijger of huischeeta iemand aan, dan kan de gevangenisstraf oplopen tot maximaal zeven jaar. Als het slachtoffer omkomt, dreigt voor de eigenaar zelfs de doodstraf.</p>
 <p>De nieuwe wet betekent ook een verandering voor hondeneigenaren in het Arabische land, al is die een stuk minder ingrijpend. Honden moeten vanaf nu verplicht aan de lijn op de straten van Dubai en Abu Dhabi. </p>
 <p><iframe allowfullscreen="" frameborder="0" height="450" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3722605.2260552864!2d51.69562311208951!3d24.334065529381615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e48dfb1ab12bd%3A0x33d32f56c0080aa7!2sUnited+Arab+Emirates!5e0!3m2!1sen!2snl!4v1484297920727" width="850"></iframe></p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

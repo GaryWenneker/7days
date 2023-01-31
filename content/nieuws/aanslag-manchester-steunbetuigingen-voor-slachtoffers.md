@@ -1,5 +1,5 @@
 ---
-id: d1ec211cc4c641c0acdb18a7b927f718
+id: 12087627570d420a93ea2eac6642c4c2
 type: nieuws
 layout: post
 title: "Aanslag Manchester: steunbetuigingen voor slachtoffers"
@@ -13,7 +13,7 @@ seo:
 ---
 De identiteit van de aanslagpleger in Manchester is bij de politie bekend. Dat maakte de Britse premier Theresa May bekend tijdens een persconferentie. De man had een identiteitsbewijs op zak. Wie hij is, wordt alleen (nog) niet naar buiten gebracht. De wereld reageert geschokt en deelt steun via (vooral) social media.  
 
-    <p>'De politie en de veiligheidsdiensten werken hard om in beeld te krijgen wat er precies gebeurd is', vertelde eerder op de dag May in een korte verklaring. Verder vertelt ze dat de zelfmoordterrorist een geïmproviseerd explosief af liet gaan bij de uitgang van de Manchester Arena waar op dat moment net het concert van Ariana Grande ten einde liep. Het lijkt erop dat zowel over de tijd als de plek goed is nagedacht. Het was de bedoeling om zoveel mogelijk schade te creëren. May noemt <a href="https://original.sevendays.nl/nieuws/aanslag-bij-concert-ariana-grande-manchester">de aanslag</a> 'afschuwelijk, ziekelijk laf'.</p>
+    <p>'De politie en de veiligheidsdiensten werken hard om in beeld te krijgen wat er precies gebeurd is', vertelde eerder op de dag May in een korte verklaring. Verder vertelt ze dat de zelfmoordterrorist een geïmproviseerd explosief af liet gaan bij de uitgang van de Manchester Arena waar op dat moment net het concert van Ariana Grande ten einde liep. Het lijkt erop dat zowel over de tijd als de plek goed is nagedacht. Het was de bedoeling om zoveel mogelijk schade te creëren. May noemt <a href="https://7dagen.netlify.app/nieuws/aanslag-bij-concert-ariana-grande-manchester">de aanslag</a> 'afschuwelijk, ziekelijk laf'.</p>
 <h3>Getuigen</h3>
 <p>Ryan Morrison (19) is een van de getuigen bij de aanslag. Hij ziet de blinde paniek uitbreken en ziet vrijwel meteen rook na de explosie. Ook hoorde hij iemand ‘bom’ schreeuwen. Morrison: 'Mensen raakten gewond omdat ze vertrapt werden bij het vluchten. Het was een compleet bloedbad.' Dat meldt de Volkskrant. Hieronder een aantal reacties op Twitter.</p>
 <p><div class="media media-element-container media-default"><div id="file-417483" class="file file-document file-text-oembed">
@@ -88,4 +88,4 @@ De identiteit van de aanslagpleger in Manchester is bij de politie bekend. Dat 
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

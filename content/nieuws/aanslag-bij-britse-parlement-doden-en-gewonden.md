@@ -1,5 +1,5 @@
 ---
-id: 8dfbec72935b405ebb649b1a20d640c8
+id: 497311bd3d1e4b7a93c00135b304fa71
 type: nieuws
 layout: post
 title: "Aanslag bij Britse parlement: doden en gewonden"
@@ -19,7 +19,7 @@ Precies één jaar na de aanslagen in Brussel is Londen afgelopen woensdag opges
         
   
   <div class="content">
-    <img alt="Aanval bij Brits parlement in Londen op 22 maart 2017" title="Beeld: EPA" height="908" width="1472" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-50322446.jpg">  </div>
+    <img alt="Aanval bij Brits parlement in Londen op 22 maart 2017" title="Beeld: EPA" height="908" width="1472" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-50322446.jpg">  </div>
 
   
 </div>
@@ -30,5 +30,5 @@ Precies één jaar na de aanslagen in Brussel is Londen afgelopen woensdag opges
 <h3>‘Ziek en verderfelijk’</h3>
 <p>In de nacht van woensdag op donderdag heeft de politie op meerdere plekken huiszoekingen gedaan, in zowel Londen als Birmingham. Daarbij zijn meerdere mensen aangehouden. De politie vermoedt dat de dader geïnspireerd was door het ‘internationale terrorisme’. Premier Theresa May reageerde enkele uren na de gebeurtenissen. Ze noemde de aanslag ‘ziek en verderfelijk’, maar ze riep alle Londenaren op niet te buigen voor het terrorisme. Het Britse parlement kwam donderdag daarom ook gewoon bijeen.</p>
 <h3>Schoolreis</h3>
-<p>De aanslag vond plaats op één van de drukste en meest toeristische plekken van Londen. Veel mensen hebben de aanslag daarom zien gebeuren. Zo ook een groep leerlingen van het Mollerlyceum uit Bergen op Zoom. Zij waren in Londen op schoolreis en bevonden zich vlakbij het parlementsgebouw. De docenten en leerlingen besloten de reis af te breken en keerden donderdag terug naar huis. <a href="https://original.sevendays.nl/nieuws/leerlingen-mollerlyceum-getuige-van-aanslag-londen" target="_blank">Hier lees je over hun verhaal</a>.</p>
-<p><em>Altijd op de hoogte blijven van tips die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p>De aanslag vond plaats op één van de drukste en meest toeristische plekken van Londen. Veel mensen hebben de aanslag daarom zien gebeuren. Zo ook een groep leerlingen van het Mollerlyceum uit Bergen op Zoom. Zij waren in Londen op schoolreis en bevonden zich vlakbij het parlementsgebouw. De docenten en leerlingen besloten de reis af te breken en keerden donderdag terug naar huis. <a href="https://7dagen.netlify.app/nieuws/leerlingen-mollerlyceum-getuige-van-aanslag-londen" target="_blank">Hier lees je over hun verhaal</a>.</p>
+<p><em>Altijd op de hoogte blijven van tips die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

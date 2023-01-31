@@ -1,5 +1,5 @@
 ---
-id: bc67434fbbef42a9836ea261fd941658
+id: b3516a3c6ed74576a1b13c9268f88a25
 type: nieuws
 layout: post
 title: "Grote Denkers voor Dummies: Confucius"

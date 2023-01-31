@@ -1,5 +1,5 @@
 ---
-id: 40f60e543bb140c7b439115335d94466
+id: 182c8eb2a3c24f468babe3991715661b
 type: nieuws
 layout: post
 title: "7x dit wist jij (vast) nog niet over Michael van Gerwen"

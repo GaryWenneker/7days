@@ -1,5 +1,5 @@
 ---
-id: 2c04662f4b044b0185e074cb787c9ddd
+id: dcb1c2b0d95b4c15bd26f67d170764f6
 type: nieuws
 layout: post
 title: "3 vragen en antwoorden over de aanslag in Iran"

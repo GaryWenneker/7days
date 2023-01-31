@@ -1,5 +1,5 @@
 ---
-id: ab81decf3ca6457fafa43d0a7de9e509
+id: cf3792cc92dc4b9b980a6e3ffd6e07c9
 type: nieuws
 layout: post
 title: "7 dingen die je nog niet wist over sneeuw"
@@ -20,7 +20,7 @@ Of je nu van winters weer houdt of niet, komende dagen is er geen ontkomen aan. 
         
   
   <div class="content">
-    <img height="1079" width="1920" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/wintry-69661_1920.jpg" alt="">  </div>
+    <img height="1079" width="1920" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/wintry-69661_1920.jpg" alt="">  </div>
 
   
 </div>
@@ -34,7 +34,7 @@ Of je nu van winters weer houdt of niet, komende dagen is er geen ontkomen aan. 
         
   
   <div class="content">
-    <img height="900" width="1119" class="media-element file-default" data-delta="4" src="https://original.sevendays.nl/sites/default/files/Inuit-Kleidung_1.jpg" alt="">  </div>
+    <img height="900" width="1119" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/Inuit-Kleidung_1.jpg" alt="">  </div>
 
   
 </div>
@@ -46,7 +46,7 @@ Of je nu van winters weer houdt of niet, komende dagen is er geen ontkomen aan. 
         
   
   <div class="content">
-    <img height="960" width="1280" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/a0b14994dfe849a7b0c03388f7b81510.jpeg" alt="">  </div>
+    <img height="960" width="1280" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/a0b14994dfe849a7b0c03388f7b81510.jpeg" alt="">  </div>
 
   
 </div>
@@ -60,7 +60,7 @@ Of je nu van winters weer houdt of niet, komende dagen is er geen ontkomen aan. 
         
   
   <div class="content">
-    <img height="1279" width="1920" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/ice-crystal-2871068_1920.jpg" alt="">  </div>
+    <img height="1279" width="1920" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/ice-crystal-2871068_1920.jpg" alt="">  </div>
 
   
 </div>

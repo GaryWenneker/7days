@@ -1,5 +1,5 @@
 ---
-id: 23e0ba8089a6440da09dbc48a6e61289
+id: c3364474f7b44841be1fefdd4c38c82e
 type: nieuws
 layout: post
 title: "Daantje (17) gaat vanavond naar BTS"
@@ -18,7 +18,7 @@ Het is een grote dag voor fans van K-pop. BTS - de bekendste K-pop-groep van dit
         
   
   <div class="content">
-    <a href="/files/daantjejpg-1"><img alt="Daantje Eigen foto" title="Daantje Eigen foto" height="220" width="124" style="float: left; width: 100px; height: 178px;" class="media-element file-teaser" data-delta="4" src="https://original.sevendays.nl/sites/default/files/styles/medium/public/Daantje_0.jpg?itok=-UqCox-E"></a>  </div>
+    <a href="/files/daantjejpg-1"><img alt="Daantje Eigen foto" title="Daantje Eigen foto" height="220" width="124" style="float: left; width: 100px; height: 178px;" class="media-element file-teaser" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/styles/medium/public/Daantje_0.jpg?itok=-UqCox-E"></a>  </div>
 
   
 </div>
@@ -30,7 +30,7 @@ Het is een grote dag voor fans van K-pop. BTS - de bekendste K-pop-groep van dit
         
   
   <div class="content">
-    <img alt="SHINee tijdens een optreden in Seoul (Zuid-Korea) in augustus 2018 Foto AFP" title="SHINee tijdens een optreden in Seoul (Zuid-Korea) in augustus 2018 Foto AFP" height="2312" width="4056" style="width: 900px; height: 513px;" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-58668688.jpg">  </div>
+    <img alt="SHINee tijdens een optreden in Seoul (Zuid-Korea) in augustus 2018 Foto AFP" title="SHINee tijdens een optreden in Seoul (Zuid-Korea) in augustus 2018 Foto AFP" height="2312" width="4056" style="width: 900px; height: 513px;" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-58668688.jpg">  </div>
 
   
 </div>

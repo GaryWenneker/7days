@@ -1,5 +1,5 @@
 ---
-id: 4c10282187ab4159991f12c8c9fa567e
+id: 30ef47c274eb4682a51be2450acd804f
 type: nieuws
 layout: post
 title: "7 dingen die je nog niet wist over emoji"
@@ -18,7 +18,7 @@ Stuur je vrienden vandaag heel veel lachende drollen en confettikanonnen, want h
         
   
   <div class="content">
-    <img height="120" width="120" style="float: left; height: 30px; width: 30px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/calendar_1f4c5.png" alt="">  </div>
+    <img height="120" width="120" style="float: left; height: 30px; width: 30px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/calendar_1f4c5.png" alt="">  </div>
 
   
 </div>
@@ -29,7 +29,7 @@ Stuur je vrienden vandaag heel veel lachende drollen en confettikanonnen, want h
         
   
   <div class="content">
-    <img height="900" width="900" style="float: left; width: 30px; height: 30px;" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/emojipedia.jpg" alt="">  </div>
+    <img height="900" width="900" style="float: left; width: 30px; height: 30px;" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/emojipedia.jpg" alt="">  </div>
 
   
 </div>
@@ -40,7 +40,7 @@ Stuur je vrienden vandaag heel veel lachende drollen en confettikanonnen, want h
         
   
   <div class="content">
-    <img height="120" width="120" style="float: left; height: 30px; width: 30px;" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/trophy_1f3c6.png" alt="">  </div>
+    <img height="120" width="120" style="float: left; height: 30px; width: 30px;" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/trophy_1f3c6.png" alt="">  </div>
 
   
 </div>
@@ -49,7 +49,7 @@ Stuur je vrienden vandaag heel veel lachende drollen en confettikanonnen, want h
         
   
   <div class="content">
-    <img height="120" width="120" style="width: 30px; height: 30px; float: left;" class="media-element file-default" data-delta="4" src="https://original.sevendays.nl/sites/default/files/face-with-tears-of-joy_1f602.png" alt="">  </div>
+    <img height="120" width="120" style="width: 30px; height: 30px; float: left;" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/face-with-tears-of-joy_1f602.png" alt="">  </div>
 
   
 </div>
@@ -58,7 +58,7 @@ Stuur je vrienden vandaag heel veel lachende drollen en confettikanonnen, want h
         
   
   <div class="content">
-    <img height="120" width="120" style="float: left; height: 30px; width: 30px;" class="media-element file-default" data-delta="5" src="https://original.sevendays.nl/sites/default/files/llama_1f999.png" alt="">  </div>
+    <img height="120" width="120" style="float: left; height: 30px; width: 30px;" class="media-element file-default" data-delta="5" src="https://7dagen.netlify.app/sites/default/files/llama_1f999.png" alt="">  </div>
 
   
 </div>
@@ -68,7 +68,7 @@ Stuur je vrienden vandaag heel veel lachende drollen en confettikanonnen, want h
         
   
   <div class="content">
-    <img height="120" width="120" style="float: left; height: 30px; width: 30px;" class="media-element file-default" data-delta="6" src="https://original.sevendays.nl/sites/default/files/flag-for-japan_1f1ef-1f1f5.png" alt="">  </div>
+    <img height="120" width="120" style="float: left; height: 30px; width: 30px;" class="media-element file-default" data-delta="6" src="https://7dagen.netlify.app/sites/default/files/flag-for-japan_1f1ef-1f1f5.png" alt="">  </div>
 
   
 </div>
@@ -77,7 +77,7 @@ Stuur je vrienden vandaag heel veel lachende drollen en confettikanonnen, want h
         
   
   <div class="content">
-    <img height="120" width="120" style="float: left; height: 30px; width: 30px;" class="media-element file-default" data-delta="7" src="https://original.sevendays.nl/sites/default/files/heavy-black-heart_2764.png" alt="">  </div>
+    <img height="120" width="120" style="float: left; height: 30px; width: 30px;" class="media-element file-default" data-delta="7" src="https://7dagen.netlify.app/sites/default/files/heavy-black-heart_2764.png" alt="">  </div>
 
   
 </div>

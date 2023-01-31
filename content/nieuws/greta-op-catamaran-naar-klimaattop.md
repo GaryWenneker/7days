@@ -1,5 +1,5 @@
 ---
-id: 0b7bc28738c1410f8a20042938a91cb4
+id: 48df18c5e6214145bab1683d1a6e91d7
 type: nieuws
 layout: post
 title: "Greta op catamaran naar klimaattop"
@@ -13,7 +13,7 @@ seo:
 ---
 Ja hoor. Het is haar gelukt. Greta Thunberg heeft een lift gevonden en is misschien toch nog op tijd voor de klimaattop in Madrid. Ze vertrok vandaag uit de VS, met een snelle catamaran.  
 
-    <p>Even zat ze met haar handen in 't haar. Twee weken geleden hoorde ze dat de internationale klimaattop niet in Chili zou zijn vanwege de <a href="https://original.sevendays.nl/destraatop" target="_blank">protesten</a> daar, maar in Madrid. 'Het lijkt erop dat ik de verkeerde kant op ben gezeild', zei Greta op Twitter. De Zweedse klimaatactiviste zat op dat moment in de VS waar ze zo groen mogelijk naartoe was gegaan. Zeilend.</p>
+    <p>Even zat ze met haar handen in 't haar. Twee weken geleden hoorde ze dat de internationale klimaattop niet in Chili zou zijn vanwege de <a href="https://7dagen.netlify.app/destraatop" target="_blank">protesten</a> daar, maar in Madrid. 'Het lijkt erop dat ik de verkeerde kant op ben gezeild', zei Greta op Twitter. De Zweedse klimaatactiviste zat op dat moment in de VS waar ze zo groen mogelijk naartoe was gegaan. Zeilend.</p>
 <p>De afgelopen weken deed ze mee met allerlei Amerikaanse klimaatacties en hield ze toespraken. Tot het moment kwam om naar Chili te vertrekken voor de top die 2 december zou beginnen. En toen kwam dus die plotselinge verplaatsing.<br><div class="media media-element-container media-default"><div id="file-538906" class="file file-document file-text-oembed">
 
         <h2 class="element-invisible"><a href="/files/greta-thunberg-1573647449">Greta Thunberg 1573647449</a></h2>

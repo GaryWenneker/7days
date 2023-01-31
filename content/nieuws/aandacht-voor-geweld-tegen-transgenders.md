@@ -1,5 +1,5 @@
 ---
-id: 8a596f4978e44bd58f934c6822e1b8c5
+id: 09ce709f772e4186815e7470e8f7bd54
 type: nieuws
 layout: post
 title: "Aandacht voor geweld tegen transgenders"

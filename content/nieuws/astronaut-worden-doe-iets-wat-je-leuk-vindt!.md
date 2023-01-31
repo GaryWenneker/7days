@@ -1,5 +1,5 @@
 ---
-id: 05fa13e331a348fe80fcab1535ce28ab
+id: 058ec75c37f04a818d90c15e2f27b170
 type: nieuws
 layout: post
 title: "Astronaut worden? 'Doe iets wat je leuk vindt!'"
@@ -30,9 +30,9 @@ Hoe is het om in de ruimte te zijn? Met een grote show in Ziggo Dome gaat André
         
   
   <div class="content">
-    <img alt="André Kuipers" title="Foto: ANP" height="3712" width="5568" style="width: 900px; height: 600px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-47583612_0.jpg">  </div>
+    <img alt="André Kuipers" title="Foto: ANP" height="3712" width="5568" style="width: 900px; height: 600px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-47583612_0.jpg">  </div>
 
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

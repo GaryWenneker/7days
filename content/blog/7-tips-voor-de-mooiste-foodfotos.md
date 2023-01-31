@@ -1,5 +1,5 @@
 ---
-id: 38bf99761e55441faa2e084681580ecc
+id: 89ef05c9fbff42b085b604929077ed56
 type: post
 layout: post
 title: "7 tips voor de mooiste foodfoto's"
@@ -21,7 +21,7 @@ Als je iets níet moet doen wanneer je honger hebt, is het wel Instagram openen
         
   
   <div class="content">
-    <img height="395" width="1000" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Foodfotoslicht.jpg" alt="">  </div>
+    <img height="395" width="1000" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Foodfotoslicht.jpg" alt="">  </div>
 
   
 </div>
@@ -32,7 +32,7 @@ Als je iets níet moet doen wanneer je honger hebt, is het wel Instagram openen
         
   
   <div class="content">
-    <img height="354" width="520" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px; width: 851px; height: 579px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/IMG_4828_2.jpg" alt="">  </div>
+    <img height="354" width="520" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px; width: 851px; height: 579px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/IMG_4828_2.jpg" alt="">  </div>
 
   
 </div>
@@ -43,7 +43,7 @@ Als je iets níet moet doen wanneer je honger hebt, is het wel Instagram openen
         
   
   <div class="content">
-    <img height="400" width="1195" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Foodfotosstudio_0.jpg" alt="">  </div>
+    <img height="400" width="1195" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Foodfotosstudio_0.jpg" alt="">  </div>
 
   
 </div>
@@ -54,7 +54,7 @@ Als je iets níet moet doen wanneer je honger hebt, is het wel Instagram openen
         
   
   <div class="content">
-    <img height="397" width="1150" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/foodfotosperspectief.jpg" alt="">  </div>
+    <img height="397" width="1150" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/foodfotosperspectief.jpg" alt="">  </div>
 
   
 </div>
@@ -65,7 +65,7 @@ Als je iets níet moet doen wanneer je honger hebt, is het wel Instagram openen
         
   
   <div class="content">
-    <img height="400" width="1120" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/foodfotoscloseup.jpg" alt="">  </div>
+    <img height="400" width="1120" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/foodfotoscloseup.jpg" alt="">  </div>
 
   
 </div>
@@ -76,7 +76,7 @@ Als je iets níet moet doen wanneer je honger hebt, is het wel Instagram openen
         
   
   <div class="content">
-    <img height="354" width="560" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px; width: 849px; height: 537px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Muffins14.jpg" alt="">  </div>
+    <img height="354" width="560" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px; width: 849px; height: 537px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Muffins14.jpg" alt="">  </div>
 
   
 </div>
@@ -87,7 +87,7 @@ Als je iets níet moet doen wanneer je honger hebt, is het wel Instagram openen
         
   
   <div class="content">
-    <img height="380" width="1157" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/foodfotosnabewerking.jpg" alt="">  </div>
+    <img height="380" width="1157" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/foodfotosnabewerking.jpg" alt="">  </div>
 
   
 </div>

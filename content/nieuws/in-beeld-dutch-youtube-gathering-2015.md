@@ -1,5 +1,5 @@
 ---
-id: a9c87b2d507a4af795352c7c65f0ccb8
+id: ffa181f0d52b4ba494304d4653f39cd5
 type: nieuws
 layout: post
 title: "In beeld: Dutch YouTube Gathering 2015"
@@ -18,7 +18,7 @@ Gillende fans en knallende optredens: zaterdag was de tiende editie van de Dutch
         
   
   <div class="content">
-    <img title="Foto Shody Careman" height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Youtube%20Gathering%202%20Shody%20Careman.jpg" alt="">  </div>
+    <img title="Foto Shody Careman" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Youtube%20Gathering%202%20Shody%20Careman.jpg" alt="">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ Gillende fans en knallende optredens: zaterdag was de tiende editie van de Dutch
         
   
   <div class="content">
-    <img title="Foto Shody Careman" height="875" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Youtube%20Gathering-14.jpg" alt="">  </div>
+    <img title="Foto Shody Careman" height="875" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Youtube%20Gathering-14.jpg" alt="">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ Gillende fans en knallende optredens: zaterdag was de tiende editie van de Dutch
         
   
   <div class="content">
-    <img title="Foto Shody Careman" height="566" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Youtube%20Gathering%204%20Shody%20Careman.jpg" alt="">  </div>
+    <img title="Foto Shody Careman" height="566" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Youtube%20Gathering%204%20Shody%20Careman.jpg" alt="">  </div>
 
   
 </div>
@@ -45,7 +45,7 @@ Gillende fans en knallende optredens: zaterdag was de tiende editie van de Dutch
         
   
   <div class="content">
-    <img title="Foto Shody Careman" height="1036" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Youtube%20Gathering%205%20Shody%20Careman.jpg" alt="">  </div>
+    <img title="Foto Shody Careman" height="1036" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Youtube%20Gathering%205%20Shody%20Careman.jpg" alt="">  </div>
 
   
 </div>
@@ -54,7 +54,7 @@ Gillende fans en knallende optredens: zaterdag was de tiende editie van de Dutch
         
   
   <div class="content">
-    <img title="Foto Shody Careman" height="566" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Youtube%20Gathering%206%20Shody%20Careman.jpg" alt="">  </div>
+    <img title="Foto Shody Careman" height="566" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Youtube%20Gathering%206%20Shody%20Careman.jpg" alt="">  </div>
 
   
 </div>

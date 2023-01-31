@@ -1,5 +1,5 @@
 ---
-id: cfb5fb5b4b8b4c5dabbeecd8c76fbbd5
+id: e18dd9c1adf844d0b49795a7f9ba4f49
 type: post
 layout: post
 title: "Das pech, smartphone weg: 10 tips"
@@ -24,7 +24,7 @@ Het is een van de ergste dingen die je kan overkomen. Je grijpt naar je broekza
 <h3>5. Maak huiswerk</h3>
 <p>Misschien wel de beste tip, hoe suf-ie ook klinkt. Op een dag (bijvoorbeeld morgen in de les) zul je jezelf dankbaar zijn.</p>
 <h3>6. Speel met je huisdier</h3>
-<p>Die zijn véél meer gebaat bij jouw aandacht dan die wezens in <a href="https://original.sevendays.nl/blog/pok%C3%A9mon-go-over-een-halfjaar-alweer-uit">Pokémon GO</a>. </p>
+<p>Die zijn véél meer gebaat bij jouw aandacht dan die wezens in <a href="https://7dagen.netlify.app/blog/pok%C3%A9mon-go-over-een-halfjaar-alweer-uit">Pokémon GO</a>. </p>
 <h3>7. Schrijf iemand een kaart</h3>
 <p>Helemaal ouderwets, met een persoonlijk bericht en een postzegel en zo. Of leg er vast eentje klaar voor de volgende verjaardag. Wedden dat dit véél meer gewaardeerd zal worden dan een WhatsApp-felicitatie? </p>
 <h3>8. Fiets een vreemde route naar school of huis</h3>
@@ -34,4 +34,4 @@ Het is een van de ergste dingen die je kan overkomen. Je grijpt naar je broekza
 <h3>10. En als je dan ECHT niet zonder kunt... </h3>
 
 <p>Vind je dit nou allemaal niks? En zit je liever achter een schermpje? Geen nood: ga dan naar de telefoonwinkel om de hoek. Dan kun je daar uitgebreid de nieuwste modellen testen en even je favoriete YouTuber checken.</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/thijs-van-reeuwijk">Thijs </a>(15)? Laatst schreef hij ook <a href="https://original.sevendays.nl/blog/onbezorgd-over-chinese-bezorging">Onbezorgd over Chinese bezorging</a> en <a href="https://original.sevendays.nl/blog/pok%C3%A9mon-go-over-een-halfjaar-alweer-uit">Is Pokémon GO over een halfjaar alweer uit?</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/thijs-van-reeuwijk">Thijs </a>(15)? Laatst schreef hij ook <a href="https://7dagen.netlify.app/blog/onbezorgd-over-chinese-bezorging">Onbezorgd over Chinese bezorging</a> en <a href="https://7dagen.netlify.app/blog/pok%C3%A9mon-go-over-een-halfjaar-alweer-uit">Is Pokémon GO over een halfjaar alweer uit?</a>.</em></p>  

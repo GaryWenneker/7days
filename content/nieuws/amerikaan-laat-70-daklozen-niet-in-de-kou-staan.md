@@ -1,5 +1,5 @@
 ---
-id: 4b6609e63c914baa81b7fd5f90da349c
+id: 8b96510234c44f92b1e417d6c5f3bac8
 type: nieuws
 layout: post
 title: "Amerikaan laat 70 daklozen niet in de kou staan"

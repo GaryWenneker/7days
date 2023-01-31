@@ -1,5 +1,5 @@
 ---
-id: c3e24155acf64646bb0cd846338938ce
+id: 1717bcd5ed7a4f2a9b6b377dd8e476d9
 type: nieuws
 layout: post
 title: "Code rood voor koraal"
@@ -21,7 +21,7 @@ Het gaat heel erg slecht met het koraal. Australische deskundigen waarschuwden d
         
   
   <div class="content">
-    <img height="3160" width="6144" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-50129707.jpg" alt="">  </div>
+    <img height="3160" width="6144" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-50129707.jpg" alt="">  </div>
 
   
 </div>
@@ -35,7 +35,7 @@ Het gaat heel erg slecht met het koraal. Australische deskundigen waarschuwden d
         
   
   <div class="content">
-    <img height="3456" width="4608" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-50632379.jpg" alt="">  </div>
+    <img height="3456" width="4608" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-50632379.jpg" alt="">  </div>
 
   
 </div>

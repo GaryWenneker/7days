@@ -1,5 +1,5 @@
 ---
-id: 8a0e0d44927f45f3ab5905f3d1bca262
+id: 2e469e7fad4542ada44a0235d2f180cd
 type: nieuws
 layout: post
 title: "'Breng onze meisjes terug'"
@@ -19,7 +19,7 @@ Woensdag was het precies een maand geleden dat ze werden ontvoerd door Boko Hara
         
   
   <div class="content">
-    <img height="400" width="600" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/BnD8vbnCUAAFdTA.jpg" alt="">  </div>
+    <img height="400" width="600" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/BnD8vbnCUAAFdTA.jpg" alt="">  </div>
 
   
 </div>
@@ -31,7 +31,7 @@ Woensdag was het precies een maand geleden dat ze werden ontvoerd door Boko Hara
         
   
   <div class="content">
-    <img height="536" width="536" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/bring-back-alicia-_2905121k.jpg" alt="">  </div>
+    <img height="536" width="536" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/bring-back-alicia-_2905121k.jpg" alt="">  </div>
 
   
 </div>
@@ -42,7 +42,7 @@ Woensdag was het precies een maand geleden dat ze werden ontvoerd door Boko Hara
         
   
   <div class="content">
-    <img height="536" width="536" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/bring-back-cara-De_2905715k.jpg" alt="">  </div>
+    <img height="536" width="536" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/bring-back-cara-De_2905715k.jpg" alt="">  </div>
 
   
 </div>
@@ -54,7 +54,7 @@ Woensdag was het precies een maand geleden dat ze werden ontvoerd door Boko Hara
         
   
   <div class="content">
-    <img height="580" width="580" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/UsherBBOG_that1960chickdotcom.jpg" alt="">  </div>
+    <img height="580" width="580" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/UsherBBOG_that1960chickdotcom.jpg" alt="">  </div>
 
   
 </div>
@@ -65,9 +65,9 @@ Woensdag was het precies een maand geleden dat ze werden ontvoerd door Boko Hara
         
   
   <div class="content">
-    <img height="536" width="402" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/bring-back-emma-wa_2908172k.jpg" alt="">  </div>
+    <img height="536" width="402" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/bring-back-emma-wa_2908172k.jpg" alt="">  </div>
 
   
 </div>
 </div><em>Emma Watson</em>
-<p><em>Meer weten? Ga naar <a href="https://original.sevendays.nl/boko-haram">Sevendays.nl/boko-haram</a> voor meer artikelen over dit onderwerp.</em></p>  
+<p><em>Meer weten? Ga naar <a href="https://7dagen.netlify.app/boko-haram">Sevendays.nl/boko-haram</a> voor meer artikelen over dit onderwerp.</em></p>  

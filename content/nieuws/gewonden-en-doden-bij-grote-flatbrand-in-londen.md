@@ -1,5 +1,5 @@
 ---
-id: 455ad8c04e434dfd81b586f20df0c776
+id: fc5c987e82b142f58c25d98f3356fff1
 type: nieuws
 layout: post
 title: "Gewonden en doden bij grote flatbrand in Londen"
@@ -24,7 +24,7 @@ Inwoners van de Britse hoofdstad Londen kregen afgelopen nacht de schrik van hu
         
   
   <div class="content">
-    <img alt="Brand Londen" title="Foto: AFP" height="3456" width="5184" style="width: 900px; height: 600px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-51875873.jpg">  </div>
+    <img alt="Brand Londen" title="Foto: AFP" height="3456" width="5184" style="width: 900px; height: 600px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-51875873.jpg">  </div>
 
   
 </div>
@@ -34,9 +34,9 @@ Inwoners van de Britse hoofdstad Londen kregen afgelopen nacht de schrik van hu
         
   
   <div class="content">
-    <img alt="Brand Londen" title="Foto: EPA" height="2795" width="4134" style="width: 900px; height: 608px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-51876647.jpg">  </div>
+    <img alt="Brand Londen" title="Foto: EPA" height="2795" width="4134" style="width: 900px; height: 608px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-51876647.jpg">  </div>
 
   
 </div>
 </div><em>De brandweer is ook woensdagochtend nog druk bezig met het blussen van het brand.</em>
-<p><em>​</em><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op 7Days!</em></p>  
+<p><em>​</em><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op 7Days!</em></p>  

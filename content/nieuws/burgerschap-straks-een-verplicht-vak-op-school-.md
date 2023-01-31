@@ -1,5 +1,5 @@
 ---
-id: f446efe66182479aadbc54dad7df7a35
+id: 6e65f0bbd4d34bbd9c127bc7d316e03c
 type: nieuws
 layout: post
 title: "Burgerschap straks een verplicht vak op school? "

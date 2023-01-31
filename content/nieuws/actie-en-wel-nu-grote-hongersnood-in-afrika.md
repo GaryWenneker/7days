@@ -1,5 +1,5 @@
 ---
-id: cda8c935f3874bcebfda50abb648bffe
+id: 9040c02bd45a4d70aa41bde6a2da2135
 type: nieuws
 layout: post
 title: "Actie, en wel nu: grote hongersnood in Afrika"
@@ -21,7 +21,7 @@ De Verenigde Naties en hulporganisaties luiden de noodklok: meer dan twintig mil
         
   
   <div class="content">
-    <img alt="Hongersnood in de Hoorn van Afrika" title="Beeld: AFP" height="908" width="1352" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-50193625.jpg">  </div>
+    <img alt="Hongersnood in de Hoorn van Afrika" title="Beeld: AFP" height="908" width="1352" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-50193625.jpg">  </div>
 
   
 </div>
@@ -35,7 +35,7 @@ De Verenigde Naties en hulporganisaties luiden de noodklok: meer dan twintig mil
         
   
   <div class="content">
-    <img alt="Hongersnood in de Hoorn van Afrika" title="Beeld: ANP" height="912" width="1356" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-50200276.jpg">  </div>
+    <img alt="Hongersnood in de Hoorn van Afrika" title="Beeld: ANP" height="912" width="1356" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-50200276.jpg">  </div>
 
   
 </div>
@@ -44,4 +44,4 @@ De Verenigde Naties en hulporganisaties luiden de noodklok: meer dan twintig mil
 <p>Er is in Somalië al drie jaar geen druppel regen gevallen. Meer dan de helft van al het vee is gestorven. Zelfs kamelen, die goed tegen droogte kunnen, overleven het niet. Daardoor hebben de mensen geen inkomsten, geen melk en geen vlees. Het water dat beschikbaar is, is vaak vervuild. Vooral kinderen zijn hier de dupe van. Zij worden ziek en overlijden aan de gevolgen.</p>
 <h3>Zuid-Sudan: voedseltekort door gevechten</h3>
 <p>In Zuid-Sudan is de hongersnood al officieel gaande. Nu al sterven er twintig kinderen per dag en 1 miljoen kinderen zijn ernstig ondervoed. De situatie was er nog nooit zo erg, stelt de VN vast. Ook hier is een burgeroorlog de oorzaak. Door alle gevechten is de helft van al het graan verloren gegaan. Daardoor zijn de voedselprijzen gestegen en kunnen arme gezinnen geen eten kopen.</p>
-<p><em>Altijd op de hoogte blijven van tips die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van tips die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

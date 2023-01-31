@@ -1,5 +1,5 @@
 ---
-id: 46b2c6d7f633452c9a5bcf1fb419d6da
+id: 36f06f06e4fe4d038fc4398500e23462
 type: post
 layout: post
 title: "Pizzaflapjes"
@@ -18,7 +18,7 @@ Als ik een feestje geef, is de keuze voor de hapjes meestal snel gemaakt: het wo
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/pizzaflapjes2.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/pizzaflapjes2.jpeg" alt="">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ Als ik een feestje geef, is de keuze voor de hapjes meestal snel gemaakt: het wo
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/pizzaflapjes3.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/pizzaflapjes3.jpeg" alt="">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ Als ik een feestje geef, is de keuze voor de hapjes meestal snel gemaakt: het wo
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/pizzaflapjes4.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/pizzaflapjes4.jpeg" alt="">  </div>
 
   
 </div>
@@ -45,7 +45,7 @@ Als ik een feestje geef, is de keuze voor de hapjes meestal snel gemaakt: het wo
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/pizzaflapjes5.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/pizzaflapjes5.jpeg" alt="">  </div>
 
   
 </div>
@@ -54,7 +54,7 @@ Als ik een feestje geef, is de keuze voor de hapjes meestal snel gemaakt: het wo
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/pizzaflapjes6.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/pizzaflapjes6.jpeg" alt="">  </div>
 
   
 </div>

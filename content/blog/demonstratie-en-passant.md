@@ -1,5 +1,5 @@
 ---
-id: 06fcf44372a54ae899f44325a432a9de
+id: 18a3c14dfbd443d7b00fefccab1db636
 type: post
 layout: post
 title: "Demonstratie en passant"
@@ -22,8 +22,8 @@ Als je goed om je heen kijkt, zie je dat alles nieuws is. Zo keek ook Thijs (17)
         
   
   <div class="content">
-    <img height="80" width="80" style="float: left;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/NWS%20Poezie2_1_0.png" alt="">  </div>
+    <img height="80" width="80" style="float: left;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/NWS%20Poezie2_1_0.png" alt="">  </div>
 
   
 </div>
-</div><em>Meer nieuwspoëzie lezen? Klik <a href="https://original.sevendays.nl/nieuwspoezie">hier</a> voor de eerdere gedichten van Anne-Thaya, Thijs en Joosje. Zelf dichten? Mail je eigen nieuwspoëzie naar <a href="mailto:redactie@sevendays.nl">redactie@sevendays.nl</a> en wie weet staat-ie volgende week zaterdag op deze plek.</em>  
+</div><em>Meer nieuwspoëzie lezen? Klik <a href="https://7dagen.netlify.app/nieuwspoezie">hier</a> voor de eerdere gedichten van Anne-Thaya, Thijs en Joosje. Zelf dichten? Mail je eigen nieuwspoëzie naar <a href="mailto:redactie@sevendays.nl">redactie@sevendays.nl</a> en wie weet staat-ie volgende week zaterdag op deze plek.</em>  

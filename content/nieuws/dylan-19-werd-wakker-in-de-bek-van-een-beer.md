@@ -1,5 +1,5 @@
 ---
-id: af7bde792bb847b2b91cf726ffc8be4f
+id: fe7ef4049d674180b8fbba2082bf3855
 type: nieuws
 layout: post
 title: "Dylan (19) werd wakker in de bek van een beer"
@@ -34,7 +34,7 @@ Een negentienjarige kampleider uit Amerika kreeg zondag de schrik van zijn leven
         
   
   <div class="content">
-    <img alt="Bruine en grizzlybeer" title="Foto&#039;s WIkimedia Commons" height="500" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Bruine%20en%20grizzlybeer.jpg">  </div>
+    <img alt="Bruine en grizzlybeer" title="Foto&#039;s WIkimedia Commons" height="500" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Bruine%20en%20grizzlybeer.jpg">  </div>
 
   
 </div>
@@ -45,7 +45,7 @@ Een negentienjarige kampleider uit Amerika kreeg zondag de schrik van zijn leven
         
   
   <div class="content">
-    <img alt="zwarte beer" title="Foto Wikimedia Commons" height="500" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Zwarte%20beer.jpg">  </div>
+    <img alt="zwarte beer" title="Foto Wikimedia Commons" height="500" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Zwarte%20beer.jpg">  </div>
 
   
 </div>
@@ -53,8 +53,8 @@ Een negentienjarige kampleider uit Amerika kreeg zondag de schrik van zijn leven
 <p>Doe niet alsof je dood bent! Probeer te ontsnappen naar een veilige plek, zoals een auto of gebouw. Lukt dat niet, vecht dan terug en richt je aanval op zijn gezicht en bek.<br><br><strong>Voor beide soorten geldt</strong>: als je in je tent wordt aangevallen, doe dan niet alsof je dood bent, want dan denkt de beer dat hij voedsel te pakken heeft. Maar nogmaals: de kans dat je in een Amerikaans natuurpark een beer tegenkomt is niet groot en een aanval van een beer is al helemaal zeldzaam.</p>
 <p> </p>
 <div class="kader">
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p>Vond je dit interessant? Lees dan ook eens<a href="https://original.sevendays.nl/nieuws/toeristen-gewond-na-uitbarsting-vulkaan-etna" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;"> Toeristen gewond na uitbarsting vulkaan Etna </a>of <a href="https://original.sevendays.nl/nieuws-raar/stuktv-ontdekt-aap-verlaten-dierentuin" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;">StukTV ontdekt aap in verlaten dierentuin</a>.</p>
-<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://original.sevendays.nl/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp, </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p>Vond je dit interessant? Lees dan ook eens<a href="https://7dagen.netlify.app/nieuws/toeristen-gewond-na-uitbarsting-vulkaan-etna" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;"> Toeristen gewond na uitbarsting vulkaan Etna </a>of <a href="https://7dagen.netlify.app/nieuws-raar/stuktv-ontdekt-aap-verlaten-dierentuin" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;">StukTV ontdekt aap in verlaten dierentuin</a>.</p>
+<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://7dagen.netlify.app/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp, </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
 </div>
   

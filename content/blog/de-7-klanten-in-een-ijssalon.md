@@ -1,5 +1,5 @@
 ---
-id: 6df50fef821c45d1a677870ce10bdedc
+id: fd369b7314a8486a890f6443aa4e4dab
 type: post
 layout: post
 title: "De 7 klanten in een ijssalon"
@@ -36,4 +36,4 @@ Na een paar jaar Duits en Frans zou je denken dat ik een bestelling kan verstaan
 Deze klant komt binnen en weet wat-ie wil. Hij staat voor de vitrine, kijkt naar het ijs, stelt misschien een vraag of twee, en bestelt: 'Een bakje voor drie bollen: oreo, kokos en karamel.' Na elk bolletje dat ik opschep herhaalt hij de volgende smaak even, zodat ik het niet nog eens hoef te vragen. Betalen gaat gepast, en in no-time is hij de ijssalon uit. Die mag dus altijd terug komen!
 <iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="288" src="https://giphy.com/embed/U2O50cAkpmTjG" width="480"></iframe>
 <p>Gifs <a href="https://giphy.com/gifs/perfect-sigourney-weaver-U2O50cAkpmTjG">via GIPHY</a></p>
-<p><em>Sanne is een grote Engeland-fan (15) die historische gebouwen en verhalen geweldig vindt, maar tijdens haar les geschiedenis wel in slaap kan vallen. 'Toch maar goed dat ik de bètavakken heb gekozen.' Wil het allerliefst later schrijfster worden. Maar medisch onderzoeker lijkt haar ook wel wat. </em><a href="https://original.sevendays.nl/users/sanne-van-der-sterren"><em>Lees meer blogs van Sanne</em></a><em>.</em></p>  
+<p><em>Sanne is een grote Engeland-fan (15) die historische gebouwen en verhalen geweldig vindt, maar tijdens haar les geschiedenis wel in slaap kan vallen. 'Toch maar goed dat ik de bètavakken heb gekozen.' Wil het allerliefst later schrijfster worden. Maar medisch onderzoeker lijkt haar ook wel wat. </em><a href="https://7dagen.netlify.app/users/sanne-van-der-sterren"><em>Lees meer blogs van Sanne</em></a><em>.</em></p>  

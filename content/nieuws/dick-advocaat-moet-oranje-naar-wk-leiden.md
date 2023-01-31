@@ -1,5 +1,5 @@
 ---
-id: 820b8b479aea490d9771e625361d4538
+id: 9d2d0e6021404ef7bb12f9687b0e5001
 type: nieuws
 layout: post
 title: "Dick Advocaat moet Oranje naar WK leiden"
@@ -41,7 +41,7 @@ Hoe kan Oranje het WK voetbal volgend jaar nog halen? Die vraag stelde de KNVB z
         
   
   <div class="content">
-    <img title="Foto: ANP" height="560" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Gullit%20Advocaat%201994%20ANP-1845419_0.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="560" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Gullit%20Advocaat%201994%20ANP-1845419_0.jpg" alt="">  </div>
 
   
 </div>
@@ -64,5 +64,5 @@ Hoe kan Oranje het WK voetbal volgend jaar nog halen? Die vraag stelde de KNVB z
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>
 <p> </p>  

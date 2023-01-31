@@ -1,5 +1,5 @@
 ---
-id: d5806b72ef504923b2d8141b3ac0d8a0
+id: c3f9031cf6274660b5690a70c6cd5f8c
 type: nieuws
 layout: post
 title: "Extra maatregelen in de strijd tegen corona"

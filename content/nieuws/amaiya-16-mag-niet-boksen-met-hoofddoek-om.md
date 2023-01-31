@@ -1,5 +1,5 @@
 ---
-id: 87472f6cbb904b3b9a1bd8cc4b1489fd
+id: 8118f971c3c0452baf511c02538f96d0
 type: nieuws
 layout: post
 title: "Amaiya (16) mag niet boksen met hoofddoek om"
@@ -19,7 +19,7 @@ Amaiya Zafar (16) mocht zondag de ring niet in, omdat ze een hoofddoek droeg. Ze
         
   
   <div class="content">
-    <img height="633" width="592" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/zah_0.jpg" alt="">  </div>
+    <img height="633" width="592" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/zah_0.jpg" alt="">  </div>
 
   
 </div>
@@ -40,4 +40,4 @@ Amaiya Zafar (16) mocht zondag de ring niet in, omdat ze een hoofddoek droeg. Ze
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

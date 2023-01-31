@@ -1,5 +1,5 @@
 ---
-id: 6af394a0af834021928ba8f28a9e61d3
+id: 3986f0dc3ed94c2a85aa92e30371235e
 type: nieuws
 layout: post
 title: "Charlie Hebdo staat stil bij aanslag vijf jaar geleden"
@@ -15,7 +15,7 @@ Het is vandaag precies vijf jaar geleden dat een terroristische aanslag plaatsv
 
     <p>Op 7 januari 2015 schoten de geradicaliseerde broers Chérif en Saïd Kouachi tijdens de wekelijkse redactievergadering van het tijdschrift twaalf mensen dood: acht journalisten, een bezoeker en een politieman. De aanslag werd opgeëist door terreurgroep Al Qaida.  </p>
 <h3>Joodse supermarkt</h3>
-<p>Die week vond in Parijs meer terroristisch geweld plaats. In een joodse supermarkt vermoordde Amedy Coulibaly, een vriend van de broers Kouachi, vier mensen. De daders werden na de aanslagen door de politie doodgeschoten. Wat er toen in Frankrijk precies gebeurde, lees je <a href="https://original.sevendays.nl/nieuws/charlie-hebdo-hoe-zat-dat-ook-alweer" target="_blank">hier</a>.</p>
+<p>Die week vond in Parijs meer terroristisch geweld plaats. In een joodse supermarkt vermoordde Amedy Coulibaly, een vriend van de broers Kouachi, vier mensen. De daders werden na de aanslagen door de politie doodgeschoten. Wat er toen in Frankrijk precies gebeurde, lees je <a href="https://7dagen.netlify.app/nieuws/charlie-hebdo-hoe-zat-dat-ook-alweer" target="_blank">hier</a>.</p>
 <h3>Herdenking</h3>
 <p>Redactieleden die de aanslag vijf jaar geleden overleefden, waren vandaag bij een herdenkingsceremonie. Deze werd gehouden bij het voormalige redactiekantoor van <em>Charlie Hebdo</em>. Ook oud-president van Frankrijk François Hollande, de burgemeester van Parijs en de minister van Binnenlandse Zaken waren aanwezig. Tijdens de plechtigheid werden onder meer kransen gelegd.</p>
 <p>'We vergeten het niet. Wij zullen altijd doorgaan: met praten, schrijven en tekenen', twitterde het tijdschrift vandaag. <div class="media media-element-container media-default"><div id="file-539419" class="file file-document file-text-oembed">

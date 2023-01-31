@@ -1,5 +1,5 @@
 ---
-id: 2a3a529bc9d444028becec659f1d8518
+id: 6cbb5a2af2b145148e925d8d2f953274
 type: nieuws
 layout: post
 title: "Dit weten we nu over de 'IS-aanslag' in Orlando"
@@ -20,7 +20,7 @@ Een schietpartij in een homobar met tientallen doden. Zo veel, of eigenlijk zo w
         
   
   <div class="content">
-    <img alt="aanslag orlando Pulse homobar IS" title="Foto: AFP" height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/aanslag%203.jpg">  </div>
+    <img alt="aanslag orlando Pulse homobar IS" title="Foto: AFP" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/aanslag%203.jpg">  </div>
 
   
 </div>
@@ -31,7 +31,7 @@ Een schietpartij in een homobar met tientallen doden. Zo veel, of eigenlijk zo w
         
   
   <div class="content">
-    <img alt="aanslag orlando Pulse homobar IS" title="Foto: AFP" height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/aanslag%206.jpg">  </div>
+    <img alt="aanslag orlando Pulse homobar IS" title="Foto: AFP" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/aanslag%206.jpg">  </div>
 
   
 </div>
@@ -43,7 +43,7 @@ Een schietpartij in een homobar met tientallen doden. Zo veel, of eigenlijk zo w
         
   
   <div class="content">
-    <img alt="aanslag orlando Pulse homobar IS" title="Foto: AFP" height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/aanslag%201.jpg">  </div>
+    <img alt="aanslag orlando Pulse homobar IS" title="Foto: AFP" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/aanslag%201.jpg">  </div>
 
   
 </div>
@@ -69,11 +69,11 @@ Een schietpartij in een homobar met tientallen doden. Zo veel, of eigenlijk zo w
         
   
   <div class="content">
-    <img alt="aanslag orlando Pulse homobar IS" title="Foto: AFP" height="850" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/aanslag%204.png">  </div>
+    <img alt="aanslag orlando Pulse homobar IS" title="Foto: AFP" height="850" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/aanslag%204.png">  </div>
 
   
 </div>
 </div>
 <p><strong>7. Gebeurt zo'n groot bloedbad vaker? </strong><br>Het is de dodelijkste schietpartij in Amerika ooit. Op plek twee en drie staan schietpartijen op de universiteit Virginia Tech (2007, met 32 doden) en basisschool Sandy Hook (2012, met 27 doden). Dat klinkt allemaal verschrikkelijk, maar vergeet niet: de VS is een gigantisch land en hoewel zulke schietpartijen vaak in het nieuws zijn, zijn ze precies dat: <em>nieuws</em>. Iets uitzonderlijks wat bijna nooit voorkomt. En gelukkig maar. Al is elke schietpartij en elke dode er natuurlijk één te veel. </p>
-<p><strong>Meer lezen: <a href="https://original.sevendays.nl/wapens" target="_blank">Waarom komt er geen wapenverbod in de VS?</a></strong></p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><strong>Meer lezen: <a href="https://7dagen.netlify.app/wapens" target="_blank">Waarom komt er geen wapenverbod in de VS?</a></strong></p>
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

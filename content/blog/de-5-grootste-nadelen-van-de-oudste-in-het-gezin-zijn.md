@@ -1,5 +1,5 @@
 ---
-id: e9583fb7a7594bd7b6ce4e8a6f592757
+id: a15a90788d8c41e39bdc8d5078aebe07
 type: post
 layout: post
 title: "De 5 grootste nadelen van de oudste in het gezin zijn"
@@ -23,4 +23,4 @@ De oudste in het gezin zijn, heeft zo zijn voor- en nadelen. Je hebt volgens wet
 <p>Op straat voelt iedereen zich aangetrokken tot het jongere familielid. ‘Och wat een schatje! Hoe oud is hij/ zij nu?’ Duizenden vragen worden op Het Oudste Kind afgevuurd, maar naar de antwoorden wordt niet geluisterd. De vraagstellers zijn te druk bezig met het in de appelwangen knijpen van Het Schatje, terwijl Het Oudste Kind er beteuterd bij staat.</p>
 <h3>5. Hij/zij mag even lang opblijven</h3>
 <p>Het Oudste Kind is nooit lang trots op z’n latere bedtijd. Broertje/zusje mag immers net zo lang opblijven omdat dat toch wat gezelliger is. Het speciale tv-kijk-momentje met de volwassenen duurt dus minder lang dan verwacht. En ach, stiekem is het best gezellig met die kleine. Maar dat toegeven? Nooit!</p>
-<p><em>Meer lezen van <a href="https://original.sevendays.nl/users/sophia-van-lil">Sophia </a>(15)? Eerder schreef ze ook al <a href="https://original.sevendays.nl/blog/vakantieverpesters">Vakantieverpesters </a>en <a href="https://original.sevendays.nl/blog/de-25-grootste-kleine-teleurstellingen-het-dagelijks-leven">De 25 grootste kleine teleurstellingen in het dagelijks leven.</a></em></p>  
+<p><em>Meer lezen van <a href="https://7dagen.netlify.app/users/sophia-van-lil">Sophia </a>(15)? Eerder schreef ze ook al <a href="https://7dagen.netlify.app/blog/vakantieverpesters">Vakantieverpesters </a>en <a href="https://7dagen.netlify.app/blog/de-25-grootste-kleine-teleurstellingen-het-dagelijks-leven">De 25 grootste kleine teleurstellingen in het dagelijks leven.</a></em></p>  

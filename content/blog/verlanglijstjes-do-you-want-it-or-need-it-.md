@@ -1,5 +1,5 @@
 ---
-id: d65741d73d914b979e11237c521a377b
+id: 0cdd9f7f263946368e51c4905adfd45b
 type: post
 layout: post
 title: "Verlanglijstjes: do you want it, or need it? "
@@ -22,4 +22,4 @@ Een foute kersttrui, een abonnement op 7Days,  het grote Dilemma op Dinsdag-boek
 <p>Natuurlijk was mijn moment met mijn doos K'NEX ook heel aangenaam, maar aangezien het speelgoed al vrij snel stof lag te vangen is het bij nader inzien een nutteloos verlangen. Een verlangen dat te veel moeite én geld kostte.</p>
 <p><strong>Dit of dat?</strong><br>Zo'n richtlijn is natuurlijk lastig te bepalen, omdat het koopgedrag per persoon en situatie verschilt. Toch moeten we ons verstand wat meer – en onze portemonnee wat minder – gebruiken. </p>
 <p>Als je voordat je gaat afrekenen al twijfelt of je het product daadwerkelijk nodig hebt, zou je het beter kunnen laten liggen. Ook kun je op je verlanglijst zetten wáárom je iets nodig hebt. Op die manier schrap je onnodige verlangens, maar kan een <em>want it</em> ook zomaar veranderen in een <em>need it</em>. En dát wil je natuurlijk hebben, want daar verlang je naar.</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/niek-de-bruijn">Niek</a> (17)? Laatst schreef hij ook al <a href="https://original.sevendays.nl/blog/ik-voel-me-net-een-slappe-pudding">Ik voel me net een slappe pudding</a> en <a href="https://original.sevendays.nl/blog/vrijgezellig-bestaan">Vrijgezellig bestaan</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/niek-de-bruijn">Niek</a> (17)? Laatst schreef hij ook al <a href="https://7dagen.netlify.app/blog/ik-voel-me-net-een-slappe-pudding">Ik voel me net een slappe pudding</a> en <a href="https://7dagen.netlify.app/blog/vrijgezellig-bestaan">Vrijgezellig bestaan</a>.</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: 741858cb4f91421a9d84848a50c76e42
+id: 05b39ee110d44ff0a885a0b58de2bcb9
 type: nieuws
 layout: post
 title: "AZ, Ajax en PSV willen stoppen met Eredivisie"

@@ -1,5 +1,5 @@
 ---
-id: 67faec811ce54e8199d551cdcb995951
+id: d91f330a63844739b96dd242fa64588d
 type: post
 layout: post
 title: "Video: Thomas en Darcy op de DYTG"
@@ -27,4 +27,4 @@ Thomas Smagge en Darcy Lazar staan ook wel bekend als De Hulptroepen: elke week
   
 </div>
 </div>
-<p><em>Meer zien van de DYTG? Check ons <a href="https://original.sevendays.nl/dytg">Dossier DYTG</a> voor alle sfeerreportages en video-interviews met o.a. Bardo Ellens, Dylan Haegens en Zomaer.</em></p>  
+<p><em>Meer zien van de DYTG? Check ons <a href="https://7dagen.netlify.app/dytg">Dossier DYTG</a> voor alle sfeerreportages en video-interviews met o.a. Bardo Ellens, Dylan Haegens en Zomaer.</em></p>  

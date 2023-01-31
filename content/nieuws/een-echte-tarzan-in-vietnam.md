@@ -1,5 +1,5 @@
 ---
-id: b8c390beda264e97a8fca49a1cae4a9a
+id: b8ebe6f4e9fd436fac4214ed2ca32071
 type: nieuws
 layout: post
 title: "Een echte Tarzan in Vietnam"
@@ -40,11 +40,11 @@ Ho Van Lang leefde dik veertig jaar lang in de jungle van Vietnam. Zijn vader da
         
   
   <div class="content">
-    <img height="315" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/maxresdefaultho.jpg" alt="">  </div>
+    <img height="315" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/maxresdefaultho.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <h3>Druk en licht </h3>
 <p>Het duo werd drie jaar geleden op advies van psychologen overgeplaatst naar een klein dorpje om ze voorzichtig aan het leven anno 2016 te laten wennen. Want van dingen als smartphones, internet of zelfs televisie hadden ze natuurlijk nog nooit gehoord. Van Lang vindt de moderne wereld nog steeds ‘lawaaierig’ en ‘licht’. En aan een bezoek aan een stad moet hij helemaal nog niet denken. </p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

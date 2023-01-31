@@ -1,5 +1,5 @@
 ---
-id: 4a0c99732b714bbd9ad5b04d7571fea8
+id: 8b82d16fe1174df28e5997b0446e42be
 type: nieuws
 layout: post
 title: "24 uur lopen voor straatkinderen "
@@ -21,7 +21,7 @@ seo:
         
   
   <div class="content">
-    <img alt="Kinderdorp Assomada" title="Foto: SOS-kinderdorpen" height="3633" width="5452" style="height: 534px; width: 800px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/kinderdorp%20Assomada.jpg">  </div>
+    <img alt="Kinderdorp Assomada" title="Foto: SOS-kinderdorpen" height="3633" width="5452" style="height: 534px; width: 800px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/kinderdorp%20Assomada.jpg">  </div>
 
   
 </div>

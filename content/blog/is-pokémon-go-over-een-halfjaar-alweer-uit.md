@@ -1,5 +1,5 @@
 ---
-id: 789eed779e0c42b6bc9da5c52525d94e
+id: 41815a3b3735486fbaa273e5dfea40cd
 type: post
 layout: post
 title: "Is Pokémon GO over een halfjaar alweer uit?"
@@ -18,4 +18,4 @@ Heb jij het ook al? Sinds Pokémon GO op 6 juli is uitgebracht, is dit spellet
 <p><strong>Avondwandeling om twee uur 's nachts</strong><br>Wat nou de bizarre wending aan dit spelletje geeft, zijn de tijdstippen waarop sommige Pokémon te vangen zijn en hoe sommige bedrijven van dit spelletje profiteren. Mensen gaan s’ avonds naar buiten om geest-Pokémon te vangen. Dat kan al om tien uur, maar sommigen gaan ook gewoon lekker om twee uur 's nachts op pad. Ze struinen de naburige Pokéstops en -gyms af, zoeken Pokémon of lopen even tien kilometer om dat Pokémon-ei uit te laten komen.</p>
 <p>Maar wat veel mensen niet door hebben, is dat ze erg worden beïnvloed door deze nieuwe trend. Zo maakt het velen niet uit hoe goed het restaurant is waar ze willen gaan eten, zolang er maar een Pokéstop of een gym in de buurt is. </p>
 <p><strong>Winkels profiteren</strong><br>Ook profiteren winkels van dit spelletje. Zo liep ik laatst langs de Etos en werd ik naar binnen gelokt door een papiertje waarop stond dat je voetbruistabletten kunt halen voor dat vele wandelen. En in de ANWB-winkel wordt er reclame gemaakt voor powerbanks. Maar het is toch maar een spelletje? </p>
-<p><em>Ben jij een diehard-Pokémon-fan? Check het in onze <a href="https://original.sevendays.nl/quiz/go-doe-de-pok%C3%A9mon-quiz">Pokémon-quiz</a>. Al onze andere artikelen over Pokémon GO vind je in ons <a href="https://original.sevendays.nl/tag/pokemon">dossier</a>.</em></p>  
+<p><em>Ben jij een diehard-Pokémon-fan? Check het in onze <a href="https://7dagen.netlify.app/quiz/go-doe-de-pok%C3%A9mon-quiz">Pokémon-quiz</a>. Al onze andere artikelen over Pokémon GO vind je in ons <a href="https://7dagen.netlify.app/tag/pokemon">dossier</a>.</em></p>  

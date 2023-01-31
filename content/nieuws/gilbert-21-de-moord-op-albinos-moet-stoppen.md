@@ -1,5 +1,5 @@
 ---
-id: 256a0e5df7a04d68beac4d6edf103f8f
+id: 4d721c32e8164f66a1bba427f3289cde
 type: nieuws
 layout: post
 title: "Gilbert (21): ‘De moord op albino’s moet stoppen’"
@@ -18,7 +18,7 @@ Nog altijd lopen mensen met albinisme in een aantal Afrikaanse landen enorm geva
         
   
   <div class="content">
-    <img alt="Foto Marieke Wijntjes Amnesty Nederland" title="Foto Marieke Wijntjes Amnesty Nederland" height="2333" width="3500" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/foto%20Marieke%20Wijntjes%20Amnesty%20Nederland%20-%2084A8660.jpg">  </div>
+    <img alt="Foto Marieke Wijntjes Amnesty Nederland" title="Foto Marieke Wijntjes Amnesty Nederland" height="2333" width="3500" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/foto%20Marieke%20Wijntjes%20Amnesty%20Nederland%20-%2084A8660.jpg">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: c601552c721d46e889ce969bd67a6f94
+id: 64e16f539e754d65958b0a375a5e46cc
 type: nieuws
 layout: post
 title: "Free Willy, maar dan in het echt"
@@ -19,4 +19,4 @@ Dierenrechtenactivisten strijden er al jaren tegen: het vasthouden van dolfijnen
 <h3>Grotere bassins</h3>
 <p>Voor Franse dierentuinen en vooral zeedierenparken is het nieuws erg schrikken. De nieuwe regels betekenen namelijk ook dat direct contact tussen de zeedieren en het publiek verboden is, net als het zwemmen met dolfijnen. Bovendien moeten de bassins veel groter worden.</p>
 <p>De zeeparken krijgen zes maanden de tijd om zich aan de regels aan te passen en moeten binnen drie jaar hun bassins uitbreiden.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

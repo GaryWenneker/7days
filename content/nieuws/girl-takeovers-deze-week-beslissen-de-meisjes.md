@@ -1,5 +1,5 @@
 ---
-id: 26385a4894f940329bccc5efa40e9f35
+id: 4804e5abca164619a5eaf035cbf6966c
 type: nieuws
 layout: post
 title: "'Girl Takeovers': deze week beslissen de meisjes"
@@ -25,7 +25,7 @@ Is het voor vrouwen lastiger om een leidinggevende positie te krijgen dan voor m
         
   
   <div class="content">
-    <img alt="Girl Takeovers" title="Foto: Plan International Nederland / Peter de Ruiter" height="2000" width="3000" style="font-size: 13.008px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/GRW%20Takeover_Lodewijk%20Asscher_Fotograaf%20Peter%20de%20Ruiter%203%20low_0.jpg">  </div>
+    <img alt="Girl Takeovers" title="Foto: Plan International Nederland / Peter de Ruiter" height="2000" width="3000" style="font-size: 13.008px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/GRW%20Takeover_Lodewijk%20Asscher_Fotograaf%20Peter%20de%20Ruiter%203%20low_0.jpg">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ Is het voor vrouwen lastiger om een leidinggevende positie te krijgen dan voor m
         
   
   <div class="content">
-    <img alt="Girl Takeovers" title="Foto: Plan International Nederland / Peter de Ruiter" height="2000" width="3000" style="font-size: 13.008px;" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/DSC09452_small.jpg">  </div>
+    <img alt="Girl Takeovers" title="Foto: Plan International Nederland / Peter de Ruiter" height="2000" width="3000" style="font-size: 13.008px;" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/DSC09452_small.jpg">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: 180e66bbbcde440da74fb3a7e242d349
+id: c797dba3e4554466b2ae35a92ce3dc9e
 type: post
 layout: post
 title: "Hannah switcht van arm naar rijk"
@@ -18,7 +18,7 @@ Twee weken na de start van het schooljaar lijkt de vakantie alweer eeuwen gelede
         
   
   <div class="content">
-    <img height="298" width="400" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/armrijk2.jpeg" alt="">  </div>
+    <img height="298" width="400" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/armrijk2.jpeg" alt="">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ Twee weken na de start van het schooljaar lijkt de vakantie alweer eeuwen gelede
         
   
   <div class="content">
-    <img height="300" width="400" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/armrijk3.jpeg" alt="">  </div>
+    <img height="300" width="400" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/armrijk3.jpeg" alt="">  </div>
 
   
 </div>

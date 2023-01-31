@@ -1,5 +1,5 @@
 ---
-id: 016dba253839422f91c34e83775e0039
+id: 7c8f163c508240cd8b392b20934f6ab8
 type: nieuws
 layout: post
 title: "Glitterbom en scheetspray tegen pakjesdieven"
@@ -18,16 +18,16 @@ Grrrrr! Weer een pakje weggejat. De Amerikaanse wetenschapper Mark Rober is het 
         
   
   <div class="content">
-    <img alt="Mark Rober in zijn knutselruimte  Beeld YouTube" title="Mark Rober in zijn knutselruimte  Beeld YouTube" height="910" width="1920" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/Glitter%20Bomb%20Trap%20Rober.jpg.png">  </div>
+    <img alt="Mark Rober in zijn knutselruimte  Beeld YouTube" title="Mark Rober in zijn knutselruimte  Beeld YouTube" height="910" width="1920" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/Glitter%20Bomb%20Trap%20Rober.jpg.png">  </div>
 
   
 </div>
-</div><br>Toen hij nog bij NASA werkte hielp Mark Rober mee met het ontwikkelen van Mars-wagentje <a href="https://original.sevendays.nl/nieuws/groetjes-van-curiosity">Curiosity</a>. Die kart inmiddels naar wens rond op de rode planeet. En Rober heeft afscheid genomen van de ruimtevaartorganisatie. Maar ingenieuze dingen in elkaar knutselen vindt hij nog steeds leuk. Dat blijkt wel uit de uitvinding waar hij nu mee in het nieuws is. Een uit zichzelf ontploffend pakketje die een golf van glitters over de openmaker (en vaak ook zijn of haar autostoelen) uitstort. En dan ben je dus een tijd lang superherkenbaar als De Dief.<br><div class="media media-element-container media-default"><div id="file-535678" class="file file-image file-image-png">
+</div><br>Toen hij nog bij NASA werkte hielp Mark Rober mee met het ontwikkelen van Mars-wagentje <a href="https://7dagen.netlify.app/nieuws/groetjes-van-curiosity">Curiosity</a>. Die kart inmiddels naar wens rond op de rode planeet. En Rober heeft afscheid genomen van de ruimtevaartorganisatie. Maar ingenieuze dingen in elkaar knutselen vindt hij nog steeds leuk. Dat blijkt wel uit de uitvinding waar hij nu mee in het nieuws is. Een uit zichzelf ontploffend pakketje die een golf van glitters over de openmaker (en vaak ook zijn of haar autostoelen) uitstort. En dan ben je dus een tijd lang superherkenbaar als De Dief.<br><div class="media media-element-container media-default"><div id="file-535678" class="file file-image file-image-png">
 
         
   
   <div class="content">
-    <img alt="Beeld YouTube" title="Beeld YouTube" height="978" width="1625" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/Glitter%20Bomb%20Trap%20phones.jpg.png">  </div>
+    <img alt="Beeld YouTube" title="Beeld YouTube" height="978" width="1625" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/Glitter%20Bomb%20Trap%20phones.jpg.png">  </div>
 
   
 </div>

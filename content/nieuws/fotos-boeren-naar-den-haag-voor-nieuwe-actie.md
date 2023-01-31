@@ -1,5 +1,5 @@
 ---
-id: 254b68782c5e40228f4aac6ca101c7ed
+id: b54fe321a1be4e6db7efda7370309da1
 type: nieuws
 layout: post
 title: "Foto's: boeren naar Den Haag voor nieuwe actie"
@@ -20,7 +20,7 @@ Al weken laten boeren voor zich horen. Vandaag trokken ze weer massaal naar Den 
         
   
   <div class="content">
-    <img alt="Boerenprotest  Bron: ANP" title="Boerenprotest  Bron: ANP" height="2958" width="4500" class="media-element file-default" data-delta="4" src="https://original.sevendays.nl/sites/default/files/ANP-78285668.jpg">  </div>
+    <img alt="Boerenprotest  Bron: ANP" title="Boerenprotest  Bron: ANP" height="2958" width="4500" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/ANP-78285668.jpg">  </div>
 
   
 </div>
@@ -30,7 +30,7 @@ Al weken laten boeren voor zich horen. Vandaag trokken ze weer massaal naar Den 
         
   
   <div class="content">
-    <img alt="Boerenprotest  Bron: ANP" title="Boerenprotest  Bron: ANP" height="2667" width="4000" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-78284910.jpg">  </div>
+    <img alt="Boerenprotest  Bron: ANP" title="Boerenprotest  Bron: ANP" height="2667" width="4000" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-78284910.jpg">  </div>
 
   
 </div>
@@ -40,7 +40,7 @@ Al weken laten boeren voor zich horen. Vandaag trokken ze weer massaal naar Den 
         
   
   <div class="content">
-    <img alt="Boerenprotest  Bron: ANP" title="Boerenprotest  Bron: ANP" height="2667" width="4000" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/ANP-78285084.jpg">  </div>
+    <img alt="Boerenprotest  Bron: ANP" title="Boerenprotest  Bron: ANP" height="2667" width="4000" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/ANP-78285084.jpg">  </div>
 
   
 </div>
@@ -50,7 +50,7 @@ Al weken laten boeren voor zich horen. Vandaag trokken ze weer massaal naar Den 
         
   
   <div class="content">
-    <img alt="Boerenprotest  Bron: ANP" title="Boerenprotest  Bron: ANP" height="1050" width="1500" class="media-element file-default" data-delta="5" src="https://original.sevendays.nl/sites/default/files/boeren.png">  </div>
+    <img alt="Boerenprotest  Bron: ANP" title="Boerenprotest  Bron: ANP" height="1050" width="1500" class="media-element file-default" data-delta="5" src="https://7dagen.netlify.app/sites/default/files/boeren.png">  </div>
 
   
 </div>
@@ -60,7 +60,7 @@ Al weken laten boeren voor zich horen. Vandaag trokken ze weer massaal naar Den 
         
   
   <div class="content">
-    <img alt="Boerenprotest  Bron: ANP" title="Boerenprotest  Bron: ANP" height="1050" width="1500" class="media-element file-default" data-delta="6" src="https://original.sevendays.nl/sites/default/files/boeren%202_0.png">  </div>
+    <img alt="Boerenprotest  Bron: ANP" title="Boerenprotest  Bron: ANP" height="1050" width="1500" class="media-element file-default" data-delta="6" src="https://7dagen.netlify.app/sites/default/files/boeren%202_0.png">  </div>
 
   
 </div>
@@ -70,7 +70,7 @@ Al weken laten boeren voor zich horen. Vandaag trokken ze weer massaal naar Den 
         
   
   <div class="content">
-    <img alt="Boerenprotest  Bron: ANP" title="Boerenprotest  Bron: ANP" height="3271" width="5000" class="media-element file-default" data-delta="7" src="https://original.sevendays.nl/sites/default/files/ANP-78284869.jpg">  </div>
+    <img alt="Boerenprotest  Bron: ANP" title="Boerenprotest  Bron: ANP" height="3271" width="5000" class="media-element file-default" data-delta="7" src="https://7dagen.netlify.app/sites/default/files/ANP-78284869.jpg">  </div>
 
   
 </div>
@@ -81,7 +81,7 @@ Al weken laten boeren voor zich horen. Vandaag trokken ze weer massaal naar Den 
         
   
   <div class="content">
-    <img alt="Boerenprotest  Bron: ANP" title="Boerenprotest  Bron: ANP" height="3254" width="5000" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-78284817.jpg">  </div>
+    <img alt="Boerenprotest  Bron: ANP" title="Boerenprotest  Bron: ANP" height="3254" width="5000" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-78284817.jpg">  </div>
 
   
 </div>

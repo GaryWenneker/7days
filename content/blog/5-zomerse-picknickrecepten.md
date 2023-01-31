@@ -1,5 +1,5 @@
 ---
-id: f16630710251451185047da94a8b5b6b
+id: 51ce8c874c9d4781806410b315c9c8ab
 type: post
 layout: post
 title: "5 zomerse picknickrecepten"
@@ -19,7 +19,7 @@ Hoewel de zon er nog niet elke dag even veel zin in heeft, is al duidelijk te me
         
   
   <div class="content">
-    <img alt="aardappelsalade" height="500" width="1500" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Picknick_salade.jpg">  </div>
+    <img alt="aardappelsalade" height="500" width="1500" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Picknick_salade.jpg">  </div>
 
   
 </div>
@@ -32,12 +32,12 @@ Hoewel de zon er nog niet elke dag even veel zin in heeft, is al duidelijk te me
         
   
   <div class="content">
-    <img alt="spinazieflapjes" height="750" width="750" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Picknick_flapjes.jpg">  </div>
+    <img alt="spinazieflapjes" height="750" width="750" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Picknick_flapjes.jpg">  </div>
 
   
 </div>
 </div>
-<p><strong>Spinazieflapjes</strong><br>In mijn <a href="https://original.sevendays.nl/blog/pizzaflapjes">recept voor pizzaflapjes</a> schreef ik al dat hapjes het altijd goed doen. Dus hierbij een ander recept! Niet met hartige taartdeeg, maar met bladerdeeg en spinazie. Even priegelen, maar wel erg geslaagd.</p>
+<p><strong>Spinazieflapjes</strong><br>In mijn <a href="https://7dagen.netlify.app/blog/pizzaflapjes">recept voor pizzaflapjes</a> schreef ik al dat hapjes het altijd goed doen. Dus hierbij een ander recept! Niet met hartige taartdeeg, maar met bladerdeeg en spinazie. Even priegelen, maar wel erg geslaagd.</p>
 <p><em>Ingrediënten (voor 16 flapjes)</em><br>-  8 plakjes bladerdeeg<br>- 150 gram diepvriesspinazie<br>- 1 ei<br>- 3 eetlepels fetablokjes<br>- 5 gedroogde abrikozen</p>
 <p>1. Verwarm de oven voor op 200 graden Celsius. Ontdooi de plakjes bladerdeeg en de spinazie. Snijd de abrikozen en de feta in kleine blokjes.<br>2. Meng de spinazie met het ei en roer de feta en abrikozen erdoorheen.<br>3. Snijd de plakjes bladerdeeg doormidden en leg op de helft van ieder stukje een beetje spinazie. Zorg dat je aan de randjes een beetje ruimte vrijlaat! Vouw de ‘lege’ kant er nu overheen en druk de randjes iets aan met een vork. Als je extra bruine flapjes wilt, kun je er nog een beetje melk overheen smeren.<br>4. Leg de flapjes op een met bakpapier beklede bakplaat en zet ze zo’n 18 minuten in de oven.</p>
 <p><div class="media media-element-container media-default"><div id="file-3713" class="file file-image file-image-jpeg">
@@ -45,7 +45,7 @@ Hoewel de zon er nog niet elke dag even veel zin in heeft, is al duidelijk te me
         
   
   <div class="content">
-    <img alt="omeletwraps" height="748" width="748" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Picknick_eidingen.jpg">  </div>
+    <img alt="omeletwraps" height="748" width="748" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Picknick_eidingen.jpg">  </div>
 
   
 </div>
@@ -58,7 +58,7 @@ Hoewel de zon er nog niet elke dag even veel zin in heeft, is al duidelijk te me
         
   
   <div class="content">
-    <img alt="Italiaanse broodjes" height="737" width="748" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Picknick_broodjes.jpg">  </div>
+    <img alt="Italiaanse broodjes" height="737" width="748" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Picknick_broodjes.jpg">  </div>
 
   
 </div>
@@ -71,7 +71,7 @@ Hoewel de zon er nog niet elke dag even veel zin in heeft, is al duidelijk te me
         
   
   <div class="content">
-    <img alt="ijsthee" height="750" width="750" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Picknick_ijsthee.jpg">  </div>
+    <img alt="ijsthee" height="750" width="750" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Picknick_ijsthee.jpg">  </div>
 
   
 </div>
@@ -79,4 +79,4 @@ Hoewel de zon er nog niet elke dag even veel zin in heeft, is al duidelijk te me
 <p><strong>IJsthee met aardbei en citroen</strong><br>Omdat een picknick niet compleet is zonder drinken, heb ik daar ook nog een recept voor. Deze ijsthee namelijk! Je moet 'm wel even een paar uur van tevoren maken, maar hij is erg lekker. Volgens mij heeft de 'echte' ijsthee net een sterkere smaak, maar hij komt ontzettend in de buurt! (al zeg ik het zelf) Je kunt hem meenemen in een thermoskan, met ijsblokjes als het echt heel warm is.</p>
 <p><u>Ingrediënten (voor 1 liter)</u><br>- 1 liter water<br>- 1 zakje groene citroenthee<br>- 2 eetlepels citroensap<br>- 1 eetlepel honing<br>- 10 aardbeien</p>
 <p>1. Breng het water aan de kook en schenk het in een glazen kom (of gewoon een theepot). Laat het theezakje 5 tot 10 minuten trekken en roer dan de honing en het citroensap erdoorheen. Laat eerst een halfuurtje afkoelen buiten de koelkast.<br>2. Voeg dan de aardbeien toe en zet de ijsthee ongeveer 2,5 uur in de koelkast. Een snellere manier is er ook: gewoon heel veel ijsblokjes toevoegen! Als je het lekker vindt, kan er ook nog munt bij.</p>
-<p><em>Veel plezier met picknicken! En vergeet je niet om <a href="https://original.sevendays.nl/blog/7-tips-voor-de-mooiste-foodfotos">een mooie foto te maken</a>?</em></p>  
+<p><em>Veel plezier met picknicken! En vergeet je niet om <a href="https://7dagen.netlify.app/blog/7-tips-voor-de-mooiste-foodfotos">een mooie foto te maken</a>?</em></p>  

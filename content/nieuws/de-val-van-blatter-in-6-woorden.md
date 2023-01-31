@@ -1,5 +1,5 @@
 ---
-id: bb17a08422324219a56a5fa2799bae30
+id: 98235e8161cb47a6bebc784d78a80d87
 type: nieuws
 layout: post
 title: "De val van Blatter in 6 woorden"
@@ -13,22 +13,22 @@ seo:
 ---
 Het doek voor FIFA-voorzitter Sepp Blatter lijkt nu toch echt te vallen. De Zwitserse baas van de wereldvoetbalbond wordt voor minimaal negentig dagen geschorst, omdat hij verdacht wordt van corruptie. We leggen dezeslepende affaire aan de hand van zes steekwoorden aan je uit.   
 
-    <p><strong>Ethische Comissie</strong><br>Aan dit clubje belangrijke FIFA-mensen heeft Blatter zijn schorsing te danken. Leuk detail: hij heeft deze commissie zelf opgericht. Om ervoor te zorgen dat er juist geen fraude zou voorkomen binnen de wereldvoetbalbond FIFA. Daar is hij nu zelf de dupe van geworden. De commissie heeft meerdere onderzoeken verricht naar Sepp en zijn collega's, die ook het schip moeten ruimen. Zijn goede vriend Michel Platini bijvoorbeeld. De oud-voetballer uit Frankrijk (en een hele goede ook) was baas bij de UEFA en is ook verdachte in de corruptiezaak.<br><br><strong>WK's</strong><br>Op een WK in Quatar in 2022 zat bijna niemand te wachten. Voetballen in meer dan 50 graden zag geen hond zitten, laat staan voetballers. Het bouwen van de voetbalstadions is bovendien levensgevaarlijk. De werkomstandigheden zijn slecht en er zijn al veel bouwvakkers verongelukt. <a href="https://original.sevendays.nl/archief/wk-qatar-weer-onder-vuur">Iedereen had kritiek op het WK-plan</a>, behalve Blatter. Die vond het eigenlijk best een goed plan. Er zijn bewijzen dat Qatar op een oneerlijke manier aan het WK is gekomen. Het land zou stemmen gekocht hebben om op die manier het toernooi in de wacht te slepen. Daar zou Blatter van geweten hebben.<br><br><div class="media media-element-container media-default"><div id="file-12082" class="file file-image file-image-jpeg">
+    <p><strong>Ethische Comissie</strong><br>Aan dit clubje belangrijke FIFA-mensen heeft Blatter zijn schorsing te danken. Leuk detail: hij heeft deze commissie zelf opgericht. Om ervoor te zorgen dat er juist geen fraude zou voorkomen binnen de wereldvoetbalbond FIFA. Daar is hij nu zelf de dupe van geworden. De commissie heeft meerdere onderzoeken verricht naar Sepp en zijn collega's, die ook het schip moeten ruimen. Zijn goede vriend Michel Platini bijvoorbeeld. De oud-voetballer uit Frankrijk (en een hele goede ook) was baas bij de UEFA en is ook verdachte in de corruptiezaak.<br><br><strong>WK's</strong><br>Op een WK in Quatar in 2022 zat bijna niemand te wachten. Voetballen in meer dan 50 graden zag geen hond zitten, laat staan voetballers. Het bouwen van de voetbalstadions is bovendien levensgevaarlijk. De werkomstandigheden zijn slecht en er zijn al veel bouwvakkers verongelukt. <a href="https://7dagen.netlify.app/archief/wk-qatar-weer-onder-vuur">Iedereen had kritiek op het WK-plan</a>, behalve Blatter. Die vond het eigenlijk best een goed plan. Er zijn bewijzen dat Qatar op een oneerlijke manier aan het WK is gekomen. Het land zou stemmen gekocht hebben om op die manier het toernooi in de wacht te slepen. Daar zou Blatter van geweten hebben.<br><br><div class="media media-element-container media-default"><div id="file-12082" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img title="Bron: AFP" height="3057" width="4586" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-32764140.jpg" alt="">  </div>
+    <img title="Bron: AFP" height="3057" width="4586" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-32764140.jpg" alt="">  </div>
 
   
 </div>
 </div>
-<p><strong>Herkozen </strong><br>Twee dagen voor de voorzittersverkiezing van de FIFA in Zürich deze zomer ging het plots snel. <a href="https://original.sevendays.nl/fifa">Zeven collega's van Blatter werden gearresteerd</a> op verdenking van gesjoemel met geld.<a href="https://original.sevendays.nl/nieuws/blatter-blijft-wat-moet-de-fifa-nu"> Desondanks won Blatter</a>, die nog geen verdachte was, de verkiezing met overmacht. Hij mocht blijven als voorzitter. Maar een paar dagen later <a href="https://original.sevendays.nl/nieuws/omstreden-fifa-baas-blatter-alsnog-weg">kondigde hij zijn eigen vertrek aan</a>. Naar eigen zeggen had hij niet meer het gevoel dat mensen binnen en buiten de voetbalwereld hem nog steunden. Of, wat waarschijnlijker is maar wat hij zelf niet wilde zeggen: hij wist dat er ook onderzoek naar hem werd gedaan en wilde de eer aan zichzelf houden. Blatter zou alleen nog blijven tot de nieuwe verkiezing begin volgend jaar.<br><br><div class="media media-element-container media-default"><div id="file-12083" class="file file-image file-image-jpeg">
+<p><strong>Herkozen </strong><br>Twee dagen voor de voorzittersverkiezing van de FIFA in Zürich deze zomer ging het plots snel. <a href="https://7dagen.netlify.app/fifa">Zeven collega's van Blatter werden gearresteerd</a> op verdenking van gesjoemel met geld.<a href="https://7dagen.netlify.app/nieuws/blatter-blijft-wat-moet-de-fifa-nu"> Desondanks won Blatter</a>, die nog geen verdachte was, de verkiezing met overmacht. Hij mocht blijven als voorzitter. Maar een paar dagen later <a href="https://7dagen.netlify.app/nieuws/omstreden-fifa-baas-blatter-alsnog-weg">kondigde hij zijn eigen vertrek aan</a>. Naar eigen zeggen had hij niet meer het gevoel dat mensen binnen en buiten de voetbalwereld hem nog steunden. Of, wat waarschijnlijker is maar wat hij zelf niet wilde zeggen: hij wist dat er ook onderzoek naar hem werd gedaan en wilde de eer aan zichzelf houden. Blatter zou alleen nog blijven tot de nieuwe verkiezing begin volgend jaar.<br><br><div class="media media-element-container media-default"><div id="file-12083" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img title="Bron: EPA" height="2731" width="4096" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-31898785.jpg" alt="">  </div>
+    <img title="Bron: EPA" height="2731" width="4096" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-31898785.jpg" alt="">  </div>
 
   
 </div>
@@ -48,4 +48,4 @@ Het doek voor FIFA-voorzitter Sepp Blatter lijkt nu toch echt te vallen. De Zwit
   
 </div>
 </div>
-<p><em>Meer weten over de corruptie-affaire bij de FIFA? Lees ook deze artikelen in ons <a href="https://original.sevendays.nl/dossier-fifa">Dossier FIFA</a>:</em><br>- <a href="https://original.sevendays.nl/archief/wk-qatar-weer-onder-vuur">WK in Quatar weer onder vuur</a> (3 juni 2014)<br>- <a href="https://original.sevendays.nl/nieuws/blatter-blijft-wat-moet-de-fifa-nu">Blatter blijft: wat moet de FIFA nu?</a> (30 mei 2015)<br>- <a href="https://original.sevendays.nl/nieuws/omstreden-fifa-baas-blatter-alsnog-weg">Omstreden FIFA-baas alsnog weg</a> (2 juni 2015)<br>- <a href="https://original.sevendays.nl/video/gelddouche-voor-sepp-blatter">Gelddouche voor Sepp Blatter</a> (20 juli 2015)</p>  
+<p><em>Meer weten over de corruptie-affaire bij de FIFA? Lees ook deze artikelen in ons <a href="https://7dagen.netlify.app/dossier-fifa">Dossier FIFA</a>:</em><br>- <a href="https://7dagen.netlify.app/archief/wk-qatar-weer-onder-vuur">WK in Quatar weer onder vuur</a> (3 juni 2014)<br>- <a href="https://7dagen.netlify.app/nieuws/blatter-blijft-wat-moet-de-fifa-nu">Blatter blijft: wat moet de FIFA nu?</a> (30 mei 2015)<br>- <a href="https://7dagen.netlify.app/nieuws/omstreden-fifa-baas-blatter-alsnog-weg">Omstreden FIFA-baas alsnog weg</a> (2 juni 2015)<br>- <a href="https://7dagen.netlify.app/video/gelddouche-voor-sepp-blatter">Gelddouche voor Sepp Blatter</a> (20 juli 2015)</p>  

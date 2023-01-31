@@ -1,5 +1,5 @@
 ---
-id: 536b90bde1e24900924557c9c59c65ae
+id: 2f244730a90740bcb360498c053c23eb
 type: post
 layout: post
 title: "7 geweldige grappen"
@@ -29,4 +29,4 @@ seo:
 <p>Hier is niet echt een specifieke grap voor, maar je kunt wel je fantasie op hol laten slaan. De opties zijn eindeloos: Je kunt bijvoorbeeld iemand vastplakken aan zijn schoenen, of je irritante broertje of zusje aan de eettafel tapen. Zolang die persoon maar weer op zijn pootjes terecht komt.</p>
 <p>Wees altijd (!) voorzichtig met grappen en zorg er voor dat ook je slachtoffer er om kan lachen. Houd wel in gedachten dat voor je grappen altijd moet gelden: Een goed begin heeft een goed behagen, maar het eindje zal de last dragen.</p>
 <p> </p>
-Thijs is een 16-jarige pannenkoekenfan en een superscout met tien(!) jaar ervaring. Hij sport drie keer per week en knutselt graag, op zijn manier: hij maakt bijvoorbeeld een powerbank in een Fisherman's Friends-blikje, een luchtpistool of een brandende laser. Je kunt deze jongen dus maar beter te vriend houden... <a href="https://original.sevendays.nl/users/thijs-van-reeuwijk">Lees hier meer van zijn blogs</a>.  
+Thijs is een 16-jarige pannenkoekenfan en een superscout met tien(!) jaar ervaring. Hij sport drie keer per week en knutselt graag, op zijn manier: hij maakt bijvoorbeeld een powerbank in een Fisherman's Friends-blikje, een luchtpistool of een brandende laser. Je kunt deze jongen dus maar beter te vriend houden... <a href="https://7dagen.netlify.app/users/thijs-van-reeuwijk">Lees hier meer van zijn blogs</a>.  

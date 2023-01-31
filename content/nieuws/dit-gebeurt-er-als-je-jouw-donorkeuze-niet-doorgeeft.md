@@ -1,5 +1,5 @@
 ---
-id: 6e59bd2e058d44f8aa1fc740e239e022
+id: efb48e6402de47ff82de3722d74aaf6b
 type: nieuws
 layout: post
 title: "Dit gebeurt er als je jouw donorkeuze niet doorgeeft"

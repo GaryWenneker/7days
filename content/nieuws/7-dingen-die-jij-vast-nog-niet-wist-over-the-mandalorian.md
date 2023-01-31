@@ -1,5 +1,5 @@
 ---
-id: 396712379b5b4f0891da3abe21525368
+id: afff9cb21d99477983743f84455f914d
 type: nieuws
 layout: post
 title: "7 dingen die jij (vast) nog niet wist over The Mandalorian"

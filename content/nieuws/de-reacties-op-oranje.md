@@ -1,5 +1,5 @@
 ---
-id: bc25d64fe4ab44fcb41e9befe582ea47
+id: 27ef468698c440b985bf3d306ae1e815
 type: nieuws
 layout: post
 title: "De reacties op 'Oranje'"
@@ -18,7 +18,7 @@ Oranje hoeft toch geen extra vluchtelingen op te vangen. Dat werd vandaag bekend
         
   
   <div class="content">
-    <img title="Bron: ANP" height="3840" width="5760" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-34160377.jpg" alt="">  </div>
+    <img title="Bron: ANP" height="3840" width="5760" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-34160377.jpg" alt="">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ Oranje hoeft toch geen extra vluchtelingen op te vangen. Dat werd vandaag bekend
         
   
   <div class="content">
-    <img title="Bron: ANP" height="3085" width="2764" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/dijk.jpg" alt="">  </div>
+    <img title="Bron: ANP" height="3085" width="2764" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/dijk.jpg" alt="">  </div>
 
   
 </div>
@@ -53,7 +53,7 @@ Oranje hoeft toch geen extra vluchtelingen op te vangen. Dat werd vandaag bekend
         
   
   <div class="content">
-    <img title="Bron: ANP" height="3273" width="5464" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-34450986.jpg" alt="">  </div>
+    <img title="Bron: ANP" height="3273" width="5464" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-34450986.jpg" alt="">  </div>
 
   
 </div>

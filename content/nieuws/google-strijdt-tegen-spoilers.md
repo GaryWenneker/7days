@@ -1,5 +1,5 @@
 ---
-id: f7c7f80478da4200b3851f92b41c85c9
+id: 61267b5f673b4557979e3c949e38072d
 type: nieuws
 layout: post
 title: "Google strijdt tegen spoilers"
@@ -18,7 +18,7 @@ De horror! Je wilt meer weten over een personage uit het boek dat je aan het lez
         
   
   <div class="content">
-    <img height="600" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Anti-spoiler%20patent%20Google.jpg" alt="">  </div>
+    <img height="600" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Anti-spoiler%20patent%20Google.jpg" alt="">  </div>
 
   
 </div>

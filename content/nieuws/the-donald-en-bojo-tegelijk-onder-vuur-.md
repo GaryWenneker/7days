@@ -1,5 +1,5 @@
 ---
-id: 098a58744c5a46488a9153e73db8f273
+id: 7e481dd012c04e22b63633fa9f76766a
 type: nieuws
 layout: post
 title: "The Donald en BoJo tegelijk onder vuur "
@@ -18,7 +18,7 @@ Ze lijken best op elkaar. In uiterlijk, in hun ideeën en in hun manier van doen
         
   
   <div class="content">
-    <img alt="Foto AFP" height="1936" width="3000" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-77869347.jpg">  </div>
+    <img alt="Foto AFP" height="1936" width="3000" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-77869347.jpg">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ Ze lijken best op elkaar. In uiterlijk, in hun ideeën en in hun manier van doen
         
   
   <div class="content">
-    <img alt="Foto AFP" title="Foto AFP" height="3712" width="5568" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-77857735.jpg">  </div>
+    <img alt="Foto AFP" title="Foto AFP" height="3712" width="5568" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-77857735.jpg">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: ca8abd75150147aa8619b24f46ea39c8
+id: 6c962984b88d4abca99c73d004aad60a
 type: post
 layout: post
 title: "7 tips voor een fantastisch feestje"
@@ -18,7 +18,7 @@ Bijna jarig? Geslaagd voor je eindexamen of heb je je cavia een nieuw trucje ge
 <p><strong>2. Wie nodig je uit?</strong><br>De een nodigt de vrienden van zijn vrienden en ook hun vrienden uit, terwijl de ander alleen zijn twee BFF's vraagt. Het grappige is: het maakt helemaal niet zo veel uit wie je uitnodigt. Je vrienden komen toch wel. En de mensen die je niet leuk vindt, blijven toch wel weg.</p>
 <p>Ik zou zeggen: nodig gewoon de mensen uit die je het meest mag en dan komt het allemaal wel goed. </p>
 <p><strong>3. Maar ik heb twee verschillende vriendengroepen en ze mogen elkaar niet! </strong><br>Oké, dan heb je twee opties: a) je zegt tegen je verschillende vriendengroepen dat ze zich niet zo moeten aanstellen. En dat het jouw verjaardag is en dat het grootste cadeau dat ze je kunnen geven, is dat ze aardig tegen elkaar doen. Of b) je geeft twee feestjes. </p>
-<p><strong>4. Wat haal je in huis?</strong><br>Ik denk dat je zelf wel kunt uitrekenen hoeveel chips en cola je in huis moet halen. En aangezien de meesten van jullie nog geen achttien zijn, koop je natuurlijk geen alcohol. Dat is illegaal. Foei! Als je het per se wilt, vraag je je ouders of iemand anders van boven de achttien om dat te doen. Wat precies, hangt af van hoeveel ervaring jij en je matties hebben met drank <a href="https://original.sevendays.nl/drankendrugs">(en drugs, en drank, en drugs</a>). </p>
+<p><strong>4. Wat haal je in huis?</strong><br>Ik denk dat je zelf wel kunt uitrekenen hoeveel chips en cola je in huis moet halen. En aangezien de meesten van jullie nog geen achttien zijn, koop je natuurlijk geen alcohol. Dat is illegaal. Foei! Als je het per se wilt, vraag je je ouders of iemand anders van boven de achttien om dat te doen. Wat precies, hangt af van hoeveel ervaring jij en je matties hebben met drank <a href="https://7dagen.netlify.app/drankendrugs">(en drugs, en drank, en drugs</a>). </p>
 <p>Hebben jullie nog niet zo veel ervaring met alcohol, dan kun je je afvragen of bij jou thuis wel de beste plek is om daarmee te beginnen. Ik bedoel: die kotsgeur van je vrienden krijg je maar lastig uit jullie vloerkleed en zo. Als jullie al wel veel ervaring hebben met drank, heb je mijn advies helemaal niet nodig, grapjas. </p>
 <p>(Ik wil trouwens absoluut niet zeggen dat je per se alcohol nodig hebt voor een leuk feestje! Feestjes zonder drank zijn net zo leuk als die met alcohol, echt waar. Je moet het, net als alle andere dingen, drinken omdat je daar zelf zin in hebt. En niet omdat het moet van je vrienden of van een blogger van <em>7Days </em>of zo.)</p>
 <p><div class="media media-element-container media-default"><div id="file-17172" class="file file-image file-image-jpeg">
@@ -26,7 +26,7 @@ Bijna jarig? Geslaagd voor je eindexamen of heb je je cavia een nieuw trucje ge
         
   
   <div class="content">
-    <img alt="Verjaardagstaart met kaarsjes" height="566" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Foto%202_0.jpg">  </div>
+    <img alt="Verjaardagstaart met kaarsjes" height="566" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Foto%202_0.jpg">  </div>
 
   
 </div>

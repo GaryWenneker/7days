@@ -1,5 +1,5 @@
 ---
-id: 88d0a6256a2942cdbe579459c4dc1e05
+id: 6f15f50c21b14eacb9d31ff4adc2801d
 type: nieuws
 layout: post
 title: "7 Britse dingen waar we geen afscheid van hoeven nemen"
@@ -18,7 +18,7 @@ Vandaag is de dag die je wist dat zou komen. De Britten stappen uit de EU. We zw
         
   
   <div class="content">
-    <img alt="Foto EPA" title="Foto EPA" height="3150" width="4733" style="font-size: 13.008px;" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/EPA-374507638.jpg">  </div>
+    <img alt="Foto EPA" title="Foto EPA" height="3150" width="4733" style="font-size: 13.008px;" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/EPA-374507638.jpg">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ Vandaag is de dag die je wist dat zou komen. De Britten stappen uit de EU. We zw
         
   
   <div class="content">
-    <img alt="Foto EPA" title="Foto EPA" height="2684" width="4096" style="font-size: 13.008px;" class="media-element file-default" data-delta="4" src="https://original.sevendays.nl/sites/default/files/EPA-305000872.jpg">  </div>
+    <img alt="Foto EPA" title="Foto EPA" height="2684" width="4096" style="font-size: 13.008px;" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/EPA-305000872.jpg">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ Vandaag is de dag die je wist dat zou komen. De Britten stappen uit de EU. We zw
         
   
   <div class="content">
-    <img alt="Harry Potter" title="Harry Potter" height="1080" width="1920" style="font-size: 13.008px;" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/Harry%20Potter.jpg">  </div>
+    <img alt="Harry Potter" title="Harry Potter" height="1080" width="1920" style="font-size: 13.008px;" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/Harry%20Potter.jpg">  </div>
 
   
 </div>
@@ -45,7 +45,7 @@ Vandaag is de dag die je wist dat zou komen. De Britten stappen uit de EU. We zw
         
   
   <div class="content">
-    <img alt="Foto EPA" title="Foto EPA" height="2564" width="3860" style="font-size: 13.008px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/EPA-357683799.jpg">  </div>
+    <img alt="Foto EPA" title="Foto EPA" height="2564" width="3860" style="font-size: 13.008px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/EPA-357683799.jpg">  </div>
 
   
 </div>
@@ -54,7 +54,7 @@ Vandaag is de dag die je wist dat zou komen. De Britten stappen uit de EU. We zw
         
   
   <div class="content">
-    <img alt="Foto Reuters" title="Foto Reuters" height="746" width="1177" style="font-size: 13.008px;" class="media-element file-default" data-delta="5" src="https://original.sevendays.nl/sites/default/files/Reuters-349166834.jpg">  </div>
+    <img alt="Foto Reuters" title="Foto Reuters" height="746" width="1177" style="font-size: 13.008px;" class="media-element file-default" data-delta="5" src="https://7dagen.netlify.app/sites/default/files/Reuters-349166834.jpg">  </div>
 
   
 </div>
@@ -63,7 +63,7 @@ Vandaag is de dag die je wist dat zou komen. De Britten stappen uit de EU. We zw
         
   
   <div class="content">
-    <img alt="Foto Reuters" title="Foto Reuters" height="2366" width="3800" style="font-size: 13.008px;" class="media-element file-default" data-delta="7" src="https://original.sevendays.nl/sites/default/files/ANP-357176499.jpg">  </div>
+    <img alt="Foto Reuters" title="Foto Reuters" height="2366" width="3800" style="font-size: 13.008px;" class="media-element file-default" data-delta="7" src="https://7dagen.netlify.app/sites/default/files/ANP-357176499.jpg">  </div>
 
   
 </div>
@@ -72,7 +72,7 @@ Vandaag is de dag die je wist dat zou komen. De Britten stappen uit de EU. We zw
         
   
   <div class="content">
-    <img alt="Foto Shutterstock" title="Foto Shutterstock" height="3726" width="4722" style="font-size: 13.008px;" class="media-element file-default" data-delta="6" src="https://original.sevendays.nl/sites/default/files/shutterstock_611627876.jpg">  </div>
+    <img alt="Foto Shutterstock" title="Foto Shutterstock" height="3726" width="4722" style="font-size: 13.008px;" class="media-element file-default" data-delta="6" src="https://7dagen.netlify.app/sites/default/files/shutterstock_611627876.jpg">  </div>
 
   
 </div>

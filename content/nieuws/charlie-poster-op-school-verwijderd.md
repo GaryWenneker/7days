@@ -1,5 +1,5 @@
 ---
-id: 7f5dc42463664689a6fae76e54bd7a20
+id: cf295171e1a14983a615d969dac8c4a8
 type: nieuws
 layout: post
 title: "Charlie-poster op school verwijderd"
@@ -18,11 +18,11 @@ Profeet Mohammed die een cartoonist kust. Die spotprent hing eind vorige week op
         
   
   <div class="content">
-    <img height="253" width="200" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px; float: left; margin: 5px 8px; width: 204px; height: 258px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Charlie-poster.jpg" alt="">  </div>
+    <img height="253" width="200" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px; float: left; margin: 5px 8px; width: 204px; height: 258px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Charlie-poster.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <p>De zoenprent was de cover van een eerdere editie van Charlie Hebdo. Boven het tweetal staat de tekst L'amour plus fort que la haine (liefde is sterker dan haat). Maar een aantal leerlingen snapte de cartoon niet, vond 'm aanstootgevend en klaagde bij de directie.<br><br>Maar de woede om de aanslagen gaat toch juist om vrijheid van meningsuiting? Als je mag zeggen en schrijven wat je wilt, mag je toch ook gewoon een poster ophangen als je dat wilt? Zo simpel is het niet, zegt een woordvoerder van de school woensdag.<br><br><strong>Aangevallen</strong><br>'Als je als leerling alleen maar de poster ziet, kun je je aangevallen of beledigd voelen. En dat terwijl docenten er juist voor bedoeld zijn om context te bieden', zegt hij. Want zelfs na vier jaar Frans is het lastig om te begrijpen wat er met de cartoon wordt bedoeld: een pleidooi om iedereen z'n eigen mening te laten hebben, maar wel vredelievend te blijven. 'Het was beter geweest als deze docent de cartoon de klas had laten rondgaan, die had uitgelegd en vervolgens de discussie op gang had gebracht.'<br><br><strong>Gepraat</strong><br>Bovendien bleef het niet bij weghalen alleen, benadrukt de zegsman. 'Het is niet zo dat we de poster hebben weggegrist en tegen niemand iets hebben gezegd. Maar we hebben daarna gepraat met de leerlingen die 'm aanstootgevend vonden.' </p>
-<p><em>Al het nieuws over de aanslagen in Parijs lees je in ons <a href="https://original.sevendays.nl/dossier-charlie">dossier Charlie</a>.</em></p>
-<p><em>Op de hoogte blijven van al het onderwijsnieuws? <a href="https://original.sevendays.nl/onderwijsnieuws">Hier</a> vind je ons overzicht van al het schoolnieuws op onze site.</em></p>  
+<p><em>Al het nieuws over de aanslagen in Parijs lees je in ons <a href="https://7dagen.netlify.app/dossier-charlie">dossier Charlie</a>.</em></p>
+<p><em>Op de hoogte blijven van al het onderwijsnieuws? <a href="https://7dagen.netlify.app/onderwijsnieuws">Hier</a> vind je ons overzicht van al het schoolnieuws op onze site.</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: 8af6da06f74b4f95a2466d55534a2336
+id: 92684cfd4c6140ce8005fc71f1b4c7c2
 type: nieuws
 layout: post
 title: "De gekke bekken van Obama"
@@ -21,7 +21,7 @@ Gekke bekken trekken, uitspraken oefenen voor de spiegel en alles uit de kast tr
         
   
   <div class="content">
-    <img height="282" width="500" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/29.gif" alt="">  </div>
+    <img height="282" width="500" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/29.gif" alt="">  </div>
 
   
 </div>
@@ -31,7 +31,7 @@ Gekke bekken trekken, uitspraken oefenen voor de spiegel en alles uit de kast tr
         
   
   <div class="content">
-    <img height="297" width="500" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/30.gif" alt="">  </div>
+    <img height="297" width="500" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/30.gif" alt="">  </div>
 
   
 </div>
@@ -41,7 +41,7 @@ Gekke bekken trekken, uitspraken oefenen voor de spiegel en alles uit de kast tr
         
   
   <div class="content">
-    <img height="281" width="500" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/31.gif" alt="">  </div>
+    <img height="281" width="500" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/31.gif" alt="">  </div>
 
   
 </div>
@@ -51,7 +51,7 @@ Gekke bekken trekken, uitspraken oefenen voor de spiegel en alles uit de kast tr
         
   
   <div class="content">
-    <img height="261" width="435" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/32.gif" alt="">  </div>
+    <img height="261" width="435" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/32.gif" alt="">  </div>
 
   
 </div>
@@ -61,7 +61,7 @@ Gekke bekken trekken, uitspraken oefenen voor de spiegel en alles uit de kast tr
         
   
   <div class="content">
-    <img height="333" width="420" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/33.gif" alt="">  </div>
+    <img height="333" width="420" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/33.gif" alt="">  </div>
 
   
 </div>

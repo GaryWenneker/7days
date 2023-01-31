@@ -1,5 +1,5 @@
 ---
-id: 868284b473504a98bcc57a310242c0aa
+id: bd2c94c71f4c46bd84f39ab7c234eece
 type: nieuws
 layout: post
 title: "Erik (14) ontmoet Apple-topmannen"
@@ -18,7 +18,7 @@ De laatste nieuwtjes van Apple worden elk jaar aangekondigd tijdens de World Wid
         
   
   <div class="content">
-    <img title="Foto&#039;s Erik van der Plas" height="754" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Erik%20van%20der%20Plas%20app.jpg" alt="">  </div>
+    <img title="Foto&#039;s Erik van der Plas" height="754" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Erik%20van%20der%20Plas%20app.jpg" alt="">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ De laatste nieuwtjes van Apple worden elk jaar aangekondigd tijdens de World Wid
         
   
   <div class="content">
-    <img title="Foto&#039;s Erik van der Plas" height="432" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Erik%20van%20der%20Plas%20Tim%20Cook.jpg" alt="">  </div>
+    <img title="Foto&#039;s Erik van der Plas" height="432" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Erik%20van%20der%20Plas%20Tim%20Cook.jpg" alt="">  </div>
 
   
 </div>
@@ -37,7 +37,7 @@ De laatste nieuwtjes van Apple worden elk jaar aangekondigd tijdens de World Wid
         
   
   <div class="content">
-    <img title="Foto&#039;s Erik van der Plas" height="362" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Erik%20van%20der%20Plas%20Craig%20Federighi%20Eddy%20Cue.jpg" alt="">  </div>
+    <img title="Foto&#039;s Erik van der Plas" height="362" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Erik%20van%20der%20Plas%20Craig%20Federighi%20Eddy%20Cue.jpg" alt="">  </div>
 
   
 </div>

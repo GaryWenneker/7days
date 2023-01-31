@@ -1,5 +1,5 @@
 ---
-id: 10719b58d6964ad3a7274e6e7742ce86
+id: 6e3dc1e222cf4283af7649ae355c238e
 type: post
 layout: post
 title: "De 7 meest typische whatsappers"
@@ -20,7 +20,7 @@ WhatsApp heeft meer dan een miljard gebruikers. En tussen al die mensen zitten 
         
   
   <div class="content">
-    <img height="1186" width="774" style="font-size: 13.008px; font-weight: normal; width: 600px; height: 919px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Schermafdruk%202017-02-07%2000.13.19.png" alt="">  </div>
+    <img height="1186" width="774" style="font-size: 13.008px; font-weight: normal; width: 600px; height: 919px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Schermafdruk%202017-02-07%2000.13.19.png" alt="">  </div>
 
   
 </div>
@@ -33,7 +33,7 @@ WhatsApp heeft meer dan een miljard gebruikers. En tussen al die mensen zitten 
         
   
   <div class="content">
-    <img height="922" width="744" style="font-size: 13.008px; font-weight: normal; width: 600px; height: 744px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Schermafdruk%202017-02-07%2000.15.22.png" alt="">  </div>
+    <img height="922" width="744" style="font-size: 13.008px; font-weight: normal; width: 600px; height: 744px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Schermafdruk%202017-02-07%2000.15.22.png" alt="">  </div>
 
   
 </div>
@@ -45,7 +45,7 @@ WhatsApp heeft meer dan een miljard gebruikers. En tussen al die mensen zitten 
         
   
   <div class="content">
-    <img height="1168" width="768" style="width: 600px; height: 913px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Schermafdruk%202017-02-07%2000.23.52.png" alt="">  </div>
+    <img height="1168" width="768" style="width: 600px; height: 913px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Schermafdruk%202017-02-07%2000.23.52.png" alt="">  </div>
 
   
 </div>
@@ -59,7 +59,7 @@ WhatsApp heeft meer dan een miljard gebruikers. En tussen al die mensen zitten 
         
   
   <div class="content">
-    <img height="1070" width="600" style="width: 600px; height: 1070px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Schermafdruk%202017-02-07%2000.17.02.png" alt="">  </div>
+    <img height="1070" width="600" style="width: 600px; height: 1070px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Schermafdruk%202017-02-07%2000.17.02.png" alt="">  </div>
 
   
 </div>

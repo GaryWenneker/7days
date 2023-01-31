@@ -1,5 +1,5 @@
 ---
-id: 3a71bea4042743b3b225a3c249102863
+id: 006cd70b68274137a36163c2055a4ffd
 type: nieuws
 layout: post
 title: "In beeld: mega-sneeuwballengevecht"
@@ -19,7 +19,7 @@ De monsterlijke sneeuwstorm van afgelopen weekend bracht de inwoners van Wash
         
   
   <div class="content">
-    <img alt="sneeuwballengevecht washington" height="566" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-37061099_1.jpg">  </div>
+    <img alt="sneeuwballengevecht washington" height="566" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-37061099_1.jpg">  </div>
 
   
 </div>
@@ -29,7 +29,7 @@ De monsterlijke sneeuwstorm van afgelopen weekend bracht de inwoners van Wash
         
   
   <div class="content">
-    <img alt="sneeuwballengevecht washington" height="573" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-37062547_0.jpg">  </div>
+    <img alt="sneeuwballengevecht washington" height="573" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-37062547_0.jpg">  </div>
 
   
 </div>
@@ -39,7 +39,7 @@ De monsterlijke sneeuwstorm van afgelopen weekend bracht de inwoners van Wash
         
   
   <div class="content">
-    <img alt="sneeuwballengevecht washington" height="566" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-37060360_0.jpg">  </div>
+    <img alt="sneeuwballengevecht washington" height="566" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-37060360_0.jpg">  </div>
 
   
 </div>
@@ -49,7 +49,7 @@ De monsterlijke sneeuwstorm van afgelopen weekend bracht de inwoners van Wash
         
   
   <div class="content">
-    <img alt="sneeuwballengevecht washington" height="566" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-37060610_0.jpg">  </div>
+    <img alt="sneeuwballengevecht washington" height="566" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-37060610_0.jpg">  </div>
 
   
 </div>
@@ -59,7 +59,7 @@ De monsterlijke sneeuwstorm van afgelopen weekend bracht de inwoners van Wash
         
   
   <div class="content">
-    <img alt="sneeuwballengevecht washington" height="566" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-37060470_0.jpg">  </div>
+    <img alt="sneeuwballengevecht washington" height="566" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-37060470_0.jpg">  </div>
 
   
 </div>
@@ -69,7 +69,7 @@ De monsterlijke sneeuwstorm van afgelopen weekend bracht de inwoners van Wash
         
   
   <div class="content">
-    <img alt="sneeuwballengevecht washington" height="566" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-37060848_0.jpg">  </div>
+    <img alt="sneeuwballengevecht washington" height="566" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-37060848_0.jpg">  </div>
 
   
 </div>

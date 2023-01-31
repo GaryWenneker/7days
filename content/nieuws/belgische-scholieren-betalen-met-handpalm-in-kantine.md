@@ -1,5 +1,5 @@
 ---
-id: 52bc314f7ac34e2e986bd88bc28ae603
+id: 4865f34752cd4060b1fc68180b04c53f
 type: nieuws
 layout: post
 title: "Belgische scholieren betalen met handpalm in kantine"

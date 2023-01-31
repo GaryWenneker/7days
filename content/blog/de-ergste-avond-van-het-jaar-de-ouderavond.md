@@ -1,5 +1,5 @@
 ---
-id: 22ff6b12b23d4d6684c099ce60944dd8
+id: d76ed033eca14a8ca5675e3a84ef89dc
 type: post
 layout: post
 title: "De ergste avond van het jaar: de ouderavond"
@@ -23,4 +23,4 @@ De leraar deelt de briefjes uit en ik kijk vlug om mij heen of ik ergens een pru
 <h3>Hártstikke leuk!</h3>
 <p>Mijn moeder kijkt enthousiast. 'Het was hárstikke leuk! Je docent Frans is hartstikke aardig en mevrouw den Burg van Engels kijkt helemaal niet zo scheel als jij zei! Waarom zei je bio-docent trouwens dat je best vaak afwezig bent? We hebben ook even met de ouders van je vrienden Kees, Peter-Jan en Geert gepraat. Aardige mensen hoor! En hoe heet je rector ook alweer? Die hebben we ook nog gesproken!</p>
 <p>Mijn ouders hebben hun uitje van het kwartaal weer gehad, en ik ben blij dat deze avond achter de rug is en ik mijn ouders voorlopig niet meer naar ouderavonden 'moet' sturen. Eén ding zit me nog een beetje dwars: Die ouders van Peter-Jan waar ze het over hadden: Ik heb nog nooit van ene Peter-Jan gehoord...</p>
-<p><em>Meer blogs lezen van Lucas (17)? Laatst schreef hij ook <a href="https://original.sevendays.nl/blog/wij-hopeloze-scholieren-zijn-gedwongen-verslaafd">Wij hopeloze scholieren zijn gedwongen verslaafd</a> en <a href="https://original.sevendays.nl/blog/de-7-obsessies-uit-mijn-kindertijd">De 7 obsessies uit mijn kindertijd.</a> </em></p>  
+<p><em>Meer blogs lezen van Lucas (17)? Laatst schreef hij ook <a href="https://7dagen.netlify.app/blog/wij-hopeloze-scholieren-zijn-gedwongen-verslaafd">Wij hopeloze scholieren zijn gedwongen verslaafd</a> en <a href="https://7dagen.netlify.app/blog/de-7-obsessies-uit-mijn-kindertijd">De 7 obsessies uit mijn kindertijd.</a> </em></p>  

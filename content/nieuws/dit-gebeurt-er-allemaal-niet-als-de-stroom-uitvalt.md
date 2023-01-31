@@ -1,5 +1,5 @@
 ---
-id: 34daf033b3e742f58be392fe33202519
+id: 035037ff873f4f26b836c1cabe785644
 type: nieuws
 layout: post
 title: "Dit gebeurt er allemaal (niet) als de stroom uitvalt"
@@ -22,7 +22,7 @@ Amsterdam en omgeving kampten dinsdagochtend vroeg met een stroomstoring. 'Nou e
         
   
   <div class="content">
-    <img alt="stroomstoring NS" title="stroomstoring NS" height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/stroom.jpg">  </div>
+    <img alt="stroomstoring NS" title="stroomstoring NS" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/stroom.jpg">  </div>
 
   
 </div>
@@ -32,4 +32,4 @@ Amsterdam en omgeving kampten dinsdagochtend vroeg met een stroomstoring. 'Nou e
 <p>- 112 werd massaal gebeld. Veel mensen wilden de hulpdiensten graag vertellen dat ze in het donker zaten. </p>
 <p>- Veel websites waren uit de lucht, waaronder <em>Sevendays.nl</em>. De <em>7Days</em>-redactie had vanochtend slechts kort geen stroom. Maar internet bleef langer weg. En daarmee ook alle systemen om de krant en site te vullen. Collega's uit Utrecht en omgeving konden geen trein pakken, dus werkten maar thuis. Of stonden een eeuw in de file. </p>
 <p>- De stroomstoring is voorbij, maar treinreizigers hebben alsnog pech: het verkeer is zó ontregeld, dat het waarschijnlijk de hele dag een chaos blijft op het spoor. De NS raadt mensen aan om hun treinreis naar Amsterdam, Utrecht of Schiphol maar uit te stellen. </p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

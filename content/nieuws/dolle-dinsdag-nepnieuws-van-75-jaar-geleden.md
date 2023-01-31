@@ -1,5 +1,5 @@
 ---
-id: ed2bb9307ba44711bdaefd6e6b8b7cbc
+id: 415b0bc766cb449e94512f4b65866461
 type: nieuws
 layout: post
 title: "Dolle Dinsdag: 'nepnieuws' van 75 jaar geleden"
@@ -22,4 +22,4 @@ Het is vandaag 75 jaar geleden dat veel mensen in Nederland dachten dat de oorlo
 <p>De geruchten veroorzaakten paniek bij Duitse militairen, velen vluchtten in paniek naar Duitsland. NSB'ers en anderen die met de Duitsers samenwerkten, werden uit angst voor wraak naar kampen gebracht.</p>
 <h3>3. Hoe ging het daarna?</h3>
 <p>'Dolle Dinsdag' bleek een valse start. De geallieerden waren nog met te weinig om Nederland te kunnen bevrijden. Bovendien waren ze nog helemaal niet bij de Nederlandse grens. Het nepnieuws dat Breda bevrijd zou zijn, kwam voort uit verwarring van een geallieerde bevelvoerder. <a href="https://www.volkskrant.nl/nieuws-achtergrond/dolle-dinsdag-een-voorbeeld-van-nepnieuws-in-oorlogstijd~b83a5176/" target="_blank"><em>De Volkskrant </em></a>beschrijft hoe het misverstand precies ontstond.</p>
-<p>De <a href="https://original.sevendays.nl/nieuws/bevrijdingsdag-nederland-niet-een-dag-bevrijd" target="_blank">bevrijding was op dat moment nog ver weg</a>: op 14 september 1944 werd Maastricht als eerste belangrijke Nederlandse stad bevrijd en pas op 4 mei 1945 gaven de Duitsers zich in Nederland over.</p>  
+<p>De <a href="https://7dagen.netlify.app/nieuws/bevrijdingsdag-nederland-niet-een-dag-bevrijd" target="_blank">bevrijding was op dat moment nog ver weg</a>: op 14 september 1944 werd Maastricht als eerste belangrijke Nederlandse stad bevrijd en pas op 4 mei 1945 gaven de Duitsers zich in Nederland over.</p>  

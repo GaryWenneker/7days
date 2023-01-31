@@ -1,5 +1,5 @@
 ---
-id: 8667d825e29c4769a4e946b74693353f
+id: 61ecd8fbbcee4162b9f61aad485d6619
 type: nieuws
 layout: post
 title: "Aanhoudende stroom van vluchtelingen"
@@ -19,7 +19,7 @@ Te voet, met de trein, per boot en vaak met behulp van mensensmokkelaars: de vlu
         
   
   <div class="content">
-    <img height="2832" width="4256" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/AFP-33873993migr%20site.jpg" alt="">  </div>
+    <img height="2832" width="4256" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/AFP-33873993migr%20site.jpg" alt="">  </div>
 
   
 </div>
@@ -29,7 +29,7 @@ Te voet, met de trein, per boot en vaak met behulp van mensensmokkelaars: de vlu
         
   
   <div class="content">
-    <img height="2667" width="4000" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-33862072.jpg" alt="">  </div>
+    <img height="2667" width="4000" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-33862072.jpg" alt="">  </div>
 
   
 </div>
@@ -39,7 +39,7 @@ Te voet, met de trein, per boot en vaak met behulp van mensensmokkelaars: de vlu
         
   
   <div class="content">
-    <img height="2000" width="3000" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-33868297.jpg" alt="">  </div>
+    <img height="2000" width="3000" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-33868297.jpg" alt="">  </div>
 
   
 </div>
@@ -49,7 +49,7 @@ Te voet, met de trein, per boot en vaak met behulp van mensensmokkelaars: de vlu
         
   
   <div class="content">
-    <img height="3018" width="4467" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-33829016.jpg" alt="">  </div>
+    <img height="3018" width="4467" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-33829016.jpg" alt="">  </div>
 
   
 </div>
@@ -59,7 +59,7 @@ Te voet, met de trein, per boot en vaak met behulp van mensensmokkelaars: de vlu
         
   
   <div class="content">
-    <img height="2000" width="3000" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-33868291.jpg" alt="">  </div>
+    <img height="2000" width="3000" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-33868291.jpg" alt="">  </div>
 
   
 </div>
@@ -69,7 +69,7 @@ Te voet, met de trein, per boot en vaak met behulp van mensensmokkelaars: de vlu
         
   
   <div class="content">
-    <img height="2289" width="3432" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-33870235.jpg" alt="">  </div>
+    <img height="2289" width="3432" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-33870235.jpg" alt="">  </div>
 
   
 </div>

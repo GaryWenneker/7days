@@ -1,5 +1,5 @@
 ---
-id: d0f18b84f59649adaface919e2ece350
+id: d59a3a577efb4a8c8f73dfacbc59ed04
 type: nieuws
 layout: post
 title: "Corona? Thaise koning lapt 't aan z'n koninklijke laars"

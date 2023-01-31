@@ -1,5 +1,5 @@
 ---
-id: 0e04ec7378ea4cc88950fd531ce9524e
+id: 753b3b75cc044f4c9b1dc97beba8288d
 type: post
 layout: post
 title: "Waarom guilty pleasures echt ergens goed voor zijn"
@@ -25,4 +25,4 @@ Afgelopen weken was bijna heel Nederland en België, ook al durfde niet iedereen
 <h3>Heerlijk stiekem</h3>
 <p>Zonder guilty pleasures zijn we ‘niks’. Dan kunnen we alleen maar uitgesproken genieten. En geef toe, er is toch wel wat leuks aan stiekem een fan zijn?</p>
 <p> </p>
-<p><em>Komt er ineens een chloorwalm met pluizig haar voorbij lopen? Da's Jeanine (16), fanatiek zwemster. Deze geboren Haarlemse is dol op Harry Potter en wil later misschien astronaut worden. Maar gezien haar haat voor bèta-vakken vindt ze acteren in een astronautenfilm ook prima. <a href="https://original.sevendays.nl/users/jeanine-krist">Lees meer blogs van Jeanine</a>.</em></p>  
+<p><em>Komt er ineens een chloorwalm met pluizig haar voorbij lopen? Da's Jeanine (16), fanatiek zwemster. Deze geboren Haarlemse is dol op Harry Potter en wil later misschien astronaut worden. Maar gezien haar haat voor bèta-vakken vindt ze acteren in een astronautenfilm ook prima. <a href="https://7dagen.netlify.app/users/jeanine-krist">Lees meer blogs van Jeanine</a>.</em></p>  

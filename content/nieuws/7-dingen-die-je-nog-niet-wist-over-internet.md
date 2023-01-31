@@ -1,5 +1,5 @@
 ---
-id: 683a4bf5b84e42c7b7c9e71ccb622b3a
+id: 6cd0940124114164a0b5e68b06fa05ed
 type: nieuws
 layout: post
 title: "7 dingen die je nog niet wist over internet"

@@ -1,5 +1,5 @@
 ---
-id: 47e7cfdab97647d8913d7cd882099b0c
+id: 5eee749b6e6e489f92417aeea720a3d1
 type: post
 layout: post
 title: "De zoveelste bankhangzomer"
@@ -22,4 +22,4 @@ Het hele jaar kijk ik, net als vele anderen, reikhalzend uit naar de zomer. Tuss
 <h3>Eeuwige spijt</h3>
 <p>Terwijl ik voor al die dingen nu juist wel tijd heb! Ik heb nog twee weken vakantie en vanaf vandaag ga ik elke dag een uur piano spelen. Ik hoef de nieuwe Mozart niet te worden, maar van uitstel komt afstel. Ik ben te lui en te bang om eraan te beginnen, dus doe ik het maar nooit. En er is geen beter moment dan de zomer om je hobby te verwezenlijken!</p>
 <p>Ik wil terugkijken op een zomer waarin ik iets bereikt heb. Persoonlijk gegroeid ben of in ieder geval iets van mijn bucketlist heb kunnen afstrepen. Ik denk dat iedereen wel een lijstje heeft met dromen waar ze nooit aan toekomen. Of je nu nog drie dagen of een week vakantie hebt – nú is de tijd om eraan te beginnen.</p>
-<p><em>Blogger </em><a href="https://original.sevendays.nl/user/40"><em>Rosemarie (18)</em></a><em> heeft inmiddels de middelbare school verruild voor de universiteit. Voor 7Days doet ze elke twee weken verslag van de feiten en mythen van het studentenleven. Ze </em><em>is een semi-professionele high fiver, High School-veteraan en dol op waterijsjes en tweedehandswinkels. Momenteel is ze vooral druk met haar studie Taalwetenschap en haar aandoenlijke maar zeer onwillige kat. </em><a href="https://original.sevendays.nl/users/rosemarie-van-der-tol"><em>Lees meer blogs</em></a><em> van haar, zoals </em><a href="https://original.sevendays.nl/node/10259"><em>Een soort van volwassen</em></a><em> en </em><a href="https://original.sevendays.nl/node/10059"><em>De eeuwige armoedzaaier</em></a><em>.</em></p>  
+<p><em>Blogger </em><a href="https://7dagen.netlify.app/user/40"><em>Rosemarie (18)</em></a><em> heeft inmiddels de middelbare school verruild voor de universiteit. Voor 7Days doet ze elke twee weken verslag van de feiten en mythen van het studentenleven. Ze </em><em>is een semi-professionele high fiver, High School-veteraan en dol op waterijsjes en tweedehandswinkels. Momenteel is ze vooral druk met haar studie Taalwetenschap en haar aandoenlijke maar zeer onwillige kat. </em><a href="https://7dagen.netlify.app/users/rosemarie-van-der-tol"><em>Lees meer blogs</em></a><em> van haar, zoals </em><a href="https://7dagen.netlify.app/node/10259"><em>Een soort van volwassen</em></a><em> en </em><a href="https://7dagen.netlify.app/node/10059"><em>De eeuwige armoedzaaier</em></a><em>.</em></p>  

@@ -1,0 +1,23 @@
+---
+id: 8d4ef934ed014d188b0d8ee7789a9d9e
+type: nieuws
+layout: post
+title: "Ridouan T. opgepakt: profiel van meedogenloze crimineel"
+permalink: /nieuws/ridouan-t-opgepakt-profiel-van-meedogenloze-crimineel/
+date: 2022-05-11T19:16:41.067Z
+author: 7biA1WiYB
+excerpt: "Lang was hij onvindbaar, maar maandag werd staatsvijand nummer één dan toch gepakt. Wie is topcrimineel Ridouan T., die maandag werd gearresteerd in Dubai?  "
+seo:
+  description: "Ridouan T. opgepakt: profiel van meedogenloze crimineel"
+  title: "Ridouan T. opgepakt: profiel van meedogenloze crimineel"
+---
+Lang was hij onvindbaar, maar maandag werd staatsvijand nummer één dan toch gepakt. Wie is topcrimineel Ridouan T., die maandag werd gearresteerd in Dubai?  
+
+    <p>‘Ha ha ha ben al dronken broertje. Heb bloed, bloed nodig. Niks anders.’ Begin dit jaar gaf het OM oude, gekraakte telefoonberichten van T. prijs, die hij via een speciale pgp-telefoon verstuurde. Pgp staat voor <em>pretty good privacy</em>, maar dus nét niet goed genoeg. Nog zo één: ‘Die waterhoofd leeft niet meer, die hond heeft vijf of zes kogels door zijn kop gekregen.’ De toon is tekenend voor de meedogenloze drugscrimineel, die zijn tegenstanders om het minste of geringste ‘laat slapen’ - om in Taghi’s taal te spreken.</p>
+<h3>Wie praat, gaat</h3>
+<p>T. wordt geboren in het noorden van Marokko. Als kind nemen zijn ouders hem mee naar het Nederlandse Vianen. Als iel tienertje verkoopt hij hasj op het schoolplein. Die haalt zijn familie, die al jarenlang een smokkelroute runt, uit Marokko. Als T. ouder is, neemt hij de leiding over. Het hasjgeld stroomt binnen zonder veel gedoe. Maar een beetje drugsbaron wil altijd meer, en dus waagt hij zich aan de lucratievere cocaïne. Meedoen met de grote jongens en het échte goud verdienen, brengt gevaar met zich mee. Eén zoekgeraakt pakketje en je kunt omgelegd worden. En wie praat, die gaat. T., ook wel Kleine genoemd, lijkt zich daarbij als een vis in het water te voelen. In Nederland wordt hij, samen met kompaan Said Razzouki, gezien als een nieuw soort meedogenloze crimineel. Altijd is hij gewapend en als iemand in het koffiehuis te bijdehand wordt, is hij niet te beroerd om zijn wapen tevoorschijn te halen, zo schijft <a href="https://www.nrc.nl/nieuws/2019/07/08/nabil-b-van-gesjeesde-student-tot-belangrijke-troef-van-het-om-a3966500" target="_blank"><em>NRC</em></a>. De eerste dode waarvoor T., volgens kroongetuige Nabil B. (die werd bijgestaan door de vermoorde advocaat Derk Wiersum) verantwoordelijk is, is de ‘vergismoord’ in 2014 waarbij niet crimineel Samir Jabli, maar een scholier wordt doodgeschoten. Jabli werd later alsnog koud gemaakt.</p>
+<h3>Dubai</h3>
+<p>T. vergelijken met een drugsbaas als Escobar zou niet op zijn plaats zijn. Hij wil geen invloed in de politiek of arme mensen helpen, maar gewoon zijn coke verkopen. Dat is hem meer waard dan welk mensenleven dan ook. Of het nou een vermoorde misdaadblogger is, de onschuldige broer van de kroongetuige in het monsterproces tegen T. en zijn bende, of diens advocaat: allemaal worden ze aan hem gelinkt. Samen met Razzouki wordt T. officieel verdacht van vijf moorden, drie mislukte moordpogingen en het voorbereiden van drie moordpogingen. Waar hij lange tijd schuilde was de grote vraag, al liet de Nederlandse recherche wel weten hem 'op de hielen' te zitten. De vermoedens dat hij zich ergens in Dubai verschanste, blijken terecht te zijn geweest. Minister Grapperhaus noemt zijn aanhouding wel een ‘belangrijke stap’ tegen de georganiseerde misdaad in Nederland. Want het is toch een signaal dat je je als crimineel niet onaantastbaar hoeft te wanen - ook niet in het buitenland. Zoals Grapperhaus het zelf verwoordt: 'Ik dacht bij mezelf: hebbes.'</p>
+<p>Omdat Nederland geen uitleveringsverdrag met Dubai heeft, werd gedacht dat het weken zou kunnen duren voordat T. naar Nederland zou worden gebracht. Toch werd de crimineel in de nacht van woensdag op donderdag op het vliegtuig gezet. Op verzoek van de autoriteiten in Dubai heeft <a href="https://7dagen.netlify.app/nieuws/ridouan-t-aangekomen-nederland" target="_blank">de Nederlandse politie hem opgehaald</a>. Donderdagochtend kwam hij aan op Schiphol, waarna hij naar een gevangenis is gebracht, waarschijnlijk gaat het om de Extra Beveiligde Inrichting in Vught. Eind februari staat de eerstvolgende zitting tegen T, gepland, daar kan hij nu bij aanwezig zijn.</p>
+<h3>Wist je dat…</h3>
+<p>- het gerucht gaat dat T. een winkelcentrum in Dubai heeft gekocht?<br>- hij ooit in beschonken toestand in een Utrechts koffiehuis briefjes van 500 euro zou hebben uitgedeeld?</p>  

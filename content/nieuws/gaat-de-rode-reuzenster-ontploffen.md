@@ -1,5 +1,5 @@
 ---
-id: 4e8e2feb7ef54e7483590be975b9add0
+id: 20b1c22847d24e8e94d455b71fe6a753
 type: nieuws
 layout: post
 title: "Gaat de rode reuzenster ontploffen?"
@@ -18,7 +18,7 @@ Het was altijd één van de helderste lichten aan de hemel. De gigantische ster 
         
   
   <div class="content">
-    <img alt="Foto Rogelio Bernal Andreo/Wikipedia" title="Foto Rogelio Bernal Andreo/Wikipedia" height="2657" width="4096" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/RBA_Orion_HeadToToes_1.jpg">  </div>
+    <img alt="Foto Rogelio Bernal Andreo/Wikipedia" title="Foto Rogelio Bernal Andreo/Wikipedia" height="2657" width="4096" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/RBA_Orion_HeadToToes_1.jpg">  </div>
 
   
 </div>

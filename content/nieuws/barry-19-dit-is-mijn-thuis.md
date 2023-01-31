@@ -1,5 +1,5 @@
 ---
-id: 5cc4ba35749b40c7aaa3e4290712fb48
+id: dc47ce6d02ec478684158fbf84b4838f
 type: nieuws
 layout: post
 title: "Barry (19): ’Dit is mijn thuis’"
@@ -21,7 +21,7 @@ De sluiting van een jeugdzorginstelling op de Veluwe zorgt voor grote onrust. Ru
         
   
   <div class="content">
-    <img alt="Foto: Barry Orie in één van zijn legeruniforms" title="Foto: Barry Orie" height="1047" width="1048" style="width: 300px; float: right; height: 300px; margin: 5px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/78278900_764224160712846_1563202692258463744_n.jpg">  </div>
+    <img alt="Foto: Barry Orie in één van zijn legeruniforms" title="Foto: Barry Orie" height="1047" width="1048" style="width: 300px; float: right; height: 300px; margin: 5px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/78278900_764224160712846_1563202692258463744_n.jpg">  </div>
 
   
 </div>

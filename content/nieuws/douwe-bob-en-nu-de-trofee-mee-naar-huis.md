@@ -1,5 +1,5 @@
 ---
-id: 1442653af0f446859c19cc678bcdd2b7
+id: 60eefccc96154838aecec98d5c35c9e7
 type: nieuws
 layout: post
 title: " Douwe Bob: 'En nu de trofee mee naar huis'"
@@ -18,7 +18,7 @@ Zou het de vette knipoog aan het eind zijn geweest, het paarse prachtpak, de zwo
         
   
   <div class="content">
-    <img alt="Douwe Bob, Songfestival" title="Foto ANP" height="666" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-45562608%207days.jpg">  </div>
+    <img alt="Douwe Bob, Songfestival" title="Foto ANP" height="666" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-45562608%207days.jpg">  </div>
 
   
 </div>
@@ -28,7 +28,7 @@ Zou het de vette knipoog aan het eind zijn geweest, het paarse prachtpak, de zwo
         
   
   <div class="content">
-    <img alt="Douwe Bob, Songfestival" title="Foto ANP" height="613" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-45562603%207days.jpg">  </div>
+    <img alt="Douwe Bob, Songfestival" title="Foto ANP" height="613" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-45562603%207days.jpg">  </div>
 
   
 </div>
@@ -38,7 +38,7 @@ Zou het de vette knipoog aan het eind zijn geweest, het paarse prachtpak, de zwo
         
   
   <div class="content">
-    <img alt="Douwe Bob, Songfestival" title="Foto ANP" height="558" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-45566109%207days.jpg">  </div>
+    <img alt="Douwe Bob, Songfestival" title="Foto ANP" height="558" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-45566109%207days.jpg">  </div>
 
   
 </div>
@@ -48,7 +48,7 @@ Zou het de vette knipoog aan het eind zijn geweest, het paarse prachtpak, de zwo
         
   
   <div class="content">
-    <img alt="Douwe Bob, Songfestival" title="Foto ANP" height="529" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-45568061%207days.jpg">  </div>
+    <img alt="Douwe Bob, Songfestival" title="Foto ANP" height="529" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-45568061%207days.jpg">  </div>
 
   
 </div>
@@ -67,4 +67,4 @@ Zou het de vette knipoog aan het eind zijn geweest, het paarse prachtpak, de zwo
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

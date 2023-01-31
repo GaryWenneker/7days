@@ -1,5 +1,5 @@
 ---
-id: 9a8c6a4dce1847879f8722a077eb22a0
+id: b1572d61f8e049799d273525bdb286c7
 type: nieuws
 layout: post
 title: "Duncan gehuldigd in Hellevoetsluis"
@@ -21,10 +21,10 @@ Feest voor Eurovisiesongfestivalwinnaar Duncan Laurence vandaag. Hij werd offici
         
   
   <div class="content">
-    <img height="4472" width="6708" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-75017891.jpg" alt="">  </div>
+    <img height="4472" width="6708" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-75017891.jpg" alt="">  </div>
 
   
 </div>
 </div>
-<p>Duncan Laurence <a href="https://original.sevendays.nl/nieuws-entertainment/ja-douze-points-duncan-wint-het-songfestival" target="_blank">won dit jaar het songfestival</a>. De laatste keer dat Nederland won was in 1975.</p>
+<p>Duncan Laurence <a href="https://7dagen.netlify.app/nieuws-entertainment/ja-douze-points-duncan-wint-het-songfestival" target="_blank">won dit jaar het songfestival</a>. De laatste keer dat Nederland won was in 1975.</p>
 <p><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/Eztx7Wr8PtE" width="560"></iframe></p>  

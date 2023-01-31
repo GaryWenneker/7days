@@ -1,5 +1,5 @@
 ---
-id: 7ec7dbd4e3c549089631049d4cd788f3
+id: b0fba18773fe4147acdf1121f69f74fc
 type: nieuws
 layout: post
 title: "Anne Frank voorgelezen voor iedere Italiaanse voetbalwedstrijd"
@@ -19,7 +19,7 @@ Voetbalwedstrijden in Italiaanse competitie beginnen deze week een beetje anders
         
   
   <div class="content">
-    <img height="357" width="635" style="width: 900px; height: 506px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANNEFRANK-635x357.jpg" alt="">  </div>
+    <img height="357" width="635" style="width: 900px; height: 506px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANNEFRANK-635x357.jpg" alt="">  </div>
 
   
 </div>
@@ -32,7 +32,7 @@ Voetbalwedstrijden in Italiaanse competitie beginnen deze week een beetje anders
         
   
   <div class="content">
-    <img height="2450" width="1943" style="width: 500px; height: 630px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-920409.jpg" alt="">  </div>
+    <img height="2450" width="1943" style="width: 500px; height: 630px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-920409.jpg" alt="">  </div>
 
   
 </div>
@@ -44,14 +44,14 @@ Voetbalwedstrijden in Italiaanse competitie beginnen deze week een beetje anders
         
   
   <div class="content">
-    <img height="4500" width="3090" style="width: 500px; height: 728px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-48591501.jpg" alt="">  </div>
+    <img height="4500" width="3090" style="width: 500px; height: 728px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-48591501.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <div class="kader">
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p>Vond je dit interessant? Lees dan ook eens<a href="https://original.sevendays.nl/lifestyle/fenna-17-van-hoefwijzer-over-het-succes-van-paardentubers" target="_blank"> </a><a href="https://original.sevendays.nl/school-nieuws/dagboek-anne-frank-vandaag-75-jaar-oud">Dagboek Anne Frank vandaag 75 jaar oud</a> of <a href="https://original.sevendays.nl/nieuws/de-7-beruchtste-voetbalrellen">De 7 beruchtste voetbalrellen</a>.</p>
-<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://original.sevendays.nl/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp</a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">,</em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://original.sevendays.nl/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"> </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p>Vond je dit interessant? Lees dan ook eens<a href="https://7dagen.netlify.app/lifestyle/fenna-17-van-hoefwijzer-over-het-succes-van-paardentubers" target="_blank"> </a><a href="https://7dagen.netlify.app/school-nieuws/dagboek-anne-frank-vandaag-75-jaar-oud">Dagboek Anne Frank vandaag 75 jaar oud</a> of <a href="https://7dagen.netlify.app/nieuws/de-7-beruchtste-voetbalrellen">De 7 beruchtste voetbalrellen</a>.</p>
+<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://7dagen.netlify.app/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp</a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">,</em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://7dagen.netlify.app/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"> </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
 </div>
   

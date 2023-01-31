@@ -1,5 +1,5 @@
 ---
-id: 6a299421389349d3babea8947532892f
+id: ad844db65df149c69c210967c89fd9e6
 type: nieuws
 layout: post
 title: "Dagboek van een 19-jarige coronapatiënt"

@@ -1,5 +1,5 @@
 ---
-id: a99cf8f938454994aaab4c0775293ac3
+id: 2c84e65a86604a6fb26fbd1869256e08
 type: nieuws
 layout: post
 title: "Al 70.000 euro opgehaald voor slachtoffer Utrecht"
@@ -17,4 +17,4 @@ Twee inzamelingsacties voor een van de slachtoffers van de schietpartij in Utrec
 <h3>Binnen een dag</h3>
 <p>Veel mensen betuigen hun steun door een steentje bij te dragen. Iedereen kan een donatie van minimaal vijf euro geven. Tot nu toe doneerden zo’n zevenduizend mensen in totaal meer dan zeventigduizend euro. Dit bedrag werd binnen één dag opgehaald.</p>
 <h3>Schietpartij</h3>
-<p>Roos is een van de drie overleden slachtoffers van de <a href="https://original.sevendays.nl/nieuws/dit-wat-we-weten-over-de-aanslag-utrecht">schietpartij in Utrecht</a>. Door diezelfde schietpartij zijn ook twee mannen van 28 en 49 jaar om het leven gekomen. Inmiddels zit de 37-jarige hoofdverdachte vast in de gevangenis. <a href="https://nos.nl/artikel/2276762-nieuwe-verdachte-opgepakt-voor-aanslag-utrecht.html" target="_blank">Dinsdag</a> werd ook een 40-jarige man opgepakt die mogelijk betrokken was bij de trieste gebeurtenis.</p>  
+<p>Roos is een van de drie overleden slachtoffers van de <a href="https://7dagen.netlify.app/nieuws/dit-wat-we-weten-over-de-aanslag-utrecht">schietpartij in Utrecht</a>. Door diezelfde schietpartij zijn ook twee mannen van 28 en 49 jaar om het leven gekomen. Inmiddels zit de 37-jarige hoofdverdachte vast in de gevangenis. <a href="https://nos.nl/artikel/2276762-nieuwe-verdachte-opgepakt-voor-aanslag-utrecht.html" target="_blank">Dinsdag</a> werd ook een 40-jarige man opgepakt die mogelijk betrokken was bij de trieste gebeurtenis.</p>  

@@ -1,5 +1,5 @@
 ---
-id: 9598f126c00f4aeebbec84e95874db32
+id: d0ae02fc847d49f8b731c24d04ee0825
 type: post
 layout: post
 title: "De verschrikkelijke aanloop naar kerst"
@@ -16,8 +16,8 @@ It’s the most wonderful time of the year. Kerstmis komt er weer aan en dat bet
     <p>Mijn ergernis borrelde op toen ik laatst door de HEMA liep, op zoek naar de laatste cadeaus voor Sinterklaas. Ik hoorde onverwachts het liedje <em>Last Christmas</em> op de achtergrond, terwijl het nog maar begin december was. Sinterklaas is nog maar net ons land uit of de kerstmuziek vliegt je alweer om je oren. </p>
 <h3>Twinkelende melodieën</h3>
 <p>De muziek blijft niet beperkt tot de winkels, maar verschijnt ook op de radio of in reclamespotjes. Je hoort <em>All I want for Christmas</em> overal en na een paar jaar vol met twinkelende melodieën ben ik er wel weer flauw van.</p>
-<p>Ook staan de kerstbomen weken voordat het echt kerst is al bij de bouwmarkten en word je gebombardeerd met reclames over kerstversiering. Het voelt bijna als een verplichting om een boom aan te schaffen. Daarom staat ons oergezellige exemplaar al een week in onze woonkamer te twinkelen. <a href="https://original.sevendays.nl/blog/mijn-kleine-terroristje-0">Onze kat</a> is er dol op.</p>
+<p>Ook staan de kerstbomen weken voordat het echt kerst is al bij de bouwmarkten en word je gebombardeerd met reclames over kerstversiering. Het voelt bijna als een verplichting om een boom aan te schaffen. Daarom staat ons oergezellige exemplaar al een week in onze woonkamer te twinkelen. <a href="https://7dagen.netlify.app/blog/mijn-kleine-terroristje-0">Onze kat</a> is er dol op.</p>
 <h3><strong>Cliché-kerstfilms</strong></h3>
 <p>Maar mijn grootste ergernis blijft toch echt die verschrikkelijke kerstfilms. Waarin de grootste clichés voorbij komen. Zo zie ik elk jaar weer het arme jongetje uit <em>Home Alone  </em>en dezelfde animatiefilms van Disney. En God, wat word ik daar moe van.</p>
 <p>Het enige voordeel van zo'n lange aanloop is wel: je kunt aftellen. Aftellen tot je echt Vienetta-ijs gaat eten bij je tante, de kerstadgen uitzit en dan weer vijftig weken lang nergens last van hebt. Fijne kerst iedereen!</p>
-<p><em>Meer blogs lezen van Maaike (16)? Laatst schreef ze ook <a href="https://original.sevendays.nl/blog/verslaafd-aan-een-hels-apparaat">Verslaafd aan een hels apparaat</a> en <a href="https://original.sevendays.nl/blog/de-vier-fases-van-je-fietstochten-naar-school">De vier fases van je fietstochten naar school</a>.</em></p>  
+<p><em>Meer blogs lezen van Maaike (16)? Laatst schreef ze ook <a href="https://7dagen.netlify.app/blog/verslaafd-aan-een-hels-apparaat">Verslaafd aan een hels apparaat</a> en <a href="https://7dagen.netlify.app/blog/de-vier-fases-van-je-fietstochten-naar-school">De vier fases van je fietstochten naar school</a>.</em></p>  

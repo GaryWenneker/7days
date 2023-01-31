@@ -1,5 +1,5 @@
 ---
-id: 550baf75d1784dd7996bab3d796dc81b
+id: dab8139297ba45b69915295d55818258
 type: nieuws
 layout: post
 title: "Giga-winst voor 'Franse PVV'"
@@ -13,13 +13,13 @@ seo:
 ---
 Een aardverschuiving. Zo kun je de mega-winst van het rechtse Front National bij de Franse regio-verkiezingen van zondag gerust noemen. Die partij is vergelijkbaar met de Nederlandse PVV. 'Historisch!', zo juichte Marine Le Pen zelf na haar overwinning op de socialisten. Wie is deze frontvrouw van het Front eigenlijk? Een profiel.  
 
-    <p>De regionale verkiezingen in Frankrijk zijn altijd een belangrijke voorspeller van hoe de Fransen bij een landelijke verkiezing gaan stemmen. Uit de uitslag van de eerste ronde (de tweede is komend weekend) blijkt overduidelijk dat de mening van de Fransen is veranderd na de schokkende aanslagen van <a href="https://original.sevendays.nl/nieuws/wat-je-moet-weten-over-de-aanslagen-parijs">13/11</a> in Parijs. Bijna 1 op de 3 volwassen Fransen stemde op de anti-immigratie- en anti-islampartij FN.</p>
+    <p>De regionale verkiezingen in Frankrijk zijn altijd een belangrijke voorspeller van hoe de Fransen bij een landelijke verkiezing gaan stemmen. Uit de uitslag van de eerste ronde (de tweede is komend weekend) blijkt overduidelijk dat de mening van de Fransen is veranderd na de schokkende aanslagen van <a href="https://7dagen.netlify.app/nieuws/wat-je-moet-weten-over-de-aanslagen-parijs">13/11</a> in Parijs. Bijna 1 op de 3 volwassen Fransen stemde op de anti-immigratie- en anti-islampartij FN.</p>
 <p>Op twee staan de Republikeinen onder leiding van oud-president Nicolas Sarkozy met zo'n 27 procent. En de Socialisten onder leiding van president Hollande kregen een klap te verduren met slechts 23 procent van de kiezers die voor hen kozen.<br><div class="media media-element-container media-default"><div id="file-13785" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img title="Op een persconferentie in november maakte Jean-Marie Le Pen duidelijk dat hij zich niet de mond laat snoeren  Foto AFP" height="3456" width="5184" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-35078851.jpg" alt="">  </div>
+    <img title="Op een persconferentie in november maakte Jean-Marie Le Pen duidelijk dat hij zich niet de mond laat snoeren  Foto AFP" height="3456" width="5184" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-35078851.jpg" alt="">  </div>
 
   
 </div>
@@ -31,19 +31,19 @@ Een aardverschuiving. Zo kun je de mega-winst van het rechtse Front National bij
         
   
   <div class="content">
-    <img title="In mei 2014 spraken Le Pen en Wilders het EU-parlement in Brussel toe  Foto AFP" height="2394" width="3916" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-27391925.jpg" alt="">  </div>
+    <img title="In mei 2014 spraken Le Pen en Wilders het EU-parlement in Brussel toe  Foto AFP" height="2394" width="3916" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-27391925.jpg" alt="">  </div>
 
   
 </div>
-</div><br><strong>Wist je dat…</strong><br>… Marine’s moeder haar gezin plotseling verliet toen ze een relatie kreeg met een journalist die een stuk had geschreven over haar man. Marine was toen zestien.<br>… Marine fan is van Geert Wilders en de PVV?<br>… Marine anti-immigratie, anti-islam, anti-euro, pro-doodstraf en pro-hoofddoekverbod is?<br>... Marine een nichtje heeft, Marion, dat ook succesvol is in het Front National? Een profiel van haar lees je <a href="https://original.sevendays.nl/nieuws/het-n%C3%B3g-rechtsere-nichtje-van">hier</a>.
+</div><br><strong>Wist je dat…</strong><br>… Marine’s moeder haar gezin plotseling verliet toen ze een relatie kreeg met een journalist die een stuk had geschreven over haar man. Marine was toen zestien.<br>… Marine fan is van Geert Wilders en de PVV?<br>… Marine anti-immigratie, anti-islam, anti-euro, pro-doodstraf en pro-hoofddoekverbod is?<br>... Marine een nichtje heeft, Marion, dat ook succesvol is in het Front National? Een profiel van haar lees je <a href="https://7dagen.netlify.app/nieuws/het-n%C3%B3g-rechtsere-nichtje-van">hier</a>.
 <p><div class="media media-element-container media-default"><div id="file-13786" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img title="Marion Le Pen speechte zondag in Le Pontet  Foto EPA" height="2732" width="4096" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-35321705.jpg" alt="">  </div>
+    <img title="Marion Le Pen speechte zondag in Le Pontet  Foto EPA" height="2732" width="4096" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-35321705.jpg" alt="">  </div>
 
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van het laatste nieuws? Meld je dan aan voor onze <a href="https://original.sevendays.nl/whatsapp">WhatsApp-dienst</a> of neem een <a href="https://original.sevendays.nl/abonnement">proefabonnement </a>op 7Days!</em></p>  
+<p><em>Altijd op de hoogte blijven van het laatste nieuws? Meld je dan aan voor onze <a href="https://7dagen.netlify.app/whatsapp">WhatsApp-dienst</a> of neem een <a href="https://7dagen.netlify.app/abonnement">proefabonnement </a>op 7Days!</em></p>  

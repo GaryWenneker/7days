@@ -1,5 +1,5 @@
 ---
-id: 22a41df9bfde4c59b633866fbc227d12
+id: 24df48971909475fa6e759e519461179
 type: post
 layout: post
 title: "Pas op voor de brugzak"
@@ -17,4 +17,4 @@ Het gebeurt vlak voor de pauze, op de trap naar de kantine. Ik krijg een harde s
 <p><strong>Containertas</strong><br>Woordenboeken zijn hetzelfde verhaal en voor de rest van je spullen bestaan er kluisjes. Daar kun je elke pauze je tas legen en opnieuw vullen. Kluisjes waar zelfs je hele containertas in zou passen als het moet. Maar bovenal kluisjes waardoor die brugzak lekker in de winkel kan blijven liggen.</p>
 <p>Of ben ik al te laat, achtstegroepers? Staat jouw brugzak nu al klaar in jouw kamer voor volgend schooljaar? Niks meer aan te doen dan, maak er maar iets van.</p>
 <p><strong>Beertjes</strong><br>Hang er beertjes aan en wees een trotse brugger, trots op jouw veel te grote, veel te zware, veel te volle brugzak. Maar zodra je rugpijn krijgt, piep je wel anders.</p>
-<p><em>Ga je bijna naar de brugklas? Onze pagina <a href="https://original.sevendays.nl/brugklas">Sevendays.nl/brugklas</a> staat bomvol slimme tips, interessant brugklasnieuws en grappige blogs die je klaarstomen voor de middelbare school. En misschien heb je ook wel iets aan onze speciale krant <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/actiesmetderden/brugklasvoorbeginners">Brugklas voor Beginners</a>! </em></p>  
+<p><em>Ga je bijna naar de brugklas? Onze pagina <a href="https://7dagen.netlify.app/brugklas">Sevendays.nl/brugklas</a> staat bomvol slimme tips, interessant brugklasnieuws en grappige blogs die je klaarstomen voor de middelbare school. En misschien heb je ook wel iets aan onze speciale krant <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/actiesmetderden/brugklasvoorbeginners">Brugklas voor Beginners</a>! </em></p>  

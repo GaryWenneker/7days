@@ -1,5 +1,5 @@
 ---
-id: 936892c98d134444ae485b3fe76db042
+id: ff42b497ff05445c96663e614feaebf3
 type: nieuws
 layout: post
 title: "Boris Johnson wint Britse verkiezingen, wat nu?"

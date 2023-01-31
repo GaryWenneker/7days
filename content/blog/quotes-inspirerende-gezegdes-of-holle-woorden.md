@@ -1,5 +1,5 @@
 ---
-id: 499d7be98ddc42daaad80689272b8906
+id: 53b2789764bd4bffa80d4a010b049992
 type: post
 layout: post
 title: "Quotes: inspirerende gezegdes of holle woorden?"
@@ -20,7 +20,7 @@ Ben jij wel eens geïnspireerd door een mooi citaat? Grote kans dat je antwoord
         
   
   <div class="content">
-    <img height="700" width="700" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/quotes%20sad.jpg" alt="">  </div>
+    <img height="700" width="700" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/quotes%20sad.jpg" alt="">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ Ben jij wel eens geïnspireerd door een mooi citaat? Grote kans dat je antwoord
         
   
   <div class="content">
-    <img height="678" width="480" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/loesje.jpg" alt="">  </div>
+    <img height="678" width="480" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/loesje.jpg" alt="">  </div>
 
   
 </div>

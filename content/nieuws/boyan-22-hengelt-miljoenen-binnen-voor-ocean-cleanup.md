@@ -1,5 +1,5 @@
 ---
-id: 133da5aa25ed44588e6bcec286c50b45
+id: 6b6ee1cf6e4b4ba49eed709e175350d1
 type: nieuws
 layout: post
 title: "Boyan (22) hengelt miljoenen binnen voor Ocean Cleanup"
@@ -20,7 +20,7 @@ Al het plastic uit de oceanen opruimen: dat is de grote droom van Boyan Slat (22
         
   
   <div class="content">
-    <img alt="Boyan Slat over zijn Ocean Cleanup" title="Beeld: ANP" height="924" width="1556" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-46281688.jpg">  </div>
+    <img alt="Boyan Slat over zijn Ocean Cleanup" title="Beeld: ANP" height="924" width="1556" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-46281688.jpg">  </div>
 
   
 </div>
@@ -34,7 +34,7 @@ Al het plastic uit de oceanen opruimen: dat is de grote droom van Boyan Slat (22
         
   
   <div class="content">
-    <img alt="Boyan Slat over zijn Ocean Cleanup" title="Beeld: AFP" height="860" width="1356" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-27939273.jpg">  </div>
+    <img alt="Boyan Slat over zijn Ocean Cleanup" title="Beeld: AFP" height="860" width="1356" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-27939273.jpg">  </div>
 
   
 </div>
@@ -42,4 +42,4 @@ Al het plastic uit de oceanen opruimen: dat is de grote droom van Boyan Slat (22
 <h3>65 onderzoekers</h3>
 <p>In 2013 begon Boyan met The Ocean Cleanup. Van alle kanten kreeg hij steun én geld. Maar ook kritiek. 'Door alle aandacht kwamen er ook artikelen van mensen die zeiden dat het een belachelijk idee was. Daar heb ik wel slapeloze nachten van gehad.' Maar Boyan zette door. Vorig jaar onthulde hij een prototype. En straks kan Boyan, samen met 65 onderzoekers en technici die aan het project meewerken, de eerste grote test gaan doen.</p>
 <p>De plastic rommel tussen Hawaï en Californië is één van de vijf plekken waar het plastic samenklontert. Als het aan Boyan ligt, is al het plastic voor zijn dertigste uit de oceanen gevist.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

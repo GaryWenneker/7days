@@ -1,5 +1,5 @@
 ---
-id: b5d53292686f4e9da3b923f4ecac9e2f
+id: 1a4b5e4dee3d468b9dc10e9455d16557
 type: nieuws
 layout: post
 title: "Duurzamere mode? Gewoon minder kopen!"

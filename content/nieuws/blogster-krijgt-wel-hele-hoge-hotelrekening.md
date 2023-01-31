@@ -1,5 +1,5 @@
 ---
-id: b40325c3fa594b758140b5841a368055
+id: 73cc84e9d4a84e088145d75b1dff7411
 type: nieuws
 layout: post
 title: "Blogster krijgt wel hele hoge hotelrekening"

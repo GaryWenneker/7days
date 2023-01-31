@@ -1,5 +1,5 @@
 ---
-id: 836558b1196343de8f07aa9000670c05
+id: ff2c51f3406c41a1bbb3bb641c3d8215
 type: nieuws
 layout: post
 title: "Abraham Keita (17) wint Kindervredesprijs"
@@ -19,11 +19,11 @@ Hij groeide op in West Point, de grootste sloppenwijk van Liberia. En raakte gew
         
   
   <div class="content">
-    <img height="3252" width="4000" style="font-size: 13.008px; line-height: 1.538em;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-34956527.jpg" alt="">  </div>
+    <img height="3252" width="4000" style="font-size: 13.008px; line-height: 1.538em;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-34956527.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <p>Onophoudelijk pleit hij ervoor dat de politie meer moet doen om daders op te sporen en te straffen. En hij zit in het Kinderparlement in Liberia. Daar stapt hij onverschrokken op politici af om ze erop te wijzen dat ze meer moeten doen om de boel beter te maken. 'De daden van deze bijzondere jongen overstijgen de landsgrenzen van Liberia. Keita is een internationaal voorbeeld. Hij laat zien dat geweld tegen kinderen niet onbestraft mag blijven', aldus de jury van de Kindervredesprijs.</p>
 <p>In de papieren <em>7Days </em>van vrijdag lees je een interview met Keita waarin hij vertelt over die bewuste dag waarop hij zijn besluit nam. En over de sloppenwijk waar hij woont. En over zijn dromen. </p>
-<p><em>Meer over de Internationale Kindervredesprijs en alle vorige winnaars lees je <a href="https://original.sevendays.nl/archief/tien-jaar-kindervredesprijs">hier</a>.</em></p>  
+<p><em>Meer over de Internationale Kindervredesprijs en alle vorige winnaars lees je <a href="https://7dagen.netlify.app/archief/tien-jaar-kindervredesprijs">hier</a>.</em></p>  

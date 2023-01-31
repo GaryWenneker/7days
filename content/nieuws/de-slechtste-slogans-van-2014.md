@@ -1,5 +1,5 @@
 ---
-id: f76582871140400d9debf4e97576c1c8
+id: f288dbb7cb864bf3a6e36b128f35f69c
 type: nieuws
 layout: post
 title: "De slechtste slogans van 2014"
@@ -21,7 +21,7 @@ Een timmer timmert, een tandarts boort... maar wij zitten lekker in Velsen Noord
         
   
   <div class="content">
-    <img height="254" width="200" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/32.png" alt="">  </div>
+    <img height="254" width="200" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/32.png" alt="">  </div>
 
   
 </div>
@@ -33,7 +33,7 @@ Een timmer timmert, een tandarts boort... maar wij zitten lekker in Velsen Noord
         
   
   <div class="content">
-    <img height="138" width="200" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/33.png" alt="">  </div>
+    <img height="138" width="200" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/33.png" alt="">  </div>
 
   
 </div>

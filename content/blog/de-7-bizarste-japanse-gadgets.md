@@ -1,5 +1,5 @@
 ---
-id: ea5e9609966d43cba42fcd11d1bde2ca
+id: 3ffae25e2d1d40b3b87520825b140e49
 type: post
 layout: post
 title: "De 7 bizarste Japanse gadgets"
@@ -19,7 +19,7 @@ Japan is het land van de moeilijke taal, de eenvoudige vlag én de gekke gadget
         
   
   <div class="content">
-    <img height="400" width="540" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px; width: 320px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/mewgaroo-hoodie-cat-pouch-snuggle-cuddle-clothes-1.jpg" alt="">  </div>
+    <img height="400" width="540" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px; width: 320px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/mewgaroo-hoodie-cat-pouch-snuggle-cuddle-clothes-1.jpg" alt="">  </div>
 
   
 </div>
@@ -30,7 +30,7 @@ Japan is het land van de moeilijke taal, de eenvoudige vlag én de gekke gadget
         
   
   <div class="content">
-    <img height="300" width="500" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px; height: 192px; width: 320px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/babymopa__53361_zoom.jpg" alt="">  </div>
+    <img height="300" width="500" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px; height: 192px; width: 320px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/babymopa__53361_zoom.jpg" alt="">  </div>
 
   
 </div>
@@ -41,7 +41,7 @@ Japan is het land van de moeilijke taal, de eenvoudige vlag én de gekke gadget
         
   
   <div class="content">
-    <img height="310" width="580" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px; width: 320px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ns-10.png" alt="">  </div>
+    <img height="310" width="580" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px; width: 320px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ns-10.png" alt="">  </div>
 
   
 </div>
@@ -68,17 +68,17 @@ Japan is het land van de moeilijke taal, de eenvoudige vlag én de gekke gadget
         
   
   <div class="content">
-    <img height="266" width="540" style="width: 320px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/rainbow-flash-led-light-up-umbrella-1.jpg" alt="">  </div>
+    <img height="266" width="540" style="width: 320px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/rainbow-flash-led-light-up-umbrella-1.jpg" alt="">  </div>
 
   
 </div>
 </div>
-<p><strong>6. Bevend hoofd</strong><br>Misschien een goed idee om deze gadget aan te schaffen op scholen in <a href="https://original.sevendays.nl/blog/wie-wil-er-nog-naar-groningen">Groningen</a>. Dit lijkt op het eerste gezicht een onschuldige tas, maar dat is het niet. Het is namelijk een beschermhoed tegen aardbevingen. In Japan komen die best vaak voor. De muts ziet er uiterst charmant uit én kan ook worden gebruikt als kussen. Groningers, belangstelling?<div class="media media-element-container media-default"><div id="file-4743" class="file file-image file-image-jpeg">
+<p><strong>6. Bevend hoofd</strong><br>Misschien een goed idee om deze gadget aan te schaffen op scholen in <a href="https://7dagen.netlify.app/blog/wie-wil-er-nog-naar-groningen">Groningen</a>. Dit lijkt op het eerste gezicht een onschuldige tas, maar dat is het niet. Het is namelijk een beschermhoed tegen aardbevingen. In Japan komen die best vaak voor. De muts ziet er uiterst charmant uit én kan ook worden gebruikt als kussen. Groningers, belangstelling?<div class="media media-element-container media-default"><div id="file-4743" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img height="400" width="540" style="width: 320px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/zukin-earthquake-hood-head-protection-cover-1.jpg" alt="">  </div>
+    <img height="400" width="540" style="width: 320px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/zukin-earthquake-hood-head-protection-cover-1.jpg" alt="">  </div>
 
   
 </div>
@@ -89,7 +89,7 @@ Japan is het land van de moeilijke taal, de eenvoudige vlag én de gekke gadget
         
   
   <div class="content">
-    <img height="312" width="540" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px; width: 320px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/super-gorone-desk-laptop-frame-bed-computer-thanko-1.jpg" alt="">  </div>
+    <img height="312" width="540" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px; width: 320px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/super-gorone-desk-laptop-frame-bed-computer-thanko-1.jpg" alt="">  </div>
 
   
 </div>

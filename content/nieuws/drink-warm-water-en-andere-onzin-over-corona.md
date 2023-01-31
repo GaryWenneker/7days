@@ -1,5 +1,5 @@
 ---
-id: ede5faf1a18f41b0b87ea45535e5134f
+id: 7dfcc377bb2342529d323b336d999ca1
 type: nieuws
 layout: post
 title: "'Drink warm water' en andere onzin over corona"

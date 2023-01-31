@@ -1,5 +1,5 @@
 ---
-id: f09ef14103694d7a9fe6f28cb4ea3ef0
+id: ccaaf12cc68746f8afd7052e6f2e1523
 type: nieuws
 layout: post
 title: "Golden Globes uitgereikt: de awards én de jurken"

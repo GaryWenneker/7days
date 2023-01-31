@@ -1,5 +1,5 @@
 ---
-id: b5855e5b7ce341adb8684241439a5205
+id: e73ee95feb544e669bc524681b5d7281
 type: nieuws
 layout: post
 title: "De dodelijkste dieren"
@@ -21,7 +21,7 @@ seo:
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/2.png" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/2.png" alt="">  </div>
 
   
 </div>
@@ -33,7 +33,7 @@ seo:
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/3.png" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/3.png" alt="">  </div>
 
   
 </div>
@@ -45,7 +45,7 @@ seo:
         
   
   <div class="content">
-    <img height="342" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/4.png" alt="">  </div>
+    <img height="342" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/4.png" alt="">  </div>
 
   
 </div>
@@ -57,7 +57,7 @@ seo:
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/5.png" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/5.png" alt="">  </div>
 
   
 </div>
@@ -69,7 +69,7 @@ seo:
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/1_3.jpg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/1_3.jpg" alt="">  </div>
 
   
 </div>

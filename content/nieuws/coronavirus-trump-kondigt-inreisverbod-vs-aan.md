@@ -1,5 +1,5 @@
 ---
-id: 0d501db94a9b44888261e814792ce097
+id: 6de6bd8f9adf48118f6a9ce72eaa0009
 type: nieuws
 layout: post
 title: "Coronavirus: Trump kondigt inreisverbod VS aan"

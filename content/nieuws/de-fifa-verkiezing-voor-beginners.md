@@ -1,5 +1,5 @@
 ---
-id: 133f6d2e95974a00b1dc8c1657c1c2b0
+id: 0ae9937cdc73414d8f32ae3229902f5d
 type: nieuws
 layout: post
 title: "De FIFA-verkiezing voor beginners"
@@ -23,11 +23,11 @@ Diepgewortelde corruptie, een ernstig beschadigd imago én een rondsnuffelende F
         
   
   <div class="content">
-    <img alt="blatter FIFA verkiezing voorzitter" title="Foto: AFP" height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-34326981_0.jpg">  </div>
+    <img alt="blatter FIFA verkiezing voorzitter" title="Foto: AFP" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-34326981_0.jpg">  </div>
 
   
 </div>
-</div><em>Oude baas Sepp Blatter kreeg afgelopen juli een gelddouche. <a href="https://original.sevendays.nl/video/gelddouche-voor-sepp-blatter">Tegen zijn zin in.</a></em>
-<p><strong>Tijd voor schoon schip</strong><br>Met zo’n grote puinhoop is het voor de FIFA dus zaak om schoon schip te maken. Slecht nieuws is dat aan alle huidige kandidaten iets negatiefs kleeft (<a href="https://original.sevendays.nl/nieuws/wie-wordt-de-nieuwe-fifa-baas">lees dit artikel maar</a>). </p>
+</div><em>Oude baas Sepp Blatter kreeg afgelopen juli een gelddouche. <a href="https://7dagen.netlify.app/video/gelddouche-voor-sepp-blatter">Tegen zijn zin in.</a></em>
+<p><strong>Tijd voor schoon schip</strong><br>Met zo’n grote puinhoop is het voor de FIFA dus zaak om schoon schip te maken. Slecht nieuws is dat aan alle huidige kandidaten iets negatiefs kleeft (<a href="https://7dagen.netlify.app/nieuws/wie-wordt-de-nieuwe-fifa-baas">lees dit artikel maar</a>). </p>
 <p>Ook lijken ze qua ideeën op elkaar. Zo willen ze allemaal dat voor iedereen duidelijker wordt hoe de FIFA werkt en dat er een betere check komt op de eerlijkheid van bestuurders. De meesten komen niet verder dan het benoemen van die ideeën. Een duidelijk plan van aanpak heeft niemand. Het zijn de ultieme open deuren na de corruptieophef. </p>
-<p><strong>Zieltjes winnen</strong><br>Daarnaast zijn alle kandidaten voorstander van een WK met meer deelnemers en een verhoging van het jaarlijkse zakgeld dat nationale bonden van de FIFA krijgen voor ontwikkeling van het voetbal. Logisch, want daarmee win je stemmen bij de talloze kleine voetballanden. Hun stem telt net zo zwaar als die van het handjevol grote voetballanden. En uiteindelijk gaat het dáár om: wie heeft vrijdag de meeste vriendjes gemaakt en wordt de machtigste man in de voetbalwereld?<br><br><em>Wie zijn die vijf figuren die vandaag mogelijk de nieuwe FIFA-baas worden? We stellen ze <a href="https://original.sevendays.nl/nieuws/wie-wordt-de-nieuwe-fifa-baas">hier</a> aan je voor. En weten hoe die corruptie-zaak precies in elkaar steekt? Lees ons <a href="https://original.sevendays.nl/dossier-fifa">Dossier FIFA</a>.</em></p>  
+<p><strong>Zieltjes winnen</strong><br>Daarnaast zijn alle kandidaten voorstander van een WK met meer deelnemers en een verhoging van het jaarlijkse zakgeld dat nationale bonden van de FIFA krijgen voor ontwikkeling van het voetbal. Logisch, want daarmee win je stemmen bij de talloze kleine voetballanden. Hun stem telt net zo zwaar als die van het handjevol grote voetballanden. En uiteindelijk gaat het dáár om: wie heeft vrijdag de meeste vriendjes gemaakt en wordt de machtigste man in de voetbalwereld?<br><br><em>Wie zijn die vijf figuren die vandaag mogelijk de nieuwe FIFA-baas worden? We stellen ze <a href="https://7dagen.netlify.app/nieuws/wie-wordt-de-nieuwe-fifa-baas">hier</a> aan je voor. En weten hoe die corruptie-zaak precies in elkaar steekt? Lees ons <a href="https://7dagen.netlify.app/dossier-fifa">Dossier FIFA</a>.</em></p>  

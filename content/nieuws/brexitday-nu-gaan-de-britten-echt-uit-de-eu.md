@@ -1,5 +1,5 @@
 ---
-id: a2977ed31363426a95c1f39f5f7dbc1b
+id: d38c0b79a7de4127b47ffc4d2a535f95
 type: nieuws
 layout: post
 title: "Brexitday: nu gaan de Britten echt uit de EU"
@@ -19,7 +19,7 @@ Doei! Ciao! Auf wiedersehen! Au revoir! Dat zeggen de leiders in de Europese Un
         
   
   <div class="content">
-    <img title="Foto: AFP" height="454" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/7D%20Brexit%20brief%20ANP-50463511.jpg" alt="">  </div>
+    <img title="Foto: AFP" height="454" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/7D%20Brexit%20brief%20ANP-50463511.jpg" alt="">  </div>
 
   
 </div>
@@ -77,4 +77,4 @@ Doei! Ciao! Auf wiedersehen! Au revoir! Dat zeggen de leiders in de Europese Un
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

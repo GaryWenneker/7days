@@ -1,5 +1,5 @@
 ---
-id: e8c576b4aa484f08825e023409919e01
+id: 4f4efa9d82894fbba203023d668829dd
 type: nieuws
 layout: post
 title: "'Aardbeving Nepal zat eraan te komen'"
@@ -20,7 +20,7 @@ Duizenden doden, vele gewonden, grote verwoesting en veel paniek. De gevolgen va
         
   
   <div class="content">
-    <img title="Beeld: ANP" height="744" width="1196" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Aardbeving-Nepal.jpg" alt="">  </div>
+    <img title="Beeld: ANP" height="744" width="1196" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Aardbeving-Nepal.jpg" alt="">  </div>
 
   
 </div>
@@ -32,10 +32,10 @@ Duizenden doden, vele gewonden, grote verwoesting en veel paniek. De gevolgen va
         
   
   <div class="content">
-    <img title="Foto: AFP" height="500" width="750" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/schokbestendige%20school%20nepal.jpg" alt="">  </div>
+    <img title="Foto: AFP" height="500" width="750" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/schokbestendige%20school%20nepal.jpg" alt="">  </div>
 
   
 </div>
 </div><br><em>Schokbestendige school in Deurali (Nepal) Foto Smart Shelter Foundation</em>
 <p><strong>Hoe bouw je zulke huizen?</strong><br>Daar weet architect Martijn Schildkamp veel van. Met zijn Smart Shelter Foundation helpt hij al een paar jaar Nepalezen om huizen te maken die tegen een stootje kunnen. 'Eigenlijk is dat helemaal niet zo ingewikkeld. En maar 20% duurder’, vertelt hij. ‘We gebruiken zoveel mogelijk plaatselijke materialen. De Nepalezen bouwen dikke muren met bergstenen. Wij leren hen dat het steviger wordt als je die met cement metselt in plaats van met leem. Je moet je huis niet te groot maken. De hoeken verstevig je met stalen staven. Ramen en deuren maak je ook niet groot en verstevig je met balken. Dan krijg je een krachtige kooiconstructie. Zo hebben we nu ongeveer vijftien scholen gebouwd. En een hostel voor blinde studenten. Ze staan in een berggebied ten noorden van Kathmandu. Vlakbij het epicentrum. Ik heb nog niet met alle dorpen contact gehad, maar van een aantal scholen en ook het blindeninstituut weet ik dat ze onbeschadigd zijn. Het is een heel fijn idee dat de kinderen daar in ieder geval een veilige plek hebben. Maar verder liggen de dorpen plat. En dat is supertriest.'</p>
-<p><em>Meer weten? In ons <a href="https://original.sevendays.nl/dossier-nepal">Dossier Nepal</a> lees je meer over de aardbeving in Nepal.</em></p>  
+<p><em>Meer weten? In ons <a href="https://7dagen.netlify.app/dossier-nepal">Dossier Nepal</a> lees je meer over de aardbeving in Nepal.</em></p>  

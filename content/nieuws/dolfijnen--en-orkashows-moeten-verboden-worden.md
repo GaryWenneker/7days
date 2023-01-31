@@ -1,5 +1,5 @@
 ---
-id: 3df637ec41194e47abbf1b6b770f4ed7
+id: 02d811230237478092a37d2b598f4c49
 type: nieuws
 layout: post
 title: "'Dolfijnen- en orkashows moeten verboden worden'"
@@ -20,22 +20,22 @@ Het was jarenlang dé topattractie van SeaWorld in de Amerikaanse stad San Dieg
         
   
   <div class="content">
-    <img alt="SeaWorld" title="Beeld: AFP" height="862" width="1488" style="font-size: 13.008px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-12072385.jpg">  </div>
+    <img alt="SeaWorld" title="Beeld: AFP" height="862" width="1488" style="font-size: 13.008px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-12072385.jpg">  </div>
 
   
 </div>
 </div>
-<p>In Nederland gebeurde hetzelfde vorig jaar. Onderzoeksprogramma <em>RamBam </em><a href="https://original.sevendays.nl/nieuws/dolfinarium-meer-circus-dan-dierentuin" target="_blank">toonde aan in welke omstandigheden</a> de dolfijnen in het Dolfinarium in Harderwijk leven. De dieren zouden in te kleine baden rondzwemmen. Het Dolfinarium (het grootste zeezoogdierenpark van Europa) was boos: ze zouden juist uitstekend voor de dieren zorgen.</p>
+<p>In Nederland gebeurde hetzelfde vorig jaar. Onderzoeksprogramma <em>RamBam </em><a href="https://7dagen.netlify.app/nieuws/dolfinarium-meer-circus-dan-dierentuin" target="_blank">toonde aan in welke omstandigheden</a> de dolfijnen in het Dolfinarium in Harderwijk leven. De dieren zouden in te kleine baden rondzwemmen. Het Dolfinarium (het grootste zeezoogdierenpark van Europa) was boos: ze zouden juist uitstekend voor de dieren zorgen.</p>
 <div class="kader">
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p>Lees ook: <a href="https://original.sevendays.nl/nieuws/dolfinarium-meer-circus-dan-dierentuin">'Dolfinarium is meer circus dan dierentuin'</a></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p>Lees ook: <a href="https://7dagen.netlify.app/nieuws/dolfinarium-meer-circus-dan-dierentuin">'Dolfinarium is meer circus dan dierentuin'</a></p>
 </div>
 <h3>Politiek</h3>
 <p>De kritiek op dolfijnen- en orkashows is niet nieuw. De afgelopen tientallen jaren is er steeds meer onderzoek gedaan naar het welzijn van zeezoogdieren. In circussen zijn wilde dieren sinds 2015 al verboden. In de politiek klinken er geluiden om ook dolfinaria te verbieden - met de Partij voor de Dieren die dat als hardste roept.</p>
 <p>Niet alleen in de Verenigde Staten en in Nederland, maar wereldwijd willen dierenliefhebbers dat de shows met wilde dieren stoppen. In Finland sloot het dierenpark Särkänniemi in 2015 zijn deuren, na jarenlange protesten en handtekeningen van boze burgers.</p>
 <h3>Educatieve functie</h3>
 <p>In Nederland loopt het zo'n vaart nog niet. De dolfinaria zelf hameren op hun 'educatieve functie': het is voor bezoekers leerzaam om de dieren van dichtbij te zien. SeaWorld San Diego komt daarom deze zomer met een nieuwe orkashow, waarin je kunt zien hoe orka's eten, communiceren en navigeren. Volgens critici verandert er dus weinig: de dieren blijven kunstjes doen.</p>
-<p><em>Wat vind jij: moeten shows met dolfijnen en orka's verboden worden? <a href="https://original.sevendays.nl/stelling-9">Stem op onze poll</a>!</em></p>
+<p><em>Wat vind jij: moeten shows met dolfijnen en orka's verboden worden? <a href="https://7dagen.netlify.app/stelling-9">Stem op onze poll</a>!</em></p>
 <p><article id="node-9633" class="node node-poll clearfix io-article-body" role="article">
   <header>
 
@@ -46,7 +46,7 @@ Het was jarenlang dé topattractie van SeaWorld in de Amerikaanse stad San Dieg
   <div class="content">
     
   <div class="field field-name-field-vraag-link field-type-link-field field-label-hidden">
-    <a href="https://original.sevendays.nl/nieuws/dolfijnen-en-orkashows-moeten-verboden-worden">'Dolfijnen- en orkashows moeten verboden worden'</a>  </div>
+    <a href="https://7dagen.netlify.app/nieuws/dolfijnen-en-orkashows-moeten-verboden-worden">'Dolfijnen- en orkashows moeten verboden worden'</a>  </div>
 <form action="/nieuws/dolfijnen-en-orkashows-moeten-verboden-worden" method="post" id="poll-view-voting" accept-charset="UTF-8"><div><div class="poll">
   <div class="vote-form">
     <div class="choices">

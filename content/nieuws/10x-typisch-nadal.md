@@ -1,5 +1,5 @@
 ---
-id: adc93036032442d2a42486228bdb81c2
+id: be96fd5051824742ac94cf660f15f8da
 type: nieuws
 layout: post
 title: "10x typisch Nadal"
@@ -36,4 +36,4 @@ Als de Spaanse Rafael Nadal zijn halve finale wint, maakt hij zondag kans om voo
 <p>Is de mini-pauze op de bankjes (die van Nadal staat altijd precies evenwijdig aan de baan) voorbij, dan wacht Nadal net zo lang tot zijn tegenstander is opgestaan. Dan pas stapt hij zelf de baan op. Met zijn rechtervoet eerst natuurlijk.</p>
 <h3>10. Hap!</h3>
 <p>Op de foto hierboven kon je het al zien. Nadal zet graag zijn tanden in een trofee. Hij deed het negen keer eerder en wie weet mag hij zondag voor de tiende keer zijn tanden testen op de <i>Coupe des Mousquetaires!</i></p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op 7Days!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op 7Days!</em></p>  

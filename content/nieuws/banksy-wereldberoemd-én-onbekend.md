@@ -1,5 +1,5 @@
 ---
-id: ba9ddaaf5f7549dc958e6040aac0b32f
+id: 80070261c9f3466c8960aedb8f98988d
 type: nieuws
 layout: post
 title: "Banksy: wereldberoemd én onbekend"
@@ -36,7 +36,7 @@ Dat hij dol is op gestunt met zijn straatkunst is bekend. En dat hij er graag co
         
   
   <div class="content">
-    <img alt="Een &#039;Banksy&#039; in vluchtelingenkamp The Jungle in Calais van voormalig Apple-topman én kind van migranten Steve Jobs  Foto AFP" title="Een &#039;Banksy&#039; in vluchtelingenkamp The Jungle in Calais van voormalig Apple-topman én kind van migranten Steve Jobs  Foto AFP" height="3060" width="4800" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-35387756.jpg">  </div>
+    <img alt="Een &#039;Banksy&#039; in vluchtelingenkamp The Jungle in Calais van voormalig Apple-topman én kind van migranten Steve Jobs  Foto AFP" title="Een &#039;Banksy&#039; in vluchtelingenkamp The Jungle in Calais van voormalig Apple-topman én kind van migranten Steve Jobs  Foto AFP" height="3060" width="4800" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-35387756.jpg">  </div>
 
   
 </div>

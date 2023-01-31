@@ -1,5 +1,5 @@
 ---
-id: fd499347387942808d7eec92deb2a2c0
+id: e3c99ca4339f40eea103d19f7499fc21
 type: nieuws
 layout: post
 title: "Amerikaanse McDonald's neemt jongeren aan via Snapchat"
@@ -23,11 +23,11 @@ Grote bedrijven proberen steeds meer uit Snapchat te halen. McDonald's heeft nu 
         
   
   <div class="content">
-    <img title="Foto: McDonalds" height="366" width="650" style="width: 900px; height: 507px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/7D%20Snapchat%20Macca.jpeg" alt="">  </div>
+    <img title="Foto: McDonalds" height="366" width="650" style="width: 900px; height: 507px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/7D%20Snapchat%20Macca.jpeg" alt="">  </div>
 
   
 </div>
 </div><em>Een advertentie uit Australië voor de Snaplications.</em>
 <h3>Nederland</h3>
 <p>Anders dan in de VS, werkt in Nederland al jarenlang ongeveer <a href="http://statline.cbs.nl/Statweb/publication/?DM=SLNL&amp;PA=82309ned&amp;D1=0,2-10,22-23&amp;D2=0&amp;D3=11&amp;D4=0&amp;D5=0-3,5-8,10-13,15-18,20-23,25-28,30-33,35-38,40-43,45-48,50-53,55-70&amp;HDR=G1,G2,G3,T&amp;STB=G4&amp;VW=T" target="_blank">50% van de jongeren</a> tussen de 15 tot 20 jaar. Of McDonald's ook in Nederland wil gaan proberen om via Snapchat jongeren aan te nemen, is nog niet bekend. <em>7Days </em>heeft McDonald's om een reactie gevraagd. Zodra we een reactie van ze krijgen, dan wordt dit artikel aangevuld. </p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op 7Days!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op 7Days!</em></p>  

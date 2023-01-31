@@ -1,5 +1,5 @@
 ---
-id: 0a7889a435fd4d58a118cd3dfe2f4d38
+id: a5404d737b3e476fbcf66e88f11c7510
 type: nieuws
 layout: post
 title: "Eenzame Chinese man (85) zocht adoptiefamilie"
@@ -23,7 +23,7 @@ seo:
         
   
   <div class="content">
-    <img alt="Han Zicheng" title="Foto: Getty Images" height="683" width="1024" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/GettyImages-953645564.jpg">  </div>
+    <img alt="Han Zicheng" title="Foto: Getty Images" height="683" width="1024" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/GettyImages-953645564.jpg">  </div>
 
   
 </div>

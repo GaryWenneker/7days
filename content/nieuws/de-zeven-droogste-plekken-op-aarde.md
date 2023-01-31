@@ -1,5 +1,5 @@
 ---
-id: abaa9220a7ac45c49a18be5e19da5f79
+id: b10d859c46b540d49dfea976f487b1f3
 type: nieuws
 layout: post
 title: "De zeven droogste plekken op aarde"
@@ -19,7 +19,7 @@ Extreme droogte komt in Nederland vrijwel niet voor. Elk jaar valt er in Nederla
         
   
   <div class="content">
-    <img title="Foto: Wikipedia Commons" height="375" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Dry%20valley%20-%20wikipedia%20commons.jpg" alt="">  </div>
+    <img title="Foto: Wikipedia Commons" height="375" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Dry%20valley%20-%20wikipedia%20commons.jpg" alt="">  </div>
 
   
 </div>
@@ -31,7 +31,7 @@ Extreme droogte komt in Nederland vrijwel niet voor. Elk jaar valt er in Nederla
         
   
   <div class="content">
-    <img title="Foto: Wikipedia Commons" height="375" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/arica%20-%20wikipedia%20commons.jpg" alt="">  </div>
+    <img title="Foto: Wikipedia Commons" height="375" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/arica%20-%20wikipedia%20commons.jpg" alt="">  </div>
 
   
 </div>
@@ -43,7 +43,7 @@ Extreme droogte komt in Nederland vrijwel niet voor. Elk jaar valt er in Nederla
         
   
   <div class="content">
-    <img title="Foto: Wikipedia Commons" height="375" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Al%20Kufrah%20-%20wikipedia%20commons.jpg" alt="">  </div>
+    <img title="Foto: Wikipedia Commons" height="375" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Al%20Kufrah%20-%20wikipedia%20commons.jpg" alt="">  </div>
 
   
 </div>
@@ -55,7 +55,7 @@ Extreme droogte komt in Nederland vrijwel niet voor. Elk jaar valt er in Nederla
         
   
   <div class="content">
-    <img title="Foto: Wikipedia Commons" height="375" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/wikipedia%20commons%20-%20wadi%20halfa.jpg" alt="">  </div>
+    <img title="Foto: Wikipedia Commons" height="375" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/wikipedia%20commons%20-%20wadi%20halfa.jpg" alt="">  </div>
 
   
 </div>
@@ -67,7 +67,7 @@ Extreme droogte komt in Nederland vrijwel niet voor. Elk jaar valt er in Nederla
         
   
   <div class="content">
-    <img title="Foto: Pixabay" height="375" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/aswan%20-%20pixabay.jpg" alt="">  </div>
+    <img title="Foto: Pixabay" height="375" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/aswan%20-%20pixabay.jpg" alt="">  </div>
 
   
 </div>
@@ -79,7 +79,7 @@ Extreme droogte komt in Nederland vrijwel niet voor. Elk jaar valt er in Nederla
         
   
   <div class="content">
-    <img title="Foto: Pixabay" height="375" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Luxor%20-%20pixabay.jpg" alt="">  </div>
+    <img title="Foto: Pixabay" height="375" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Luxor%20-%20pixabay.jpg" alt="">  </div>
 
   
 </div>
@@ -91,15 +91,15 @@ Extreme droogte komt in Nederland vrijwel niet voor. Elk jaar valt er in Nederla
         
   
   <div class="content">
-    <img title="Foto: Pixabay" height="485" width="1280" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Icac%20Peru%20-%20pixabay.jpg" alt="">  </div>
+    <img title="Foto: Pixabay" height="485" width="1280" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Icac%20Peru%20-%20pixabay.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <p>Deze Peruaanse stad krijgt nét twee millimeter regen per jaar, in verhouding met Arica nat te noemen, en is het hele jaar warm. Ooit was dat heel anders: er zijn fossielen gevonden van prehistorische pinguïns. </p>
 <div class="kader">
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p>Vond je dit interessant? Lees dan ook eens<a href="https://original.sevendays.nl/lifestyle/fenna-17-van-hoefwijzer-over-het-succes-van-paardentubers" target="_blank"> </a><a href="https://original.sevendays.nl/video/video-waanzinnige-woestijnstunt">Video: waanzinnige woestijnstunt</a> of <a href="https://original.sevendays.nl/nieuws/beeld-mega-marathon-door-de-woestijn">In beeld: mega-marathon door de woestijn</a>.</p>
-<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://original.sevendays.nl/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp</a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">,</em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://original.sevendays.nl/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"> </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p>Vond je dit interessant? Lees dan ook eens<a href="https://7dagen.netlify.app/lifestyle/fenna-17-van-hoefwijzer-over-het-succes-van-paardentubers" target="_blank"> </a><a href="https://7dagen.netlify.app/video/video-waanzinnige-woestijnstunt">Video: waanzinnige woestijnstunt</a> of <a href="https://7dagen.netlify.app/nieuws/beeld-mega-marathon-door-de-woestijn">In beeld: mega-marathon door de woestijn</a>.</p>
+<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://7dagen.netlify.app/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp</a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">,</em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://7dagen.netlify.app/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"> </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
 </div>
   

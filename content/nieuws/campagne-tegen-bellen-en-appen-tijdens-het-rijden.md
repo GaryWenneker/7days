@@ -1,5 +1,5 @@
 ---
-id: c58bca054d5041dda5d4944064e10aec
+id: 9e2f139ce3054d5091bcb964613964fc
 type: nieuws
 layout: post
 title: "Campagne tegen bellen en appen tijdens het rijden"
@@ -20,4 +20,4 @@ Bellen of appen tijdens het autorijden of fietsen. Veel mensen doen het, maar h
 <h3>Onbereikbaar</h3>
 <p>De campagne geeft verschillende tips. Zo kun je ervoor kiezen om je telefoon onderweg op stil te zetten, 'm weg te stoppen in je tas of in het dashboardkastje of om helemaal niet bereikbaar te zijn door een speciale functie op je smartphone in te schakelen.</p>
 <h3>Appen</h3>
-<p>De <em>NOS </em>schrijft dat het aantal verkeersongelukken sinds 2016 weer toeneemt, na een jarenlange daling. Appen achter het stuur in de auto is al verboden, maar <a href="https://original.sevendays.nl/nieuws/appen-op-de-fiets-voorlopig-niet-verboden" target="_blank">appen op de fiets</a> nog niet.</p>  
+<p>De <em>NOS </em>schrijft dat het aantal verkeersongelukken sinds 2016 weer toeneemt, na een jarenlange daling. Appen achter het stuur in de auto is al verboden, maar <a href="https://7dagen.netlify.app/nieuws/appen-op-de-fiets-voorlopig-niet-verboden" target="_blank">appen op de fiets</a> nog niet.</p>  

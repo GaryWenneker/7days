@@ -1,5 +1,5 @@
 ---
-id: 93d1edbc1dda4cf4acb1a99b4cb18566
+id: 71a8196417c94456b6ab25ec7f18e0b4
 type: nieuws
 layout: post
 title: "De Mount Everest in 360 graden"
@@ -19,7 +19,7 @@ De Mount Everest beklimmen is reuzegevaarlijk. Dat wisten we al. En afgelopen we
         
   
   <div class="content">
-    <img title="Project360" height="365" width="784" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Hillary%20Step.jpg" alt="">  </div>
+    <img title="Project360" height="365" width="784" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Hillary%20Step.jpg" alt="">  </div>
 
   
 </div>

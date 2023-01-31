@@ -1,5 +1,5 @@
 ---
-id: 08efda96bec84b55b4f236bd34e06e5a
+id: 90e2aefc015b490d9b5a566ccc091bdb
 type: nieuws
 layout: post
 title: "Chaos in Italiaanse politiek: wat is er aan de hand?"
@@ -21,7 +21,7 @@ Spannende tijden in de Italiaanse politiek. Premier Giuseppe Conte (op de foto h
         
   
   <div class="content">
-    <img alt="EPA" title="Foto: EPA" height="2047" width="3072" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-77230989_0.jpg">  </div>
+    <img alt="EPA" title="Foto: EPA" height="2047" width="3072" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-77230989_0.jpg">  </div>
 
   
 </div>

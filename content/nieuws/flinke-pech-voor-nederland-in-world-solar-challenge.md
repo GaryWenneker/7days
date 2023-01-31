@@ -1,5 +1,5 @@
 ---
-id: ca233691c78a4127a42bce82b03974cf
+id: 866003a669ed443e8397d78edd5a5605
 type: nieuws
 layout: post
 title: "Flinke pech voor Nederland in World Solar Challenge"
@@ -21,7 +21,7 @@ Twee van de vier Nederlandse deelnemers aan de World Solar Challenge zijn uitgev
         
   
   <div class="content">
-    <img alt="Vattenfall Solar Team kijkt naar hun uitgebrande auto" title="Foto ANP" height="1667" width="2500" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-78296747.jpg">  </div>
+    <img alt="Vattenfall Solar Team kijkt naar hun uitgebrande auto" title="Foto ANP" height="1667" width="2500" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-78296747.jpg">  </div>
 
   
 </div>
@@ -35,7 +35,7 @@ Twee van de vier Nederlandse deelnemers aan de World Solar Challenge zijn uitgev
         
   
   <div class="content">
-    <img alt="Agoria Solar Team uit België won de race" title="Foto AFP" height="2002" width="3000" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-78295914.jpg">  </div>
+    <img alt="Agoria Solar Team uit België won de race" title="Foto AFP" height="2002" width="3000" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-78295914.jpg">  </div>
 
   
 </div>

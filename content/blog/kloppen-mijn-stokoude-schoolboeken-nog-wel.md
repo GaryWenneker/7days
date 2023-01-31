@@ -1,5 +1,5 @@
 ---
-id: c4fa52f7b7a84a3ba4be3849973da7bf
+id: ba36216b631a4398b06381dbbeac65af
 type: post
 layout: post
 title: "Kloppen mijn stokoude schoolboeken nog wel?"
@@ -20,4 +20,4 @@ Van maandag tot en met vrijdag stap ik met een tas vol boeken op mijn fiets. So
 <p>De natuurkundelessen zouden moeten veranderen. Schoolboeken zouden herdrukt moeten worden, maar wat waarschijnlijk nog veel belangrijker is: jouw cijferlijst moet nog steeds vol met cijfertjes komen. Je zou niet meer uit het boek kunnen leren, je docenten zouden je zelf iets moeten bijbrengen.</p>
 <p>En dat deze ontdekking zo groot in het nieuws is, sluit niet uit dat er misschien op dit moment ook allerlei mini-ontdekkingen worden gedaan. Dat Fransen het woord <em>plaisant </em>niet meer gebruiken maar juist het woord <em>amusant </em>bijvoorbeeld. Het zou alleen niet uit zichzelf in mijn boekje uit 1998 komen te staan.  </p>
 <p><b>Eenentwintigste eeuw</b><br>Nu mijn schoolboeken blijkbaar niet de enige bron van informatie zijn, zal ik toch maar beter moeten letten op wat mijn docenten precies zeggen. In de hoop dat zij mij ook Franse woordjes en natuurkundige theorieën uit de eenentwintigste eeuw zullen uitleggen. Dus docenten, houdt ons bij de tijd en kijk alsjeblieft verder dan het boek lang is!</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/jeanine-krist">Jeanine</a> (14)? Laatst schreef ze ook al <a href="https://original.sevendays.nl/blog/ik-ben-op-ketchupdieet">Ik ben op (ketchup)dieet</a> en <a href="https://original.sevendays.nl/blog/van-dikbil-naar-een-platte-patser">Van DikBil naar een platte patser</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/jeanine-krist">Jeanine</a> (14)? Laatst schreef ze ook al <a href="https://7dagen.netlify.app/blog/ik-ben-op-ketchupdieet">Ik ben op (ketchup)dieet</a> en <a href="https://7dagen.netlify.app/blog/van-dikbil-naar-een-platte-patser">Van DikBil naar een platte patser</a>.</em></p>  

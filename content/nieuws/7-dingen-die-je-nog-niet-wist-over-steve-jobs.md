@@ -1,5 +1,5 @@
 ---
-id: c1d0632286fb406cb4e844196623d00c
+id: 0bc55481ea1f4ea2866a504832ff653f
 type: nieuws
 layout: post
 title: "7 dingen die je nog niet wist over Steve Jobs"

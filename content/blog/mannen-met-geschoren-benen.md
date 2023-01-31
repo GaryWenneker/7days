@@ -1,5 +1,5 @@
 ---
-id: d442b4c1a9584e90ab086c3cf5a1928d
+id: 78b4c4c600cf437893a3d103f634130c
 type: post
 layout: post
 title: "Mannen met geschoren benen"
@@ -18,7 +18,7 @@ Movember of No Shave November is alweer bijna voorbij. Mannen die hun lichaamsbe
         
   
   <div class="content">
-    <a href="/files/benen2jpeg-0"><img height="220" width="124" style="float: left;" class="media-element file-teaser" src="https://original.sevendays.nl/sites/default/files/styles/medium/public/benen2_0.jpeg?itok=jeHsfptU" alt=""></a>  </div>
+    <a href="/files/benen2jpeg-0"><img height="220" width="124" style="float: left;" class="media-element file-teaser" src="https://7dagen.netlify.app/sites/default/files/styles/medium/public/benen2_0.jpeg?itok=jeHsfptU" alt=""></a>  </div>
 
   
 </div>
@@ -28,7 +28,7 @@ Movember of No Shave November is alweer bijna voorbij. Mannen die hun lichaamsbe
         
   
   <div class="content">
-    <img height="281" width="500" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/benen3.jpeg" alt="">  </div>
+    <img height="281" width="500" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/benen3.jpeg" alt="">  </div>
 
   
 </div>

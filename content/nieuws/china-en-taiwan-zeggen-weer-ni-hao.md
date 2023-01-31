@@ -1,5 +1,5 @@
 ---
-id: bacb1d86604c4cb4ba5baf33f1d23b50
+id: d4365b8abd1e4057af449e5ac9576f72
 type: nieuws
 layout: post
 title: "China en Taiwan zeggen weer 'Ni hao'"
@@ -23,11 +23,11 @@ Misschien wist je het niet toen je vanochtend wakker werd, maar vandaag is een h
         
   
   <div class="content">
-    <img title="Beeld: EPA" height="425" width="1104" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/epa%20afp221.jpg" alt="">  </div>
+    <img title="Beeld: EPA" height="425" width="1104" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/epa%20afp221.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <p><strong>Protest</strong><br>In China zijn ze blij met de toenadering: 'tijd dat Taiwan weer thuiskomt'. In Taiwan zijn ze minder blij. Sinds president Ma Ying-jeou daar aan de macht is, wil hij de banden met China verbeteren. Veel Taiwanezen zijn bang dat hij te veel toegeeft aan China. Zo heeft hij in 2008 al twee panda's geaccepteerd van China - net als wij in Nederland vorige maand deden.</p>
 <p>In de Taiwaneese hoofdstad Taipei gingen demonstranten al boos de straat op met bordjes: 'Ma Ying-jeao, als je gaat hoef je niet meer terug te komen'. Er zullen nog flink wat ontmoetingen moeten volgen, willen China en Taiwan weer goede buren worden.</p>
-<p><em>Op de hoogte blijven van het nieuws? Meld je aan voor onze gratis <a href="https://original.sevendays.nl/whatsapp" target="_blank">WhatsAppdienst</a>, of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen">proefabonnement</a> op 7Days.</em></p>  
+<p><em>Op de hoogte blijven van het nieuws? Meld je aan voor onze gratis <a href="https://7dagen.netlify.app/whatsapp" target="_blank">WhatsAppdienst</a>, of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen">proefabonnement</a> op 7Days.</em></p>  

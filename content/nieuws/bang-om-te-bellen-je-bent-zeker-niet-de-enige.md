@@ -1,5 +1,5 @@
 ---
-id: 1e87b20b2aed4de2b2b7035d0626f4c8
+id: 4484ad305c3c472199d3e7cd6b35fbee
 type: nieuws
 layout: post
 title: "Bang om te bellen? Je bent zeker niet de enige"
@@ -28,7 +28,7 @@ Breekt het zweet je al uit als je de tandarts moet bellen voor een afspraak? Stu
         
   
   <div class="content">
-    <img height="884" width="2048" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/YEBT3ygA.png" alt="">  </div>
+    <img height="884" width="2048" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/YEBT3ygA.png" alt="">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: 60aded8c620047228fdb828f82f4924c
+id: af94773f538640bf921b76b1bbb54792
 type: post
 layout: post
 title: "De 7 dingen die we missen aan Pokémon GO"
@@ -23,19 +23,19 @@ Ach, dat goeie ouwe Pokémon GO. Toen de app afgelopen zomer werd gelanceerd, sp
     
   
   <div class="content">
-    <video controls="controls" controlslist=""><source src="https://original.sevendays.nl/sites/default/files/Dit%20is%20Mashup%20-%20Pok%C3%A9mon%20GO%20%281%29_0.mp4" type="video/mp4"></video>  </div>
+    <video controls="controls" controlslist=""><source src="https://7dagen.netlify.app/sites/default/files/Dit%20is%20Mashup%20-%20Pok%C3%A9mon%20GO%20%281%29_0.mp4" type="video/mp4"></video>  </div>
 
   
 </div>
 </div>
 <h3><strong>3. Het uitstapje naar Kijkduin</strong></h3>
-<p>In Nederland waren de meeste Pokémon te vangen in badplaats Kijkduin. Spelers kwamen met hele hordes tegelijk naar dé Pokémon-hoofdstad van Nederland. De gemeente kon de overlast niet aan en sleepte gameontwikkelaar Niantic zelfs <a href="https://original.sevendays.nl/nieuws/pok%C3%A9mon-go-maker-voor-de-rechter" target="_blank">voor de rechter</a>. </p>
+<p>In Nederland waren de meeste Pokémon te vangen in badplaats Kijkduin. Spelers kwamen met hele hordes tegelijk naar dé Pokémon-hoofdstad van Nederland. De gemeente kon de overlast niet aan en sleepte gameontwikkelaar Niantic zelfs <a href="https://7dagen.netlify.app/nieuws/pok%C3%A9mon-go-maker-voor-de-rechter" target="_blank">voor de rechter</a>. </p>
 <h3><strong>4. Al die powerbanks</strong></h3>
 <p>Wie wél blij waren met de populaire app, waren aanbieders van powerbanks. De draagbare opladers vlogen als warme broodjes over de toonbank. Je moest er toch niet aan denken dat je telefoon uitviel op het moment dat Mewtwo voor je neus stond?! Die extra kilo's aan powerbanks in je rugzak waren het dan ook meer dan waard.</p>
 <h3><strong>5. <em>The very best </em>willen worden</strong></h3>
 <p>Batterij vol, maar te weinig Pokéballs? Dan was het zoeken naar de dichtstbijzijnde Pokéstop. Hier waren verschillende items te vinden, zoals eieren en extra Pokéballs. Deze hielpen je verder in het spel, om <em>the very best, like no one ever was </em>te worden.</p>
 <h3><strong>6. Je swipevaardigheden</strong></h3>
-<p>Door het 'gooien' van Pokéballs verbeterde je ook gelijk je swipevaardigheden. Voor <em>Pokémon GO</em> gebruik je deze behendigheid waarschijnlijk niet meer - <a href="https://original.sevendays.nl/lifestyle/7-redenen-waarom-pok%C3%A9mon-go-%E2%80%98uit%E2%80%99-zou-zijn" target="_blank">wie speelt het nu nog?</a> - maar gelukkig kan er op Tinder nog flink geveegd worden. Is het niet een Articuno die je vangt, misschien sla je dan alsnog de liefde van je leven aan de haak.</p>
+<p>Door het 'gooien' van Pokéballs verbeterde je ook gelijk je swipevaardigheden. Voor <em>Pokémon GO</em> gebruik je deze behendigheid waarschijnlijk niet meer - <a href="https://7dagen.netlify.app/lifestyle/7-redenen-waarom-pok%C3%A9mon-go-%E2%80%98uit%E2%80%99-zou-zijn" target="_blank">wie speelt het nu nog?</a> - maar gelukkig kan er op Tinder nog flink geveegd worden. Is het niet een Articuno die je vangt, misschien sla je dan alsnog de liefde van je leven aan de haak.</p>
 <h3><strong>7. De mediahype</strong></h3>
-<p>De media waren ook fan van de app. Het 'harde' nieuws werd ingeruild door artikelen over <em>Pokémon GO</em>, omdat <a href="https://original.sevendays.nl/blog/hyper-door-de-pok%C3%A9mon-hype" target="_blank">redacties hyper werden door de Pokémon-hype</a>. De meest uiteenlopende artikelen kwamen voorbij: over de gekste Pokéstops, doden die zouden zijn gevonden tijdens het spelen en hacks om Pikachu te bemachtigen. Tot zélfs dit lijstje met 7 dingen die we missen aan <em>Pokémon GO</em>! De hype lijkt inmiddels overgewaaid te zijn, maar we missen 'm nog steeds.</p>
-<p><em>Meer blogs lezen van Niek (19)? Laatst schreef hij ook <a href="https://original.sevendays.nl/blog/slimmer-door-slapen-snooze">Slimmer door slapen? Snooze!</a> en <a href="https://original.sevendays.nl/blog/gehannes-met-hoeslakens">Gehannes met hoeslakens</a>.</em></p>  
+<p>De media waren ook fan van de app. Het 'harde' nieuws werd ingeruild door artikelen over <em>Pokémon GO</em>, omdat <a href="https://7dagen.netlify.app/blog/hyper-door-de-pok%C3%A9mon-hype" target="_blank">redacties hyper werden door de Pokémon-hype</a>. De meest uiteenlopende artikelen kwamen voorbij: over de gekste Pokéstops, doden die zouden zijn gevonden tijdens het spelen en hacks om Pikachu te bemachtigen. Tot zélfs dit lijstje met 7 dingen die we missen aan <em>Pokémon GO</em>! De hype lijkt inmiddels overgewaaid te zijn, maar we missen 'm nog steeds.</p>
+<p><em>Meer blogs lezen van Niek (19)? Laatst schreef hij ook <a href="https://7dagen.netlify.app/blog/slimmer-door-slapen-snooze">Slimmer door slapen? Snooze!</a> en <a href="https://7dagen.netlify.app/blog/gehannes-met-hoeslakens">Gehannes met hoeslakens</a>.</em></p>  

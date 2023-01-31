@@ -1,5 +1,5 @@
 ---
-id: eaf15978c69d4d3fa02964c24800f6d0
+id: a81f4ca2883d45039bf3e264c0a346e8
 type: nieuws
 layout: post
 title: "5 tips om hooikoorts te overleven"
@@ -22,7 +22,7 @@ Een verstopte neus, prikkende ogen, een zere keel en heel veel jeuk. Mensen met 
         
   
   <div class="content">
-    <img alt="Beach Strand" title="Foto: Pixabay" height="1280" width="1920" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/young-woman-1745173_1920.jpg">  </div>
+    <img alt="Beach Strand" title="Foto: Pixabay" height="1280" width="1920" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/young-woman-1745173_1920.jpg">  </div>
 
   
 </div>
@@ -33,7 +33,7 @@ Een verstopte neus, prikkende ogen, een zere keel en heel veel jeuk. Mensen met 
         
   
   <div class="content">
-    <img alt="zonnebril" title="Foto: Pixabay" height="853" width="1920" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/person-802090_1920.jpg">  </div>
+    <img alt="zonnebril" title="Foto: Pixabay" height="853" width="1920" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/person-802090_1920.jpg">  </div>
 
   
 </div>
@@ -44,7 +44,7 @@ Een verstopte neus, prikkende ogen, een zere keel en heel veel jeuk. Mensen met 
         
   
   <div class="content">
-    <img alt="Kat knuffelen" title="Foto: Pixabay" height="1281" width="1920" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/cat-1423844_1920.jpg">  </div>
+    <img alt="Kat knuffelen" title="Foto: Pixabay" height="1281" width="1920" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/cat-1423844_1920.jpg">  </div>
 
   
 </div>
@@ -55,7 +55,7 @@ Een verstopte neus, prikkende ogen, een zere keel en heel veel jeuk. Mensen met 
         
   
   <div class="content">
-    <img alt="Kleding Jurk" title="Foto: Pixabay" height="1280" width="1920" class="media-element file-default" data-delta="4" src="https://original.sevendays.nl/sites/default/files/clothesline-804812_1920.jpg">  </div>
+    <img alt="Kleding Jurk" title="Foto: Pixabay" height="1280" width="1920" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/clothesline-804812_1920.jpg">  </div>
 
   
 </div>
@@ -66,7 +66,7 @@ Een verstopte neus, prikkende ogen, een zere keel en heel veel jeuk. Mensen met 
         
   
   <div class="content">
-    <img alt="Wassen" title="Foto: Pixabay" height="1440" width="1920" class="media-element file-default" data-delta="5" src="https://original.sevendays.nl/sites/default/files/child-2616679_1920.jpg">  </div>
+    <img alt="Wassen" title="Foto: Pixabay" height="1440" width="1920" class="media-element file-default" data-delta="5" src="https://7dagen.netlify.app/sites/default/files/child-2616679_1920.jpg">  </div>
 
   
 </div>

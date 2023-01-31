@@ -1,5 +1,5 @@
 ---
-id: ae60ff44fe4646118a7a029ea8e8419b
+id: ad93982267f846e48538af5c149c97e0
 type: nieuws
 layout: post
 title: "Dit zijn de 7 meest rare fobieën ooit"
@@ -20,7 +20,7 @@ Bang zijn voor plakkende pindakaas tegen je gehemelte of voor je eigen spiegelbe
         
   
   <div class="content">
-    <img alt="word" title="Beeld: Unsplash" height="2076" width="3126" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/word.jpg">  </div>
+    <img alt="word" title="Beeld: Unsplash" height="2076" width="3126" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/word.jpg">  </div>
 
   
 </div>
@@ -32,7 +32,7 @@ Bang zijn voor plakkende pindakaas tegen je gehemelte of voor je eigen spiegelbe
         
   
   <div class="content">
-    <img alt="knoflook" title="Beeld: Unsplash" height="2514" width="4734" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/knoflook.jpg">  </div>
+    <img alt="knoflook" title="Beeld: Unsplash" height="2514" width="4734" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/knoflook.jpg">  </div>
 
   
 </div>
@@ -44,7 +44,7 @@ Bang zijn voor plakkende pindakaas tegen je gehemelte of voor je eigen spiegelbe
         
   
   <div class="content">
-    <img alt="kalender" title="Beeld: pixels" height="2448" width="3264" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/kalender.jpg">  </div>
+    <img alt="kalender" title="Beeld: pixels" height="2448" width="3264" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/kalender.jpg">  </div>
 
   
 </div>
@@ -56,7 +56,7 @@ Bang zijn voor plakkende pindakaas tegen je gehemelte of voor je eigen spiegelbe
         
   
   <div class="content">
-    <img alt="stokjes" title="Beeld: unsplash" height="4236" width="3456" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/sticks.jpg">  </div>
+    <img alt="stokjes" title="Beeld: unsplash" height="4236" width="3456" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/sticks.jpg">  </div>
 
   
 </div>
@@ -68,7 +68,7 @@ Bang zijn voor plakkende pindakaas tegen je gehemelte of voor je eigen spiegelbe
         
   
   <div class="content">
-    <img alt="mirror" title="Beeld: pixels" height="2430" width="4256" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/mirror.jpg">  </div>
+    <img alt="mirror" title="Beeld: pixels" height="2430" width="4256" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/mirror.jpg">  </div>
 
   
 </div>
@@ -80,7 +80,7 @@ Bang zijn voor plakkende pindakaas tegen je gehemelte of voor je eigen spiegelbe
         
   
   <div class="content">
-    <img alt="klok" title="beeld: pexels" height="2848" width="4288" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/klok_2.jpg">  </div>
+    <img alt="klok" title="beeld: pexels" height="2848" width="4288" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/klok_2.jpg">  </div>
 
   
 </div>
@@ -92,7 +92,7 @@ Bang zijn voor plakkende pindakaas tegen je gehemelte of voor je eigen spiegelbe
         
   
   <div class="content">
-    <img alt="pinda" title="Beeld: pixels" height="3456" width="5184" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/pinda.jpg">  </div>
+    <img alt="pinda" title="Beeld: pixels" height="3456" width="5184" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/pinda.jpg">  </div>
 
   
 </div>

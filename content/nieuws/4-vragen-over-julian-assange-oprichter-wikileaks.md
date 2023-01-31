@@ -1,5 +1,5 @@
 ---
-id: a764d3a63d144bbcbc8f2072b6845aee
+id: 75a41f6f53c64eb2bfe02a25f5a816be
 type: nieuws
 layout: post
 title: "4 vragen over Julian Assange, oprichter WikiLeaks"

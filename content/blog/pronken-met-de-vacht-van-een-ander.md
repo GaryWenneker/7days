@@ -1,5 +1,5 @@
 ---
-id: 9456dd30f29f4e8bbf471d4e658a1045
+id: 409df02d05e44dfb8dbb5a55e912367e
 type: post
 layout: post
 title: "Pronken met de vacht van een ander"
@@ -21,4 +21,4 @@ Hij is terug van weggeweest: de bontkraag. Op mijn school paraderen medeleerling
 <p><strong>Zielig voor de dieren?</strong><br>Nee, nu schrijf ik dit niet omdat ik deze knuffelachtige (knaag)diertjes zo zielig vind. Het zijn de bontkraagdragers voor wie ik medelijden voel, die denken het recht te hebben het leven van een ander af te pakken, enkel omdat dieren niet het vermogen het zich te verzetten. En waarom?</p>
 <p>Nu zijn veel van de kragen die je ziet op straat nep. En natuurlijk zijn imitatiekragen en echte bontkragen niet hetzelfde. Maar de boodschap die ermee afgegeven wordt wel. Namelijk dat het oké is om met een halve hond in je nek rond te lopen. Dat is het niet. Dus roep ik hierbij iedereen op: laat de bontkraag geen statussymbool worden!</p>
 <p>Daarom vul ik nu mijn supersoaker met paarse verf. Op naar school. De eerstvolgende kraag gaat eraan.</p>
-<p><em>Meer blogs lezen van Sophia (14)? Klik <a href="https://original.sevendays.nl/users/sophia-van-lil">hier</a> voor haar archief.</em></p>  
+<p><em>Meer blogs lezen van Sophia (14)? Klik <a href="https://7dagen.netlify.app/users/sophia-van-lil">hier</a> voor haar archief.</em></p>  

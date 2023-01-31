@@ -1,5 +1,5 @@
 ---
-id: 83f1f61c5a794efb83f17cd5b70312a8
+id: e77d32385ea9463d95a178f36daf2cfb
 type: nieuws
 layout: post
 title: "Boete voor bijna 10.000 appende fietsers"
@@ -17,4 +17,4 @@ Doe jij het nog? Appen of bellen op de fiets? Veel mensen vinden het lastig om s
 <h3>Fiets of auto</h3>
 <p>Het totale aantal boetes dat van mei tot en met augustus werd opgelegd voor telefoongebruik in het verkeer, was twee keer zo groot als een jaar eerder. Het waren er 44.540, vooral voor appen en bellen in de auto. De boete voor appende automobilisten is 240 euro, veel hoger dus dan voor fietsers. Dat komt omdat ze met een eventueel ongeluk meer schade kunnen aanrichten, schrijft de <a href="https://nos.nl/artikel/2305267-in-twee-maanden-tijd-bijna-10-000-appende-fietsers-beboet.html" target="_blank"><em>NOS</em>.</a></p>
 <h3>Jongeren</h3>
-<p>Uit onderzoek blijkt dat veel jongeren niet smartphonevrij fietsen. Een van belangrijkste redenen daarvoor is dat ze de kans dat ze door de politie betrapt worden klein inschatten. Meer over dat onderzoek lees je <a href="https://original.sevendays.nl/appverbod" target="_blank">hier</a>.</p>  
+<p>Uit onderzoek blijkt dat veel jongeren niet smartphonevrij fietsen. Een van belangrijkste redenen daarvoor is dat ze de kans dat ze door de politie betrapt worden klein inschatten. Meer over dat onderzoek lees je <a href="https://7dagen.netlify.app/appverbod" target="_blank">hier</a>.</p>  

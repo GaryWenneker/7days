@@ -1,5 +1,5 @@
 ---
-id: 2e836526dfab4676b37c38a83e4bd2db
+id: 7a2384d53c36437db90ae4074102c42b
 type: nieuws
 layout: post
 title: "Frankrijk maakt eigen chat-app uit angst voor spionage"

@@ -1,5 +1,5 @@
 ---
-id: 9053ac6c678f415b80ed4a4ac2dcf697
+id: 0e9b8f0fc17d41b78d4f7a631bdc6dec
 type: post
 layout: post
 title: "10 voordelen van een e-reader"

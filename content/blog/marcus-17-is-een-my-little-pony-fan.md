@@ -1,5 +1,5 @@
 ---
-id: 02ffa8c20ac4476296fa8c42c850e730
+id: 1de8e462595747cf9ce0093532da1df3
 type: post
 layout: post
 title: "Marcus (17) is een My Little Pony-fan"
@@ -29,7 +29,7 @@ Ken je de tekenfilmserie My Little Pony? Heb je die nooit gezien of kijk je die
         
   
   <div class="content">
-    <img alt="brony my little pony" title="Beeld: Equestria Daily" height="895" width="1589" style="font-size: 13.008px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202017-01-08%20om%2021.50.27.png">  </div>
+    <img alt="brony my little pony" title="Beeld: Equestria Daily" height="895" width="1589" style="font-size: 13.008px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202017-01-08%20om%2021.50.27.png">  </div>
 
   
 </div>
@@ -38,4 +38,4 @@ Ken je de tekenfilmserie My Little Pony? Heb je die nooit gezien of kijk je die
 <p>'Een paar vrienden weten het, die hebben zoiets van "oké, het zal wel". Er was gelukkig niemand die mij door mijn hobby in één klap niet meer aardig vond. Ik heb een paar documentaires gekeken die andere fans aan hun ouders hebben laten zien. Die ouders begrepen het toen wel en gingen vervolgens mee naar conventies. Ik heb het ook aan mijn eigen ouders verteld. Mijn vader was eerst een beetje verward, mijn moeder snapte het op zich wel en vond het prima.'</p>
 <h3>Wat wil je meegeven aan andere brony's?</h3>
 <p>'Dat ze maar beter voor hun hobby uit kunnen komen. Ze zijn niet alleen en hoeven niet bang te zijn dat ze gehaat zullen worden. Er zijn genoeg mensen die ze met open armen - of hoeven - kunnen ontvangen.'</p>
-<p><em>Meer lezen van Tahrim? Hij schreef recent ook <a href="https://original.sevendays.nl/blog/samen-uit-samen-n-uur-de-nachtbus">Samen uit, samen 'n uur in de nachtbus?</a> en <a href="https://original.sevendays.nl/blog/de-7-fases-van-de-decembermaand">De 7 fases van de decembermaand</a>.</em></p>  
+<p><em>Meer lezen van Tahrim? Hij schreef recent ook <a href="https://7dagen.netlify.app/blog/samen-uit-samen-n-uur-de-nachtbus">Samen uit, samen 'n uur in de nachtbus?</a> en <a href="https://7dagen.netlify.app/blog/de-7-fases-van-de-decembermaand">De 7 fases van de decembermaand</a>.</em></p>  

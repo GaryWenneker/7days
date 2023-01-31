@@ -1,5 +1,5 @@
 ---
-id: 0715a452de1b4356b03689255bec7f60
+id: d3c23d5893f1438da08a74a696eeb22d
 type: post
 layout: post
 title: "Herkenbaar: struggles bij de kapper"
@@ -22,4 +22,4 @@ Tientallen struggles komen tijdens één bezoekje aan de kapper op mijn pad. Va
 <p><strong>Ongemakkelijk gesprek</strong><br>‘En had je vanmiddag vrij?’ vraagt ze. ‘Ja, studiemiddag’, antwoord ik.  ‘Welke school doe je?’ vraagt ze. Ik antwoord weer en ze knikt. ‘Al enig idee wat je hierna gaat doen?’ Ik kijk in de spiegel hoe ze mijn haar aan het uitdunnen is. ‘Uh ja, iets met journalistiek denk ik.’ Ze antwoordt: ‘Leuk.’ En daarna is het weer stil. Naast me wordt uitgebreid gepraat over de huishoudbeurs en ik luister even mee.</p>
 <p>Ten slotte pakt ze een kleine spiegel en houdt ze hem achter mijn hoofd. ‘En?’ Ik probeer een beetje enthousiast te knikken. ‘Wil je het nog korter of is het goed zo?’ vraagt ze. Ik schud glimlachend mijn hoofd: ‘Nee, het is goed zo.’</p>
 <p>Blij dat het over is, loop ik de kapperszaak uit. Terugkomen voordat het écht nodig is? Geen haar op mijn hoofd die daar aan denkt.</p>
-<p><em>Meer blogs lezen van Lucas (16)? Eerder schreef hij ook al <a href="https://original.sevendays.nl/blog/mijn-schijtstrijd" target="_blank">Mijn schijtstrijd</a> en <a href="https://original.sevendays.nl/blog/een-broodje-zand" target="_blank">Een broodje zand</a>.</em></p>  
+<p><em>Meer blogs lezen van Lucas (16)? Eerder schreef hij ook al <a href="https://7dagen.netlify.app/blog/mijn-schijtstrijd" target="_blank">Mijn schijtstrijd</a> en <a href="https://7dagen.netlify.app/blog/een-broodje-zand" target="_blank">Een broodje zand</a>.</em></p>  

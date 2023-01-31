@@ -1,5 +1,5 @@
 ---
-id: e6c54b2ac3f049e5a3f1a403b6e4a532
+id: b906845ff4d34268850e261d9892301b
 type: nieuws
 layout: post
 title: "Gouden weekend voor Nederlandse topsporters"
@@ -19,7 +19,7 @@ Goud, goud en nog veel meer goud. Van hockey tot turnen en van roeien tot wielre
         
   
   <div class="content">
-    <img alt="ANP" title="Foto: ANP" height="743" width="1259" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/hockey.png">  </div>
+    <img alt="ANP" title="Foto: ANP" height="743" width="1259" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/hockey.png">  </div>
 
   
 </div>
@@ -32,7 +32,7 @@ Goud, goud en nog veel meer goud. Van hockey tot turnen en van roeien tot wielre
         
   
   <div class="content">
-    <img alt="ANP" title="Foto: ANP" height="2740" width="4500" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-58702863.jpg">  </div>
+    <img alt="ANP" title="Foto: ANP" height="2740" width="4500" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-58702863.jpg">  </div>
 
   
 </div>
@@ -44,7 +44,7 @@ Goud, goud en nog veel meer goud. Van hockey tot turnen en van roeien tot wielre
         
   
   <div class="content">
-    <img alt="ANP" title="Foto: ANP" height="739" width="1133" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/baanwielrennen.png">  </div>
+    <img alt="ANP" title="Foto: ANP" height="739" width="1133" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/baanwielrennen.png">  </div>
 
   
 </div>
@@ -56,7 +56,7 @@ Goud, goud en nog veel meer goud. Van hockey tot turnen en van roeien tot wielre
         
   
   <div class="content">
-    <img alt="EPA" title="Foto: EPA" height="1869" width="2708" class="media-element file-default" data-delta="4" src="https://original.sevendays.nl/sites/default/files/ANP-58700850.jpg">  </div>
+    <img alt="EPA" title="Foto: EPA" height="1869" width="2708" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/ANP-58700850.jpg">  </div>
 
   
 </div>

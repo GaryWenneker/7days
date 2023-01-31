@@ -1,5 +1,5 @@
 ---
-id: ab5cf7535a3049e6b7056d3597337c5d
+id: 2f662fbb742d44529ee2fc2a78d36863
 type: nieuws
 layout: post
 title: "3D-Dumoulin uit de printer"
@@ -22,11 +22,11 @@ Zondag won hij al zijn allereerste etappe in de Tour de France. En vandaag maak
         
   
   <div class="content">
-    <img title="Foto Marco de Swart / Team Giant Alpecin" height="476" width="800" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Foto%20Marco%20de%20Swart%20Team%20Giant%20Alpecin%20klein.jpg" alt="">  </div>
+    <img title="Foto Marco de Swart / Team Giant Alpecin" height="476" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Foto%20Marco%20de%20Swart%20Team%20Giant%20Alpecin%20klein.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <p><strong>Tijd zat</strong><br>Op basis van al deze foto's kon toen met een 3D-printer een tweede Dumoulin gemaakt worden. Eentje die wél tijd zat had om alle pakken uit te proberen die de onderzoekers van de TU Delft voor hem in petto hadden!</p>
 <p>Met het pak dat als allersnelste uit de test kwam, fietst Dumoulin vandaag de tijdrit. De techneuten uit Delft denken dat hij met dit pak in de wedstrijd wel tien seconden winst kan pakken.</p>
-<p><em>Altijd op de hoogte blijven van artikelen die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van artikelen die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

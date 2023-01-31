@@ -1,5 +1,5 @@
 ---
-id: ce7c5d35756e4975b33d161ff6fd932d
+id: bcaa8a2aed2847219574ba1b68621789
 type: nieuws
 layout: post
 title: "5 vragen over Shincheonji-sekte en het coronavirus"
@@ -24,7 +24,7 @@ Na China zijn in Zuid-Korea de hevigste uitbraken van het coronavirus. De christ
         
   
   <div class="content">
-    <img alt="shincheonji-sekte" title="Foto: ANP" height="2744" width="4193" style="font-size: 13.008px; font-weight: normal;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-407384515.jpg">  </div>
+    <img alt="shincheonji-sekte" title="Foto: ANP" height="2744" width="4193" style="font-size: 13.008px; font-weight: normal;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-407384515.jpg">  </div>
 
   
 </div>

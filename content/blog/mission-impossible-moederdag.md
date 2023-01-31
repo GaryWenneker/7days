@@ -1,5 +1,5 @@
 ---
-id: 3e85a1001fe14bc79c57a5004c935eee
+id: e3cb723f113540fe8241b342a84379dc
 type: post
 layout: post
 title: "Mission Impossible: Moederdag"
@@ -19,4 +19,4 @@ Het is vandaag Moederdag. Dé dag om je moeder eventjes te bedanken, te laten we
 <p><strong>Lekker makkelijk</strong><br>Toen ik nog klein was, was Moederdag veel makkelijker. Een week van tevoren vertelde je juf of meester wat je ging knutselen en jouw enige taak was om het ongezien mee naar huis te smokkelen en een hele vrijdagavond en zaterdag er niet over te praten. Dat laatste was soms nog best lastig, maar je hoefde in ieder geval niks zelf te verzinnen. <br><br>En in de jaren dat ik zelf al zakgeld kreeg, ging ik altijd ‘stiekem’ naar de Hema of Kruidvat om een fles douchegel of nagellak uit te kiezen voor mijn moeder. En succes was altijd gegarandeerd. </p>
 <p><strong>Hoe het ook kan</strong><br>Maar dit jaar was het moeilijker. Na een zoektocht van een week had ik nog steeds geen cadeau en uit pure wanhoop appte ik mijn broer gisteren om te vragen wat hij had gekocht. Als antwoord kreeg ik het verdwaasde 'huh, wanneer is dat?'. Zo blijkt maar weer: het kan altijd erger. </p>
 <p><strong>Het is zover!</strong><br>En vandaag is de dag aangebroken: het is Moederdag. Inclusief een ontbijtje met eieren en croissantjes én natuurlijk een cadeautje. Samen met mijn vader geef ik haar een dagje uit. Op het nippertje toch nog gelukt. Fijne Moederdag allemaal!</p>
-<p><em>Oeps... Ben je net als Pucks broer vergeten dat het Moederdag is? Check als een razende ons blog <a href="https://original.sevendays.nl/blog/5-cadeaus-waar-je-moeder-heel-blij-van-wordt">5 cadeaus waar je moeder heel blij van wordt</a>. Want beter laat dan nooit toch? </em></p>  
+<p><em>Oeps... Ben je net als Pucks broer vergeten dat het Moederdag is? Check als een razende ons blog <a href="https://7dagen.netlify.app/blog/5-cadeaus-waar-je-moeder-heel-blij-van-wordt">5 cadeaus waar je moeder heel blij van wordt</a>. Want beter laat dan nooit toch? </em></p>  

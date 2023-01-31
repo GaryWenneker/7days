@@ -1,5 +1,5 @@
 ---
-id: 2c373a117c14490d9eee742a37b11129
+id: 711c0c9b28644531ab64cb5a921ee2ba
 type: nieuws
 layout: post
 title: "Boosheid over homoseksuele Jezus in Netflix-film"
@@ -21,7 +21,7 @@ Een komische film over het leven van Jezus op Netflix is in Brazilië niet goed 
 <p>In de ongeveer drie kwartier durende film is Jezus homoseksueel. Hij neemt zijn vriend Orlando mee naar huis om hem voor te stellen aan zijn familie. ('Waar ken je Orlando van?' 'Uit de woestijn.')</p>
 <h3>Boos</h3>
 <p>In het grotendeels katholieke Brazilië roept de productie geschokte reacties op. Veel christenen zijn beledigd en zien de film als een aanval op hun geloof. Ze zijn een <a href="https://www.change.org/p/netflix-especial-de-natal-porta-dos-fundos" target="_blank">petitie</a> gestart in de hoop dat Netflix de serie verwijderd, maar de streamingsdienst heeft nog niet gereageerd. </p>
-<p>De president van Brazilië laat zich regelmatig negatief uit over homoseksualitiet. Sinds <a href="https://original.sevendays.nl/nieuws/wordt-tropische-trump-straks-president-brazili%C3%AB" target="_blank">Jair Bolsonaro </a>begin dit jaar aan de macht kwam, is de situatie voor de Braziliaanse LHBTI-gemeenschap er niet beter op geworden. </p>
+<p>De president van Brazilië laat zich regelmatig negatief uit over homoseksualitiet. Sinds <a href="https://7dagen.netlify.app/nieuws/wordt-tropische-trump-straks-president-brazili%C3%AB" target="_blank">Jair Bolsonaro </a>begin dit jaar aan de macht kwam, is de situatie voor de Braziliaanse LHBTI-gemeenschap er niet beter op geworden. </p>
 <p>Dit is de trailer van de film: <div class="media media-element-container media-default"><div id="file-539238" class="file file-video file-video-youtube">
 
         <h2 class="element-invisible"><a href="/files/first-temptation-christ-netflix-original">The First Temptation of Christ |Netflix Original</a></h2>

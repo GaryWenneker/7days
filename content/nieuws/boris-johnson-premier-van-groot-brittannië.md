@@ -1,5 +1,5 @@
 ---
-id: eca091d4dc134012a6dcee0b90bddec9
+id: 2a193f80acc04675ac2c044e167c664c
 type: nieuws
 layout: post
 title: "Boris Johnson premier van Groot-Brittannië"
@@ -13,8 +13,8 @@ seo:
 ---
 Boris Johnson (55) wordt de nieuwe leider van Groot-Brittannië. Hij kreeg meer dan de helft van de stemmen van de Conservatieve Partij en volgt Theresa May op als premier.  
 
-    <p>Boris Johnson wil samen met veel andere Britten heel graag weg uit Europese Unie. In 2016 koos de meerderheid van de Britten voor een brexit, een ‘Britse exit’. Afgelopen twee jaar zorgde dat weggaan <a href="https://original.sevendays.nl/nieuws/3-vragen-over-hoe-het-nu-gaat-met-brexit" target="_blank">voor veel gedoe</a>.</p>
-<p>Premier Teresa May kon het uiteindelijk allemaal niet oplossen en daarom <a href="https://original.sevendays.nl/nieuws/weer-een-nee-theresa-may-stopt-als-premier" target="_blank">besloot ze te stoppen</a>. Boris Johnson neemt nu het stokje van haar over. Over zijn plannen heeft hij al gezegd dat de brexit hoe dan ook op 31 oktober doorgaat, ook zonder goedgekeurd plan. 'Ik weet zeker dat het ons gaat lukken', zei hij.</p>
+    <p>Boris Johnson wil samen met veel andere Britten heel graag weg uit Europese Unie. In 2016 koos de meerderheid van de Britten voor een brexit, een ‘Britse exit’. Afgelopen twee jaar zorgde dat weggaan <a href="https://7dagen.netlify.app/nieuws/3-vragen-over-hoe-het-nu-gaat-met-brexit" target="_blank">voor veel gedoe</a>.</p>
+<p>Premier Teresa May kon het uiteindelijk allemaal niet oplossen en daarom <a href="https://7dagen.netlify.app/nieuws/weer-een-nee-theresa-may-stopt-als-premier" target="_blank">besloot ze te stoppen</a>. Boris Johnson neemt nu het stokje van haar over. Over zijn plannen heeft hij al gezegd dat de brexit hoe dan ook op 31 oktober doorgaat, ook zonder goedgekeurd plan. 'Ik weet zeker dat het ons gaat lukken', zei hij.</p>
 <p>Johnson wordt waarschijnlijk morgenmiddag door de koningin als eerste minister geïnstalleerd. </p>
 <h3>Marmite</h3>
 <p>Johnson wordt wel <a href="https://www.volkskrant.nl/nieuws-achtergrond/boris-johnson-brexitheld-of-charlatan~b8e289d2/" target="_blank">vergeleken</a> met het oer-Britse broodbeleg Marmite: je houdt van hem of je haat hem. Wist je dit al over de politicus die overal mee weg lijkt te komen?</p>

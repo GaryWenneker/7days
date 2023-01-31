@@ -1,5 +1,5 @@
 ---
-id: 06975b8aa7344c049806f559f72c8733
+id: 75361916cc6149a39bf6aae90730f517
 type: nieuws
 layout: post
 title: "3 vragen over 'vermoorde' journalist"
@@ -25,7 +25,7 @@ Het lijkt wel een verhaal uit een James Bond-film. De Russische journalist Arka
         
   
   <div class="content">
-    <img alt="Foto: ANP" title="Foto: ANP" height="2823" width="3858" style="height: 439px; width: 600px;" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/ANP-57646016.jpg">  </div>
+    <img alt="Foto: ANP" title="Foto: ANP" height="2823" width="3858" style="height: 439px; width: 600px;" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/ANP-57646016.jpg">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: 29e5c526554a4d05a53e7b4d3e0815aa
+id: 15335991ab9142cf99532dc0cd6c795d
 type: nieuws
 layout: post
 title: "Dappere Heike (15) op YouTube: 'Ik heb kanker'"
@@ -34,4 +34,4 @@ Een tijdje geleden begon de Belgische Heike Claeys (15) met vloggen. In haar You
 <p><strong>Huilen helpt niet</strong><br>‘Ik heb lang gewacht met deze video, omdat ik nog niet klaar was om het te vertellen’, geeft Heike toe nadat ze alles heeft verteld. ‘Maar dit moest ik toch wel eventjes kwijt.' Aan een Belgische nieuwssite vertelt haar vader, Sam Claeys, dat Heike de video vooral maakte om het slechte nieuws op een rustige manier aan haar vrienden te vertellen. 'Toen ik het filmpje deelde op Facebook, ontplofte er een bom', zegt hij. Duizenden keren werd haar vlog bekenen en gedeeld. 'Om middernacht was ze nog altijd steunbetuigingen aan het lezen.' </p>
 <p><strong>Nieuw hoofdstuk</strong><br>‘De steun die ik krijg van mensen helpt enorm', zegt Heike. 'Ik was verdrietig, maar ik moét me erbij neer gaan leggen.’ Huilen helpt niet, vindt ze. ‘Dit wordt een nieuw hoofdstuk van mijn leven. En ik ga ervan uit dat ik genees, dus alle andere leuke dingen moet ik even uitstellen tot daarna.’</p>
 <p>Of ze het vloggen vanaf nu ook gaat uitstellen? 'Ik ga proberen te blijven uploaden want ik houd van YouTube. En ik vind dat mijn ziekte dat niet in de weg mag staan. '</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: 8065b6f0173b43008e6a98d92d241ba1
+id: abcf22ca8f72451fba47447670a0ebf6
 type: nieuws
 layout: post
 title: "Is Anne Frank toch niet verraden?"
@@ -22,7 +22,7 @@ Iedereen kent het verhaal van Anne Frank, het joodse meisje dat onderdook in de 
         
   
   <div class="content">
-    <img alt="anne frank dagboek" title="Foto: ANP" height="591" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/dagboek_0.jpg">  </div>
+    <img alt="anne frank dagboek" title="Foto: ANP" height="591" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/dagboek_0.jpg">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ Iedereen kent het verhaal van Anne Frank, het joodse meisje dat onderdook in de 
         
   
   <div class="content">
-    <img alt="anne frank huis achterhuis" title="Foto: ANP" height="631" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-943876.jpg">  </div>
+    <img alt="anne frank huis achterhuis" title="Foto: ANP" height="631" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-943876.jpg">  </div>
 
   
 </div>
@@ -44,4 +44,4 @@ Iedereen kent het verhaal van Anne Frank, het joodse meisje dat onderdook in de 
 <h3>Niet zeker</h3>
 <p>Let op: de Anne Frank Stichting veegt de verrader-theorie niet meteen van tafel. Ze houdt alle opties nog open. 'Nader onderzoek kan mogelijk meer informatie opleveren. Hopelijk zien ook andere onderzoekers genoeg reden om nieuwe sporen te volgen, en is het laatste woord er nog niet over gezegd,' staat in een verklaring. Al is de kans dat er ooit 100% duidelijkheid komt over die fatale dag, nihil. </p>
 <p>Meer weten? De stichting heeft het onderzoek <a href="http://www.annefrank.org/ImageVaultFiles/id_18608/cf_21/NL_artikel_arrestatie.PDF" target="_blank">hier kort samengevat</a>. En echte geschiedenisjunkies kunnen <a href="http://www.annefrank.org/ImageVaultFiles/id_18609/cf_21/NL_onderzoeksverslag__arrestatie.PDF" target="_blank">hier de lange versie lezen</a>.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em> </p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em> </p>  

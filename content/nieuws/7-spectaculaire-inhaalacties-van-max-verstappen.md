@@ -1,5 +1,5 @@
 ---
-id: c7a3f7db19474175a97a16759f8779f3
+id: 3be419d006614a14b7bc5f7d6764ea21
 type: nieuws
 layout: post
 title: "7 spectaculaire inhaalacties van Max Verstappen"
@@ -69,7 +69,7 @@ Na maanden van vakantie, voorbereiden én trainen in de gym, mag Max Verstappen 
         
   
   <div class="content">
-    <img alt="Verstappen" title="Foto: AFP" height="2992" width="4500" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-53523647.jpg">  </div>
+    <img alt="Verstappen" title="Foto: AFP" height="2992" width="4500" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-53523647.jpg">  </div>
 
   
 </div>

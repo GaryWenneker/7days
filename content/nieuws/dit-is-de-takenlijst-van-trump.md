@@ -1,5 +1,5 @@
 ---
-id: a1c73e23408944679d13984d67ee3143
+id: eb18c3b6bdc74489a3a36028899ba352
 type: nieuws
 layout: post
 title: "Dit is de takenlijst van Trump"
@@ -14,14 +14,14 @@ seo:
 Sinds vrijdag is het echt zover: zakenman Donald Trump is officieel president van de Verenigde Staten. Ondanks allerlei demonstraties en rellen rondom zijn inauguratie. Trump heeft nog weinig bekendgemaakt over het precieze beleid dat hij wil gaan voeren. Maar dit staat in elk geval wél op zijn wensenlijstje:  
 
     <h3>Buitenland </h3>
-<p>Amerika eerst, dat is mijn motto wat buitenlandbeleid betreft. <em>Make America grow again! </em>Maar ik wil wel goed samenwerken met iedereen die dat met ons wil doen. Ik wil partnerschap, geen conflict. De banden aanhalen met de Russen zie ik ook wel zitten: Rusland kan een belangrijke bondgenoot zijn in <a href="https://original.sevendays.nl/dossier-is">de strijd tegen IS</a>. En om mee te helpen een einde te maken aan de oorlog in Syrië. </p>
+<p>Amerika eerst, dat is mijn motto wat buitenlandbeleid betreft. <em>Make America grow again! </em>Maar ik wil wel goed samenwerken met iedereen die dat met ons wil doen. Ik wil partnerschap, geen conflict. De banden aanhalen met de Russen zie ik ook wel zitten: Rusland kan een belangrijke bondgenoot zijn in <a href="https://7dagen.netlify.app/dossier-is">de strijd tegen IS</a>. En om mee te helpen een einde te maken aan de oorlog in Syrië. </p>
 <h3><strong>Bouwen, die muur</strong></h3>
 <p>Mexicanen? Ik heb het al vaak gezegd: die brengen drugs, misdaad en verkrachters het land binnen. En hoe kun je de buren nou beter buiten houden dan met een muur? Misschien moet die <em>big beautiful wall</em> worden gebouwd dus. Langs de hele grens tussen de Verenigde Staten en Mexico. Alle illegalen die al in ons land zijn, zo’n 11 miljoen, die geven we per direct een enkeltje thuisland. En moslims? Liever niet, tót duidelijk is wat ze in de VS komen doen.<div class="media media-element-container media-default"><div id="file-23132" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img title="Tussen Arizona en Mexico staat al een muur, foto AFP" height="553" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-47992996-klein.jpg" alt="">  </div>
+    <img title="Tussen Arizona en Mexico staat al een muur, foto AFP" height="553" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-47992996-klein.jpg" alt="">  </div>
 
   
 </div>
@@ -37,7 +37,7 @@ Sinds vrijdag is het echt zover: zakenman Donald Trump is officieel president v
         
   
   <div class="content">
-    <img title="De etalage van een wapenwinkel in Florida, foto AFP" height="533" width="800" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/AFP-guns%20klein.jpg" alt="">  </div>
+    <img title="De etalage van een wapenwinkel in Florida, foto AFP" height="533" width="800" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/AFP-guns%20klein.jpg" alt="">  </div>
 
   
 </div>
@@ -49,4 +49,4 @@ Sinds vrijdag is het echt zover: zakenman Donald Trump is officieel president v
 <iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="355" src="//giphy.com/embed/SONfNQY6nlV4s" width="640"></iframe>
 <p><a href="http://giphy.com/gifs/global-warming-SONfNQY6nlV4s">via GIPHY</a></p>
 <h3>En verder wil ik onder meer…</h3>
-<p>…beter onderwijs. Daar ga ik heel veel geld in investeren. En ik wil rechters benoemen die het grondwettelijke recht op abortus opnieuw onder de loep nemen. Oh ja, en ik wil invoerrechten op producten uit China heffen, omdat dat land oneerlijk handelt.<br><br><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p>…beter onderwijs. Daar ga ik heel veel geld in investeren. En ik wil rechters benoemen die het grondwettelijke recht op abortus opnieuw onder de loep nemen. Oh ja, en ik wil invoerrechten op producten uit China heffen, omdat dat land oneerlijk handelt.<br><br><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

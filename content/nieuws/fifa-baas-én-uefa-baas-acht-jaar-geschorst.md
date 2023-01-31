@@ -1,5 +1,5 @@
 ---
-id: 3cf802ee494b457fb570ccad63172c64
+id: 3a4e2e933f8049a3b851a473af01c7c4
 type: nieuws
 layout: post
 title: "FIFA-baas én UEFA-baas acht jaar geschorst"
@@ -14,9 +14,9 @@ seo:
 Het hoge woord is eruit: Sepp Blatter, voorzitter van wereldvoetbalbond FIFA (foto links), én Michel Platini, voorzitter van de Europese voetbalbond UEFA, worden voor acht jaar geschorst. Ze hebben zich volgens experts schuldig gemaakt aan een illegale betaling.   
 
     <p>Het tweetal is geschorst vanwege een betaling van twee miljoen Zwitserse franken (ongeveer 1,85 miljoen euro) van de FIFA aan Platini. Dat bedrag kreeg hij in 2011 op zijn rekening gestort, maar waarom is nog altijd onduidelijk. <br><br>De ethische commissie van de FIFA schorste Platini en Blatter, die als voorzitter verantwoordelijk was voor de betaling, al tijdelijk. Nu is dat omgezet in een definitieve schorsing van acht jaar en boetes van 46.000 (Blatter) en bijna 74.000 euro (Platini).</p>
-<p><strong>Hoe zat het ook alweer met de FIFA? </strong><br>De turbulente jaarafsluiting past perfect bij het jaar van de FIFA. Afgelopen mei werden verkiezingen gehouden voor een nieuwe voorzitter. Een dag voor de verkiezing <a href="https://original.sevendays.nl/fifa" target="_blank">arresteerde </a>de Zwitserse politie op verzoek van de FBI verschillende FIFA-officials in een hotel in Zwitserland. De FBI zit achter de organisatie aan wegens verdenkingen van corruptie. Die verdenking hangt al jaren rondom de FIFA.</p>
-<p>Toch <a href="https://original.sevendays.nl/nieuws/blatter-blijft-wat-moet-de-fifa-nu" target="_blank">won </a>Blatter de verkiezing. Nauwelijks een week later <a href="https://original.sevendays.nl/nieuws/omstreden-fifa-baas-blatter-alsnog-weg" target="_blank">kondigde </a>hij alsnog zijn vertrek aan. Na zeventien jaar voorzitter te zijn geweest, zette hij er een punt achter. Hij voelde zich niet genoeg gesteund, ondanks zijn verkiezing een week eerder. Hij blijft wel voorzitter tot de nieuwe verkiezingen op 26 februari 2016.</p>
-<p>Ondertussen blijven de verdenkingen tegen en aanhoudingen van FIFA-bazen doorgaan. Blatter lijkt het belangrijkste doelwit van de FBI in de jacht tegen FIFA-corruptie. Dat hij tijdens een persconferentie in juli door een grapjas werd getrakteerd op een <a href="https://original.sevendays.nl/video/gelddouche-voor-sepp-blatter" target="_blank">gelddouche </a>hielp niet.</p>
+<p><strong>Hoe zat het ook alweer met de FIFA? </strong><br>De turbulente jaarafsluiting past perfect bij het jaar van de FIFA. Afgelopen mei werden verkiezingen gehouden voor een nieuwe voorzitter. Een dag voor de verkiezing <a href="https://7dagen.netlify.app/fifa" target="_blank">arresteerde </a>de Zwitserse politie op verzoek van de FBI verschillende FIFA-officials in een hotel in Zwitserland. De FBI zit achter de organisatie aan wegens verdenkingen van corruptie. Die verdenking hangt al jaren rondom de FIFA.</p>
+<p>Toch <a href="https://7dagen.netlify.app/nieuws/blatter-blijft-wat-moet-de-fifa-nu" target="_blank">won </a>Blatter de verkiezing. Nauwelijks een week later <a href="https://7dagen.netlify.app/nieuws/omstreden-fifa-baas-blatter-alsnog-weg" target="_blank">kondigde </a>hij alsnog zijn vertrek aan. Na zeventien jaar voorzitter te zijn geweest, zette hij er een punt achter. Hij voelde zich niet genoeg gesteund, ondanks zijn verkiezing een week eerder. Hij blijft wel voorzitter tot de nieuwe verkiezingen op 26 februari 2016.</p>
+<p>Ondertussen blijven de verdenkingen tegen en aanhoudingen van FIFA-bazen doorgaan. Blatter lijkt het belangrijkste doelwit van de FBI in de jacht tegen FIFA-corruptie. Dat hij tijdens een persconferentie in juli door een grapjas werd getrakteerd op een <a href="https://7dagen.netlify.app/video/gelddouche-voor-sepp-blatter" target="_blank">gelddouche </a>hielp niet.</p>
 <p><div class="media media-element-container media-default"><div id="file-5393" class="file file-video file-video-youtube">
 
         <h2 class="element-invisible"><a href="/files/sepp-blatter-has-money-thrown-him-lee-nelson">Sepp Blatter Has Money Thrown At Him By Lee Nelson</a></h2>
@@ -31,7 +31,7 @@ Het hoge woord is eruit: Sepp Blatter, voorzitter van wereldvoetbalbond FIFA (fo
   
 </div>
 </div>
-<p><strong>Doek valt</strong><br>In oktober volgde de <a href="https://original.sevendays.nl/nieuws/de-val-van-blatter-6-woorden" target="_blank">tijdelijke schorsing</a> van negentig dagen voor Blatter en Platine, wegens de illegale betaling. De Franse voorzitter van de UEFA was een van de kandidaten om Blatter op te volgen, maar kan door zijn schorsing niet langer kandidaat zijn voor de verkiezingen in 2016.</p>
+<p><strong>Doek valt</strong><br>In oktober volgde de <a href="https://7dagen.netlify.app/nieuws/de-val-van-blatter-6-woorden" target="_blank">tijdelijke schorsing</a> van negentig dagen voor Blatter en Platine, wegens de illegale betaling. De Franse voorzitter van de UEFA was een van de kandidaten om Blatter op te volgen, maar kan door zijn schorsing niet langer kandidaat zijn voor de verkiezingen in 2016.</p>
 <p>Op 21 december valt het doek echt: Blatter en Platini mogen acht jaar lang niets in de voetbalwereld doen.</p>
 <p><strong>Meteen een persconferentie</strong></p>
 <p><div class="media media-element-container media-default"><div id="file-14411" class="file file-document file-text-oembed">
@@ -54,9 +54,9 @@ Het hoge woord is eruit: Sepp Blatter, voorzitter van wereldvoetbalbond FIFA (fo
         
   
   <div class="content">
-    <img title="Foto: AFP" height="2538" width="3807" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/7D%20BlatterANP-35476032.jpg" alt="">  </div>
+    <img title="Foto: AFP" height="2538" width="3807" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/7D%20BlatterANP-35476032.jpg" alt="">  </div>
 
   
 </div>
 </div>
-<p><em>Meer weten over het corruptieschandaal bij de FIFA? In ons <a href="https://original.sevendays.nl/dossier-fifa">Dossier FIFA</a> lees je er alles over.</em></p>  
+<p><em>Meer weten over het corruptieschandaal bij de FIFA? In ons <a href="https://7dagen.netlify.app/dossier-fifa">Dossier FIFA</a> lees je er alles over.</em></p>  

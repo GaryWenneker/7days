@@ -1,5 +1,5 @@
 ---
-id: 96d3608b39bf44ae90ed4620e161332a
+id: f95f06c107484591b97f39fd4e87d108
 type: nieuws
 layout: post
 title: "Google Arts &amp; Culture: op welk schilderij lijk jij?"
@@ -18,7 +18,7 @@ Altijd al willen weten of jouw lach net zo mysterieus is als die van Mona Lisa? 
         
   
   <div class="content">
-    <img alt="app Google Arts &amp; Culture" title="Screenshot: App Google Arts &amp; Culture" height="746" width="423" style="width: 350px; height: 617px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/screenshot%20app.jpg">  </div>
+    <img alt="app Google Arts &amp; Culture" title="Screenshot: App Google Arts &amp; Culture" height="746" width="423" style="width: 350px; height: 617px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/screenshot%20app.jpg">  </div>
 
   
 </div>

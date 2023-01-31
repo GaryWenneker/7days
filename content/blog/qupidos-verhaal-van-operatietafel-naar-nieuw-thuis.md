@@ -1,5 +1,5 @@
 ---
-id: 53847c9ad8874a61bee15d2b50667b54
+id: 1e622c9ab26c4d2ca65bcfde98922556
 type: post
 layout: post
 title: "Qupido's verhaal: van operatietafel naar nieuw thuis"
@@ -27,7 +27,7 @@ Bijna een jaar geleden schreef ik een blog over onze puppy Qupido. Hij zou zijn
         
   
   <div class="content">
-    <img height="3239" width="4642" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/IMG_1756.jpg" alt="">  </div>
+    <img height="3239" width="4642" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/IMG_1756.jpg" alt="">  </div>
 
   
 </div>

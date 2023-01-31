@@ -1,5 +1,5 @@
 ---
-id: 3e890ea978f843279de05306bce4f0a9
+id: 645ae854af2e49cbb693ff780defb865
 type: post
 layout: post
 title: "Oneerlijk voor die vrouwen!"
@@ -21,4 +21,4 @@ Het EK-vrouwenvoetbal heeft mij aan het denken gezet. Wanneer het ‘gewone’ E
 <p>Floor (15): ‘Ik vind het een beetje oneerlijk, maar er is goede hoop omdat de vrouwen nu in het EK heel ver zijn gekomen en dan zal het ook wel populairder worden. Ik hoop dat de salarissen van de vrouwen in de toekomst verder omhoog gaan!</p>
 <p>Jasper (15): ‘Bij het vrouwenvoetbal is het budget er nog niet om hen zulke hoge salarissen te geven en bij het mannenvoetbal wel. Wat de vrouwen nu verdienen is wel belachelijk laag. Ik vind vrouwenvoetbal trouwens sowieso leuker, ik vind het spannender en minder agressief.’</p>
 <p><strong>ENTHOUSIASME! </strong><br>Ik kan concluderen dat we het er bijna allemaal wel overeens zijn dat het salaris van de vrouwelijke voetballers omhoog moet. Misschien moeten we zelf gewoon enthousiaster over de vrouwen worden. Want als we massaal de voetbalvrouwen gaan steunen, merchandise kopen en wedstrijden bezoeken, gaat de winst omhoog. En dus ook dat salaris!</p>
-<p><em>De 18-jarige Lucas heeft een creatieve geest en houdt van schrijven, toneelspelen en tekenen. Hij zit in 6-vwo, maar van hard blokken moet hij niks hebben. Saaie schooldagen houdt hij manhaftig vol met het idee dat hij later een topberoep krijgt; hij weet alleen nog niet wat. </em><em><a href="https://original.sevendays.nl/users/lucas-versteeg">Lees meer blogs van Lucas.</a></em></p>  
+<p><em>De 18-jarige Lucas heeft een creatieve geest en houdt van schrijven, toneelspelen en tekenen. Hij zit in 6-vwo, maar van hard blokken moet hij niks hebben. Saaie schooldagen houdt hij manhaftig vol met het idee dat hij later een topberoep krijgt; hij weet alleen nog niet wat. </em><em><a href="https://7dagen.netlify.app/users/lucas-versteeg">Lees meer blogs van Lucas.</a></em></p>  

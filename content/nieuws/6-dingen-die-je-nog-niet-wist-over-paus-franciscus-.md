@@ -1,5 +1,5 @@
 ---
-id: b646bd8d8be2467a8004e43fdad242d0
+id: fe0b79d72f384703810ffee346e4e5f9
 type: nieuws
 layout: post
 title: "6 dingen die je nog niet wist over paus Franciscus "
@@ -58,7 +58,7 @@ Paus Franciscus staat al sinds 2013 aan het hoofd van het Vaticaan. Hij is werel
         
   
   <div class="content">
-    <img alt="san lorenzo voetbal" title="Foto: ANP" height="1850" width="2676" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/ANP-71100511.jpg">  </div>
+    <img alt="san lorenzo voetbal" title="Foto: ANP" height="1850" width="2676" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/ANP-71100511.jpg">  </div>
 
   
 </div>

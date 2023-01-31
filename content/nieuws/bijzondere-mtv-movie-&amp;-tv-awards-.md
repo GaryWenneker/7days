@@ -1,5 +1,5 @@
 ---
-id: a23b157551bb4d75bd139d4921680a12
+id: 3cb34f6a611c4abcbf712d8af63df13a
 type: nieuws
 layout: post
 title: "Bijzondere MTV Movie &amp; TV Awards "
@@ -71,4 +71,4 @@ En hop... daar rolde weer een rode loper uit. Dit keer voor de MTV Movie Awards.
 </div>
 </div>
 <p> </p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em><br> </p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em><br> </p>  

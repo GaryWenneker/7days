@@ -1,5 +1,5 @@
 ---
-id: e70bef8548a84451a347cefee802f5db
+id: 9b4177838b23432ca00e752f331854d0
 type: nieuws
 layout: post
 title: "Examenstunt loopt uit de hand"
@@ -19,7 +19,7 @@ Door een uit de hand gelopen examenstunt hadden leerlingen van het Valuascollege
         
   
   <div class="content">
-    <img height="327" width="1280" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/20150424112139.jpg" alt="">  </div>
+    <img height="327" width="1280" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/20150424112139.jpg" alt="">  </div>
 
   
 </div>
@@ -30,7 +30,7 @@ Door een uit de hand gelopen examenstunt hadden leerlingen van het Valuascollege
         
   
   <div class="content">
-    <img title="Foto: Luca Sijpen" height="766" width="577" style="width: 850px; height: 1128px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/stunt%202.jpg" alt="">  </div>
+    <img title="Foto: Luca Sijpen" height="766" width="577" style="width: 850px; height: 1128px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/stunt%202.jpg" alt="">  </div>
 
   
 </div>
@@ -40,7 +40,7 @@ Door een uit de hand gelopen examenstunt hadden leerlingen van het Valuascollege
         
   
   <div class="content">
-    <img title="Foto: Luca Sijpen" height="544" width="577" style="width: 850px; height: 801px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/stunt%203.png" alt="">  </div>
+    <img title="Foto: Luca Sijpen" height="544" width="577" style="width: 850px; height: 801px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/stunt%203.png" alt="">  </div>
 
   
 </div>
@@ -53,10 +53,10 @@ Door een uit de hand gelopen examenstunt hadden leerlingen van het Valuascollege
         
   
   <div class="content">
-    <img title="Foto: Luca Sijpen" height="804" width="577" style="width: 850px; height: 1184px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/stunt%201.jpg" alt="">  </div>
+    <img title="Foto: Luca Sijpen" height="804" width="577" style="width: 850px; height: 1184px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/stunt%201.jpg" alt="">  </div>
 
   
 </div>
 </div>Foto's (m.u.v. bovenste twee): Luca Sijpen
-<p><em>Wat voor stunt heeft jouw school dit jaar? Bekijk <a href="https://original.sevendays.nl/eindexamenstunt">hier</a> de video's van vijf examenstunts die wél geslaagd waren. </em></p>
-<p><em>Op de hoogte blijven van al het onderwijsnieuws? <a href="https://original.sevendays.nl/onderwijsnieuws">Hier</a> vind je ons overzicht van al het schoolnieuws op onze site. En al het nieuws, onze achtergrondverhalen en tips over de eindexamens vind je <a href="https://original.sevendays.nl/eindexamens">hier</a>.</em></p>  
+<p><em>Wat voor stunt heeft jouw school dit jaar? Bekijk <a href="https://7dagen.netlify.app/eindexamenstunt">hier</a> de video's van vijf examenstunts die wél geslaagd waren. </em></p>
+<p><em>Op de hoogte blijven van al het onderwijsnieuws? <a href="https://7dagen.netlify.app/onderwijsnieuws">Hier</a> vind je ons overzicht van al het schoolnieuws op onze site. En al het nieuws, onze achtergrondverhalen en tips over de eindexamens vind je <a href="https://7dagen.netlify.app/eindexamens">hier</a>.</em></p>  

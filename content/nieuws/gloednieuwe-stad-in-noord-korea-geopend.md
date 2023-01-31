@@ -1,5 +1,5 @@
 ---
-id: 4c2783e856754e4fbf537460212c4f61
+id: a3c0d2dda6084481b404288a972bfa3b
 type: nieuws
 layout: post
 title: "Gloednieuwe stad in Noord-Korea geopend"
@@ -30,7 +30,7 @@ Duizenden Noord-Koreanen vierden gisteren feest. Met het doorknippen van een lin
 </div>
 </div>
 <h3>Sancties</h3>
-<p>Samjiyon is een pronkstuk van Kim zelf. Hij wil graag laten zien dat Noord-Korea zich economisch heel goed zelf kan redden. Toch liep de bouw van de stad vertraging op omdat er te weinig bouwmaterialen en arbeiders waren. Een van de redenen daarvoor waren sancties van andere landen. Zij willen de Noord-Koreanen straffen voor hun <a href="https://original.sevendays.nl/nieuws/noord-korea-vuurt-weer-raketten-af" target="_blank">kernwapenprogramma</a>. Daardoor is het voor Noord-Korea bijvoorbeeld moeilijk om brandstof in te voeren.</p>
+<p>Samjiyon is een pronkstuk van Kim zelf. Hij wil graag laten zien dat Noord-Korea zich economisch heel goed zelf kan redden. Toch liep de bouw van de stad vertraging op omdat er te weinig bouwmaterialen en arbeiders waren. Een van de redenen daarvoor waren sancties van andere landen. Zij willen de Noord-Koreanen straffen voor hun <a href="https://7dagen.netlify.app/nieuws/noord-korea-vuurt-weer-raketten-af" target="_blank">kernwapenprogramma</a>. Daardoor is het voor Noord-Korea bijvoorbeeld moeilijk om brandstof in te voeren.</p>
 <h3>Slavenarbeid</h3>
 <p>Om het tekort aan arbeiders op te lossen, werden voor de bouw jongeren en studenten ingezet. Noord-Koreaanse vluchtelingen en mensenrechtenactivisten vergeleken hun werk met slavenarbeid. Ze zouden geen loon en slecht eten hebben gekregen. Ook zouden ze gedwongen zijn om meer dan twaalf uur per dag gedurende maximaal tien jaar te werken.</p>
 <p><div class="media media-element-container media-default"><div id="file-539085" class="file file-image file-image-jpeg">
@@ -38,7 +38,7 @@ Duizenden Noord-Koreanen vierden gisteren feest. Met het doorknippen van een lin
         
   
   <div class="content">
-    <img alt="Noord-Korea" title="Foto: EPA" height="1554" width="2362" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-402660449.jpg">  </div>
+    <img alt="Noord-Korea" title="Foto: EPA" height="1554" width="2362" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-402660449.jpg">  </div>
 
   
 </div>

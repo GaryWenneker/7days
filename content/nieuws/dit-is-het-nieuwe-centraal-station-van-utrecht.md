@@ -1,5 +1,5 @@
 ---
-id: 248f3ef3e8f0497ea559223cb76e411f
+id: f3a4e7b22fd94edd8842a2066a70879c
 type: nieuws
 layout: post
 title: "Dit is het nieuwe Centraal Station van Utrecht"
@@ -18,8 +18,8 @@ Na ruim vijf jaar klussen en bouwen is het station van Utrecht klaar! De nieuwe 
         
   
   <div class="content">
-    <img alt="Infographic Utrecht Centraal" title="Beeld: 7Days" height="751" width="1273" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/INFO-7DAYS-CS.png">  </div>
+    <img alt="Infographic Utrecht Centraal" title="Beeld: 7Days" height="751" width="1273" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/INFO-7DAYS-CS.png">  </div>
 
   
 </div>
-</div><em>Altijd op de hoogte blijven van artikelen die voor jongeren interessant zijn? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em>  
+</div><em>Altijd op de hoogte blijven van artikelen die voor jongeren interessant zijn? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em>  

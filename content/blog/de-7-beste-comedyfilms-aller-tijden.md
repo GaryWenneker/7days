@@ -1,5 +1,5 @@
 ---
-id: 04afea836b4145349fa22b5df7c5b2cd
+id: 0f4b6d9575af43b0a291d7bf34f4d26c
 type: post
 layout: post
 title: "De 7 beste comedyfilms aller tijden"
@@ -125,4 +125,4 @@ Comedyfilms zijn er in alle soorten en maten. Je hebt traditionele poep-pies-ka
   
 </div>
 </div>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/blog/de-7-disneyfilms-die-iedereen-heeft-gezien">Leander</a> (18)? Laatst schreef hij ook al <a href="https://original.sevendays.nl/blog/de-7-beste-marvel-films">De 7 beste Marvel-films</a> en <a href="https://original.sevendays.nl/blog/de-7-disneyfilms-die-iedereen-heeft-gezien">De 7 Disney-films die iedereen heeft gezien</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/blog/de-7-disneyfilms-die-iedereen-heeft-gezien">Leander</a> (18)? Laatst schreef hij ook al <a href="https://7dagen.netlify.app/blog/de-7-beste-marvel-films">De 7 beste Marvel-films</a> en <a href="https://7dagen.netlify.app/blog/de-7-disneyfilms-die-iedereen-heeft-gezien">De 7 Disney-films die iedereen heeft gezien</a>.</em></p>  

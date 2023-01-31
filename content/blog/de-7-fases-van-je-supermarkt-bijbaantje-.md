@@ -1,5 +1,5 @@
 ---
-id: 3873f18115d0415a9d90d3ffc7e15373
+id: fb8e637f420846958bb8aeb05eb2bc7e
 type: post
 layout: post
 title: "De 7 fases van je supermarkt-bijbaantje "
@@ -14,9 +14,9 @@ seo:
 Werken bij de supermarkt is net een heel heftige romance. Eerst laat de super je ijskoud, maar zodra de vonk overslaat ben je stapelverliefd. Op je bijbaan, nou ja, je salaris eigenlijk. Maar de liefde houdt nooit lang stand. Ben jij ook bij een supermarkt je carrière (kuch) begonnen? Dan komen deze zeven fases je vast bekend voor.  
 
     <h3>1. De 'nee, ik ga niet werken in de supermarkt!'-fase </h3>
-<p>Een vriend van je oppert weleens dat je gezellig bij hem moet komen werken. 'Waar werk je dan?' – 'Oh, bij een supermarkt…' Al bij de gedachte dat je karren vooruit moet duwen of de hele dag <a href="https://original.sevendays.nl/blogs/de-7-vervelendste-situaties-van-een-kassa-bijbaan">'wilt u het bonnetje mee?'</a> moet zeggen in een nederig pakje, denk je: 'nee, daar ga ik nooit werken'…</p>
+<p>Een vriend van je oppert weleens dat je gezellig bij hem moet komen werken. 'Waar werk je dan?' – 'Oh, bij een supermarkt…' Al bij de gedachte dat je karren vooruit moet duwen of de hele dag <a href="https://7dagen.netlify.app/blogs/de-7-vervelendste-situaties-van-een-kassa-bijbaan">'wilt u het bonnetje mee?'</a> moet zeggen in een nederig pakje, denk je: 'nee, daar ga ik nooit werken'…</p>
 <h3>2. De lege-portemonnee-fase</h3>
-<p>Maar dan komt je portemonnee om de hoek kijken. Je geeft iets meer uit dan er binnenkomt (misschien komt dat door je <a href="https://original.sevendays.nl/blog/klein-bedrag-pinnen-mag-maar-hoeft-niet">pinpas</a>?) en je moet snel een oplossing vinden. Hmm... die supermarkt zorgt wel voor snel geld.</p>
+<p>Maar dan komt je portemonnee om de hoek kijken. Je geeft iets meer uit dan er binnenkomt (misschien komt dat door je <a href="https://7dagen.netlify.app/blog/klein-bedrag-pinnen-mag-maar-hoeft-niet">pinpas</a>?) en je moet snel een oplossing vinden. Hmm... die supermarkt zorgt wel voor snel geld.</p>
 <h3>3. De sollicitatiefase</h3>
 <p>En dus besluit je om even een formuliertje in te vullen. Eigenlijk best spannend! Je zet natuurlijk je beste beentje voor. 'Wat zijn goede eigenschappen van jezelf?' - 'Ik houd van de omgang met klanten!' Of als je caissière wilt worden: 'hoofdrekenen!' natuurlijk.</p>
 <h3>4. De enthousiaste fase </h3>
@@ -30,7 +30,7 @@ Werken bij de supermarkt is net een heel heftige romance. Eerst laat de super j
         
   
   <div class="content">
-    <img height="1000" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/tahrim2_0.jpg" alt="">  </div>
+    <img height="1000" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/tahrim2_0.jpg" alt="">  </div>
 
   
 </div>
@@ -39,4 +39,4 @@ Werken bij de supermarkt is net een heel heftige romance. Eerst laat de super j
 <p>Het enige wat er dan nog op zit, is ontslag nemen. Een ware break-up. Jij en de super hebben het leuk gehad, maar het is tijd om elk een andere weg in te gaan. En natuurlijk ga je zo nu en dan wat dingen missen: het geld, je team… en nogmaals, het geld.</p>
 <h3><strong>7. De opluchtingsfase</strong></h3>
 <p>Maar zodra je een nieuw, ander baantje gevonden hebt waar je goed op je plek zit, ben je opgelucht dat je weg bent bij de super. Je tijd was er niet vreselijk… maar langer had ook echt niet gehoeven. </p>
-<p><em>Komen deze supermarktscenario's je bekend voor? Lees dan ook <a href="https://original.sevendays.nl/blog/de-5-klanten-die-elke-kassi%C3%A8re-tegenkomt">De 5 klanten die elke caissière tegenkomt</a>, <a href="https://original.sevendays.nl/blogs/de-7-vervelendste-situaties-van-een-kassa-bijbaan">De 7 vervelendste situaties van een kassa-bijbaan</a> en <a href="https://original.sevendays.nl/blog/de-7-dingen-die-ik-heb-geleerd-van-vakkenvullen">De 7 dingen die ik heb geleerd van vakkenvullen</a>.</em></p>  
+<p><em>Komen deze supermarktscenario's je bekend voor? Lees dan ook <a href="https://7dagen.netlify.app/blog/de-5-klanten-die-elke-kassi%C3%A8re-tegenkomt">De 5 klanten die elke caissière tegenkomt</a>, <a href="https://7dagen.netlify.app/blogs/de-7-vervelendste-situaties-van-een-kassa-bijbaan">De 7 vervelendste situaties van een kassa-bijbaan</a> en <a href="https://7dagen.netlify.app/blog/de-7-dingen-die-ik-heb-geleerd-van-vakkenvullen">De 7 dingen die ik heb geleerd van vakkenvullen</a>.</em></p>  

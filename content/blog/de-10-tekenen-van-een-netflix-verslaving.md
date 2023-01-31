@@ -1,5 +1,5 @@
 ---
-id: 01ff445081e84b0ba89fb06e2516043b
+id: a6f30a1855ef49d09316e3b2f78949f2
 type: post
 layout: post
 title: "De 10 tekenen van een Netflix-verslaving"
@@ -33,4 +33,4 @@ Tegen Netflix zeg je nooit nee. Het is je beste vriend, maar tegelijkertijd ook 
 <p>Na nóg een seizoen gekeken te hebben ontdek je plotseling dat het al drie uur geweest is. En dat je nog steeds in bed ligt. En je eigenlijk ook nog niet ontbeten hebt.</p>
 <h3>10. De kans dat jij op een regenachtige zondagmiddag op Netflix zit is vrijwel honderd procent.</h3>
 <p>Maar ook als het buiten tropisch warm is en de gemiddelde mens het liefst in het zwembad dobbert, kijk jij liever series. Op de bank, onder een dekentje.</p>
-<p><em>Gitte (20) is dol op de geur van papieren kranten. Haar droom: er zelf ook voor één schrijven. En haar stukken illustreren. Volgend jaar hoopt ze haar diploma Journalistiek te behalen en die droom waar te maken. Mocht dat niet lukken, dan is ze vastberaden haar eigen ontbijtrestaurantje te beginnen. Met een zelfverzonnen menu van roereitjes met ketchup, kommetjes met fruit, yoghurt en muesli en wentelteefjes. Laten dat nu net haar drie favoriete ontbijtjes zijn.  </em><a href="https://original.sevendays.nl/users/gitte-hessels"><em>Meer blogs van Gitte lees je hier</em></a><em>.</em></p>  
+<p><em>Gitte (20) is dol op de geur van papieren kranten. Haar droom: er zelf ook voor één schrijven. En haar stukken illustreren. Volgend jaar hoopt ze haar diploma Journalistiek te behalen en die droom waar te maken. Mocht dat niet lukken, dan is ze vastberaden haar eigen ontbijtrestaurantje te beginnen. Met een zelfverzonnen menu van roereitjes met ketchup, kommetjes met fruit, yoghurt en muesli en wentelteefjes. Laten dat nu net haar drie favoriete ontbijtjes zijn.  </em><a href="https://7dagen.netlify.app/users/gitte-hessels"><em>Meer blogs van Gitte lees je hier</em></a><em>.</em></p>  

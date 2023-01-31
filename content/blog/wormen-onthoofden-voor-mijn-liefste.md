@@ -1,5 +1,5 @@
 ---
-id: b9e7f6e3e1254edeb232876d2ea61f1b
+id: 01b118911d7f429f9d19516ecfc66987
 type: post
 layout: post
 title: "Wormen onthoofden voor mijn liefste"
@@ -19,7 +19,7 @@ Sinds kort heb ik een axolotl en dat is zowel het beste als het slechtste wat me
         
   
   <div class="content">
-    <img height="354" width="560" style="width: 849px; height: 537px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/axolotl2.jpeg" alt="">  </div>
+    <img height="354" width="560" style="width: 849px; height: 537px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/axolotl2.jpeg" alt="">  </div>
 
   
 </div>

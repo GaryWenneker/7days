@@ -1,5 +1,5 @@
 ---
-id: 4ea44ced0bda4bd4bcb718d1bcde7676
+id: 5fb9c1c9f6114caca4e09aedb7292e28
 type: post
 layout: post
 title: "De 5 klanten die elke kassière tegenkomt"
@@ -19,4 +19,4 @@ Volgens volwassenen is een bijbaantje oh zo leuk, leerzaam en goed voor later. M
 <p><strong>De onderhandelaar 2</strong><br>In<strong> </strong>deze categorie vallen ook de jongeren die graag een pakje Marlboro, eh doe toch maar L&amp;M, willen hebben maar toevallig hun identiteitsbewijs niet bij zich hebben. 'Ik geef je een euro extra!' of 'Kom op, dan krijg je mijn telefoonnummer erbij!', zijn veelgehoorde zinnen in het land der kassamedewerkers. </p>
 <p><strong>Het kind</strong><br>De opmerkingen van kinderen zijn het allerleukst. Van het onschuldige 'Ik ben jarig, wil je op mijn feestje komen?' tot het iets minder onschuldige kinderstemmetje dat 'Die liggen in papa’s laatje!' roept, wijzend naar de condooms naast de kassa. Met rode hoofden van ouders tot gevolg.</p>
 <p>Maar verder is het best leuk in de wereld van de kassamedewerkers, hoor. Of het echt goed op je CV staat, zoals volwassenen beweren? Geen idee. Maar je hoeft je in elk geval nooit te vervelen...</p>
-<p><i>Smaakt dit blog naar meer? <a href="https://original.sevendays.nl/blogs">Klikkerdeklik</a>.</i></p>  
+<p><i>Smaakt dit blog naar meer? <a href="https://7dagen.netlify.app/blogs">Klikkerdeklik</a>.</i></p>  

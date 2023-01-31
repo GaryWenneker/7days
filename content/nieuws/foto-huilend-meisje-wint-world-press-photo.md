@@ -1,5 +1,5 @@
 ---
-id: e26df32317e54e04b5ff1f92cb5eca6c
+id: d1d4e1186a424f8cb97ffc2568c65099
 type: nieuws
 layout: post
 title: "Foto huilend meisje wint World Press Photo"
@@ -24,7 +24,7 @@ Een klein huilend meisje aan de Amerikaanse grens. Met deze foto won de Amerikaa
         
   
   <div class="content">
-    <img alt="ANP" title="World Press Photo 2019" height="719" width="718" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202019-04-12%20om%2010.49.32.png">  </div>
+    <img alt="ANP" title="World Press Photo 2019" height="719" width="718" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202019-04-12%20om%2010.49.32.png">  </div>
 
   
 </div>

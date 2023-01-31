@@ -1,5 +1,5 @@
 ---
-id: 97c408f3f5184c549c08f73ff9e793df
+id: 6392c48b67aa443aab28e9ecf2978b7d
 type: nieuws
 layout: post
 title: "Chinese jongen plast in lift en blijft hangen"

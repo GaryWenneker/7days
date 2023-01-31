@@ -1,5 +1,5 @@
 ---
-id: 5bcbf922dbbd473ca26016e559e7a573
+id: 98d43ac3945e40f89f6026bfb0f2f2c9
 type: nieuws
 layout: post
 title: "Doden en gewonden na schietpartij school Florida"
@@ -23,7 +23,7 @@ Bij een schietpartij in een school in Parkland, in de Amerikaanse staat Florida,
         
   
   <div class="content">
-    <img alt="Shooting school Parkland" title="Beeld: AFP" height="904" width="1620" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-55822902.jpg">  </div>
+    <img alt="Shooting school Parkland" title="Beeld: AFP" height="904" width="1620" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-55822902.jpg">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: b6f6bd7481c140eb8ccb47c0345573bb
+id: 3a92ab4b5d28408493c36a36f337dfdb
 type: nieuws
 layout: post
 title: "Dit moet je weten over de decembermoorden"
@@ -20,7 +20,7 @@ Het proces rond de Decembermoorden móet verder gaan. Dat heeft een Surinaamse r
         
   
   <div class="content">
-    <img alt="Bouterse  Illustratie Flos Vingerhoets" title="Bouterse  Illustratie Flos Vingerhoets" height="570" width="611" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Screen%20Shot%202015-05-27%20at%2012.41.53.png">  </div>
+    <img alt="Bouterse  Illustratie Flos Vingerhoets" title="Bouterse  Illustratie Flos Vingerhoets" height="570" width="611" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Screen%20Shot%202015-05-27%20at%2012.41.53.png">  </div>
 
   
 </div>
@@ -32,7 +32,7 @@ Het proces rond de Decembermoorden móet verder gaan. Dat heeft een Surinaamse r
         
   
   <div class="content">
-    <img alt="Bouterse (rechts) tijdens de staatsgreep op Fort Zeelandia in 1982  Foto ANP" title="Bouterse (rechts) tijdens de staatsgreep op Fort Zeelandia in 1982  Foto ANP" height="581" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-915988-klein.jpg">  </div>
+    <img alt="Bouterse (rechts) tijdens de staatsgreep op Fort Zeelandia in 1982  Foto ANP" title="Bouterse (rechts) tijdens de staatsgreep op Fort Zeelandia in 1982  Foto ANP" height="581" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-915988-klein.jpg">  </div>
 
   
 </div>
@@ -47,7 +47,7 @@ Het proces rond de Decembermoorden móet verder gaan. Dat heeft een Surinaamse r
         
   
   <div class="content">
-    <img alt="Nabestaanden herdenken de Decembermoorden (8-12-2015)  Foto ANP" title="Nabestaanden herdenken de Decembermoorden (8-12-2015)  Foto ANP" height="567" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-35336998-klein.jpg">  </div>
+    <img alt="Nabestaanden herdenken de Decembermoorden (8-12-2015)  Foto ANP" title="Nabestaanden herdenken de Decembermoorden (8-12-2015)  Foto ANP" height="567" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-35336998-klein.jpg">  </div>
 
   
 </div>
@@ -55,4 +55,4 @@ Het proces rond de Decembermoorden móet verder gaan. Dat heeft een Surinaamse r
 <h3><strong>Ultieme truc</strong></h3>
 <p>Zou de president met het zwarte verleden er nu eindelijk niet meer in slagen zijn straf te ontlopen? De nabestaanden van de omgekomen mensen op Fort Zeelandia hopen het van harte.</p>
 <p>Toch is de kans dat Bouterse achter de tralies belandt klein. De president heeft veel macht. Als staatshoofd zou hij gratie kunnen krijgen. Bovendien is hij opperbevelhebber van het leger en heeft hij een elitekorps dat hem beschermt. En in het uiterste geval kan hij altijd nog de ultieme truc uit die inmiddels overbekende hoge hoed van hem toveren: de noodtoestand uitroepen. Daarmee krijgt Bouterse absolute macht in Suriname.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

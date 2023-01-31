@@ -1,5 +1,5 @@
 ---
-id: 43c996ccaccc40339143078b16dad8cf
+id: 6bc22774412e41278d038674eadc2c22
 type: nieuws
 layout: post
 title: "Belgisch juichen voor beginners"

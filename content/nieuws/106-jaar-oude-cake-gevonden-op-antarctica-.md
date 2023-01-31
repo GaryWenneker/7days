@@ -1,5 +1,5 @@
 ---
-id: 2ea5f709fce840faa719676feb926bbc
+id: 2817c0e335a14a50bea12c9f7bbb8010
 type: nieuws
 layout: post
 title: "106 jaar oude cake gevonden op Antarctica "
@@ -20,7 +20,7 @@ Een fruitcake geeft energie én is lang houdbaar. Handig op reis, dachten ontd
         
   
   <div class="content">
-    <img alt="Foto Antarctic Heritage Trust" title="Foto Antarctic Heritage Trust" height="554" width="800" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Fruit%2520cake%2520tin%2520after%2520treatment_c%2520AHT_0.JPG">  </div>
+    <img alt="Foto Antarctic Heritage Trust" title="Foto Antarctic Heritage Trust" height="554" width="800" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Fruit%2520cake%2520tin%2520after%2520treatment_c%2520AHT_0.JPG">  </div>
 
   
 </div>
@@ -29,7 +29,7 @@ Een fruitcake geeft energie én is lang houdbaar. Handig op reis, dachten ontd
         
   
   <div class="content">
-    <img alt="Foto Antarctic Heritage Trust" title="Foto Antarctic Heritage Trust" height="534" width="800" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Huntley%2520and%2520Palmer%2520fruit%2520cake%2520in%2520wrapper_c%2520AHT.JPG">  </div>
+    <img alt="Foto Antarctic Heritage Trust" title="Foto Antarctic Heritage Trust" height="534" width="800" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Huntley%2520and%2520Palmer%2520fruit%2520cake%2520in%2520wrapper_c%2520AHT.JPG">  </div>
 
   
 </div>
@@ -38,7 +38,7 @@ Een fruitcake geeft energie én is lang houdbaar. Handig op reis, dachten ontd
         
   
   <div class="content">
-    <img alt="Foto Antarctic Heritage Trust" title="Foto Antarctic Heritage Trust" height="533" width="800" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Huntley%2520and%2520Palmer%2520fruit%2520cake_c%2520AHT.JPG">  </div>
+    <img alt="Foto Antarctic Heritage Trust" title="Foto Antarctic Heritage Trust" height="533" width="800" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Huntley%2520and%2520Palmer%2520fruit%2520cake_c%2520AHT.JPG">  </div>
 
   
 </div>
@@ -51,15 +51,15 @@ Een fruitcake geeft energie én is lang houdbaar. Handig op reis, dachten ontd
         
   
   <div class="content">
-    <img alt="Shackleton&#039;s Hut" title="Foto: ANP" height="3520" width="4992" style="font-size: 13.008px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-48399097.jpg">  </div>
+    <img alt="Shackleton&#039;s Hut" title="Foto: ANP" height="3520" width="4992" style="font-size: 13.008px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-48399097.jpg">  </div>
 
   
 </div>
 </div><em>Amerikaanse minister van Buitenlandse Zaken (van januari 2013-februari 2017), John Kerry, bezoekt de historische Shackleton hut in 2016.</em>
 <p> </p>
 <div class="kader">
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p>Vond je dit interessant? Lees dan ook eens <a href="https://original.sevendays.nl/lifestyle-nieuws/daar-gaat-ze-als-jongste-ooit-de-polen-over">Daar gaat ze: als jongste ooit de Polen over</a> of <a href="https://original.sevendays.nl/nieuws/op-cruise-langs-de-smeltende-poolkappen">Op cruise naar smeltende poolkappen</a>.</p>
-<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://original.sevendays.nl/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp</a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">,</em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://original.sevendays.nl/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"> </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p>Vond je dit interessant? Lees dan ook eens <a href="https://7dagen.netlify.app/lifestyle-nieuws/daar-gaat-ze-als-jongste-ooit-de-polen-over">Daar gaat ze: als jongste ooit de Polen over</a> of <a href="https://7dagen.netlify.app/nieuws/op-cruise-langs-de-smeltende-poolkappen">Op cruise naar smeltende poolkappen</a>.</p>
+<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://7dagen.netlify.app/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp</a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">,</em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://7dagen.netlify.app/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"> </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
 </div>
   

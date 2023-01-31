@@ -1,5 +1,5 @@
 ---
-id: e485a8287ad243c5989b0fef677a6ce8
+id: 1b5719b4d0dd4fcdbd09782f94147e5f
 type: nieuws
 layout: post
 title: "In de regen voor het klimaat"
@@ -18,7 +18,7 @@ Duizenden mensen liepen vandaag in Amsterdam mee in een grote mars. Ze kwamen ui
         
   
   <div class="content">
-    <img alt="@GroenLinksZeist" title="@GroenLinksZeist" height="540" width="960" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/foto%20%40GroenLinksZeist.jpg">  </div>
+    <img alt="@GroenLinksZeist" title="@GroenLinksZeist" height="540" width="960" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/foto%20%40GroenLinksZeist.jpg">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ Duizenden mensen liepen vandaag in Amsterdam mee in een grote mars. Ze kwamen ui
         
   
   <div class="content">
-    <img alt="Foto ANP" title="Foto ANP" height="3033" width="4550" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-70907554-kleiner.jpg">  </div>
+    <img alt="Foto ANP" title="Foto ANP" height="3033" width="4550" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-70907554-kleiner.jpg">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ Duizenden mensen liepen vandaag in Amsterdam mee in een grote mars. Ze kwamen ui
         
   
   <div class="content">
-    <img alt="Foto ANP" title="Foto ANP" height="4500" width="3498" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/ANP-70914654.jpg">  </div>
+    <img alt="Foto ANP" title="Foto ANP" height="4500" width="3498" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/ANP-70914654.jpg">  </div>
 
   
 </div>

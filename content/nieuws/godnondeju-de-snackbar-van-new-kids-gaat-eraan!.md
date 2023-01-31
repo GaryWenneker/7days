@@ -1,5 +1,5 @@
 ---
-id: 41de352d97914c95a222cdbeceb4d211
+id: 966080eca67f4d64adb65135d6c8706e
 type: nieuws
 layout: post
 title: "Godnondeju, de snackbar van New Kids gaat eraan!"
@@ -27,4 +27,4 @@ seo:
   
 </div>
 </div><br><br>De eigenaar van het pand staat niet zelf achter de frituur, dat doen huurders Eric en Carlien van Zandbeek. Die werden nogal overvallen door het nieuws van de krant. ‘De eigenaar is op vakantie, die zit in Argentinië’, vertelt Carlien door de telefoon aan <em>7Days</em>. ‘Die zal zelf ook wel verrast zijn door alle aandacht. Maar we moeten nog om tafel.’<br><br><strong>Duitse fans</strong><br>Van Zandbeek zou het jammer vinden als ’t Pleintje verdwijnt. ‘Het is wel aan vernieuwing toe, maar het hoeft van ons geen nieuwe tent te worden. Je kunt het ook opknappen en in <em>New Kids</em>-stijl houden.’<br><br>‘Er zijn mensen die nu bellen: “Kunnen we dit weekend langskomen? Zijn jullie dan nog open?” Nog bijna elke dag komen er Duitse fans langs. Maar het duurt wel even voordat dit rond is. Dat gaat niet van vandaag op morgen. Het zal wel december worden voor er een plan is.’<br><br><strong>Online petitie</strong><br>Van Zandbeek is niet de enige die zou treuren als ’t Pleintje ophoudt met bestaan. Een <a href="https://petities.nl/petitions/red-cafetaria-t-pleintje-snackbar-uit-new-kids-van-de-sloopkogel/signatures/566945?locale=nl" target="_blank">online petitie</a> die de snackbar van de sloop moet redden, is inmiddels door iets meer dan dertig mensen ondertekend. Hopelijk haalt het iets uit, want anders is het… <em>Zonne grote sloopkogel, jonguh! BAM!</em>
-<p><em>Altijd op de hoogte blijven van nieuws waar jij als jongere iets mee kunt? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement</a> op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws waar jij als jongere iets mee kunt? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement</a> op de krant!</em></p>  

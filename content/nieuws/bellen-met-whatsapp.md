@@ -1,5 +1,5 @@
 ---
-id: 71fc678c28944daf94bc17865ad86cac
+id: 77a73ca52f4649f4a6646ff83a797a06
 type: nieuws
 layout: post
 title: "Bellen met WhatsApp"
@@ -19,7 +19,7 @@ Vanaf vandaag kun je ook bellen via WhatsApp. Je hoeft je telefoon niet te updat
         
   
   <div class="content">
-    <img height="264" width="576" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Jan%20Koum_0.JPG" alt="">  </div>
+    <img height="264" width="576" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Jan%20Koum_0.JPG" alt="">  </div>
 
   
 </div>

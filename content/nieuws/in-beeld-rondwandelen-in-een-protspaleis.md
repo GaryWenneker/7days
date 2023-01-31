@@ -1,5 +1,5 @@
 ---
-id: e06262fb1b1043608522453b32518fca
+id: 76ef5dbdf9ce461399ac065398be9083
 type: nieuws
 layout: post
 title: "In beeld: Rondwandelen in een protspaleis"
@@ -19,7 +19,7 @@ Midden in Boekarest staat het gigantische spierwitte, marmeren Lentepaleis. De 
         
   
   <div class="content">
-    <img height="565" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/kleindreamstime_m_62179870.jpg" alt="">  </div>
+    <img height="565" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/kleindreamstime_m_62179870.jpg" alt="">  </div>
 
   
 </div>
@@ -30,7 +30,7 @@ Midden in Boekarest staat het gigantische spierwitte, marmeren Lentepaleis. De 
         
   
   <div class="content">
-    <img height="553" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/kleindreamstime_m_68167969.jpg" alt="">  </div>
+    <img height="553" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/kleindreamstime_m_68167969.jpg" alt="">  </div>
 
   
 </div>
@@ -41,7 +41,7 @@ Midden in Boekarest staat het gigantische spierwitte, marmeren Lentepaleis. De 
         
   
   <div class="content">
-    <img height="547" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/kleindreamstime_m_68167796.jpg" alt="">  </div>
+    <img height="547" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/kleindreamstime_m_68167796.jpg" alt="">  </div>
 
   
 </div>
@@ -52,7 +52,7 @@ Midden in Boekarest staat het gigantische spierwitte, marmeren Lentepaleis. De 
         
   
   <div class="content">
-    <img height="573" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/kleindreamstime_m_68167888.jpg" alt="">  </div>
+    <img height="573" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/kleindreamstime_m_68167888.jpg" alt="">  </div>
 
   
 </div>
@@ -64,7 +64,7 @@ Midden in Boekarest staat het gigantische spierwitte, marmeren Lentepaleis. De 
         
   
   <div class="content">
-    <a href="/files/nicolaeceausescujpg"><img alt="Nicolae Ceausescu " height="220" width="143" style="float: left; margin-left: 5px; margin-right: 5px;" class="media-element file-teaser" src="https://original.sevendays.nl/sites/default/files/styles/medium/public/Nicolae_Ceausescu.jpg?itok=O0S4glH_"></a>  </div>
+    <a href="/files/nicolaeceausescujpg"><img alt="Nicolae Ceausescu " height="220" width="143" style="float: left; margin-left: 5px; margin-right: 5px;" class="media-element file-teaser" src="https://7dagen.netlify.app/sites/default/files/styles/medium/public/Nicolae_Ceausescu.jpg?itok=O0S4glH_"></a>  </div>
 
   
 </div>

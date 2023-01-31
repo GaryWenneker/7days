@@ -1,5 +1,5 @@
 ---
-id: 8b0094e73484441cb3632ae032412792
+id: 6af7ecce0c134002b91b611bc3c7351d
 type: nieuws
 layout: post
 title: "Breivik wint rechtszaak voor een deel"
@@ -14,13 +14,13 @@ seo:
 Een menswaardig bestaan. Dat wil Anders Breivik, de Noorse terrorist die in 2011 bijna tachtig mensen vermoordde op het eiland Utøya én in de hoofdstad Oslo. Nu is hij al vier jaar gevangen. En hij is boos: hij vindt dat hij niet menselijk behandeld wordt. Vandaag deed de rechter uitspraak. Hoe zit het precies met Breivik en deze zaak?   
 
     <p><strong>1. Wat is er ook al weer gebeurd? </strong><br>Op 22 juli 2011 werd Noorwegen opgeschrikt door twee aanslagen. Het was de grootste terreurdaad in Noorwegen in zeventig jaar tijd. Eerst ontplofte er een autobom in Oslo, bij het regeringskantoor van premier Jens Stoltenberg van de Arbeiderspartij. Acht mensen kwamen om; de premier ontkwam. </p>
-<p>Niet lang daarna begon op het eiland Utøya een man gekleed als agent om zich heen te schieten. Op het eiland was een politiek jeugdkamp, ook van de Arbeiderspartij. Hier kwamen 69 mensen, vooral tieners, om. <a href="https://original.sevendays.nl/nieuws/erik-was-op-ut%C3%B8ya">Hier</a> lees je het verhaal van Erik (18), die onder vuur werd genomen. De schutter, Anders Breivik (toen 32), werd overmeesterd. Hij had de aanslagen jarenlang in het geheim voorbereid in zijn huis op het platteland. </p>
+<p>Niet lang daarna begon op het eiland Utøya een man gekleed als agent om zich heen te schieten. Op het eiland was een politiek jeugdkamp, ook van de Arbeiderspartij. Hier kwamen 69 mensen, vooral tieners, om. <a href="https://7dagen.netlify.app/nieuws/erik-was-op-ut%C3%B8ya">Hier</a> lees je het verhaal van Erik (18), die onder vuur werd genomen. De schutter, Anders Breivik (toen 32), werd overmeesterd. Hij had de aanslagen jarenlang in het geheim voorbereid in zijn huis op het platteland. </p>
 <p><div class="media media-element-container media-default"><div id="file-16891" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img title="Bron: ANP" height="664" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-42539966.jpg" alt="">  </div>
+    <img title="Bron: ANP" height="664" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-42539966.jpg" alt="">  </div>
 
   
 </div>
@@ -34,7 +34,7 @@ Een menswaardig bestaan. Dat wil Anders Breivik, de Noorse terrorist die in 2011
         
   
   <div class="content">
-    <img title="Bron: ANP" height="567" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-39202756.jpg" alt="">  </div>
+    <img title="Bron: ANP" height="567" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-39202756.jpg" alt="">  </div>
 
   
 </div>
@@ -57,4 +57,4 @@ Een menswaardig bestaan. Dat wil Anders Breivik, de Noorse terrorist die in 2011
 </div>
 <p><strong>5. Hoe zit het met die Hitler-groet van hem?</strong><br>Tja. Dinsdag was de allereerste rechtszaak. Breivik was net binnen, zijn boeien werden afgedaan en hij stak zijn hand omhoog in een soort Hitler-groet. Dat was nou nét wat de Noorse overheid niet wilde: dat hij contact zou maken met aanhangers. Of het echt een Hitler-groet was, is trouwens niet zeker. Het kan ook een Tempeliers-groet zijn. Breivik is een aanhanger van de Tempelorde, een eeuwenoude anti-moslimgroep. Óók behoorlijk racistisch dus. </p>
 <p><strong>6. En nu?</strong><br>Vandaag besloot de rechter dat Breivik voor een deel gelijk heeft. De strenge manier waarop hij in de gevangenis behandeld wordt, gaat in tegen het Europees Verdrag voor de Rechten van de Mens. Daarom moet de Noorse overheid de kosten van Breiviks proces (omgerekend zo'n €36.000) betalen. Maar van een inbreuk op zijn privéleven is geen sprake, zegt de rechtbank. En meer contact met andere gevangenen kan Breivik ook vergeten. In ieder geval op dit moment. </p>
-<p><em>Altijd op de hoogte blijven van nieuws en tips waar je als jongere iets mee kunt? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis nieuwsapp</a> of neem een proefabonnement op de <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">papieren 7Days</a>!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws en tips waar je als jongere iets mee kunt? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis nieuwsapp</a> of neem een proefabonnement op de <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">papieren 7Days</a>!</em></p>  

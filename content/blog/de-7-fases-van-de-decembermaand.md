@@ -1,5 +1,5 @@
 ---
-id: 05fb64fcd9cb4de6a19373374dbfb70c
+id: 1b1131d200354aeb882abd473a585099
 type: post
 layout: post
 title: "De 7 fases van de decembermaand"
@@ -14,7 +14,7 @@ seo:
 We zitten midden in december en het is me opgevallen dat die feestmaand altijd een vast patroon heeft. We doorlopen altijd zeven fasen, die vol plezier zitten, maar ook onverwacht veel stress opleveren.   
 
     <h3><strong>Fase 1: Het begin van de decembermaand</strong></h3>
-<p>December begint altijd voor je het echt door hebt en 1 december is altijd de dag waarop er iets geks met mensen gebeurt. Kerst is helemaal niet meer zo ver weg, winkels worden leeggekocht, Pieten komen tevoorschijn op de straten en <a href="https://original.sevendays.nl/kersthits"><em>All I Want For Christmas</em></a> staat weer in de Top 40. Alleen blijven de landschappen vol sneeuw nog uit.</p>
+<p>December begint altijd voor je het echt door hebt en 1 december is altijd de dag waarop er iets geks met mensen gebeurt. Kerst is helemaal niet meer zo ver weg, winkels worden leeggekocht, Pieten komen tevoorschijn op de straten en <a href="https://7dagen.netlify.app/kersthits"><em>All I Want For Christmas</em></a> staat weer in de Top 40. Alleen blijven de landschappen vol sneeuw nog uit.</p>
 <h3><strong>Fase 2: De eindejaarsschoolstress </strong></h3>
 <p>De eerste feestdag is natuurlijk Sinterklaas. Alleen heb je daar helemaal geen tijd meer voor - het gaat bijna compleet langs je heen. Helaas gaat school door in de decembermaand: sterker nog, het is de laatste kans om je cijfers op te krikken voor het eerste rapport, want anders zou je zomaar na de kerst in de problemen kunnen komen. Ook fijn: tentamens tot twee dagen voor kerst. </p>
 <h3><b>Fase 3: De kerstboomstress </b></h3>
@@ -24,7 +24,7 @@ We zitten midden in december en het is me opgevallen dat die feestmaand altijd 
         
   
   <div class="content">
-    <img height="1944" width="1944" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/1421206_580400312029488_2130783618_o.jpg" alt="">  </div>
+    <img height="1944" width="1944" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/1421206_580400312029488_2130783618_o.jpg" alt="">  </div>
 
   
 </div>

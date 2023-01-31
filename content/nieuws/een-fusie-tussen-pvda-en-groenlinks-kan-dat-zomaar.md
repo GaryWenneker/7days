@@ -1,5 +1,5 @@
 ---
-id: 1147dd8ff54a49f088f864e10bc42ba3
+id: 3097aea7b4974f0faa158764beca6d25
 type: nieuws
 layout: post
 title: "Een fusie tussen PvdA en GroenLinks, kan dat zomaar?"
@@ -21,7 +21,7 @@ Een opmerkelijke brief vanochtend in de Volkskrant: als het aan voormalig PvdA
         
   
   <div class="content">
-    <img alt="PvdA en Groenlinks: een fusie?" title="Beeld: 7Days" height="428" width="2080" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/groenlinks%20en%20pvda.png">  </div>
+    <img alt="PvdA en Groenlinks: een fusie?" title="Beeld: 7Days" height="428" width="2080" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/groenlinks%20en%20pvda.png">  </div>
 
   
 </div>
@@ -35,7 +35,7 @@ Een opmerkelijke brief vanochtend in de Volkskrant: als het aan voormalig PvdA
         
   
   <div class="content">
-    <img alt="Jesse Klaver" title="Beeld: ANP" height="776" width="1232" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-50294032.jpg">  </div>
+    <img alt="Jesse Klaver" title="Beeld: ANP" height="776" width="1232" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-50294032.jpg">  </div>
 
   
 </div>
@@ -45,4 +45,4 @@ Een opmerkelijke brief vanochtend in de Volkskrant: als het aan voormalig PvdA
 <p>Zo ís de PvdA al een fusiepartij. In 1946 besloten drie linkse partijen samen te gaan onder een nieuwe naam. Sommige leden vonden dit niets en sloten zich aan bij andere partijen, waaronder de VVD, dat óók een fusiepartij is. Net als GroenLinks: die partij ontstond in 1990, toen vier kleine linkse partijen samengingen. Andere partijen, zoals de PVV, zijn ontstaan als afsplitsing. Van alle grote partijen is alleen D66 geen fusiepartij: die doet het sinds 1966 op eigen kracht.</p>
 <h3>In de toekomst</h3>
 <p>De voorwaarde voor zo'n fusie: een meerderheid moet er wel zin in hebben. Op dit moment lijkt dat binnen de PvdA niet het geval. Maar in de toekomst zal het idee nog vaak geopperd worden. Wie weet dat straks ook de naam 'Partij van de Arbeid' verleden tijd is.</p>
-<p><em>Altijd op de hoogte blijven van tips die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van tips die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

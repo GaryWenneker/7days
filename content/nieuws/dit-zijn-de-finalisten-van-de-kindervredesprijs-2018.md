@@ -1,5 +1,5 @@
 ---
-id: d53843367bbc4c8ba46d98f405df053f
+id: 738274b237d3456d9c2260f8c2806cc9
 type: nieuws
 layout: post
 title: "Dit zijn de finalisten van de Kindervredesprijs 2018"
@@ -20,7 +20,7 @@ seo:
         
   
   <div class="content">
-    <img alt="moni begum" title="Foto: KidsRight" height="125" width="125" style="float: left;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/moni-begum-vk-2-1.jpg">  </div>
+    <img alt="moni begum" title="Foto: KidsRight" height="125" width="125" style="float: left;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/moni-begum-vk-2-1.jpg">  </div>
 
   
 </div>
@@ -33,7 +33,7 @@ seo:
         
   
   <div class="content">
-    <img alt="MFOL" title="Foto: KidsRight" height="125" width="125" style="float: left;" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/portretten-mfol-2018img-8372-vk-kl.jpg">  </div>
+    <img alt="MFOL" title="Foto: KidsRight" height="125" width="125" style="float: left;" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/portretten-mfol-2018img-8372-vk-kl.jpg">  </div>
 
   
 </div>
@@ -46,7 +46,7 @@ seo:
         
   
   <div class="content">
-    <img alt="leilua" title="Foto: KidsRight" height="125" width="125" style="float: left;" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/leilua-vk-kl.jpg">  </div>
+    <img alt="leilua" title="Foto: KidsRight" height="125" width="125" style="float: left;" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/leilua-vk-kl.jpg">  </div>
 
   
 </div>

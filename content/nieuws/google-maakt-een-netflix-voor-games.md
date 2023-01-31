@@ -1,5 +1,5 @@
 ---
-id: ec5376790b404293bdb4db5f20f0f822
+id: f5b7d58321f34575923084cb0bd97da9
 type: nieuws
 layout: post
 title: "Google maakt een Netflix voor games"

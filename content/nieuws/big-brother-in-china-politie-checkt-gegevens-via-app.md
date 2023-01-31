@@ -1,5 +1,5 @@
 ---
-id: 0a1b30d000b84a35876c2ca88dac9ef9
+id: aa199594e9c3418d96a565d38d080d10
 type: nieuws
 layout: post
 title: "Big Brother in China: politie checkt gegevens via app"

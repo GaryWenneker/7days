@@ -1,5 +1,5 @@
 ---
-id: 85fd92c04747485494cb9b3edc0d9271
+id: 99ec943d14484b44a4bfdf91754de2fa
 type: post
 layout: post
 title: "Tips voor de beste low budget-cadeaus"
@@ -20,7 +20,7 @@ Barst jouw portemonnee ook in tranen uit wanneer jij weer een cadeautje moet kop
         
   
   <div class="content">
-    <img height="3864" width="2917" style="font-size: 13.008px; width: 400px; height: 550px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/patricks%20pringles.jpg" alt="">  </div>
+    <img height="3864" width="2917" style="font-size: 13.008px; width: 400px; height: 550px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/patricks%20pringles.jpg" alt="">  </div>
 
   
 </div>
@@ -32,7 +32,7 @@ Barst jouw portemonnee ook in tranen uit wanneer jij weer een cadeautje moet kop
         
   
   <div class="content">
-    <img height="3794" width="3469" style="width: 600px; height: 700px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/bureaubasket.jpg" alt="">  </div>
+    <img height="3794" width="3469" style="width: 600px; height: 700px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/bureaubasket.jpg" alt="">  </div>
 
   
 </div>
@@ -44,11 +44,11 @@ Barst jouw portemonnee ook in tranen uit wanneer jij weer een cadeautje moet kop
         
   
   <div class="content">
-    <img height="3864" width="5152" style="width: 500px; height: 375px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/DSC00606_0.JPG" alt="">  </div>
+    <img height="3864" width="5152" style="width: 500px; height: 375px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/DSC00606_0.JPG" alt="">  </div>
 
   
 </div>
 </div>
 <h3>Selfmade</h3>
 <p>Bekroon jullie vriendschap of band met een ‘potje vol herinneringen’, waarin je op kleine briefjes allerlei herinneringen van jullie samen schrijft. Je kunt natuurlijk ook een ‘boodschappen blikje’ maken waarin je kleine boodschapjes en wensen voor die vriend schrijft. Zo'n speciaal cadeau kost misschien wat tijd, maar het wordt vast gewaardeerd. In ieder geval door je portemonnee.</p>
-<p><em>De 17-jarige Lucas heeft een creatieve geest en houdt van schrijven, toneelspelen en tekenen. Hij zit in 6-vwo, maar van hard blokken moet hij niks hebben. Saaie schooldagen houdt hij manhaftig vol met het idee dat hij later een topberoep krijgt; hij weet alleen nog niet wat. </em><a href="https://original.sevendays.nl/users/lucas-versteeg"><em>Lees meer blogs van Lucas.</em></a></p>  
+<p><em>De 17-jarige Lucas heeft een creatieve geest en houdt van schrijven, toneelspelen en tekenen. Hij zit in 6-vwo, maar van hard blokken moet hij niks hebben. Saaie schooldagen houdt hij manhaftig vol met het idee dat hij later een topberoep krijgt; hij weet alleen nog niet wat. </em><a href="https://7dagen.netlify.app/users/lucas-versteeg"><em>Lees meer blogs van Lucas.</em></a></p>  

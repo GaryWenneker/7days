@@ -1,5 +1,5 @@
 ---
-id: e241224b4ecf429c9542d1191111756f
+id: 29e2279768744dd39dc5395957f253d2
 type: nieuws
 layout: post
 title: "Brug eindelijk teruggezet in Alphen"
@@ -32,4 +32,4 @@ Hoera, het dek van de Koningin Julianabrug in Alphen aan den Rijn ligt er weer o
 <p><strong>De schade</strong><br>De schade aan de huizen was wel enorm. Zo’n zestig mensen moesten worden opgevangen in een kerk omdat ze niet meer thuis konden slapen. Anderen logeerden bij familie of vrienden.</p>
 <p><strong>Het onderzoek</strong><br>De Onderzoeksraad voor Veiligheid onderzoekt hoe het ongeluk heeft kunnen gebeuren. Volgens veel deskundigen is de hele actie met de brug totaal verkeerd aangepakt. Wanneer het onderzoek klaar is, is nog niet duidelijk. </p>
 <p><strong>De herkansing</strong><br>Gelukkig ging het beter in de herkansing. Waar vorig jaar geprobeerd werd beide onderdelen in één keer terug te zetten, gebeurde het nu in twee etappes. In april was het contragewicht van de brug al teruggezet, deze week volgde het brugdek. Waarschijnlijk gaat de brug volgende maand weer open voor verkeer. </p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

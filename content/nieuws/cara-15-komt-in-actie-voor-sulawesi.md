@@ -1,5 +1,5 @@
 ---
-id: 6d74a09956f24bb2905c035c08e93eaf
+id: b80de69d8b1b40619136e5f823b1a650
 type: nieuws
 layout: post
 title: "Cara (15) komt in actie voor Sulawesi"
@@ -18,7 +18,7 @@ Het is nu ruim twee weken geleden dat de verwoestende aardbeving en de nog verwo
         
   
   <div class="content">
-    <img alt="Cara (helemaal rechts) en haar vriendinnen" title="Cara (helemaal rechts) en haar vriendinnen" height="1200" width="1600" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Cara%20Nieuwenkamp%20Actie%20Sulawesi.jpg">  </div>
+    <img alt="Cara (helemaal rechts) en haar vriendinnen" title="Cara (helemaal rechts) en haar vriendinnen" height="1200" width="1600" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Cara%20Nieuwenkamp%20Actie%20Sulawesi.jpg">  </div>
 
   
 </div>

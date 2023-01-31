@@ -1,5 +1,5 @@
 ---
-id: 1ccd2047ecbf4cb7843deef7c676bc53
+id: 0d6ae2949f664b6eaf683885da456e10
 type: nieuws
 layout: post
 title: "Duikrobot zoekt diepzeeschatten"
@@ -18,7 +18,7 @@ Amerikaanse wetenschappers hebben een bijzondere nieuwe robot gemaakt. Hij heet 
         
   
   <div class="content">
-    <img height="768" width="1151" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/scubabot_006%20Foto%20Osada%20Seguin%20DRASSM.jpg" alt="">  </div>
+    <img height="768" width="1151" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/scubabot_006%20Foto%20Osada%20Seguin%20DRASSM.jpg" alt="">  </div>
 
   
 </div>
@@ -39,4 +39,4 @@ Amerikaanse wetenschappers hebben een bijzondere nieuwe robot gemaakt. Hij heet 
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren belangrijk is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://www.kidsweek.nl/abonneren/abonnementen/ae/artikel2/">proefabonnement </a>op de krant! </em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren belangrijk is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://www.kidsweek.nl/abonneren/abonnementen/ae/artikel2/">proefabonnement </a>op de krant! </em></p>  

@@ -1,5 +1,5 @@
 ---
-id: e5dc377c2aba4ceba24e68f9adeb9341
+id: 4cfdd69c6caa4507bd0856a48fd11f92
 type: post
 layout: post
 title: "Waarom er niks mis is met een beetje Photoshop"
@@ -21,7 +21,7 @@ seo:
         
   
   <div class="content">
-    <img alt="Voor en na" height="1230" width="1820" style="height: 574px; width: 850px;" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ogen.jpg">  </div>
+    <img alt="Voor en na" height="1230" width="1820" style="height: 574px; width: 850px;" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ogen.jpg">  </div>
 
   
 </div>

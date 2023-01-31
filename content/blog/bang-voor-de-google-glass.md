@@ -1,5 +1,5 @@
 ---
-id: 81bccee3d4d34eea9b2d6ca1e1f1afb2
+id: 3445e4e708aa4ab8977ed902b1c52537
 type: post
 layout: post
 title: "Bang voor de Google Glass"

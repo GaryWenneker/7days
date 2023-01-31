@@ -1,5 +1,5 @@
 ---
-id: f47c239149e843118fc5f2ab58cc13df
+id: 0b6faa9a45c2414e997ee246ad02d299
 type: post
 layout: post
 title: "Dromen over dé perfecte Netflix-serie"
@@ -22,5 +22,5 @@ Na een lange dag school, wil ik als ik thuis kom het allerliefst lekker op de ba
 <p style="margin: 0px 0px 13px;">Een goede vriendin van mij, die dagenlang Netflix kijkt - een échte ervaringsdeskundige - droomt meer weg bij spannende series. Als het aan haar ligt proppen ze de spanning en mysterie van<em> Pretty Little Liars</em> bij de enge en knappe acteurs van <em>Teenwolf</em>. Een andere goede combinatie lijkt haar <em>Gossip Girl</em>, maar wel met een hele andere draai, met het spannende en nieuwe van <em>Riverdale</em>. </p>
 <h3 style="margin: 0px 0px 13px;">Series in overvloed</h3>
 <p style="margin: 0px 0px 13px;">Gelukkig ben ik op Netflix nog lang niet uitgekeken: leuke series in overvloed. Wie weet komt ooit mijn droom uit en is er over een paar jaar wel <em>Pretty Teenwolf</em>.</p>
-<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;">Meer blogs lezen van Dominique (15)? Laatst schreef ze ook <a href="https://original.sevendays.nl/blog/deze-7-typische-hyves-dingen-doen-we-nog-steeds" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease;">Deze 7 typische Hyves-dingen doen we nog steeds</a> en <a href="https://original.sevendays.nl/blog/koukleum-met-een-kledingprobleem" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease;">Koukleum met een kledingprobleem</a>.</em></p>
+<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;">Meer blogs lezen van Dominique (15)? Laatst schreef ze ook <a href="https://7dagen.netlify.app/blog/deze-7-typische-hyves-dingen-doen-we-nog-steeds" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease;">Deze 7 typische Hyves-dingen doen we nog steeds</a> en <a href="https://7dagen.netlify.app/blog/koukleum-met-een-kledingprobleem" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease;">Koukleum met een kledingprobleem</a>.</em></p>
   

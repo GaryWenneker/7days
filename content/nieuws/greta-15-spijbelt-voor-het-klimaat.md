@@ -1,5 +1,5 @@
 ---
-id: 8c5f530653944f7780f9d00d5a725a4d
+id: 841b41eee5b44662a9f19ffd0b91a94c
 type: nieuws
 layout: post
 title: "Greta (15) spijbelt voor het klimaat"

@@ -1,5 +1,5 @@
 ---
-id: 5c858c18bfcc444aa6a7f3d74c75bc7d
+id: 1b3efac2c38246d381989c15ffe964e5
 type: nieuws
 layout: post
 title: "7 documentaires over MH17"
@@ -33,7 +33,7 @@ De raketinslag, de dood van 298 onschuldigen, de schok in Nederland... Volgende 
         
   
   <div class="content">
-    <img height="484" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/teruggevonden.jpg" alt="">  </div>
+    <img height="484" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/teruggevonden.jpg" alt="">  </div>
 
   
 </div>
@@ -74,7 +74,7 @@ De raketinslag, de dood van 298 onschuldigen, de schok in Nederland... Volgende 
         
   
   <div class="content">
-    <img height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/buk.jpg" alt="">  </div>
+    <img height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/buk.jpg" alt="">  </div>
 
   
 </div>

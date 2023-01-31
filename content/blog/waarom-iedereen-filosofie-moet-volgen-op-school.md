@@ -1,5 +1,5 @@
 ---
-id: c5a0d5ecae704661a1af3c1c44f24323
+id: 22fa1d3733a74f47a91b1990104a84aa
 type: post
 layout: post
 title: "Waarom iedereen filosofie moet volgen op school"

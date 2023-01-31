@@ -1,5 +1,5 @@
 ---
-id: 259bce49223b4aa88b30ec04640d0c25
+id: 8af9d80929b54d038fbfcbb50354e303
 type: post
 layout: post
 title: "Vissen naar een complimentje? Pak een visnet!"
@@ -22,11 +22,11 @@ seo:
         
   
   <div class="content">
-    <img alt="compliment" height="2848" width="4272" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/IMG_2014_2.JPG">  </div>
+    <img alt="compliment" height="2848" width="4272" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/IMG_2014_2.JPG">  </div>
 
   
 </div>
 </div>
 <p><strong>Ongemakkelijk</strong><br>Als je iemand een compliment geeft, wordt dat vaak niet geaccepteerd maar weggelachen, afgeslagen of zelfs niet geloofd. Sommige ontvangers lijken zich er zelfs wat ongemakkelijk bij te voelen. Zo jammer: je hebt die vis toch niet voor niets gevangen?<br><br>Nu begrijp ik het standpunt van de vissers ook wel. Bijna iedereen is kritisch over zichzelf, wat het ontvangen van een complimentje best lastig kan maken. Misschien zijn we wel iets te bescheiden of gewoon ontzettend koppig.</p>
 <p><strong>Lachen maar</strong><br>Hoe ongemakkelijk zo'n complimentje ook voelt, er kan altijd wel een glimlach vanaf. En laten zien dat iemand je blij maakt, is misschien wel het mooiste compliment om aan een ander terug te geven...</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/sanne-leferink">Sanne </a>(16)? Laatst schreef ze ook <a href="https://original.sevendays.nl/blog/als-de-rollen-zijn-omgedraaid">Als de rollen zijn omgedraaid</a> en <a href="https://original.sevendays.nl/blog/volwassen-w%C3%B3rden-niet-volwassen-z%C3%ADjn">Volwassen wórden is niet volwassen zijn</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/sanne-leferink">Sanne </a>(16)? Laatst schreef ze ook <a href="https://7dagen.netlify.app/blog/als-de-rollen-zijn-omgedraaid">Als de rollen zijn omgedraaid</a> en <a href="https://7dagen.netlify.app/blog/volwassen-w%C3%B3rden-niet-volwassen-z%C3%ADjn">Volwassen wórden is niet volwassen zijn</a>.</em></p>  

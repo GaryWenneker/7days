@@ -1,5 +1,5 @@
 ---
-id: 4ec4ceec2c66473b8940853d1afb5f0d
+id: 5b83c5f564824f2fb21b8820f6a49546
 type: nieuws
 layout: post
 title: "Bomvol boekenfeest"
@@ -20,7 +20,7 @@ Er werd gejaagd op handtekeningen, gegild voor Lil' Kleine en gejuicht voor de w
         
   
   <div class="content">
-    <img height="385" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/boeken_2.png" alt="">  </div>
+    <img height="385" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/boeken_2.png" alt="">  </div>
 
   
 </div>

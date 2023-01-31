@@ -1,5 +1,5 @@
 ---
-id: 0686c52dadb64f17bf227fcb260acf7e
+id: 1ecef1718f4d4fe3b274b0c46299aff5
 type: nieuws
 layout: post
 title: "Deense uitvinder riskeert levenslang na duikbootmoord"
@@ -23,7 +23,7 @@ De Deense uitvinder Peter Madsen is aangeklaagd voor moord op de Zweedse journal
         
   
   <div class="content">
-    <img alt="Kim Wall" title="Beeld: AFP" height="887" width="1495" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/87585948020728ca6adaa66fa69aae8b73373e1ceeae63b1f888a8d7e4f44c52.jpg">  </div>
+    <img alt="Kim Wall" title="Beeld: AFP" height="887" width="1495" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/87585948020728ca6adaa66fa69aae8b73373e1ceeae63b1f888a8d7e4f44c52.jpg">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ De Deense uitvinder Peter Madsen is aangeklaagd voor moord op de Zweedse journal
         
   
   <div class="content">
-    <img alt="Peter Madsen" title="Beeld: AFP" height="760" width="1376" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-52852381.jpg">  </div>
+    <img alt="Peter Madsen" title="Beeld: AFP" height="760" width="1376" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-52852381.jpg">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: 4e8dc610b8b64d54a3c2a7b7cd42a07e
+id: 9eba06ec9086473cb115a62007d61bfd
 type: post
 layout: post
 title: "Smeltend sprookje"
@@ -18,17 +18,17 @@ seo:
         
   
   <div class="content">
-    <img alt="Lotte Stegeman" height="80" width="80" style="margin-left: 5px; margin-right: 5px; float: left;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Lotte2.png">  </div>
+    <img alt="Lotte Stegeman" height="80" width="80" style="margin-left: 5px; margin-right: 5px; float: left;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Lotte2.png">  </div>
 
   
 </div>
-</div><em>Hoofdredacteur Lotte is op een lange reis. Samen met haar vriend Peter fietst ze dit halfjaar door de VS en Canada: een <a href="https://original.sevendays.nl/lifestyle/lotte-alle-staten-stukje-fietsen">tocht</a> van zo'n 11.000 kilometer. In de rubriek <a href="https://original.sevendays.nl/lotte">Lotte in alle Staten</a> blogt ze over wat ze onderweg meemaakt. </em>
+</div><em>Hoofdredacteur Lotte is op een lange reis. Samen met haar vriend Peter fietst ze dit halfjaar door de VS en Canada: een <a href="https://7dagen.netlify.app/lifestyle/lotte-alle-staten-stukje-fietsen">tocht</a> van zo'n 11.000 kilometer. In de rubriek <a href="https://7dagen.netlify.app/lotte">Lotte in alle Staten</a> blogt ze over wat ze onderweg meemaakt. </em>
 <p><div class="media media-element-container media-default"><div id="file-21161" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img alt="Lotte Stegeman Matanuska Alaska" title="Foto: Lotte Stegeman" height="638" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/gletsjer%201.jpg">  </div>
+    <img alt="Lotte Stegeman Matanuska Alaska" title="Foto: Lotte Stegeman" height="638" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/gletsjer%201.jpg">  </div>
 
   
 </div>
@@ -40,7 +40,7 @@ seo:
         
   
   <div class="content">
-    <img alt="Lotte Stegeman Matanuska Alaska" title="Foto: Lotte Stegeman" height="638" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/gletsjer%203.jpg">  </div>
+    <img alt="Lotte Stegeman Matanuska Alaska" title="Foto: Lotte Stegeman" height="638" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/gletsjer%203.jpg">  </div>
 
   
 </div>
@@ -51,11 +51,11 @@ seo:
         
   
   <div class="content">
-    <img alt="gletsjer " title="Foto: Lotte Stegeman" height="600" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/gletsjer%204.jpg">  </div>
+    <img alt="gletsjer " title="Foto: Lotte Stegeman" height="600" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/gletsjer%204.jpg">  </div>
 
   
 </div>
 </div>
 <p>Die gletsjer is een van de wonderbaarlijkste plekken waar ik ooit ben geweest. En misschien realiseer je je op zo'n moment, als je het met eigen ogen ziet, pas echt het zou zijn als zulke natuur verdwijnt. Russel ziet zijn dierbare gletsjer elke dag. Hij maakt een tranen-wegveeg-gebaar. 'Ik hoop intens dat Matanuska mij overleeft.' </p>
-<p> <br><strong>'Chinese hoax'</strong><br>Wil iemand types als de Amerikaanse presidentskandidaat <a href="https://original.sevendays.nl/nieuws/donald-trump-finalist-van-de-republikeinen">Donald Trump</a> - die <em>global warming </em>onder meer <a href="http://www.politifact.com/truth-o-meter/statements/2016/jun/03/hillary-clinton/yes-donald-trump-did-call-climate-change-chinese-h/" target="_blank">een Chinese hoax en bullshit noemde</a> - op een vliegtuig naar Matanuska zetten, misschien? Aah? </p>
-<p><em>Benieuwd wat Lotte nog meer meemaakt in de VS en Canada? <a href="https://original.sevendays.nl/lotte">Hier lees je meer!</a></em></p>  
+<p> <br><strong>'Chinese hoax'</strong><br>Wil iemand types als de Amerikaanse presidentskandidaat <a href="https://7dagen.netlify.app/nieuws/donald-trump-finalist-van-de-republikeinen">Donald Trump</a> - die <em>global warming </em>onder meer <a href="http://www.politifact.com/truth-o-meter/statements/2016/jun/03/hillary-clinton/yes-donald-trump-did-call-climate-change-chinese-h/" target="_blank">een Chinese hoax en bullshit noemde</a> - op een vliegtuig naar Matanuska zetten, misschien? Aah? </p>
+<p><em>Benieuwd wat Lotte nog meer meemaakt in de VS en Canada? <a href="https://7dagen.netlify.app/lotte">Hier lees je meer!</a></em></p>  

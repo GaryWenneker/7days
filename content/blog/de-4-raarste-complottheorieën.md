@@ -1,5 +1,5 @@
 ---
-id: 09b63facedb441149a0cd3631ecd67d7
+id: 9ca6ddbdda25412aaeefd15dfd711ccf
 type: post
 layout: post
 title: "De 4 raarste complottheorieën"
@@ -23,4 +23,4 @@ De maanlandingen zijn niet echt gebeurd en de aarde is plat. Tenminste, als je d
 <p dir="ltr">Voel de grond onder je voeten eens. Die is plat, toch? Geen bolling of iets dergelijks? Klopt, dat komt omdat de aarde plat is. Volgens de leden van de Flat Earth Society dan. Zwaartekracht bestaat niet (objecten ‘vallen gewoon’) en een belangrijk argument is dat de horizon recht is. De aarde kán dus simpelweg niet rond zijn. Hoe zit het dan met de rand? Die bestaat niet, want de aarde is oneindig. Klinkt dubieus? Mee eens. Maar het zijn niet alleen getikte outsiders die hierin geloven. Ook rapper B.o.B is een fanatiek aanhanger van deze theorie.</p>
 <p dir="ltr">Ook geloven mensen bijvoorbeeld dat Bigfoot een alien is, koningin Elizabeth zo lang blijft leven door het eten van mensenvlees en dinosauriërs de piramides hebben gebouwd. Hoe raar sommige complottheorieën ook klinken, er zijn altijd mensen die het geloven. Soms zijn er zelfs hele gemeenschappen uit ontstaan. Misschien dat er dan tóch een kern van waarheid in zit...</p>
 <p dir="ltr"> </p>
-<p dir="ltr"><em>Marloes (17) zie je zelden zonder bandshirt, gitaar of boek. Het liefst luistert ze de hele dag muziek, schrijft ze verhalen of verzamelt ze mooie citaten. Wat ze later wil gaan doen, weet ze eigenlijk niet. Maar dat het ‘iets met schrijven’ wordt, staat vast. </em><em><a href="https://original.sevendays.nl/users/marloes-ijlst">Lees hier meer blogs van Marloes.</a></em></p>  
+<p dir="ltr"><em>Marloes (17) zie je zelden zonder bandshirt, gitaar of boek. Het liefst luistert ze de hele dag muziek, schrijft ze verhalen of verzamelt ze mooie citaten. Wat ze later wil gaan doen, weet ze eigenlijk niet. Maar dat het ‘iets met schrijven’ wordt, staat vast. </em><em><a href="https://7dagen.netlify.app/users/marloes-ijlst">Lees hier meer blogs van Marloes.</a></em></p>  

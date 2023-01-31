@@ -1,5 +1,5 @@
 ---
-id: b1c7ff6c0ac24d079679f97ac2b4b85b
+id: af194ce1e2744949b20bc8a720358d08
 type: nieuws
 layout: post
 title: "Doden bij vliegtuigcrash in Kazachstan"
@@ -20,7 +20,7 @@ Een heftig ongeluk in Kazachstan. Daar stortte vannacht een vliegtuig neer met o
         
   
   <div class="content">
-    <img alt="Reuters" title="Foto: Reuters" height="2878" width="4776" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-403725328.jpg">  </div>
+    <img alt="Reuters" title="Foto: Reuters" height="2878" width="4776" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-403725328.jpg">  </div>
 
   
 </div>

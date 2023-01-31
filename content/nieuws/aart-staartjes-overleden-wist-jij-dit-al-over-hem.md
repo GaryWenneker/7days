@@ -1,5 +1,5 @@
 ---
-id: 57479d417d22402fb6ce0684d9a605dd
+id: 928e5561111e447fa1a86d4beba1225e
 type: nieuws
 layout: post
 title: "Aart Staartjes overleden: wist jij dit al over hem?"
@@ -25,7 +25,7 @@ Sesamstraat kijk je waarschijnlijk allang niet meer. Maar Meneer Aart uit het pr
         
   
   <div class="content">
-    <img alt="sesamstraat" title="Foto: ANP" height="2912" width="4368" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/ANP-308169487.jpg">  </div>
+    <img alt="sesamstraat" title="Foto: ANP" height="2912" width="4368" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/ANP-308169487.jpg">  </div>
 
   
 </div>

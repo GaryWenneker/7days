@@ -1,5 +1,5 @@
 ---
-id: e6dcf4e8f16f49ca84a9c1e7cb23e995
+id: ee94d98ddc504aa49e31b509eb284d40
 type: post
 layout: post
 title: "Kersenjam"
@@ -20,7 +20,7 @@ In de zomer is er heel veel rood fruit rijp, dus dat betekent: zelf jam maken
         
   
   <div class="content">
-    <img alt="Kersenjam" height="566" width="800" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Kersenjam3%20IMG_8461.JPG">  </div>
+    <img alt="Kersenjam" height="566" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Kersenjam3%20IMG_8461.JPG">  </div>
 
   
 </div>
@@ -33,7 +33,7 @@ In de zomer is er heel veel rood fruit rijp, dus dat betekent: zelf jam maken
         
   
   <div class="content">
-    <img alt="Kersenjam" height="540" width="800" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Kersenjam4%20IMG_8445.JPG">  </div>
+    <img alt="Kersenjam" height="540" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Kersenjam4%20IMG_8445.JPG">  </div>
 
   
 </div>
@@ -44,7 +44,7 @@ In de zomer is er heel veel rood fruit rijp, dus dat betekent: zelf jam maken
         
   
   <div class="content">
-    <img alt="Kersenjam" height="540" width="800" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Kersenjam5%20IMG_8447.JPG">  </div>
+    <img alt="Kersenjam" height="540" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Kersenjam5%20IMG_8447.JPG">  </div>
 
   
 </div>
@@ -55,7 +55,7 @@ In de zomer is er heel veel rood fruit rijp, dus dat betekent: zelf jam maken
         
   
   <div class="content">
-    <img alt="Kersenjam" height="540" width="800" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Kersenjam6%20IMG_8465.JPG">  </div>
+    <img alt="Kersenjam" height="540" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Kersenjam6%20IMG_8465.JPG">  </div>
 
   
 </div>
@@ -66,7 +66,7 @@ In de zomer is er heel veel rood fruit rijp, dus dat betekent: zelf jam maken
         
   
   <div class="content">
-    <img alt="Kersenjam" height="533" width="800" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Kersenjam8%20IMG_8451.JPG">  </div>
+    <img alt="Kersenjam" height="533" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Kersenjam8%20IMG_8451.JPG">  </div>
 
   
 </div>
@@ -77,7 +77,7 @@ In de zomer is er heel veel rood fruit rijp, dus dat betekent: zelf jam maken
         
   
   <div class="content">
-    <img alt="Kersenjam" height="537" width="800" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Kersenjam9%20IMG_8453.JPG">  </div>
+    <img alt="Kersenjam" height="537" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Kersenjam9%20IMG_8453.JPG">  </div>
 
   
 </div>
@@ -88,7 +88,7 @@ In de zomer is er heel veel rood fruit rijp, dus dat betekent: zelf jam maken
         
   
   <div class="content">
-    <img alt="Kersenjam" height="546" width="800" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Kersenjam10%20IMG_8466.JPG">  </div>
+    <img alt="Kersenjam" height="546" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Kersenjam10%20IMG_8466.JPG">  </div>
 
   
 </div>
@@ -99,7 +99,7 @@ In de zomer is er heel veel rood fruit rijp, dus dat betekent: zelf jam maken
         
   
   <div class="content">
-    <img alt="Kersenjam" height="553" width="800" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Kersenjam2.JPG">  </div>
+    <img alt="Kersenjam" height="553" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Kersenjam2.JPG">  </div>
 
   
 </div>

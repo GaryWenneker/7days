@@ -1,5 +1,5 @@
 ---
-id: 9dcf0133b36b4df4a05742cfad53aaba
+id: d21d0b3b29e04234baf8b0f183b65250
 type: nieuws
 layout: post
 title: "Geweigerd door het gymnasium"
@@ -23,4 +23,4 @@ Ze heeft pijn aan haar voeten van alle voorlichtingsavonden en een zere kop van 
 <p><strong>Zijn er eigenlijk redenen waarbij scholen wél leerlingen mogen weigeren?</strong><br>Ja, het blijft altijd even spannend of een leerling toegelaten wordt op de school van z'n keuze. Als een school vol is, is-ie namelijk vol. Dan kunnen de cijfers nog zo hoog zijn, maar past een leerling er gewoon niet meer bij. Een andere reden om een kind te weigeren is als dat kind de overtuiging van een school niet aanhangt. Als Puk niet katholiek hervormd is, terwijl de school daar juist heel erg op ingericht is, kan de toelatingscommissie besluiten haar te weigeren. Maar als die afwijzing betekent dat Puk drie dorpen verderop naar school moet, dan mag de school haar weer níet weigeren. En moet Puk tijdens de ochtendmis maar net doen alsof ze bidt. </p>
 <p><strong>Gaan de gymnasia die zich niet aan de regels houden hun toelatingsprocedure veranderen?</strong><br>Ze moeten wel. Bijna alle scholen in Nederland worden bekostigd door de overheid. Als de gymnasia de wet niet volgen, gaat het ministerie van Onderwijs hun subsidie inhouden, zo dreigt de minister. Een flinke smak geld, die zo'n school niet kan missen.</p>
 <p><strong>Dus Puk kan gewoon naar de school van haar keuze, ondanks haar slechte cijfers in groep 6?</strong><br>Als de basisschool heeft besloten dat zij geschikt is voor het vwo, dan hoeft Puk zich weinig zorgen te maken. Houdt het gymnasium voet bij stuk, dan kunnen haar ouders zelfs naar de rechter stappen.</p>
-<p><em>Ga je bijna naar de brugklas? Onze pagina <a href="https://original.sevendays.nl/brugklas">Sevendays.nl/brugklas</a> staat bomvol slimme tips, interessant brugklasnieuws en grappige blogs die je klaarstomen voor de middelbare school. En misschien heb je ook wel iets aan onze speciale krant <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/actiesmetderden/brugklasvoorbeginners">Brugklas voor Beginners</a>! </em></p>  
+<p><em>Ga je bijna naar de brugklas? Onze pagina <a href="https://7dagen.netlify.app/brugklas">Sevendays.nl/brugklas</a> staat bomvol slimme tips, interessant brugklasnieuws en grappige blogs die je klaarstomen voor de middelbare school. En misschien heb je ook wel iets aan onze speciale krant <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/actiesmetderden/brugklasvoorbeginners">Brugklas voor Beginners</a>! </em></p>  

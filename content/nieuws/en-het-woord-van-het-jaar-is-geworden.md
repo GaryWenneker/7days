@@ -1,5 +1,5 @@
 ---
-id: 26dafa8449e64506a1d5ab1c8a46f075
+id: 51bb9583dcdf4888b58a4ad27a25c11c
 type: nieuws
 layout: post
 title: "En het Woord van het Jaar is geworden..."
@@ -17,7 +17,7 @@ Ieder jaar organiseert woordenboekenuitgever Van Dale de Woord van het Jaar-verk
 <h3>Ongeluk of per ongeluk?</h3>
 <p>Een appongeluk is niet dat je per ongeluk en appje stuurt. Volgens Van Dale is het: een ongeluk waarbij een verkeersdeelnemer betrokken is die tijdens het ongeval aan het appen was.</p>
 <h3>Publieksnominaties</h3>
-<p>Daarnaast zijn er de winnaars bekend gemaakt van de publieksnominaties in verschillende categorieën. Zo won <a href="https://original.sevendays.nl/nieuws/dit-wist-je-nog-niet-over-de-fidget-spinner">fidgetspinner</a> in de categorie jongerentaal. Hieronder de top drie uit een aantal verschillende categorieën.</p>
+<p>Daarnaast zijn er de winnaars bekend gemaakt van de publieksnominaties in verschillende categorieën. Zo won <a href="https://7dagen.netlify.app/nieuws/dit-wist-je-nog-niet-over-de-fidget-spinner">fidgetspinner</a> in de categorie jongerentaal. Hieronder de top drie uit een aantal verschillende categorieën.</p>
 <h3>Jongerentaal</h3>
 <p>1. Fidgetspinner</p>
 <p>2. Pixelrelatie (liefdesrelatie die je alleen via internet onderhoudt)</p>

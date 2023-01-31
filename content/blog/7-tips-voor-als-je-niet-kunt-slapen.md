@@ -1,5 +1,5 @@
 ---
-id: 06ebe2d5344e41e6bd8e398f86517e4f
+id: 774895aa9c1a4d2d846aea29bb03d3a5
 type: post
 layout: post
 title: "7 tips voor als je niet kunt slapen"
@@ -20,4 +20,4 @@ Het is al laat en je ligt in je favoriete bloemetjespyjama op bed. Je ligt al ru
 <p><strong>5. Sta vroeger op</strong><br>Eerder naar bed gaan is natuurlijk een belachelijk idee, alleen ouders verzinnen zoiets. Wat wel kan helpen, is een (half) uurtje vroeger opstaan. Daardoor ben je wat vermoeider als je 's avonds in slaap wilt vallen.</p>
 <p><strong>6. Doe een gedachtespelletje</strong><br>Probeer bijvoorbeeld in je hoofd voor elke letter van het alfabet een dier te verzinnen. Of voor elke letter een meisjesnaam. Of probeer in je hoofd rekensommen met getallen van drie cijfers op te lossen. Het is saai en vermoeiend: precies wat je nodig hebt om in slaap te vallen.</p>
 <p><strong>7. Lees een boek</strong><br>Het liefst een niet al te spannend boek, anders kun je dadelijk niet meer stoppen! Het beste is een dun boekje, dat je in één keer uit kunt lezen. Of lees een stukje uit een schoolboek. Als je daar niet van in slaap valt...</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/cas-visser">Cas </a>(17)? Laatst schreef hij ook al <a href="https://original.sevendays.nl/node/7858/edit">Een 'hij' is nooit een slet</a><a href="https://original.sevendays.nl/blog/awkward-niet-meer"> </a>en <a href="https://original.sevendays.nl/blog/wat-te-doen-na-het-examenseizoen">Wat te doen na het examenseizoen</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/cas-visser">Cas </a>(17)? Laatst schreef hij ook al <a href="https://7dagen.netlify.app/node/7858/edit">Een 'hij' is nooit een slet</a><a href="https://7dagen.netlify.app/blog/awkward-niet-meer"> </a>en <a href="https://7dagen.netlify.app/blog/wat-te-doen-na-het-examenseizoen">Wat te doen na het examenseizoen</a>.</em></p>  

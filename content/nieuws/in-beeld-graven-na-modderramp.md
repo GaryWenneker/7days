@@ -1,5 +1,5 @@
 ---
-id: 7882d62e52764dbf980551303a889dca
+id: 25b87f5acb864d24af1ccedf7a7dad8d
 type: nieuws
 layout: post
 title: "In beeld: Graven na modderramp"
@@ -18,7 +18,7 @@ In het Chinese Shenzhen wordt dinsdag keihard gegraven. Met grote machines. Met
         
   
   <div class="content">
-    <img title="Tientallen gebouwen zijn ingestort  Foto AFP" height="566" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/shenzen%202.jpg" alt="">  </div>
+    <img title="Tientallen gebouwen zijn ingestort  Foto AFP" height="566" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/shenzen%202.jpg" alt="">  </div>
 
   
 </div>
@@ -28,7 +28,7 @@ In het Chinese Shenzhen wordt dinsdag keihard gegraven. Met grote machines. Met
         
   
   <div class="content">
-    <img title="Een speurhond en twee reddingswerkers rusten even uit  Foto EPA" height="567" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/shenzen%203.jpg" alt="">  </div>
+    <img title="Een speurhond en twee reddingswerkers rusten even uit  Foto EPA" height="567" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/shenzen%203.jpg" alt="">  </div>
 
   
 </div>
@@ -39,7 +39,7 @@ In het Chinese Shenzhen wordt dinsdag keihard gegraven. Met grote machines. Met
         
   
   <div class="content">
-    <img title="Ook &#039;s nachts gaat het reddingswerk door  Foto AFP" height="566" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/shenzen%204.jpg" alt="">  </div>
+    <img title="Ook &#039;s nachts gaat het reddingswerk door  Foto AFP" height="566" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/shenzen%204.jpg" alt="">  </div>
 
   
 </div>
@@ -48,7 +48,7 @@ In het Chinese Shenzhen wordt dinsdag keihard gegraven. Met grote machines. Met
         
   
   <div class="content">
-    <img title="Omwonenden van Shenzhen kijken naar het reddingswerk  Foto EPA" height="567" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/shenzen%205.jpg" alt="">  </div>
+    <img title="Omwonenden van Shenzhen kijken naar het reddingswerk  Foto EPA" height="567" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/shenzen%205.jpg" alt="">  </div>
 
   
 </div>
@@ -58,9 +58,9 @@ In het Chinese Shenzhen wordt dinsdag keihard gegraven. Met grote machines. Met
         
   
   <div class="content">
-    <img title="Een luchtfoto laat de omvang van de ramp zien  Foto EPA" height="638" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/shenzen%206.jpg" alt="">  </div>
+    <img title="Een luchtfoto laat de omvang van de ramp zien  Foto EPA" height="638" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/shenzen%206.jpg" alt="">  </div>
 
   
 </div>
 </div>
-<p><em>Wil je elke dag een overzicht van het laatste nieuws? Download de <a href="https://original.sevendays.nl/app">gratis nieuwsapp</a> van 7Days! </em></p>  
+<p><em>Wil je elke dag een overzicht van het laatste nieuws? Download de <a href="https://7dagen.netlify.app/app">gratis nieuwsapp</a> van 7Days! </em></p>  

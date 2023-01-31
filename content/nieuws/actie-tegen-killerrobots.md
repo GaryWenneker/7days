@@ -1,5 +1,5 @@
 ---
-id: 70db2f6aeb8940fe9a396c2ea8eb0604
+id: 3a0296d9fa7241b8b50fa86040b16588
 type: nieuws
 layout: post
 title: "Actie tegen killerrobots"
@@ -24,7 +24,7 @@ Killerrobots. Klinkt als iets uit een film. Maar het duurt niet lang meer voor d
         
   
   <div class="content">
-    <img alt="killerrobots" height="935" width="1015" style="width: 850px; height: 783px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/mind%20the%20gap.jpg">  </div>
+    <img alt="killerrobots" height="935" width="1015" style="width: 850px; height: 783px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/mind%20the%20gap.jpg">  </div>
 
   
 </div>

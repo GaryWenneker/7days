@@ -1,5 +1,5 @@
 ---
-id: 4ac01532859242aa8aafc0c12de7ac78
+id: d2b1728811e2467189257fd5f74aa8d8
 type: nieuws
 layout: post
 title: "157 nieuwe emoji's vandaag gelanceerd"

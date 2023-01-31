@@ -1,5 +1,5 @@
 ---
-id: 8e772aebeef4454db801f0e611171c3d
+id: c58a90e244074b859c8ca58cc3c2d0c8
 type: post
 layout: post
 title: "Confession: ik ben verslaafd"
@@ -31,4 +31,4 @@ Terwijl mijn buurjongen tot middernacht computerspelletjes speelt en meneer Jans
   
 </div>
 </div>
-<p dir="ltr">Genietend en tevreden zat ik op de bank. Het kan dus nog veel erger. Doe mij nog maar een kopje thee.<br class="kix-line-break"><br><em>Meer columns lezen van <a href="www.sevendays.nl/users/puck-breed">Puck</a>? Laatst schreef zij ook al <a href="https://original.sevendays.nl/blog/teleurstellende-maanden">Teleurstellende maanden</a> en <a href="/node/6601">Mijn voornemens? uitgesteld!</a></em></p>  
+<p dir="ltr">Genietend en tevreden zat ik op de bank. Het kan dus nog veel erger. Doe mij nog maar een kopje thee.<br class="kix-line-break"><br><em>Meer columns lezen van <a href="www.sevendays.nl/users/puck-breed">Puck</a>? Laatst schreef zij ook al <a href="https://7dagen.netlify.app/blog/teleurstellende-maanden">Teleurstellende maanden</a> en <a href="/node/6601">Mijn voornemens? uitgesteld!</a></em></p>  

@@ -1,5 +1,5 @@
 ---
-id: 79cc8efc81ec496e8d8d634bb6753077
+id: 44c801c5f017493faf1d8e502621d5a5
 type: nieuws
 layout: post
 title: "Examenkandidaten klagen over dieren en Feyenoord"
@@ -23,7 +23,7 @@ Klachten over te moeilijke vragen en te lange examens krijgen ze bij Landelijk A
         
   
   <div class="content">
-    <img alt="Feyenoord kampioen" title="Foto: ANP" height="717" width="1135" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/feyenoord%20feest.png">  </div>
+    <img alt="Feyenoord kampioen" title="Foto: ANP" height="717" width="1135" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/feyenoord%20feest.png">  </div>
 
   
 </div>
@@ -37,7 +37,7 @@ Klachten over te moeilijke vragen en te lange examens krijgen ze bij Landelijk A
         
   
   <div class="content">
-    <img alt="Pauw" title="Foto: Pexels" height="742" width="1137" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/pauw%20pexels.png">  </div>
+    <img alt="Pauw" title="Foto: Pexels" height="742" width="1137" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/pauw%20pexels.png">  </div>
 
   
 </div>
@@ -63,4 +63,4 @@ Klachten over te moeilijke vragen en te lange examens krijgen ze bij Landelijk A
 <h3>7. Laat ons met rust!</h3>
 <p>Zo’n examen waarbij alles misgaat. Een groep eindexamenkandidaten in Nijmegen had het zwaar dinsdag. Continu werden de scholieren uit hun concentratie gehaald. Zes keer ging er een autoalarm af en één keer werd de groep gestoord door een piepende stopwatch. Het apparaat bleek in een afgesloten kast te liggen, maar werd even later stopgezet. Daarna ging er nog een telefoon af (van een kandidaat nog wel) en werd buiten de glasbak geleegd. Dat duurde maar liefst een kwartier en zorgde voor veel herrie.</p>
 <p> </p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

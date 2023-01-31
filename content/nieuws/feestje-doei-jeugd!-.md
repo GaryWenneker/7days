@@ -1,5 +1,5 @@
 ---
-id: 3e99a2cb4c6d49878f70e3adecf7de65
+id: f160f879b94448a1a47d2aecffd66520
 type: nieuws
 layout: post
 title: "Feestje: Doei jeugd! "
@@ -19,7 +19,7 @@ Kimono: check. Royale make-up-laag: check. Kaartjes voor het pretpark: check. Me
         
   
   <div class="content">
-    <img alt="Japanse jongeren vieren Coming of Age Day" title="Foto AFP" height="2769" width="4608" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-49178543.jpg">  </div>
+    <img alt="Japanse jongeren vieren Coming of Age Day" title="Foto AFP" height="2769" width="4608" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-49178543.jpg">  </div>
 
   
 </div>
@@ -30,7 +30,7 @@ Kimono: check. Royale make-up-laag: check. Kaartjes voor het pretpark: check. Me
         
   
   <div class="content">
-    <img alt="Japanse jongeren vieren Coming of Age Day" title="Foto AFP" height="2732" width="4096" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-49186209.jpg">  </div>
+    <img alt="Japanse jongeren vieren Coming of Age Day" title="Foto AFP" height="2732" width="4096" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-49186209.jpg">  </div>
 
   
 </div>
@@ -39,9 +39,9 @@ Kimono: check. Royale make-up-laag: check. Kaartjes voor het pretpark: check. Me
         
   
   <div class="content">
-    <img alt="Japanse jongeren vieren Coming of Age Day" title="Foto AFP" height="2732" width="4096" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-49185964.jpg">  </div>
+    <img alt="Japanse jongeren vieren Coming of Age Day" title="Foto AFP" height="2732" width="4096" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-49185964.jpg">  </div>
 
   
 </div>
 </div>Niet alleen meisjes, ook jongens van twintig vieren feest. Hun dresscode: een strak kapsel en dito pak.
-<p><br><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><br><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

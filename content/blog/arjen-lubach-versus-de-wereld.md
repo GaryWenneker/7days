@@ -1,5 +1,5 @@
 ---
-id: 7208c146355642b798520c7cd1cb4d10
+id: 5f7f1233d231434fa2cabb25b357b47d
 type: post
 layout: post
 title: "Arjen Lubach versus de wereld"
@@ -21,4 +21,4 @@ Juichend keek ik vorige week naar de eindejaarseditie van Zondag met Lubach. Pr
 <p>Ik bewonder deze man zeer, dat hij op zo’n haast aandoenlijke wijze zo ontzettend scherp kan uithalen naar dit soort mensen. Hij laat dingen zien die me nog nooit zijn opgevallen, maar die ik allang had kunnen opmerken. Hij legt verbanden die ik nooit gelegd zou hebben, maar die ineens heel logisch lijken.</p>
 <p>Het is ook knap dat Lubach zo subjectief durft te blijven. Veel programma’s proberen een zo groot mogelijk publiek te bereiken en zeggen daarom heel veel dingen níet. Maar volgens mij kan het Lubach weinig deren dat zijn publiek niet gigantisch groot is.<br><br><strong>Hoop voor de Nederlandse tv</strong><br>Arjen Lubach is uiteraard niet de eerste die korte metten maakt met rechts en adellijk Nederland, maar wel een van de weinigen die zijn kritiek elke keer weer op een sympathieke en grappige manier kan brengen.</p>
 <p>Hij bewijst heel goed dat er nog hoop is voor de Nederlandse televisie. You go, Arjen. 1-0 voor jou.</p>
-<p><em>De eindejaarseditie van Zondag met Lubach is <a href="http://www.npo.nl/zondag-met-lubach/27-12-2015/VPWON_1243310">hier </a>terug te kijken. Meer lezen van blogger <a href="https://original.sevendays.nl/users-lotte-schuengel">Lotte</a> (17)? Laatst schreef ze ook al <a href="https://original.sevendays.nl/blog/journaalvlees">Journaalvlees</a> en de <a href="https://original.sevendays.nl/blog/de-7days-winterhorrorscoop">7Days-winterhorrorscoop</a>.</em></p>  
+<p><em>De eindejaarseditie van Zondag met Lubach is <a href="http://www.npo.nl/zondag-met-lubach/27-12-2015/VPWON_1243310">hier </a>terug te kijken. Meer lezen van blogger <a href="https://7dagen.netlify.app/users-lotte-schuengel">Lotte</a> (17)? Laatst schreef ze ook al <a href="https://7dagen.netlify.app/blog/journaalvlees">Journaalvlees</a> en de <a href="https://7dagen.netlify.app/blog/de-7days-winterhorrorscoop">7Days-winterhorrorscoop</a>.</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: 4043d22c29194e3ab12267e930241fcf
+id: 737843bb55a040198fa7cfd533ddc94d
 type: nieuws
 layout: post
 title: "Angelique in het Glazen Huis: 'Ik hoop dat Typhoon komt'"
@@ -32,7 +32,7 @@ Niet eten, weinig slapen en mensen die continu naar je kijken. 3FM-dj Angelique
 <h3>Er komen elk jaar veel BN'ers langs, maar op wie hoop jij nog?</h3>
 <p>'Ik zou het leuk vinden als Typhoon nog naar het Glazen Huis komt. Hij heeft twee jaar geleden het themanummer van Serious Request geschreven en toen heeft-ie een akoestische sessie gedaan in de studio. Dat was het moment dat ik zo moest huilen omdat het zo bijzonder mooi was. Als hij nog even langskomt, ben ik helemaal blij.'</p>
 <h3>Het is jouw eerste keer, maar de actie bestaat al lang. Is het niet tijd voor iets nieuws?</h3>
-<p>'We doen dit al jaren bij 3FM, met veel succes. Vorig jaar is er 9,2 miljoen euro opgehaald voor longontsteking. Van dat geld is bijvoorbeeld een <a href="https://original.sevendays.nl/nieuws/muurschildering-van-nagellak-tijn-ivoorkust-0">kliniek gebouwd in Ivoorkust</a>, daar zijn heel veel mensen mee geholpen. Ik ben ervan overtuigd dat het nog steeds werkt om geld op te halen voor een stille ramp, wat Serious Request elk jaar doet. En ik denk dat dat concept van geld ophalen nooit verouderd. Natuurlijk moet je altijd blijven kijken hoe de actie kan vernieuwen, maar dat we iets doen voor Het Rode Kruis in de week voor kerst, dat staat vast.'</p>
+<p>'We doen dit al jaren bij 3FM, met veel succes. Vorig jaar is er 9,2 miljoen euro opgehaald voor longontsteking. Van dat geld is bijvoorbeeld een <a href="https://7dagen.netlify.app/nieuws/muurschildering-van-nagellak-tijn-ivoorkust-0">kliniek gebouwd in Ivoorkust</a>, daar zijn heel veel mensen mee geholpen. Ik ben ervan overtuigd dat het nog steeds werkt om geld op te halen voor een stille ramp, wat Serious Request elk jaar doet. En ik denk dat dat concept van geld ophalen nooit verouderd. Natuurlijk moet je altijd blijven kijken hoe de actie kan vernieuwen, maar dat we iets doen voor Het Rode Kruis in de week voor kerst, dat staat vast.'</p>
 <p><div class="media media-element-container media-default"><div id="file-420526" class="file file-image file-image-oembed">
 
         

@@ -1,5 +1,5 @@
 ---
-id: 72712849a9764fa48c4b1b7f06e36458
+id: f441367bedcd4b59a867f25ef7c6dc08
 type: nieuws
 layout: post
 title: "Franse acteur organiseert iedere avond balkonquiz "

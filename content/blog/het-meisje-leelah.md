@@ -1,5 +1,5 @@
 ---
-id: 28fee4c9fb24468188b8affafbec8a51
+id: 7aa5846536ec4fc799d0658ed9520fd8
 type: post
 layout: post
 title: "Het meisje Leelah"
@@ -18,7 +18,7 @@ seo:
         
   
   <div class="content">
-    <img height="164" width="480" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/leelahfbpost.png" alt="">  </div>
+    <img height="164" width="480" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/leelahfbpost.png" alt="">  </div>
 
   
 </div>
@@ -28,7 +28,7 @@ seo:
         
   
   <div class="content">
-    <img height="323" width="200" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/leelahselfie.jpeg" alt="">  </div>
+    <img height="323" width="200" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/leelahselfie.jpeg" alt="">  </div>
 
   
 </div>

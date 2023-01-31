@@ -1,5 +1,5 @@
 ---
-id: f4a38214dd4d42d98492d53f9cb1b8c7
+id: def8b8e65e2442678ba10dfc9140e94e
 type: post
 layout: post
 title: "Geef ons eens zínnige schoolstraffen"
@@ -23,4 +23,4 @@ Resultaat: strafwerk, omdat ik volgens de docent blijkbaar te lui was om het hu
 <p>Ik vind dat leerlingen alleen nog strafwerk moeten krijgen waar ze wat aan hebben en waar de leraar een gegronde reden voor heeft. Dit helpt niet alleen de leerling verder, maar ook de docent: die moet anders toch nog op de één of andere manier de stof in het hoofd van de onwillige scholier zien te prenten.</p>
 <p>Helaas zijn veel leraren van oude stempel en denken ze blijkbaar nog steeds dat dom strafwerk geven gewoon het beste idee is. In ieder geval moeten we maar blij zijn dat ze niet van té oude leer zijn, want ik denk niet dat je met een liniaal wilt worden geslagen in de klas.</p>
 <p>Foto: Flickr/<a href="https://www.flickr.com/photos/36357238@N02/3383234734/in/photolist-69XXPm-rgyrrc-q6LaNe-eSmRdt-7fogYa-s17a14-dVUnre-vjk4xJ-s6S3CA-6u85Vj-an59qK-rYaMz1-8nyuQ4-7pH6YQ-97xe2j-9FTTZz-8nBTDC-3bimi-6MjBG4-8nBJxA-8nyrDc-8nyrkR-abYVF6-5KQodH-5XSXzQ-oCAwk6-8nyDsx-8nyxxi-cUqj8s-8nyRNH-8nyFo6-8nySeV-edaoRC-8nBGA3-8nBYSs-8nBTjL-9FTTxz-6tDuNu-6MjAac-8nBGg3-nqPyny-8nyqZT-8nBAZU-8nBEGo-8nyLJM-8nyrVB-8nyyav-b5ZCan-bxqaRV-8nBDdq" target="_blank">mydarkestswan</a></p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/thijs-van-reeuwijk">Thijs</a> (15)? Laatst schreef hij ook <a href="https://original.sevendays.nl/blog/waar-dat-feestje-verplaatst">Waar is dat feestje? Verplaatst!</a> en <a href="https://original.sevendays.nl/blog/de-7-gekste-gebouwen-die-je-wilt-zien-op-vakantie">De 7 gekste gebouwen die je wilt zien op vakantie</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/thijs-van-reeuwijk">Thijs</a> (15)? Laatst schreef hij ook <a href="https://7dagen.netlify.app/blog/waar-dat-feestje-verplaatst">Waar is dat feestje? Verplaatst!</a> en <a href="https://7dagen.netlify.app/blog/de-7-gekste-gebouwen-die-je-wilt-zien-op-vakantie">De 7 gekste gebouwen die je wilt zien op vakantie</a>.</em></p>  

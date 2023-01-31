@@ -1,5 +1,5 @@
 ---
-id: aef0a11b4641406fb5f1d4dc163385b4
+id: 4ceaf0afedbd4c03ac689ea3ce73905c
 type: post
 layout: post
 title: "Waarom de chocoladereep het wint van hardlopen"
@@ -20,4 +20,4 @@ Buiten regent het. Hard. Ik zie mensen sneller fietsen, regenjassen die lichamen
 <h3>‘Jij liep toch ook hard?’</h3>
 <p>Dus je schoenen blijven staan. En als mensen je de vraag stellen: ‘Jij liep toch ook hard?’, zeg je geneerd ja. Met de nadruk op liép, denk je nog. ‘Ik train de laatste tijd wat minder.’ De ander lacht wat en vertelt trots over de marathon in New York die hij laatst liep. Dat had jij kunnen zijn (als je een paar jaar ouder was geweest), maar jij had het te druk met Netflix.</p>
 <p>Het belangrijkste verschil tussen chocolade eten en hardlopen is dat je trots op jezelf bent als je ’s avonds laat in je bed ligt. Het geluksgevoel blijft langer door je lichaam stromen. De dwang om hard te lopen blijft bij mij bestaan, wellicht waag ik mijzelf binnenkort aan de 5 kilometer. Mijn hardloopschoenen blijven toch wel staan.</p>
-<p><em>Meer blogs lezen van Lotte (17)? Laatst schreef ze ook <a href="https://original.sevendays.nl/blog/elk-jaar-die-kerststress">Elk jaar die kerststress</a> en <a href="https://original.sevendays.nl/blog/doe-mij-maar-geen-tattoo">Doe mij maar (g)een tattoo</a>.</em></p>  
+<p><em>Meer blogs lezen van Lotte (17)? Laatst schreef ze ook <a href="https://7dagen.netlify.app/blog/elk-jaar-die-kerststress">Elk jaar die kerststress</a> en <a href="https://7dagen.netlify.app/blog/doe-mij-maar-geen-tattoo">Doe mij maar (g)een tattoo</a>.</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: 342d8575d16c498ba7d2d55f8453a0e0
+id: 3114b9d949f547c0a0a3b3e9967726e0
 type: nieuws
 layout: post
 title: "Dit wist je nog niet over de fidget spinner"
@@ -64,4 +64,4 @@ Opeens zie je ze overal: fidget spinners. De kleine, platte speeltjes draaien na
   
 </div>
 </div><br><em>Foto boven: <a href="https://www.flickr.com/photos/shalusharma/34108749340/" target="_blank">Flickr cc/Shalu Sharma</a></em>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

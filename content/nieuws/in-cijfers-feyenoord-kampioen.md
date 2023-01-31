@@ -1,5 +1,5 @@
 ---
-id: bde7f36056f14f9bacaf97d2d2c222df
+id: a0b8b2175fac4f2b8c79c6b9fdce2f13
 type: nieuws
 layout: post
 title: "In cijfers: Feyenoord kampioen"
@@ -18,9 +18,9 @@ Het werd een weekje later dan door Feyenoord-fans gehoopt, maar zondag werd de R
         
   
   <div class="content">
-    <img title="Foto: ANP, Cijfers: 7Days" height="442" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/feyenoord-kampioen.png" alt="">  </div>
+    <img title="Foto: ANP, Cijfers: 7Days" height="442" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/feyenoord-kampioen.png" alt="">  </div>
 
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: 97682c11b97c48839574eb007631d2ae
+id: f86eb579c8604eb29746051f63990658
 type: nieuws
 layout: post
 title: "Dj's reageren op breuk van radioduo Mattie en Wietze"
@@ -65,5 +65,5 @@ Iedereen heeft het er vandaag over: de breuk tussen radioduo Mattie en Wietze v
 </div>
 <p>Zoals het er nu naar uitziet gaat Mattie dus alleen verder met de ochtendshow bij Qmusic. Het is nog niet duidelijk wat Wietze gaat doen. De gesprekken met Sky Radio zouden nog lopen. Maar nu zonder Mattie.</p>
 <p> </p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>
 <p> </p>  

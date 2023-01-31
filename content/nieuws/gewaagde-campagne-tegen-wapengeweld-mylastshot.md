@@ -1,5 +1,5 @@
 ---
-id: 4e7799fa48704f1ab6b4c41fe94bd632
+id: e214607a08b84cb99ad8496082a9ac2a
 type: nieuws
 layout: post
 title: "Gewaagde campagne tegen wapengeweld: #MyLastShot"
@@ -29,7 +29,7 @@ Ze waren nog niet geboren toen de wereld werd opgeschrikt door een shooting op h
 </div>
 </div>
 <h3>Livestream beperken</h3>
-<p>'Ontkenning is niet de oplossing. Wat je ook doet, kijk niet weg’, schrijven ze op Twitter. Daarom pleiten ze vóór het tonen van de meest heftige foto’s. Iets waar de meeste media bewust terughoudend in zijn. Zo wil Facebook het gebruik van livestreams juist beperken, nadat de schutter van de <a href="https://original.sevendays.nl/nieuws/aanslagen-nieuw-zeeland-50-slachtoffers">aanslag in Christchurch</a> zijn daad live op Facebook deelde. Maar: ‘We kunnen de gruwelijkheden niet ontkennen en tegelijk verandering willen', vinden de campagnevoerders.</p>
+<p>'Ontkenning is niet de oplossing. Wat je ook doet, kijk niet weg’, schrijven ze op Twitter. Daarom pleiten ze vóór het tonen van de meest heftige foto’s. Iets waar de meeste media bewust terughoudend in zijn. Zo wil Facebook het gebruik van livestreams juist beperken, nadat de schutter van de <a href="https://7dagen.netlify.app/nieuws/aanslagen-nieuw-zeeland-50-slachtoffers">aanslag in Christchurch</a> zijn daad live op Facebook deelde. Maar: ‘We kunnen de gruwelijkheden niet ontkennen en tegelijk verandering willen', vinden de campagnevoerders.</p>
 <h3>De kracht van beeld</h3>
 <p>De kracht van beeld is allang bewezen, zeggen de leerlingen. Kijk maar naar de wereldberoemde foto van het napalmmeisje uit Vietnam en die van het verdronken jongetje op het strand, Alan Kurdi. Beelden die de wereld ten goede veranderd en actie teweeg gebracht hebben, vinden ze. ‘Soms is het nodig het slechtste te zien om het beste naar boven te krijgen.’</p>
 <h3>Kritiek</h3>

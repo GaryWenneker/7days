@@ -1,5 +1,5 @@
 ---
-id: 7ec94c0a4d254038936b296cd81af591
+id: 6dc1cf1d630243db978bcf256b08f048
 type: nieuws
 layout: post
 title: "Fotoshoot op het spoor? 'Doe gewoon maar niet'"
@@ -24,11 +24,11 @@ Een foto maken midden op het spoor: het ziet er stoer uit en gevaarlijk ook. Maa
         
   
   <div class="content">
-    <img alt="Pokémon Go op het spoor" title="Beeld: 7Days" height="458" width="917" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/pokemon_0.png">  </div>
+    <img alt="Pokémon Go op het spoor" title="Beeld: 7Days" height="458" width="917" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/pokemon_0.png">  </div>
 
   
 </div>
 </div>
 <h3>Pokémon op het spoor</h3>
 <p>Vorig jaar zorgde <em>Pokémon Go </em>voor de nodige hoofdpijn bij ProRail. Door het ooit zo populaire spel verschenen er opeens wilde Pokémons óp het spoor, wat voor gevaarlijke situaties zorgde. Na rechterlijke stappen zijn de Pokémons van het spoor verdwenen. Nu de mensen nog.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

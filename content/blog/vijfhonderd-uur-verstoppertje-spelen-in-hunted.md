@@ -1,5 +1,5 @@
 ---
-id: 61f8ee65ef6445c984684ac6d924ad0f
+id: a18ccc6cdb354a51b50ef7a427e152b7
 type: post
 layout: post
 title: "Vijfhonderd uur verstoppertje spelen in Hunted"
@@ -36,7 +36,7 @@ Zou jij vijfhonderd uur lang verstoppertje kunnen spelen? In het tv-programma Hu
         
   
   <div class="content">
-    <img alt="foto Elvin Boer" title="foto Elvin Boer" height="533" width="800" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/hq.-690522.jpg">  </div>
+    <img alt="foto Elvin Boer" title="foto Elvin Boer" height="533" width="800" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/hq.-690522.jpg">  </div>
 
   
 </div>

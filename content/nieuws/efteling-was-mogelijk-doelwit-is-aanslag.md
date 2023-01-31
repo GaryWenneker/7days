@@ -1,5 +1,5 @@
 ---
-id: 5242ff8b1c6749a7b54e3630e1a44b88
+id: c9647f0a61f14cefaa76316e7564aa9b
 type: nieuws
 layout: post
 title: "'Efteling was mogelijk doelwit IS-aanslag'"
@@ -21,7 +21,7 @@ De Efteling in Kaatsheuvel is mogelijk een doelwit geweest voor een aanslag van 
         
   
   <div class="content">
-    <img title="Beeld: ANP" height="800" width="1304" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-43399993.jpg" alt="">  </div>
+    <img title="Beeld: ANP" height="800" width="1304" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-43399993.jpg" alt="">  </div>
 
   
 </div>
@@ -29,4 +29,4 @@ De Efteling in Kaatsheuvel is mogelijk een doelwit geweest voor een aanslag van 
 <p><strong>'Cadeau'</strong><br>Volgens <em>BN DeStem</em> schreef de vrouw dat 'Nederland een cadeau moet krijgen dat lijkt op wat de broeders in Parijs en Brussel hebben gedaan'. Dat zou in het politiedossier hebben gestaan.</p>
 <p>Het Openbaar Ministerie (OM, een soort verlengde van de politie) wil niet bevestigen dat het pretpark daadwerkelijk een doelwit is geweest. Het OM wil ook niet zeggen of er, naar aanleiding van de arrestatie, extra veiligheidsmaatregelen zijn genomen.</p>
 <p><strong>Stoerdoenerij</strong><br>De vrouw uit Werkendam is weer vrijgelaten. Volgens haar advocaat zou ze 'nooit in staat zijn geweest écht een bom te plaatsen'. Gewoon stoerdoenerij, dus. De vrouw zou heel erg door andere IS-strijders zijn beïnvloed en daar nu spijt van hebben.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

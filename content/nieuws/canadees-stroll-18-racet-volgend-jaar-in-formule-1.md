@@ -1,5 +1,5 @@
 ---
-id: 09cb358f1a0140079ea67c941af0e839
+id: a6d8506e1d2e40a2b58eebd49779a5dd
 type: nieuws
 layout: post
 title: "Canadees Stroll (18) racet volgend jaar in Formule 1"
@@ -20,4 +20,4 @@ Max Verstappen heeft er volgend jaar een jonge concurrent bij. De achttienjarige
 <p>Stroll moet van die kritiek weinig weten. ‘Ik kan niet ontkennen dat ik uit een rijke familie kom. Maar ik vind dat ik deze kans in de Formule 1 zelf verdiend heb, door kampioen te worden in iedere klasse waarin ik gereden heb’, <a href="http://www.gpupdate.net/nl/f1-nieuws/346490/stroll-blij-met-kans-mijn-prestaties-belangrijker-dan-geld/">zei hij donderdag tijdens de presentatie</a>.</p>
 <h3>Geen record</h3>
 <p>Zo jong als Max Verstappen tijdens zijn debuut – 17 jaar en 166 dagen - is Stroll niet, maar achttien jaar is nog steeds uitzonderlijk jong voor een Formule 1-coureur. Het record van jongste coureur ooit blijft dus wel in handen van de Nederland, ook omdat nieuwe coureurs volgens de regels ouder dan achttien moeten zijn.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

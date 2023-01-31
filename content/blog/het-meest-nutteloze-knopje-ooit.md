@@ -1,5 +1,5 @@
 ---
-id: 9fead8812ba742e5a81e016b13e5d17e
+id: 85b27c63474146a6999ec3e5ddf15b91
 type: post
 layout: post
 title: "Het meest nutteloze knopje ooit"
@@ -19,4 +19,4 @@ Misschien was hij je nog niet eens opgevallen, maar de kans is groot dat jij hem
 <p><strong>Werkt niet</strong><br>Bij de meeste programma's werkt de scroll lock-knop niet eens meer. De enige bekende programma's waarbij je de scroll lock nog zou kunnen gebruiken, zijn de programma's van hetzelfde bedrijf als dat dit kneuterige knopje bedacht heeft: Microsoft. Dus mocht je je vervelen de eerstvolgende keer dat je iets moet typen, heb je nu nog een extra manier om tijd te doden (namelijk spelen met de scroll lock). </p>
 <p>'Waarom zit hij dan nog op mijn toetsenbord?' vraag je je misschien af. Goede vraag! Ook dat heeft te maken met de makers van dat klunzige knopje. Vroeger werd hij wat meer gebruikt dan nu en was hij dus ook iets minder nutteloos. </p>
 <p><strong>Anti-verveling</strong><br>Microsoft doet altijd zijn uiterste best om ervoor te zorgen dat oude programma's blijven werken op nieuwe computers.  Dus als je echt niet meer weet wat je aanmoet met je leven, kun je altijd nog een floppydisk-lezer op je computer aansluiten en scroll lock-programma's uit de jaren '70 gaan uitproberen. Over nutteloos gesproken.</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/cas-visser">Cas </a>(17)? Laatst schreef hij ook al <a href="https://original.sevendays.nl/node/7858/edit">Een 'hij' is nooit een slet</a><a href="https://original.sevendays.nl/blog/awkward-niet-meer"> </a>en <a href="https://original.sevendays.nl/blog/7-tips-voor-als-je-niet-kunt-slapen">7 tips voor als je niet kunt slapen</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/cas-visser">Cas </a>(17)? Laatst schreef hij ook al <a href="https://7dagen.netlify.app/node/7858/edit">Een 'hij' is nooit een slet</a><a href="https://7dagen.netlify.app/blog/awkward-niet-meer"> </a>en <a href="https://7dagen.netlify.app/blog/7-tips-voor-als-je-niet-kunt-slapen">7 tips voor als je niet kunt slapen</a>.</em></p>  

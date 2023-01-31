@@ -1,5 +1,5 @@
 ---
-id: 167f902fbd5542f79aeb25eea63cc094
+id: 5b6ca7fc2e99429cbe3af5ecf27a6041
 type: post
 layout: post
 title: "Op vakantie zonder ouders: eitje, toch?"
@@ -19,7 +19,7 @@ Twee dagen met mijn beste vriendin naar Antwerpen, dat leek me wel wat. Maar op 
         
   
   <div class="content">
-    <img alt="Laura vakantie zonder ouders" height="500" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/laura%202.jpg">  </div>
+    <img alt="Laura vakantie zonder ouders" height="500" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/laura%202.jpg">  </div>
 
   
 </div>
@@ -29,7 +29,7 @@ Twee dagen met mijn beste vriendin naar Antwerpen, dat leek me wel wat. Maar op 
         
   
   <div class="content">
-    <img alt="Laura vakantie zonder ouders" height="500" width="850" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/antwerpen.jpeg">  </div>
+    <img alt="Laura vakantie zonder ouders" height="500" width="850" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/antwerpen.jpeg">  </div>
 
   
 </div>
@@ -41,10 +41,10 @@ Twee dagen met mijn beste vriendin naar Antwerpen, dat leek me wel wat. Maar op 
         
   
   <div class="content">
-    <img alt="Laura vakantie zonder ouders" height="500" width="850" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/laura%201_0.jpg">  </div>
+    <img alt="Laura vakantie zonder ouders" height="500" width="850" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/laura%201_0.jpg">  </div>
 
   
 </div>
 </div>
 <p>Misschien vraag je je nu af of we überhaupt ooit in Antwerpen zijn aangekomen. Maar jawel! Het was leuk en we hebben er allebei veel van geleerd. Oh ja, nog één tip: ga er nooit vanuit dat je reispartner tandpasta meeneemt. Dan poets je allebei je tanden met water.</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/laura-schouten">Laura </a>(19)? Laatst schreef ze ook <a href="https://original.sevendays.nl/blog/de-7-komkommernieuwtjes-die-je-deze-zomer-echt-niet-mocht-missen">De 7 komkommernieuwtjes die je deze zomer echt niet mocht missen</a> en <a href="https://original.sevendays.nl/blog/een-fortuin-voor-een-bandshirt">Een fortuin voor een (band)shirt</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/laura-schouten">Laura </a>(19)? Laatst schreef ze ook <a href="https://7dagen.netlify.app/blog/de-7-komkommernieuwtjes-die-je-deze-zomer-echt-niet-mocht-missen">De 7 komkommernieuwtjes die je deze zomer echt niet mocht missen</a> en <a href="https://7dagen.netlify.app/blog/een-fortuin-voor-een-bandshirt">Een fortuin voor een (band)shirt</a>.</em></p>  

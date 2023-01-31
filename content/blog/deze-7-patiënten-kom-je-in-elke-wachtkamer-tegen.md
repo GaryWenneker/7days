@@ -1,5 +1,5 @@
 ---
-id: 66bc889d25c44d52bb6a7c37baaeaf06
+id: 2ff45b6d19e249a7b31493973b6ccbb1
 type: post
 layout: post
 title: "Deze 7 patiënten kom je in elke wachtkamer tegen"

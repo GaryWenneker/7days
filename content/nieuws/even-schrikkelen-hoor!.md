@@ -1,5 +1,5 @@
 ---
-id: 7730326a588443b4995e7e95cb1f873e
+id: 660d6af53d49491ba8a6baa8a7526fb6
 type: nieuws
 layout: post
 title: "Even schrikkelen hoor!"
@@ -18,7 +18,7 @@ Ook zo lekker aan het schrikkelen vandaag? Geniet er nog maar even van, want ten
         
   
   <div class="content">
-    <img title="Gregorius XIII  Beeld Wikipedia" height="415" width="347" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Gregory_XIII_0.jpg" alt="">  </div>
+    <img title="Gregorius XIII  Beeld Wikipedia" height="415" width="347" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Gregory_XIII_0.jpg" alt="">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ Ook zo lekker aan het schrikkelen vandaag? Geniet er nog maar even van, want ten
         
   
   <div class="content">
-    <img title="Happy Schrikkeljaardag  Foto Dreamstime" height="445" width="670" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/dreamstime_l_55548375-klein.jpg" alt="">  </div>
+    <img title="Happy Schrikkeljaardag  Foto Dreamstime" height="445" width="670" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/dreamstime_l_55548375-klein.jpg" alt="">  </div>
 
   
 </div>
@@ -37,7 +37,7 @@ Ook zo lekker aan het schrikkelen vandaag? Geniet er nog maar even van, want ten
         
   
   <div class="content">
-    <img title="Ja, ik schrikkel  Foto ANP" height="427" width="641" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-33809249-klein.jpg" alt="">  </div>
+    <img title="Ja, ik schrikkel  Foto ANP" height="427" width="641" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-33809249-klein.jpg" alt="">  </div>
 
   
 </div>

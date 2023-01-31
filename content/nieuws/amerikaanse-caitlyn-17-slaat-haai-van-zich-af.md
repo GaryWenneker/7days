@@ -1,5 +1,5 @@
 ---
-id: 6d63ddbdaef04956b71c28a557152012
+id: 40d3297311004303b2689021457dae1a
 type: nieuws
 layout: post
 title: "Amerikaanse Caitlyn (17) slaat haai van zich af"
@@ -18,4 +18,4 @@ Caitlyn Taylor (17) uit het Amerikaanse Kentucky kreeg afgelopen weekend de schr
 <p>Maar toen deed Caitlyn iets wat misschien <em>niet</em> iedereen zou doen: ze draaide zich om en gaf de haai een vuistslag, vol op z’n bek. Die had de haai niet aan zien komen. Hij droop af, en Caitlyn wist veilig aan de kant te komen.</p>
 <p>In het ziekenhuis bleek dat ze <a href="https://www.facebook.com/OkaloosaSheriff/photos/a.388176488653.165529.281642818653/10155034047998654/?type=3&amp;theater">tachtig</a> hechtingen nodig had. Niet niks dus, maar het had natuurlijk veel slechter af kunnen lopen als Caitlyn niet zo van zich af had gebeten.</p>
 <p> </p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

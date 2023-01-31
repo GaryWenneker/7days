@@ -1,5 +1,5 @@
 ---
-id: f00db87642684c4996a2b9a6322aa18a
+id: a47b7023996b4decb702f4bdf3220bce
 type: nieuws
 layout: post
 title: "De tweede klimaatmars voor jongeren in beeld"
@@ -15,14 +15,14 @@ Veel jonge klimaatliefhebbers trotseren donderdagmiddag de regen en zijn in Ams
 
     <p>De tocht is georganiseerd door<em> Youth For Climate NL</em> en begon om 13.00 uur op de Dam en zal om ongeveer 16.00 uur eindigen op het Museumplein. De scholieren roepen massaal 'CO2, weg ermee!' en zwaaien met borden met teksten als 'Stop met masturberen, red de ijsberen', en 'Cool kids saving hot planet'. Als de klimaatstakers uitgelopen zijn staat De Jeugd van Tegenwoordig ze op te wachten op het Museumplein, om een optreden te geven.</p>
 <h3>Niet tevreden</h3>
-<p>Het is de tweede keer dat de organsatie veel jongeren bij elkaar weten te brengen om te demonstreren. Op 7 februari kwamen 15.000 scholieren naar Den Haag om daar mee te lopen met de <a href="https://original.sevendays.nl/klimaatspijbelaars">mars</a>. De organisatie mocht daarna al <a href="https://original.sevendays.nl/nieuws/klimaatspijbelaars-gesprek-met-rutte" target="_blank">praten</a> met premier Rutte en klimaatminister Wiebes, maar is nog steeds niet tevreden met de klimaatplannen.</p>
+<p>Het is de tweede keer dat de organsatie veel jongeren bij elkaar weten te brengen om te demonstreren. Op 7 februari kwamen 15.000 scholieren naar Den Haag om daar mee te lopen met de <a href="https://7dagen.netlify.app/klimaatspijbelaars">mars</a>. De organisatie mocht daarna al <a href="https://7dagen.netlify.app/nieuws/klimaatspijbelaars-gesprek-met-rutte" target="_blank">praten</a> met premier Rutte en klimaatminister Wiebes, maar is nog steeds niet tevreden met de klimaatplannen.</p>
 <p>Kon je niet meelopen? Met deze beelden ben je er toch een beetje bij.</p>
 <p><div class="media media-element-container media-default"><div id="file-536533" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img alt="klimaatmars 14 maart" title="Foto: ANP" class="media-element file-default" data-delta="7" src="https://original.sevendays.nl/sites/default/files/ANP-71124025.jpg" width="4209" height="2758">  </div>
+    <img alt="klimaatmars 14 maart" title="Foto: ANP" class="media-element file-default" data-delta="7" src="https://7dagen.netlify.app/sites/default/files/ANP-71124025.jpg" width="4209" height="2758">  </div>
 
   
 </div>
@@ -32,7 +32,7 @@ Veel jonge klimaatliefhebbers trotseren donderdagmiddag de regen en zijn in Ams
         
   
   <div class="content">
-    <img alt="Foto: ANP" title="Foto: ANP" height="1892" width="2511" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-71123904.jpg">  </div>
+    <img alt="Foto: ANP" title="Foto: ANP" height="1892" width="2511" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-71123904.jpg">  </div>
 
   
 </div>
@@ -42,7 +42,7 @@ Veel jonge klimaatliefhebbers trotseren donderdagmiddag de regen en zijn in Ams
         
   
   <div class="content">
-    <img alt="Foto: ANP" title="Foto: ANP" height="2718" width="3280" style="font-size: 13.008px;" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/ANP-71123900.jpg">  </div>
+    <img alt="Foto: ANP" title="Foto: ANP" height="2718" width="3280" style="font-size: 13.008px;" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/ANP-71123900.jpg">  </div>
 
   
 </div>

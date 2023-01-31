@@ -1,5 +1,5 @@
 ---
-id: 4132da66056a45d9bb69bccfdfc01bea
+id: ad918ef5883b4b21bbd812fdb17b00d7
 type: nieuws
 layout: post
 title: "Foutje. 354 geslaagde vmbo’ers toch gezakt"
@@ -20,7 +20,7 @@ Enorme pech voor 354 middelbare scholieren in Maastricht. Door grove fouten van 
         
   
   <div class="content">
-    <img alt="Isabelle" height="1334" width="750" style="font-size: 13.008px; width: 200px; height: 356px; float: right;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/vmbo%20isabel.jpg">  </div>
+    <img alt="Isabelle" height="1334" width="750" style="font-size: 13.008px; width: 200px; height: 356px; float: right;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/vmbo%20isabel.jpg">  </div>
 
   
 </div>

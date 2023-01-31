@@ -1,5 +1,5 @@
 ---
-id: cc8ca71ca45a40cb8a941c584e0d1e97
+id: c0aeb027c0394802b83e5d1a57af3d13
 type: post
 layout: post
 title: "Eten in een restaurant in Seoul doe je zo"

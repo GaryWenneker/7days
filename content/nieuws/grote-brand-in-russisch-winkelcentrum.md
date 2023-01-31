@@ -1,5 +1,5 @@
 ---
-id: 17e2253f143d438e88025b3bd80aa0d0
+id: 8c61b190615d4be7971d5c9c75ac8f9e
 type: nieuws
 layout: post
 title: "Grote brand in Russisch winkelcentrum"

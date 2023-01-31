@@ -1,5 +1,5 @@
 ---
-id: 8a099d200eeb4fbb8dd5647cfa3dfe16
+id: ac0885f8b7e34e3c981b5968ee506c43
 type: nieuws
 layout: post
 title: "In beeld: Vluchtelingen toch naar Macedonië"
@@ -20,7 +20,7 @@ De meeste mensen zijn afkomstig uit Syrië. Via Macedonië willen ze verder rei
         
   
   <div class="content">
-    <img alt="vluchtelingen Macedonië" title="Foto: AFP" height="634" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-42532682_0.jpg">  </div>
+    <img alt="vluchtelingen Macedonië" title="Foto: AFP" height="634" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-42532682_0.jpg">  </div>
 
   
 </div>
@@ -30,7 +30,7 @@ De meeste mensen zijn afkomstig uit Syrië. Via Macedonië willen ze verder rei
         
   
   <div class="content">
-    <img alt="vluchtelingen Macedonië" title="Foto: EPA" height="568" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-42531814_0.jpg">  </div>
+    <img alt="vluchtelingen Macedonië" title="Foto: EPA" height="568" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-42531814_0.jpg">  </div>
 
   
 </div>
@@ -40,7 +40,7 @@ De meeste mensen zijn afkomstig uit Syrië. Via Macedonië willen ze verder rei
         
   
   <div class="content">
-    <img alt="vluchtelingen Macedonië" title="Foto: AFP" height="566" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-42527223_0.jpg">  </div>
+    <img alt="vluchtelingen Macedonië" title="Foto: AFP" height="566" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-42527223_0.jpg">  </div>
 
   
 </div>
@@ -50,7 +50,7 @@ De meeste mensen zijn afkomstig uit Syrië. Via Macedonië willen ze verder rei
         
   
   <div class="content">
-    <img alt="vluchtelingen Macedonië" title="Foto: AFP" height="584" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-42423402_0.jpg">  </div>
+    <img alt="vluchtelingen Macedonië" title="Foto: AFP" height="584" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-42423402_0.jpg">  </div>
 
   
 </div>
@@ -60,7 +60,7 @@ De meeste mensen zijn afkomstig uit Syrië. Via Macedonië willen ze verder rei
         
   
   <div class="content">
-    <img alt="vluchtelingen Macedonië" title="Foto: AFP" height="566" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-42527272_0.jpg">  </div>
+    <img alt="vluchtelingen Macedonië" title="Foto: AFP" height="566" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-42527272_0.jpg">  </div>
 
   
 </div>
@@ -70,7 +70,7 @@ De meeste mensen zijn afkomstig uit Syrië. Via Macedonië willen ze verder rei
         
   
   <div class="content">
-    <img alt="vluchtelingen Macedonië" title="Foto: AFP" height="570" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-42423409_0.jpg">  </div>
+    <img alt="vluchtelingen Macedonië" title="Foto: AFP" height="570" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-42423409_0.jpg">  </div>
 
   
 </div>
@@ -80,7 +80,7 @@ De meeste mensen zijn afkomstig uit Syrië. Via Macedonië willen ze verder rei
         
   
   <div class="content">
-    <img alt="vluchtelingen Macedonië" title="Foto: AFP" height="563" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-42532183_1.jpg">  </div>
+    <img alt="vluchtelingen Macedonië" title="Foto: AFP" height="563" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-42532183_1.jpg">  </div>
 
   
 </div>

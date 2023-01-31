@@ -1,5 +1,5 @@
 ---
-id: c896400297b54e2e95b6eb0c611f6ee0
+id: a53f4cca0aac441cb21925ee8e28b5c0
 type: post
 layout: post
 title: "De drie levenslessen die de VAS mij heeft geleerd"

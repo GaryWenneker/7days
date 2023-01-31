@@ -1,5 +1,5 @@
 ---
-id: d1a5d5bef7e84c4a876d2ad6ef2408cb
+id: cc27c36a9f2c444bab999ab808c40232
 type: post
 layout: post
 title: "Ik wil een kattencursus!"
@@ -21,4 +21,4 @@ De meeste mensen gaan met hun hond op puppycursus… maar niet met hun kat. En h
 <p>Dus waarom wel puppycursussen, maar niet van de andere dieren? Zodra die vraag in me opkwam, vroeg ik mezelf af waarom er überhaupt een puppycursus is. Ik zie geen enkel ding op zo’n puppycursus wat niet online te leren is, of van vrienden en familie. En die laatste opties zijn ook nog eens gratis en je kunt dit doen wanneer je tijd en zin hebt. Door ervaring heb ik met onze honden veel geleerd. Je komt er vanzelf wel achter wat wel en niet werkt. Zal ik dit ook met eventuele toekomstige katten moeten doen?</p>
 <h3>Limburg</h3>
 <p>Om eerlijk te zijn, weet ik nog niet wat ik later wil qua huisdieren. Maar mocht er iemand in Midden-Limburg een ambitie voor kattencursussen hebben, laat het me weten! Ik heb zelf pas het grandioze aantal van VIJF kattencursussen gevonden… en ik zal vast niet de enige zijn die behoefte heeft aan een kattencursus!</p>
-<p><br><em>Sanne is een grote Engeland-fan (15) die historische gebouwen en verhalen geweldig vindt, maar tijdens haar les geschiedenis wel in slaap kan vallen. 'Toch maar goed dat ik de bètavakken heb gekozen.' Wil het allerliefst later schrijfster worden. Maar medisch onderzoeker lijkt haar ook wel wat. Meer blogs van Sanne lees je <a href="https://original.sevendays.nl/users/sanne-van-der-sterren">hier</a>.</em></p>  
+<p><br><em>Sanne is een grote Engeland-fan (15) die historische gebouwen en verhalen geweldig vindt, maar tijdens haar les geschiedenis wel in slaap kan vallen. 'Toch maar goed dat ik de bètavakken heb gekozen.' Wil het allerliefst later schrijfster worden. Maar medisch onderzoeker lijkt haar ook wel wat. Meer blogs van Sanne lees je <a href="https://7dagen.netlify.app/users/sanne-van-der-sterren">hier</a>.</em></p>  

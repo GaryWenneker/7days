@@ -1,5 +1,5 @@
 ---
-id: a4fcbb45fd654767b8756add279b4ec9
+id: a4b27406b1de4d598f61ab59bc0166cc
 type: post
 layout: post
 title: "7 reizigers die elke backpacker tegenkomt"
@@ -22,7 +22,7 @@ Backpacken door Europa, zoals ik deze zomer met twee vriendinnen deed, is dé 
         
   
   <div class="content">
-    <img height="2448" width="3264" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/20150603_202536.jpg" alt="">  </div>
+    <img height="2448" width="3264" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/20150603_202536.jpg" alt="">  </div>
 
   
 </div>

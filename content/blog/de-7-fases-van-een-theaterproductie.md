@@ -1,5 +1,5 @@
 ---
-id: 1458a17b51fa4f77a745f2f531d1b2e3
+id: ab2ee4f06c4a4898a699f2006c2d0a1d
 type: post
 layout: post
 title: "De 7 fases van een theaterproductie"
@@ -21,7 +21,7 @@ Eerst denk je: laat maar komen, die voorstelling. Niet lang daarna steekt de pan
         
   
   <div class="content">
-    <img title="Foto: Reyer Boxem" height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/10995653_800020763408520_876690955517574173_n_0.jpg" alt="">  </div>
+    <img title="Foto: Reyer Boxem" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/10995653_800020763408520_876690955517574173_n_0.jpg" alt="">  </div>
 
   
 </div>
@@ -33,7 +33,7 @@ Eerst denk je: laat maar komen, die voorstelling. Niet lang daarna steekt de pan
         
   
   <div class="content">
-    <img title="Foto: Reyer Boxem" height="638" width="960" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/11218846_800021476741782_1603618679063012514_n.jpg" alt="">  </div>
+    <img title="Foto: Reyer Boxem" height="638" width="960" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/11218846_800021476741782_1603618679063012514_n.jpg" alt="">  </div>
 
   
 </div>

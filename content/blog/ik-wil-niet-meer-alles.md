@@ -1,5 +1,5 @@
 ---
-id: 6fb9c3cb14b442a581b4c469ce3ef9b0
+id: a4be60f8e6e34c31a49a614da1dec7d8
 type: post
 layout: post
 title: "Ik wil (niet meer) alles"
@@ -25,7 +25,7 @@ Bijbaantjes, school, vrienden, hobby's en social media: je moet het allemaal maa
         
   
   <div class="content">
-    <img height="1500" width="3000" style="height: 350px; width: 700px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/PicMonkey%20Image2.png" alt="">  </div>
+    <img height="1500" width="3000" style="height: 350px; width: 700px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/PicMonkey%20Image2.png" alt="">  </div>
 
   
 </div>
@@ -33,7 +33,7 @@ Bijbaantjes, school, vrienden, hobby's en social media: je moet het allemaal maa
 <h3>Schrappen</h3>
 <p>Gevolg van deze trend? Onze to-do-lijst is te groot geworden. Je hoofd ontploft en vroeg of laat moet je dingen schrappen. Prioriteiten stellen, want je wilt niet overspannen worden van een enkele blik op je agenda.</p>
 <p>Hoe leuk ik het bloggen bij 7Days ook vind, mijn to-do-lijst is veel te lang. Dus ik stop. Ik lig liever af en toe heel even op de bank. En zeg nou zelf: een paar dingen goed doen in plaats van alles een beetje, geeft toch veel meer voldoening?</p>
-<p><em>Dit was het laatste blog van<a href="https://original.sevendays.nl/users/sanne-leferink"> Sanne Leferink</a> (19). Eerder schreef ze onder andere <a href="https://original.sevendays.nl/blog/opgesloten-ons-eigen-hokjesdenken">Opgesloten in ons eigen hokjesdenken</a> en <a href="https://original.sevendays.nl/blog/5-levenslessen-die-ik-leerde-op-de-middelbare-school">5 levenslessen die ik leerde op de middelbare school</a>.</em></p>
+<p><em>Dit was het laatste blog van<a href="https://7dagen.netlify.app/users/sanne-leferink"> Sanne Leferink</a> (19). Eerder schreef ze onder andere <a href="https://7dagen.netlify.app/blog/opgesloten-ons-eigen-hokjesdenken">Opgesloten in ons eigen hokjesdenken</a> en <a href="https://7dagen.netlify.app/blog/5-levenslessen-die-ik-leerde-op-de-middelbare-school">5 levenslessen die ik leerde op de middelbare school</a>.</em></p>
 <p><div class="media media-element-container media-default"><div id="file-22074" class="file file-video file-video-youtube">
 
         <h2 class="element-invisible"><a href="/files/herman-van-veen-opzij-opzij-opzij">Herman van Veen- Opzij, Opzij, Opzij</a></h2>

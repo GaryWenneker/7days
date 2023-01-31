@@ -1,5 +1,5 @@
 ---
-id: d368cd526b7940358d2833e5e245551b
+id: 84b10e82f3d944fc9661f2f8bf7ce8b6
 type: post
 layout: post
 title: "Keeping up with the Americans"
@@ -25,8 +25,8 @@ Nu ik weer terug ben in Nederland na mijn half jaar highschool in de VS, heb ik
         
   
   <div class="content">
-    <img height="100" width="100" style="float: left;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Highschool%20USA.png" alt="">  </div>
+    <img height="100" width="100" style="float: left;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Highschool%20USA.png" alt="">  </div>
 
   
 </div>
-</div><em>Het afgelopen halfjaar blogde Rosemarie (17) over haar highschooljaar in de VS. Al haar columns kun je <a href="https://original.sevendays.nl/highschoolhalfjaar">hier </a>teruglezen.</em>  
+</div><em>Het afgelopen halfjaar blogde Rosemarie (17) over haar highschooljaar in de VS. Al haar columns kun je <a href="https://7dagen.netlify.app/highschoolhalfjaar">hier </a>teruglezen.</em>  

@@ -1,5 +1,5 @@
 ---
-id: d980be047f7f45fb897b9080fceaccaf
+id: 5ee95d0c62114cd5a28a06f9b89d57c3
 type: post
 layout: post
 title: "De 7 leukste kinderprogramma’s van vroeger"
@@ -68,7 +68,7 @@ Met een doosje rozijntjes tussen mijn vingers geklemd, mijn pyjama aan en een kn
 
   
 </div>
-</div>Met mijn Samson-en-Gert-koekjes op de tafel zat ik in kleermakerszit klaar voor de tv. Klaar voor Samson en Gert. Samson, de ‘allerliefste’ (nou ja, de op één na liefste, want <a href="https://original.sevendays.nl/blog/schijn-bedriegt" target="_blank">Chef is de liefste</a>) pratende hond en de dingen die de burgemeester altijd meemaakte. Hartstikke leuk vond ik het. Het was altijd even een domper als Samson er weer van door moest. Gelukkig maakten we in de kleuterklas altijd grapjes: 'Ik moest kloppen want de bel deed het niet.' HOPPA, de helft van de kleuters lag alweer op de grond van het lachen.
+</div>Met mijn Samson-en-Gert-koekjes op de tafel zat ik in kleermakerszit klaar voor de tv. Klaar voor Samson en Gert. Samson, de ‘allerliefste’ (nou ja, de op één na liefste, want <a href="https://7dagen.netlify.app/blog/schijn-bedriegt" target="_blank">Chef is de liefste</a>) pratende hond en de dingen die de burgemeester altijd meemaakte. Hartstikke leuk vond ik het. Het was altijd even een domper als Samson er weer van door moest. Gelukkig maakten we in de kleuterklas altijd grapjes: 'Ik moest kloppen want de bel deed het niet.' HOPPA, de helft van de kleuters lag alweer op de grond van het lachen.
 <p><strong>5.Piet Piraat</strong><div class="media media-element-container media-default"><div id="file-13291" class="file file-video file-video-youtube">
 
         <h2 class="element-invisible"><a href="/files/piet-piraat-steven-bad">Piet Piraat - Steven in bad</a></h2>
@@ -113,4 +113,4 @@ Met een doosje rozijntjes tussen mijn vingers geklemd, mijn pyjama aan en een kn
 </div>
 </div>Plop, die altijd in zijn paddenstoeltje te vinden is, was een ware sensatie voor ons als kleuters. De kabouter blikt terug op een spannende dag, en vertelt zo een avontuur. Die rare hoofdflappen die omhoog gingen als er iets gebeurde, zorgden voor een beeld en geluid waar elke puber nu nog nachtmerries over heeft.  Ach ja, als kleuter vond ik dit tv-programma erg lachwekkend.
 <p><em>Welk kinderprogramma vond jij vroeger helemaal geweldig? Was je fan van Piet Piraat, of vond je Brum echt <em>de bom</em>? </em></p>
-<p><strong>Meer blogs van Lucas (16) lezen? Zijn archief vind je <a href="https://original.sevendays.nl/users/lucas-versteeg">hier</a>.</strong></p>  
+<p><strong>Meer blogs van Lucas (16) lezen? Zijn archief vind je <a href="https://7dagen.netlify.app/users/lucas-versteeg">hier</a>.</strong></p>  

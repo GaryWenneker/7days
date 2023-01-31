@@ -1,5 +1,5 @@
 ---
-id: 7b476c7e679e42adb9586ece708ae916
+id: 5556f0fc2984408d95a5bf7a4c03903a
 type: nieuws
 layout: post
 title: "Algerije blokkeert internet tijdens schoolexamens"

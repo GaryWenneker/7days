@@ -1,5 +1,5 @@
 ---
-id: dbef9df1d03f49dc8046f94e4597fcff
+id: c0288a5f5cc5406f9c4c674295fd167f
 type: nieuws
 layout: post
 title: "In beeld: (nog) geen voetbalfeest voor Feyenoord"
@@ -18,7 +18,7 @@ Feyenoord-fans hadden zich er zo op verheugd: na achttien jaar kon hun cluppie e
         
   
   <div class="content">
-    <img alt="Feyenoord verliest van Excelsior en is nog geen landskampioen" title="Foto ANP" height="536" width="800" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-51106700klein.jpg">  </div>
+    <img alt="Feyenoord verliest van Excelsior en is nog geen landskampioen" title="Foto ANP" height="536" width="800" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-51106700klein.jpg">  </div>
 
   
 </div>
@@ -28,7 +28,7 @@ Feyenoord-fans hadden zich er zo op verheugd: na achttien jaar kon hun cluppie e
         
   
   <div class="content">
-    <img alt="Feyenoord verliest van Excelsior en is nog geen landskampioen" title="Foto ANP" height="588" width="800" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-51106558%20klein.jpg">  </div>
+    <img alt="Feyenoord verliest van Excelsior en is nog geen landskampioen" title="Foto ANP" height="588" width="800" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-51106558%20klein.jpg">  </div>
 
   
 </div>
@@ -39,7 +39,7 @@ Feyenoord-fans hadden zich er zo op verheugd: na achttien jaar kon hun cluppie e
         
   
   <div class="content">
-    <img alt="Feyenoord verliest van Excelsior en is nog geen landskampioen" title="Foto ANP" height="361" width="800" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-51107383klein.jpg">  </div>
+    <img alt="Feyenoord verliest van Excelsior en is nog geen landskampioen" title="Foto ANP" height="361" width="800" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-51107383klein.jpg">  </div>
 
   
 </div>
@@ -50,7 +50,7 @@ Feyenoord-fans hadden zich er zo op verheugd: na achttien jaar kon hun cluppie e
         
   
   <div class="content">
-    <img alt="Feyenoord verliest van Excelsior en is nog geen landskampioen" title="Foto ANP" height="540" width="800" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-51109245klein.jpg">  </div>
+    <img alt="Feyenoord verliest van Excelsior en is nog geen landskampioen" title="Foto ANP" height="540" width="800" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-51109245klein.jpg">  </div>
 
   
 </div>
@@ -61,7 +61,7 @@ Feyenoord-fans hadden zich er zo op verheugd: na achttien jaar kon hun cluppie e
         
   
   <div class="content">
-    <img alt="Feyenoord verliest van Excelsior en is nog geen landskampioen" title="Foto ANP" height="435" width="800" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-51109931klein.jpg">  </div>
+    <img alt="Feyenoord verliest van Excelsior en is nog geen landskampioen" title="Foto ANP" height="435" width="800" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-51109931klein.jpg">  </div>
 
   
 </div>
@@ -72,7 +72,7 @@ Feyenoord-fans hadden zich er zo op verheugd: na achttien jaar kon hun cluppie e
         
   
   <div class="content">
-    <img alt="Feyenoord verliest van Excelsior en is nog geen landskampioen" title="Foto ANP" height="533" width="800" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-51107087%20klein.jpg">  </div>
+    <img alt="Feyenoord verliest van Excelsior en is nog geen landskampioen" title="Foto ANP" height="533" width="800" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-51107087%20klein.jpg">  </div>
 
   
 </div>
@@ -83,7 +83,7 @@ Feyenoord-fans hadden zich er zo op verheugd: na achttien jaar kon hun cluppie e
         
   
   <div class="content">
-    <img alt="Feyenoord verliest van Excelsior en is nog geen landskampioen" title="Foto ANP" height="1200" width="800" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-51108095klein.jpg">  </div>
+    <img alt="Feyenoord verliest van Excelsior en is nog geen landskampioen" title="Foto ANP" height="1200" width="800" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-51108095klein.jpg">  </div>
 
   
 </div>
@@ -94,8 +94,8 @@ Feyenoord-fans hadden zich er zo op verheugd: na achttien jaar kon hun cluppie e
         
   
   <div class="content">
-    <img alt="Feyenoord verliest van Excelsior en is nog geen landskampioen" title="Foto ANP" height="531" width="800" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-51110670klein.jpg">  </div>
+    <img alt="Feyenoord verliest van Excelsior en is nog geen landskampioen" title="Foto ANP" height="531" width="800" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-51110670klein.jpg">  </div>
 
   
 </div>
-</div><br><em>Deze Feyenoord-fans geven de moed nog niet op. Juichend wachtten ze de spelersbus op bij het stadion. Volgende week krijgt Feyenoord gewoon een nieuwe kans tegen Heracles. Thuis in de Kuip kunnen ze dan alsnog landskampioen worden, want ze staan nog steeds één punt voor op nummer 2 Ajax.<br><br>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em><br>   
+</div><br><em>Deze Feyenoord-fans geven de moed nog niet op. Juichend wachtten ze de spelersbus op bij het stadion. Volgende week krijgt Feyenoord gewoon een nieuwe kans tegen Heracles. Thuis in de Kuip kunnen ze dan alsnog landskampioen worden, want ze staan nog steeds één punt voor op nummer 2 Ajax.<br><br>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em><br>   

@@ -1,5 +1,5 @@
 ---
-id: 6d21138f47814734b3ca0cfafdbac879
+id: a285b770ed814d019ba30e0c2a8a357a
 type: nieuws
 layout: post
 title: "Dodelijke tocht naar een beter leven"
@@ -22,7 +22,7 @@ Op de Middellandse Zee kwamen afgelopen weekend achthonderd vluchtelingen om bij
         
   
   <div class="content">
-    <img title="Foto: EPA" height="2362" width="3543" style="font-size: 13.0080003738403px; line-height: 1.538em;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/EPA-32258636migrants%20greece%20%281%29.jpg" alt="">  </div>
+    <img title="Foto: EPA" height="2362" width="3543" style="font-size: 13.0080003738403px; line-height: 1.538em;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/EPA-32258636migrants%20greece%20%281%29.jpg" alt="">  </div>
 
   
 </div>
@@ -33,4 +33,4 @@ Op de Middellandse Zee kwamen afgelopen weekend achthonderd vluchtelingen om bij
 <p>Volgens de zogenaamde ‘Dublinwet’ kan een asielzoeker slechts in één EU-lidstaat asiel aanvragen. Het idee was ooit dat dat het land is waar de asielzoeker aankomt. Omdat bijna alle bootvluchtelingen in Italië aankomen, zou dus bijna iedereen daar asiel moeten aanvragen. Daar voelt Italië niets voor. Dus wordt zo goed als niemand geregistreerd en staan de opvangcentra open. Vluchtelingen zelf willen doorgaans ook niet in Italië blijven. Vooral Syriërs hebben vaak al familie wonen in noordelijke landen als Duitsland en Zweden. Omdat er binnen de Europese Unie nauwelijks grenscontroles zijn, is het niet al te ingewikkeld om daar te komen.</p>
 <p><strong>Wat kan Europa doen om dit probleem op te lossen?</strong><br>De Italiaanse president Renzi heeft opgeroepen tot een EU spoedtop over de bootvluchtelingen. Deze week praten regeringsleiders in Luxemburg over mogelijke oplossingen. Op korte termijn kunnen de andere landen bijspringen door boten en helikopters naar de Middellandse Zee te sturen. Over hoe de oplossing er op langere termijn precies uit moet zien, lopen de meningen uiteen. </p>
 <p>Moeten de grenzen compleet dicht, zoals Australië doet voor vluchtelingen uit Azië? Moet Europa militair ingrijpen in Libië? Of moeten vluchtelingen verspreid worden over Europa? Sommige groepen opperen nog veel radicalere oplossingen. Zo pleiten anti-immigratie politici in Italië voor een muur van oorlogsschepen langs de kust van Libië.</p>
-<p><em>Meer weten over de Europese vluchtelingenstroom? In ons <a href="https://original.sevendays.nl/dossier-vluchtelingen">dossier vluchtelingen</a> vind je al onze artikelen over dit onderwerp.</em></p>  
+<p><em>Meer weten over de Europese vluchtelingenstroom? In ons <a href="https://7dagen.netlify.app/dossier-vluchtelingen">dossier vluchtelingen</a> vind je al onze artikelen over dit onderwerp.</em></p>  

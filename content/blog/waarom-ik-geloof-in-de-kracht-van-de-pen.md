@@ -1,5 +1,5 @@
 ---
-id: 1ff1d2c551f94e49838cf434343d4cf2
+id: ee141d1e83124a718a9efdb23436f7a6
 type: post
 layout: post
 title: "Waarom ik geloof in de kracht van de pen"
@@ -20,4 +20,4 @@ Wat is er sterker dan Badr Hari en Rico Verhoeven bij elkaar? De pen! Wat boeke
 <p>Wie de pen in zijn hand neemt, kan dus overal belanden. Niet iedereen wordt er bekend mee en dat hoeft ook niet. Of je nu schrijft in een dagboek, een eigen blog opricht of een gedichtje in elkaar flanst. Als je er maar plezier in hebt is mijn mening!</p>
 <h3>Het stokje overnemen</h3>
 <p>Ik schrijf nu over de kracht van schrijven, maar stop met bloggen bij Sevendays. Een beetje een tegenstelling van wat ik hierboven beschreef. Of het is juist heel logisch? Ik draag mijn plek over aan een nieuwe jonge schrijver die staat te popelen het stokje (of de pen, haha) van mij over te nemen. Iemand die weer vol nieuwe blog-inspiratie zit!</p>
-<p>Ruim vijf jaar heb ik mogen bloggen voor Sevendays. In totaal heb ik 144 blogs geschreven, ontzettend uiteenlopend: van een <a href="https://original.sevendays.nl/blog/maak-je-eigen-memes-5-stappen" target="_blank">lijst met tips over het maken van memes</a> (die ik nog steeds gebruik!), tot <a href="https://original.sevendays.nl/blog/geen-zakje-chips-maar-gebakken-lucht" target="_blank">een klaagzang over de giga-hoeveelheid lucht in een chipszak</a> (heerlijk om soms even zo te klagen). Bedankt Sevendays en jij als lezer ook bedankt! Ik ga verder met mijn studie Journalistiek en zal zeker niet stoppen met schrijven. </p>  
+<p>Ruim vijf jaar heb ik mogen bloggen voor Sevendays. In totaal heb ik 144 blogs geschreven, ontzettend uiteenlopend: van een <a href="https://7dagen.netlify.app/blog/maak-je-eigen-memes-5-stappen" target="_blank">lijst met tips over het maken van memes</a> (die ik nog steeds gebruik!), tot <a href="https://7dagen.netlify.app/blog/geen-zakje-chips-maar-gebakken-lucht" target="_blank">een klaagzang over de giga-hoeveelheid lucht in een chipszak</a> (heerlijk om soms even zo te klagen). Bedankt Sevendays en jij als lezer ook bedankt! Ik ga verder met mijn studie Journalistiek en zal zeker niet stoppen met schrijven. </p>  

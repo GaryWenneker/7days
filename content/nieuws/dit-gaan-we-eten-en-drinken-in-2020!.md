@@ -1,5 +1,5 @@
 ---
-id: 7a0f02d1b10f488c9c250c0a3079a3c9
+id: 02e38d5ccd624f6d90c93a23013e8827
 type: nieuws
 layout: post
 title: "Dit gaan we eten en drinken in 2020!"
@@ -13,7 +13,7 @@ seo:
 ---
 Hybridevlees, paddenstoelen, peulvruchten en zelfgemaakte drankjes. Er wordt flink gespeculeerd over wat we gaan eten en drinken komend jaar. Maar om welke trends gaat het nou eigenlijk? We zette er een paar voor je bij elkaar.  
 
-    <p>De trend om <strong>plantaardig </strong>te eten is al een tijdje aan de gang, maar zal komend jaar in nog meer huishoudens opgepakt worden. Het aantal verkochte vleesvervangers in supermarkten zoals kipstuckjes of plantaardige balletjes is sinds twee jaar met de helft gestegen. Dat blijkt uit cijfers van marktonderzoeker IRI Nederland. Het assortiment dat in de supermarktschappen ligt zal echter nog groter worden. Ook in restaurants en fastfoodketens worden straks nog meer alternatieven voor vlees aangeboden. <em>Vind jij dat een goede ontwikkeling of vind je dat fastfoodketens geen gezond eten aan hoeven te bieden? Stem hier mee op <a href="https://original.sevendays.nl/stelling-83" target="_blank">stelling</a>.</em></p>
+    <p>De trend om <strong>plantaardig </strong>te eten is al een tijdje aan de gang, maar zal komend jaar in nog meer huishoudens opgepakt worden. Het aantal verkochte vleesvervangers in supermarkten zoals kipstuckjes of plantaardige balletjes is sinds twee jaar met de helft gestegen. Dat blijkt uit cijfers van marktonderzoeker IRI Nederland. Het assortiment dat in de supermarktschappen ligt zal echter nog groter worden. Ook in restaurants en fastfoodketens worden straks nog meer alternatieven voor vlees aangeboden. <em>Vind jij dat een goede ontwikkeling of vind je dat fastfoodketens geen gezond eten aan hoeven te bieden? Stem hier mee op <a href="https://7dagen.netlify.app/stelling-83" target="_blank">stelling</a>.</em></p>
 <h3>Tikkie meer kritisch</h3>
 <p>Doordat er steeds meer alternatieven zijn voor vlees wordt de consument een tikkie meer kritisch dan-ie al is. Veel vleesvervangers zoals bonenburgers zijn wel diervriendelijker, maar niet per se gezonder of milieuvriendelijker. Dat kan beter vinden veel Nederlanders. Verschillende soorten vis zoals haring, makreel en sardientjes kun je gelukkig wel zonder al te groot schuldgevoel eten.</p>
 <h3>Reduced tarians</h3>
@@ -22,7 +22,7 @@ Hybridevlees, paddenstoelen, peulvruchten en zelfgemaakte drankjes. Er wordt fl
         
   
   <div class="content">
-    <img alt="foodtrends 2020" title="Foto: Unsplash" height="3091" width="4227" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/maddi-bazzocco-UhrHTmVBzzE-unsplash.jpg">  </div>
+    <img alt="foodtrends 2020" title="Foto: Unsplash" height="3091" width="4227" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/maddi-bazzocco-UhrHTmVBzzE-unsplash.jpg">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ Hybridevlees, paddenstoelen, peulvruchten en zelfgemaakte drankjes. Er wordt fl
         
   
   <div class="content">
-    <img alt="foodtrends 2020" title="Foto: Unsplash" height="3648" width="5472" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/the-creative-exchange-MWMuM6C9oEk-unsplash.jpg">  </div>
+    <img alt="foodtrends 2020" title="Foto: Unsplash" height="3648" width="5472" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/the-creative-exchange-MWMuM6C9oEk-unsplash.jpg">  </div>
 
   
 </div>

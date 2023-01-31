@@ -1,5 +1,5 @@
 ---
-id: b93cfae5e6fe4b8ab9b359b2a6073cdb
+id: 84fc417bcdb2474484b26e93dbb12a1c
 type: nieuws
 layout: post
 title: "Fan van YouTuber PewDiePie hackt 50.000 printers"
@@ -13,7 +13,7 @@ seo:
 ---
 Een fan van PewDiePie heeft 50.000 printers een A4'tje laten printen met daarop de opdracht om abonnee te worden van het populaire kanaal van de Zweedse YouTuber, die eigenlijk Felix Arvid Ulf Kjellberg heet.  
 
-    <p>Al weken dreigt YouTuber PewDiePie als grootste YouTuber te worden ingehaald door de Indiase platenmaatschappij <a href="https://original.sevendays.nl/entertainment/waarom-het-bollywood-kanaal-t-series-zo-populair" target="_blank">T-Series</a>. Beide kanalen hebben meer dan 73 miljoen abonnees, maar T-Series is afgelopen jaar enorm gegroeid. Afgelopen week was het verschil zelfs minder dan 30.000 abonnees, maar ondertussen ligt PewDiePie weer voor, schrijft <em><a href="https://www.bright.nl/nieuws/artikel/4504966/50000-printers-gehackt-om-pewdiepie-te-helpen" target="_blank">Bright.nl</a></em>. </p>
+    <p>Al weken dreigt YouTuber PewDiePie als grootste YouTuber te worden ingehaald door de Indiase platenmaatschappij <a href="https://7dagen.netlify.app/entertainment/waarom-het-bollywood-kanaal-t-series-zo-populair" target="_blank">T-Series</a>. Beide kanalen hebben meer dan 73 miljoen abonnees, maar T-Series is afgelopen jaar enorm gegroeid. Afgelopen week was het verschil zelfs minder dan 30.000 abonnees, maar ondertussen ligt PewDiePie weer voor, schrijft <em><a href="https://www.bright.nl/nieuws/artikel/4504966/50000-printers-gehackt-om-pewdiepie-te-helpen" target="_blank">Bright.nl</a></em>. </p>
 <h3>Hacker</h3>
 <p>Dat is deels te danken aan een enthousiaste fan die zijn hackerskwaliteiten gebruikte. Hij liet bij 50.000 slecht beveiligde printers een A4-tje uitprinten met daarop de opdracht om je af te melden bij T-Series en je aan te melden bij PewDiePie. <div class="media media-element-container media-default"><div id="file-535510" class="file file-document file-text-oembed">
 

@@ -1,5 +1,5 @@
 ---
-id: 1c03c0bb87cd4f498a20f2d92b4e1799
+id: e9fe399434c34f16961266f92aed2b8a
 type: nieuws
 layout: post
 title: "1 op de 3 jongeren denkt dat Rutte weer premier wordt"
@@ -22,7 +22,7 @@ Mark Rutte wordt ook na de verkiezingen weer de baas van het Nederlandse kabinet
         
   
   <div class="content">
-    <img alt="jijvandaag tussenuur" title="Beeld: 3FM Tussenuur/JijVandaag" height="467" width="700" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/jijvandaag%201.png">  </div>
+    <img alt="jijvandaag tussenuur" title="Beeld: 3FM Tussenuur/JijVandaag" height="467" width="700" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/jijvandaag%201.png">  </div>
 
   
 </div>
@@ -35,7 +35,7 @@ Mark Rutte wordt ook na de verkiezingen weer de baas van het Nederlandse kabinet
         
   
   <div class="content">
-    <img alt="jijvandaag 3FM Tussenuur" title="Beeld: 3FM Tussenuur/JijVandaag" height="255" width="700" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/jijvandaag%202_0.jpg">  </div>
+    <img alt="jijvandaag 3FM Tussenuur" title="Beeld: 3FM Tussenuur/JijVandaag" height="255" width="700" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/jijvandaag%202_0.jpg">  </div>
 
   
 </div>
@@ -48,7 +48,7 @@ Mark Rutte wordt ook na de verkiezingen weer de baas van het Nederlandse kabinet
         
   
   <div class="content">
-    <img alt="aanslag brussel herdenking" title="Foto: AFP" height="567" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-43129911.jpg">  </div>
+    <img alt="aanslag brussel herdenking" title="Foto: AFP" height="567" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-43129911.jpg">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: d2030f0c123d4c4c87da4c3af66db531
+id: 3306dbc297254600818d286af9e5365e
 type: nieuws
 layout: post
 title: "De koning bood Indonesië zijn excuses aan, waarom?"

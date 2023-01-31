@@ -1,5 +1,5 @@
 ---
-id: b08be26a01ec42178f82d5cc7f847511
+id: b8f2949b088e4537ad10291887fe449f
 type: nieuws
 layout: post
 title: "12 november: Guinness World Records-dag"
@@ -19,7 +19,7 @@ Vandaag doen mensen overal ter wereld hun uiterste best om een bijzonder record 
         
   
   <div class="content">
-    <img alt="record Kidsweek papieren hoedjes" title="Foto Shody Careman" height="2560" width="3840" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Recordpoging-16.jpg">  </div>
+    <img alt="record Kidsweek papieren hoedjes" title="Foto Shody Careman" height="2560" width="3840" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Recordpoging-16.jpg">  </div>
 
   
 </div>

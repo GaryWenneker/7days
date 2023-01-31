@@ -1,5 +1,5 @@
 ---
-id: c08d337c7bff42fea1beafd904f6e560
+id: 2f486dd4453347ba9b19c32cdf0cdd33
 type: nieuws
 layout: post
 title: "Greenpeace geeft 'mispaksel-prijs' aan Jumbo-paprika"
@@ -23,7 +23,7 @@ Een rode biologische paprika in bioplastic. Volgens stemmers in de #Mispaksel-ve
         
   
   <div class="content">
-    <img alt="Mispaksel" title="Foto: Marten van Dijl/Greenpeace" height="1152" width="2048" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Mispaksels.jpg">  </div>
+    <img alt="Mispaksel" title="Foto: Marten van Dijl/Greenpeace" height="1152" width="2048" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Mispaksels.jpg">  </div>
 
   
 </div>

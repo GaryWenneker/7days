@@ -1,5 +1,5 @@
 ---
-id: 7b576b295bb54351b45dff9e5ef37225
+id: 8b60c251a6a44e36857622990c83344d
 type: nieuws
 layout: post
 title: "Eerste nieuwe straaljager komt naar Nederland"
@@ -24,7 +24,7 @@ Jarenlang is er over gesproken en aan gewerkt, maar vanmiddag is het zover: in L
         
   
   <div class="content">
-    <img alt="ANP - JSF - F-35" title="Foto: ANP" height="3000" width="4500" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-374552324.jpg">  </div>
+    <img alt="ANP - JSF - F-35" title="Foto: ANP" height="3000" width="4500" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-374552324.jpg">  </div>
 
   
 </div>

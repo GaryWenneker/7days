@@ -1,5 +1,5 @@
 ---
-id: b12020e0ea2a4dbf8e43ad591ece750c
+id: 7843543282f54308abc66bbcc142134f
 type: nieuws
 layout: post
 title: "Beroemde Japanse herten dood door zwerfplastic"
@@ -18,7 +18,7 @@ Ze zijn een grote toeristentrekker in het Japanse Nara, de tamme herten die er v
         
   
   <div class="content">
-    <img alt="Foto Instagram" title="Foto Instagram" height="401" width="498" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/hert%20Nara%20cracker.jpg">  </div>
+    <img alt="Foto Instagram" title="Foto Instagram" height="401" width="498" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/hert%20Nara%20cracker.jpg">  </div>
 
   
 </div>

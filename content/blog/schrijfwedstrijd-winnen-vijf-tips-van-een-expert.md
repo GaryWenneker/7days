@@ -1,5 +1,5 @@
 ---
-id: 2338d01c313a4bcbab492add80ab2ba5
+id: 7ca17117a44b477cb33033036df1c21e
 type: post
 layout: post
 title: "Schrijfwedstrijd winnen? Vijf tips van een expert"
@@ -18,7 +18,7 @@ Een schrijfwedstrijd win je niet zomaar. Begin maar eens met het schrijven van 
         
   
   <div class="content">
-    <img alt="Mirke Kist" title="Beeld: Facebook / Mirke Kist" height="811" width="623" style="margin: 5px; font-size: 13.008px; width: 400px; height: 521px; float: right;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/14305355_10154204529488751_2851580500607700540_o_0.jpg">  </div>
+    <img alt="Mirke Kist" title="Beeld: Facebook / Mirke Kist" height="811" width="623" style="margin: 5px; font-size: 13.008px; width: 400px; height: 521px; float: right;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/14305355_10154204529488751_2851580500607700540_o_0.jpg">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ Een schrijfwedstrijd win je niet zomaar. Begin maar eens met het schrijven van 
         
   
   <div class="content">
-    <img alt="Schrijfwedstrijd" title="Beeld: Pixabay" height="508" width="955" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/writing-1209121_960_720.jpg">  </div>
+    <img alt="Schrijfwedstrijd" title="Beeld: Pixabay" height="508" width="955" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/writing-1209121_960_720.jpg">  </div>
 
   
 </div>
@@ -46,8 +46,8 @@ Een schrijfwedstrijd win je niet zomaar. Begin maar eens met het schrijven van 
 <h3><strong>5. </strong><strong>Kies een onderwerp dat jou interesseert</strong></h3>
 <p>'Vooral jonge schrijvers hebben de behoefte om over zware onderwerpen te schrijven, maar dat is helemaal niet nodig. Kleine dingen, kleine anekdotes of vreemde verhalen zijn ook geschikt. Een verhaal kan mooi zijn als je vertelt hoe je op schoolreisje was met een bus die een lekke band kreeg. De mooie gedachtes die daar eventueel in zitten vind ik interessanter. Het is de manier waarop het wordt verteld: dát kan je raken. Dus schrijf over iets wat jij leuk vindt en waar jij gefascineerd door bent. Dan gaat het schrijven een stuk makkelijker.'</p>
 <div class="kader">
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p>Lees ook <a href="https://original.sevendays.nl/users/femke-van-de-griendt">de andere blogs van Femke (15)</a></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p>Lees ook <a href="https://7dagen.netlify.app/users/femke-van-de-griendt">de andere blogs van Femke (15)</a></p>
 </div>
 <p><em>Meedoen? Tot 1 april kun je je tekst <a href="http://www.writenow.nu/" target="_blank">insturen </a>bij Write Now!</em></p>
   

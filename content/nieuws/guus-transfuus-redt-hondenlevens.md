@@ -1,5 +1,5 @@
 ---
-id: 6cc779d7d5e14bcf901bd1517b1b452a
+id: f905f195a37d4ca2af24de2afdb72e70
 type: nieuws
 layout: post
 title: "Guus Transfuus redt hondenlevens"
@@ -20,7 +20,7 @@ In Twello woont een echte heldin. Haar naam is Guus, ze is 12 jaar, moeder van 3
         
   
   <div class="content">
-    <img height="1125" width="755" style="width: 400px; height: 596px; float: right; margin-left: 5px; margin-right: 5px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/guus2.jpg" alt="">  </div>
+    <img height="1125" width="755" style="width: 400px; height: 596px; float: right; margin-left: 5px; margin-right: 5px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/guus2.jpg" alt="">  </div>
 
   
 </div>
@@ -33,4 +33,4 @@ In Twello woont een echte heldin. Haar naam is Guus, ze is 12 jaar, moeder van 3
 <h3>Oma</h3>
 <p>Guus heeft nu vier keer een bloedtransfusie ondergaan. ‘Na de ingreep staat ze even wankel op de poten. Voor een hond is het best veel, een halve liter. Gelukkig knapt ze altijd snel op’ vertelt Broekman. Guus kan wel tegen een stootje: ze is moeder van 33 kinderen én inmiddels ook oma. Met haar twaalf jaar kent iedereen haar in Twello. En nu ze op televisie is geweest als ‘Guus Transfuus’, kan haar faam helemaal niet meer stuk.</p>
 <p>Met Lex gaat het inmiddels een stuk beter. Een dag na de transfusie sprong hij alweer rond. Broekman lacht: ‘Zijn baasjes vroegen zich af of hij soms pitbullbloed had gekregen’.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

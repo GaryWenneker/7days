@@ -1,5 +1,5 @@
 ---
-id: 23ab7fe0bc7d40bc8ff6e9ecdd2f79f7
+id: 53f3cfad595d4f499ef51e32f76a099c
 type: post
 layout: post
 title: "De 30 grootste struggles tijdens je examen"
@@ -21,4 +21,4 @@ Van begin tot eind is het examen één grote hindernisbaan. Behalve de opgaven, 
 <p>21. Mensen die al drie uur van te voren klaar zijn en weggaan terwijl jij nog maar bij vraag twee bent<br>22. Dingen tegenkomen die niet in de syllabus stonden<br>23. Surveillanten die met elkaar via een soort doventaal communiceren<br>24. De spieren in je hand die gaan verzuren zodat je hand ‘bijna uit elkaar valt’<br>25. Afgeleid worden door het apocalyptisch geschreeuw van bruggers die al uit zijn en langs de examenzaal lopen</p>
 <p>26. Dorst hebben maar je flesje niet willen openen omdat er prik in zit en het misschien gaat ontploffen<br>27. Een appel eten maar het klokhuis nergens kunnen laten<br>28. Je bent bij de laatste vraag als een nieuwe groep de examenzaal mag verlaten, maar moet nu dus nog een kwartier op de nieuwe vertrekronde wachten<br>29. Na het examen nog drie uur moeten wachten voordat de blaadjes zijn opgehaald<br>30. Achteraf wanneer iedereen het gaat bespreken ontdekken dat je allemaal andere antwoorden had</p>
 <p>Weet jij nog meer struggles? Laat het weten in de reacties!</p>
-<p><em>De 17-jarige Lucas heeft een creatieve geest en houdt van schrijven, toneelspelen en tekenen. Hij zit in 6-vwo, maar van hard blokken moet hij niks hebben. Saaie schooldagen houdt hij manhaftig vol met het idee dat hij later een topberoep krijgt; hij weet alleen nog niet wat. </em><em><a href="https://original.sevendays.nl/users/lucas-versteeg">Lees meer blogs van Lucas.</a></em></p>  
+<p><em>De 17-jarige Lucas heeft een creatieve geest en houdt van schrijven, toneelspelen en tekenen. Hij zit in 6-vwo, maar van hard blokken moet hij niks hebben. Saaie schooldagen houdt hij manhaftig vol met het idee dat hij later een topberoep krijgt; hij weet alleen nog niet wat. </em><em><a href="https://7dagen.netlify.app/users/lucas-versteeg">Lees meer blogs van Lucas.</a></em></p>  

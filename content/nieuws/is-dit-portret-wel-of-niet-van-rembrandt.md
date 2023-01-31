@@ -1,5 +1,5 @@
 ---
-id: a1b7b37730224c0dae27b6f89c2fb103
+id: bbfcf05ece094ddfbc909911efdd5249
 type: nieuws
 layout: post
 title: "Is dit portret wel of niet van Rembrandt?"
@@ -21,7 +21,7 @@ Dit portret hangt in een Amerikaans museum. Iedereen dacht altijd dat het gemaak
         
   
   <div class="content">
-    <img alt="Rembrandt" title="Foto: EPA" height="3767" width="5696" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-406769069_0.jpg">  </div>
+    <img alt="Rembrandt" title="Foto: EPA" height="3767" width="5696" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-406769069_0.jpg">  </div>
 
   
 </div>
@@ -33,7 +33,7 @@ Dit portret hangt in een Amerikaans museum. Iedereen dacht altijd dat het gemaak
         
   
   <div class="content">
-    <img alt="Rembrandt" title="Foto: Twitter Allentown Art Museum" height="380" width="679" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/Rembrandt.png">  </div>
+    <img alt="Rembrandt" title="Foto: Twitter Allentown Art Museum" height="380" width="679" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/Rembrandt.png">  </div>
 
   
 </div>

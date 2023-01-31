@@ -1,5 +1,5 @@
 ---
-id: 062e27bda96e49f9bd95ee713e1596bd
+id: 1ab69ad0656147f2a051a41dceb12bec
 type: post
 layout: post
 title: "Salade met falafel"
@@ -18,7 +18,7 @@ En, hoe gaat het met je voornemens? Kauw je nog elke dag op een blaadje sla, of 
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/falafel2.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/falafel2.jpeg" alt="">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ En, hoe gaat het met je voornemens? Kauw je nog elke dag op een blaadje sla, of 
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/falafel3.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/falafel3.jpeg" alt="">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ En, hoe gaat het met je voornemens? Kauw je nog elke dag op een blaadje sla, of 
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/falafel4.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/falafel4.jpeg" alt="">  </div>
 
   
 </div>
@@ -45,7 +45,7 @@ En, hoe gaat het met je voornemens? Kauw je nog elke dag op een blaadje sla, of 
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/falafel5.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/falafel5.jpeg" alt="">  </div>
 
   
 </div>
@@ -54,7 +54,7 @@ En, hoe gaat het met je voornemens? Kauw je nog elke dag op een blaadje sla, of 
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/falafel6.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/falafel6.jpeg" alt="">  </div>
 
   
 </div>
@@ -63,7 +63,7 @@ En, hoe gaat het met je voornemens? Kauw je nog elke dag op een blaadje sla, of 
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/falafelstap3.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/falafelstap3.jpeg" alt="">  </div>
 
   
 </div>
@@ -72,7 +72,7 @@ En, hoe gaat het met je voornemens? Kauw je nog elke dag op een blaadje sla, of 
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/falafelstap4.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/falafelstap4.jpeg" alt="">  </div>
 
   
 </div>
@@ -81,7 +81,7 @@ En, hoe gaat het met je voornemens? Kauw je nog elke dag op een blaadje sla, of 
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/falafelstap5deel1.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/falafelstap5deel1.jpeg" alt="">  </div>
 
   
 </div>
@@ -90,7 +90,7 @@ En, hoe gaat het met je voornemens? Kauw je nog elke dag op een blaadje sla, of 
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/falafelstap5deel2.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/falafelstap5deel2.jpeg" alt="">  </div>
 
   
 </div>

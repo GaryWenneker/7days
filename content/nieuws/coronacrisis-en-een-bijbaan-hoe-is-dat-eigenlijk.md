@@ -1,5 +1,5 @@
 ---
-id: 61b5b732ab534cbcb53de81de96e9607
+id: aa3e96c9feea4985b006aa9b6bd60d74
 type: nieuws
 layout: post
 title: "Coronacrisis en een bijbaan: hoe is dat eigenlijk?"
@@ -22,7 +22,7 @@ Voor sommigen ligt een bijbaan even stil, maar dat geldt niet voor iedereen. Me
         
   
   <div class="content">
-    <img alt="Meike" title="Meike" height="3024" width="4032" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Meike%20supermarkt%202.jpg">  </div>
+    <img alt="Meike" title="Meike" height="3024" width="4032" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Meike%20supermarkt%202.jpg">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ Voor sommigen ligt een bijbaan even stil, maar dat geldt niet voor iedereen. Me
         
   
   <div class="content">
-    <img alt="Patricia" title="Patricia" height="791" width="1379" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/patricia%20action1.jpg">  </div>
+    <img alt="Patricia" title="Patricia" height="791" width="1379" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/patricia%20action1.jpg">  </div>
 
   
 </div>

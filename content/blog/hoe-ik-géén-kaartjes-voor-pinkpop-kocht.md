@@ -1,5 +1,5 @@
 ---
-id: 1e46c76ad85d4f7481a47ecc3365e0e2
+id: 6957aaaf52c848fd8fc18bf0a83f9cf9
 type: post
 layout: post
 title: "Hoe ik (géén) kaartjes voor Pinkpop kocht"
@@ -22,7 +22,7 @@ De zaterdagochtend is normaal gesproken hét moment om je nog eens om te draaien
         
   
   <div class="content">
-    <img alt="pinkpop tickets wachtrij" title="Foto: ANP" height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/pinkpop%202.png">  </div>
+    <img alt="pinkpop tickets wachtrij" title="Foto: ANP" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/pinkpop%202.png">  </div>
 
   
 </div>
@@ -37,7 +37,7 @@ De zaterdagochtend is normaal gesproken hét moment om je nog eens om te draaien
         
   
   <div class="content">
-    <img alt="pinkpop tickets wachtrij" title="Foto: ANP" height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/pinkpop%202_0.png">  </div>
+    <img alt="pinkpop tickets wachtrij" title="Foto: ANP" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/pinkpop%202_0.png">  </div>
 
   
 </div>
@@ -45,4 +45,4 @@ De zaterdagochtend is normaal gesproken hét moment om je nog eens om te draaien
 <p><strong>De tickets vliegen de deur uit</strong><br>Ondertussen is het 09:55 uur en sta ik volgens Ticketmaster 'bijna aan de start van de definitieve wachtrij'.  Maar als ik het goed begrijp kun je dat woordje 'definitief' wel weglaten, net als 'het begin' en 'wachtrij', want die blijken dus allemaal nog niet te bestaan.</p>
 <p>Om 10:00 uur begint de verkoop dan écht. Er komt er een melding in beeld waar mij wordt verteld zéker niet weg te klikken en dat het momenteel erg druk is. Deze melding verandert na een half uur in 'helaas, de weekendtickets zijn op. Het kan zijn dat iemand zijn tickets nog annuleert, dus hang in there!'. </p>
 <p>Ik klik weg. Helaas, ik heb de loterij verloren.</p>
-<p><em>Ook zo'n Pinkpop-fan als blogger Tim (16)? Dan is deze <a href="https://original.sevendays.nl/pinkpop">Pinkpop-quiz</a> vast een eitje voor je!</em></p>  
+<p><em>Ook zo'n Pinkpop-fan als blogger Tim (16)? Dan is deze <a href="https://7dagen.netlify.app/pinkpop">Pinkpop-quiz</a> vast een eitje voor je!</em></p>  

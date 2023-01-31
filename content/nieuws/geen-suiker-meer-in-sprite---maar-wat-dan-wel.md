@@ -1,5 +1,5 @@
 ---
-id: 2fed6fed789046ae9469e3d65da2ad40
+id: 9c59dbc6ea594aff94c4665a7b426845
 type: nieuws
 layout: post
 title: "Geen suiker meer in Sprite - maar wat dan wel?"
@@ -21,7 +21,7 @@ Sinds vandaag is er in Nederland alleen nog maar suikervrije Sprite te krijgen.
         
   
   <div class="content">
-    <img title="Foto: ANP" height="3456" width="5184" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-50130967.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="3456" width="5184" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-50130967.jpg" alt="">  </div>
 
   
 </div>
@@ -33,4 +33,4 @@ Sinds vandaag is er in Nederland alleen nog maar suikervrije Sprite te krijgen.
 <h3>Lekkerder? </h3>
 <p>Een andere vraag: wat doet zoetstof met de smaak van een frisdrank? Volgens Coca-Cola verandert die niet: er zijn meerdere testen geweest waaruit blijkt dat de Nederlander beide Sprite-varianten even lekker vindt. </p>
 <p>De producent liet overigens ook weten dat er geen plannen zijn om cola voortaan alleen maar suikervrij aan te bieden. Daar heb je nog altijd zelf de keuze: suiker, of zero suiker.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

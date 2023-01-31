@@ -1,5 +1,5 @@
 ---
-id: cbf13aa01299403d86da57a5c3b3c2cd
+id: 35e298850b5349ebb88c50368c34d2fb
 type: nieuws
 layout: post
 title: "Duizenden jonge vluchtelingen spoorloos"
@@ -18,7 +18,7 @@ Het ene heftige nieuws over jonge vluchtelingen volgt in sneltreinvaart het ande
         
   
   <div class="content">
-    <img title="ANP" height="567" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/bewerkt_1.jpg" alt="">  </div>
+    <img title="ANP" height="567" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/bewerkt_1.jpg" alt="">  </div>
 
   
 </div>

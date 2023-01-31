@@ -1,5 +1,5 @@
 ---
-id: aadf522b5fab4b90a10cf4e1bfb2e32d
+id: c0a446f901754f1cacef72a6cb4d9ac0
 type: nieuws
 layout: post
 title: "Goths in actie tegen discriminatie in China"
@@ -18,7 +18,7 @@ In China zijn goths in opstand gekomen nadat een goth-meisje in de metro van Gua
         
   
   <div class="content">
-    <img alt="Foto Weibo" title="Foto Weibo" height="782" width="440" style="font-size: 13.008px; width: 150px; height: 267px; float: right;" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/goths3%20foto%20Weibo.jpg">  </div>
+    <img alt="Foto Weibo" title="Foto Weibo" height="782" width="440" style="font-size: 13.008px; width: 150px; height: 267px; float: right;" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/goths3%20foto%20Weibo.jpg">  </div>
 
   
 </div>
@@ -30,7 +30,7 @@ In China zijn goths in opstand gekomen nadat een goth-meisje in de metro van Gua
         
   
   <div class="content">
-    <img alt="Foto Weibo" title="Foto Weibo" height="498" width="660" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Goths%20foto%20Weibo.png">  </div>
+    <img alt="Foto Weibo" title="Foto Weibo" height="498" width="660" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Goths%20foto%20Weibo.png">  </div>
 
   
 </div>
@@ -41,7 +41,7 @@ In China zijn goths in opstand gekomen nadat een goth-meisje in de metro van Gua
         
   
   <div class="content">
-    <img alt="Foto Weibo" title="Foto Weibo" height="542" width="660" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/Goths2%20foto%20Weibo.png">  </div>
+    <img alt="Foto Weibo" title="Foto Weibo" height="542" width="660" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/Goths2%20foto%20Weibo.png">  </div>
 
   
 </div>

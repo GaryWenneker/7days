@@ -1,5 +1,5 @@
 ---
-id: c09a48c6b3824b32b1268219fa9e26e4
+id: 591a02ee00ef4c3a901e5f9bfde7e9a1
 type: nieuws
 layout: post
 title: "Dit zijn de beste young adult-boeken van 2016 (volgens ons)"
@@ -18,7 +18,7 @@ Elke week lees je in 7Days over de nieuwste boeken, spellen, games en films. Nu 
         
   
   <div class="content">
-    <a href="/files/door-het-vuurpng"><img alt="Door het vuur van Jenny Valentine, beste boek 2016" title="Beeld Luitingh-Sijthoff" height="220" width="145" style="width: 145px; height: 220px; float: left; margin-left: 5px; margin-right: 5px;" class="media-element file-teaser" src="https://original.sevendays.nl/sites/default/files/styles/medium/public/door%20het%20vuur.png?itok=uzibp_JR"></a>  </div>
+    <a href="/files/door-het-vuurpng"><img alt="Door het vuur van Jenny Valentine, beste boek 2016" title="Beeld Luitingh-Sijthoff" height="220" width="145" style="width: 145px; height: 220px; float: left; margin-left: 5px; margin-right: 5px;" class="media-element file-teaser" src="https://7dagen.netlify.app/sites/default/files/styles/medium/public/door%20het%20vuur.png?itok=uzibp_JR"></a>  </div>
 
   
 </div>
@@ -31,7 +31,7 @@ Elke week lees je in 7Days over de nieuwste boeken, spellen, games en films. Nu 
         
   
   <div class="content">
-    <a href="/files/9789000344253downloadjpg-1"><img alt="Als geen ander van Una LaMarche, beste boek 2016" title="Beeld Van Goor" height="220" width="143" style="width: 143px; height: 220px; float: right; margin-left: 5px; margin-right: 5px;" class="media-element file-teaser" src="https://original.sevendays.nl/sites/default/files/styles/medium/public/9789000344253_download_1.jpg?itok=-0bVlxLw"></a>  </div>
+    <a href="/files/9789000344253downloadjpg-1"><img alt="Als geen ander van Una LaMarche, beste boek 2016" title="Beeld Van Goor" height="220" width="143" style="width: 143px; height: 220px; float: right; margin-left: 5px; margin-right: 5px;" class="media-element file-teaser" src="https://7dagen.netlify.app/sites/default/files/styles/medium/public/9789000344253_download_1.jpg?itok=-0bVlxLw"></a>  </div>
 
   
 </div>
@@ -44,7 +44,7 @@ Elke week lees je in 7Days over de nieuwste boeken, spellen, games en films. Nu 
         
   
   <div class="content">
-    <a href="/files/9789045119878jpg"><img alt="Steen papier schaar Ines Garland beste boek ban 2016" title="Beeld Querido" height="220" width="138" style="width: 138px; height: 220px; float: left; margin-left: 5px; margin-right: 5px;" class="media-element file-teaser" src="https://original.sevendays.nl/sites/default/files/styles/medium/public/9789045119878.jpg?itok=0rI_nRq7"></a>  </div>
+    <a href="/files/9789045119878jpg"><img alt="Steen papier schaar Ines Garland beste boek ban 2016" title="Beeld Querido" height="220" width="138" style="width: 138px; height: 220px; float: left; margin-left: 5px; margin-right: 5px;" class="media-element file-teaser" src="https://7dagen.netlify.app/sites/default/files/styles/medium/public/9789045119878.jpg?itok=0rI_nRq7"></a>  </div>
 
   
 </div>
@@ -52,8 +52,8 @@ Elke week lees je in 7Days over de nieuwste boeken, spellen, games en films. Nu 
 <p>Elk probleem kan simpel worden opgelost met een simpel spelletje steen, papier, schaar. Maar als Alma en Marito verliefd worden, blijken die verschillen niet meer te negeren. En zorgt het juist voor enorme eenzaamheid. Een prachtig boek dat al eerder in Argentinië en Duitsland werd uitgeroepen tot beste jeugdroman van het jaar en nu ook in het Nederlands is vertaald.</p>
 <p> </p>
 <div class="kader">
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p>Lees ook: <a href="https://original.sevendays.nl/lifestyle/dit-zijn-de-beste-films-van-2016-volgens-ons">Dit zijn de beste films van 2016 (volgens ons)</a></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p>Lees ook: <a href="https://7dagen.netlify.app/lifestyle/dit-zijn-de-beste-films-van-2016-volgens-ons">Dit zijn de beste films van 2016 (volgens ons)</a></p>
 </div>
-<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp" style="color: rgb(34, 179, 224); box-sizing: inherit; transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;"><em style="box-sizing: inherit;">gratis WhatsApp-dienst</em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;">, download onze </em><a href="https://original.sevendays.nl/app" style="color: rgb(34, 179, 224); box-sizing: inherit; transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;"><em style="box-sizing: inherit;">gratis app</em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;"> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="color: rgb(34, 179, 224); box-sizing: inherit; transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;">op de krant!</em></p>
+<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp" style="color: rgb(34, 179, 224); box-sizing: inherit; transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;"><em style="box-sizing: inherit;">gratis WhatsApp-dienst</em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;">, download onze </em><a href="https://7dagen.netlify.app/app" style="color: rgb(34, 179, 224); box-sizing: inherit; transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;"><em style="box-sizing: inherit;">gratis app</em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;"> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="color: rgb(34, 179, 224); box-sizing: inherit; transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;">op de krant!</em></p>
   

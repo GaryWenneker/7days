@@ -1,5 +1,5 @@
 ---
-id: b8b8cc43de3a4bfba1e1fc83c4f4bda6
+id: 0552054021614935993bc375b5cee8dd
 type: nieuws
 layout: post
 title: "Feestje voor wereldverbeteraars"
@@ -19,7 +19,7 @@ Voor dit feest kun je geen kaartje kopen, dat moet je verdienen. Door iets goeds
         
   
   <div class="content">
-    <img alt="Zohra" title="Foto: Kidsweek" height="3456" width="5184" style="font-size: 13.008px; width: 200px; height: 133px; float: right;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Zohra4.JPG">  </div>
+    <img alt="Zohra" title="Foto: Kidsweek" height="3456" width="5184" style="font-size: 13.008px; width: 200px; height: 133px; float: right;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Zohra4.JPG">  </div>
 
   
 </div>
@@ -35,7 +35,7 @@ Voor dit feest kun je geen kaartje kopen, dat moet je verdienen. Door iets goeds
         
   
   <div class="content">
-    <img alt="Teske de Schepper" title="Foto: 7Days" height="3456" width="5184" style="width: 900px; height: 600px; float: left;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Teske%20aan%20het%20optreden.JPG">  </div>
+    <img alt="Teske de Schepper" title="Foto: 7Days" height="3456" width="5184" style="width: 900px; height: 600px; float: left;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Teske%20aan%20het%20optreden.JPG">  </div>
 
   
 </div>
@@ -64,9 +64,9 @@ Voor dit feest kun je geen kaartje kopen, dat moet je verdienen. Door iets goeds
         
   
   <div class="content">
-    <img alt="Ronnie Flex" title="Foto: 7Days" height="3456" width="5184" style="font-size: 13.008px; width: 900px; height: 600px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Ronnie2_0.JPG">  </div>
+    <img alt="Ronnie Flex" title="Foto: 7Days" height="3456" width="5184" style="font-size: 13.008px; width: 900px; height: 600px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Ronnie2_0.JPG">  </div>
 
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant 7Days!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant 7Days!</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: 92892b5fa4f4418bba340f1f35122fdb
+id: 0c5f386b26c047929f44138117ba2dfa
 type: nieuws
 layout: post
 title: "Benefietconcert Ariana Grande zorgt voor kippenvel"
@@ -20,7 +20,7 @@ Tienduizenden mensen waren zondagavond aanwezig op het benefietconcert One Love 
         
   
   <div class="content">
-    <img alt="aanslag Manchester" title="Foto: ANP" height="2213" width="3400" style="width: 900px; height: 586px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-51745224.jpg">  </div>
+    <img alt="aanslag Manchester" title="Foto: ANP" height="2213" width="3400" style="width: 900px; height: 586px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-51745224.jpg">  </div>
 
   
 </div>
@@ -32,7 +32,7 @@ Tienduizenden mensen waren zondagavond aanwezig op het benefietconcert One Love 
         
   
   <div class="content">
-    <img alt="aanslag Manchester" title="Foto: ANP" height="2095" width="3500" style="width: 900px; height: 539px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-51746612.jpg">  </div>
+    <img alt="aanslag Manchester" title="Foto: ANP" height="2095" width="3500" style="width: 900px; height: 539px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-51746612.jpg">  </div>
 
   
 </div>
@@ -45,9 +45,9 @@ Tienduizenden mensen waren zondagavond aanwezig op het benefietconcert One Love 
         
   
   <div class="content">
-    <img alt="aanslag Manchester" title="Foto: ANP" height="2761" width="3824" style="width: 900px; height: 650px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-51744685.jpg">  </div>
+    <img alt="aanslag Manchester" title="Foto: ANP" height="2761" width="3824" style="width: 900px; height: 650px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-51744685.jpg">  </div>
 
   
 </div>
 </div><br><em>Bezoekers van het benefietconcert betuigen hun steun</em>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op 7Days!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op 7Days!</em></p>  

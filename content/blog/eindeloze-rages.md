@@ -1,5 +1,5 @@
 ---
-id: 43190a13c8fd4ed8a854cd61b858c32e
+id: 9a8148bfe94c48b291febc3d4db617c3
 type: post
 layout: post
 title: "Eindeloze rages"
@@ -21,4 +21,4 @@ Jij hebt er vast ook wel één, een fidget spinner. Spotgoedkoop en vermaak voor
 <h3>​BÈÈÈÈÈÈH</h3>
 <p>Het is simpel ‘schapengedrag’. Je wil bij de kudde horen en niet het zwarte schaap zijn. Het gedrag is eigenlijk heel normaal en menselijk, want mensen zijn weer gezelschapsdieren en willen geen loners zijn.</p>
 <p>Welke rage staat nu voor de deur? Te wachten op grijpgrage kindertjes? Wordt het een waardeloos stuk speelgoed? Een baksteen? Of een nieuwe challenge zoals The Floor is lava? Je zal het wel weten over een weekje. Voor nu kan je nog lekker blijven draaien met je fidget spinner terwijl je de oeroude <em>bottleflip challenge</em> aan het doen bent.</p>
-<p><em>Thijs is een 16-jarige pannenkoekenfan en een superscout met tien(!) jaar ervaring. Hij sport drie keer per week en knutselt graag, op zijn manier: hij maakt bijvoorbeeld een powerbank in een Fisherman's Friends-blikje, een luchtpistool of een brandende laser. Je kunt deze jongen dus maar beter te vriend houden... </em><a href="https://original.sevendays.nl/users/thijs-van-reeuwijk"><em>Lees hier meer van zijn blogs</em></a><em>.</em></p>  
+<p><em>Thijs is een 16-jarige pannenkoekenfan en een superscout met tien(!) jaar ervaring. Hij sport drie keer per week en knutselt graag, op zijn manier: hij maakt bijvoorbeeld een powerbank in een Fisherman's Friends-blikje, een luchtpistool of een brandende laser. Je kunt deze jongen dus maar beter te vriend houden... </em><a href="https://7dagen.netlify.app/users/thijs-van-reeuwijk"><em>Lees hier meer van zijn blogs</em></a><em>.</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: 3247a8adc62a44daad729732be11d6ab
+id: c82ce95a338141f7b11bac3342b8c17b
 type: post
 layout: post
 title: "7 tips voor het beste opstel"

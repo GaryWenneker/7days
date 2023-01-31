@@ -1,5 +1,5 @@
 ---
-id: ebfb98f024e54d1781ee689e112f571d
+id: 8b8890b6585847be850fca1e6cb7099e
 type: nieuws
 layout: post
 title: "Engelse woorden in het Nederlands: no problem!"
@@ -23,4 +23,4 @@ Een appje sturen naar je BFF, een serie streamen of even online shoppen in de s
 <h3>Toekomst</h3>
 <p>Hoe de toekomst van onze taal er echt uitziet, moeten we afwachten. Over twee jaar komt er een <em>update</em> van het onderzoek. Tot die tijd is het dus niet zo erg om af en toe naar het Engels te <em>switchen</em>.</p>
 <p><em>Wat is jouw favoriete Engelse woord? Laat het weten in een reactie hieronder.</em></p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

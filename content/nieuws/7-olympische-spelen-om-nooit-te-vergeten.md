@@ -1,5 +1,5 @@
 ---
-id: 0f1c87bad51c4d1a9f7d0a410ddcbd3a
+id: 8f8545e5913f42c9a7c1621255765522
 type: nieuws
 layout: post
 title: "7 Olympische Spelen om nooit te vergeten"
@@ -20,7 +20,7 @@ Vrijdag beginnen in Rio de Janeiro de 28e Olympische Zomerspelen. Duizenden sp
         
   
   <div class="content">
-    <img height="675" width="1210" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/olympia2.jpg" alt="">  </div>
+    <img height="675" width="1210" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/olympia2.jpg" alt="">  </div>
 
   
 </div>
@@ -32,23 +32,23 @@ Vrijdag beginnen in Rio de Janeiro de 28e Olympische Zomerspelen. Duizenden sp
         
   
   <div class="content">
-    <img height="617" width="1090" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/olympics.jpg" alt="">  </div>
+    <img height="617" width="1090" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/olympics.jpg" alt="">  </div>
 
   
 </div>
 </div><em>Bij de Spelen</em> <i>in 1904 ging het er nog niet zo professioneel aan toe als nu...</i>
 <p><strong>1928: de Nederlandse Spelen</strong><br>Na de mislukte edities begin twintigste eeuw werden de Spelen echt een prestigeproject. Nederland wilde dan ook heel graag gastland zijn en in 1928 kwam die droom uit. Speciaal voor de Spelen werd het Olympisch Stadion in Amsterdam uit de grond gestampt. Bij deze Nederlandse editie werd voor het eerst het Olympisch vuur gebruikt: een traditie die we nog altijd kennen.</p>
-<p><strong>1936: de nazi-Spelen</strong><br>Het kwam Adolf Hitler goed uit dat Duitsland in 1931 de Spelen toegewezen kreeg. Zo kon de dictator het naziregime op de kaart zetten. 'Kijk eens hoe groots nazi-Duitsland is!', was de boodschap tijdens het toernooi vijf jaar later. De nazi-politiek zorgde wel voor veel ophef: landen als de Verenigde Staten en Nederland dreigden het evenement te boycotten als minderheden, zoals joodse en zwarte atleten, niet welkom waren. Tegen Hitlers zin in was het de zwarte Amerikaanse atleet Jesse Owens die met vier gouden medaillles de held van de Berlijnse Spelen werd. <a href="https://original.sevendays.nl/recensies/film/race-geen-gewone-sportfilm" target="_blank">Over deze atleet is onlangs een film gemaakt.</a></p>
+<p><strong>1936: de nazi-Spelen</strong><br>Het kwam Adolf Hitler goed uit dat Duitsland in 1931 de Spelen toegewezen kreeg. Zo kon de dictator het naziregime op de kaart zetten. 'Kijk eens hoe groots nazi-Duitsland is!', was de boodschap tijdens het toernooi vijf jaar later. De nazi-politiek zorgde wel voor veel ophef: landen als de Verenigde Staten en Nederland dreigden het evenement te boycotten als minderheden, zoals joodse en zwarte atleten, niet welkom waren. Tegen Hitlers zin in was het de zwarte Amerikaanse atleet Jesse Owens die met vier gouden medaillles de held van de Berlijnse Spelen werd. <a href="https://7dagen.netlify.app/recensies/film/race-geen-gewone-sportfilm" target="_blank">Over deze atleet is onlangs een film gemaakt.</a></p>
 <p><div class="media media-element-container media-default"><div id="file-20802" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img height="551" width="800" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Bundesarchiv_B_145_Bild-P017073%2C_Berlin%2C_Olympische_Spiele_im_Olympiastadion.jpg" alt="">  </div>
+    <img height="551" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Bundesarchiv_B_145_Bild-P017073%2C_Berlin%2C_Olympische_Spiele_im_Olympiastadion.jpg" alt="">  </div>
 
   
 </div>
 </div><em>De nazi-vlag (rechts) en de Olympische vlag wapperden in 1936 naast elkaar</em>
 <p><strong>1980: de geboycotte Spelen</strong><br>Politiek gerommel zorgde vaker voor problemen op de 'vredelievende' Spelen. Zo besloten de Verenigde Staten in 1980 om niet mee te doen aan de Spelen in Moskou, Rusland. De Sovjet-Unie, zoals het land toen heette, was namelijk Afghanistan binnengevallen. De Amerikanen waren daar zó boos over, dat ze de Spelen boycotten. Veel andere landen, zoals Canada en Japan, volgden dit voorbeeld. Zeker 62 landen kwamen niet opdagen. De Russen vonden het niet erg: die veroverden op die manier extra veel medailles.</p>
 <p><strong>1996: de niet-feestelijke Spelen</strong><br>Met 197 deelnemende landen waren de Spelen in het Amerikaanse Atlanta groter dan ooit. Het moest een groot feest worden: het was honderd jaar na de eerste moderne Spelen. Feestelijk werd het niet. Zo was het verkeer in de stad één grote puinhoop. Het dieptepunt was een bomaanslag in het Centennial Olympic Park tijdens de Spelen: daarbij vielen twee doden en ruim honderd gewonden. </p>
-<p><em>De 28e editie van de Olympische Spelen vinden van 5 augustus tot 21 augustus plaats in Rio de Janeiro. In ons <a href="https://original.sevendays.nl/tag/dossier-olympische-spelen">Dossier Olympische Spelen</a> lees je alles wat je moet weten.</em></p>  
+<p><em>De 28e editie van de Olympische Spelen vinden van 5 augustus tot 21 augustus plaats in Rio de Janeiro. In ons <a href="https://7dagen.netlify.app/tag/dossier-olympische-spelen">Dossier Olympische Spelen</a> lees je alles wat je moet weten.</em></p>  

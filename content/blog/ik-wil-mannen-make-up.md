@@ -1,5 +1,5 @@
 ---
-id: 4b6f7b2399f44c55b6aef83ce14935c8
+id: afedc1dbf03145c398589ac8b0b0588d
 type: post
 layout: post
 title: "Ik wil mannen-make-up"
@@ -18,4 +18,4 @@ Concealer, poedertjes, foundation… Meiden verstoppen al hun oneffenheden vaak 
 <p><strong>Oempa Loempa vol foundation</strong><br>Natuurlijk ziet niet iedereen er goed uit met make-up. Ik zie vaak genoeg te lang gezonnebankte meisjes rondlopen als Oempa Loempa’s waar de lagen zelfbruiner vanaf druipen. Zo wil ik er natuurlijk niet uitzien. Make-up hoort juist alles recht te trekken. Maak jezelf dan niet nóg lelijker! Deze figuren zouden eerst een zo-moet-het-níet-cursus moeten krijgen van een stukadoor voordat ze zich dichtplamuren met foundation uit een tube. Maar gelukkig gebruiken de meeste meisjes make-up wel op de juiste manier: om de mooie delen van hun gezicht te benadrukken, als camouflage en om er fitter en wat ouder uit te zien.</p>
 <p>Waarom zouden jongens dat niet mogen? Ik wil er ook wel eens goed uitzien! Helaas produceert de cosmetische industrie vrij weinig make-up voor mannen, waardoor ik voor niks naar het Kruidvat ga in de hoop mijn frustratie over mijn gezicht op te lossen met mannenfoundation.</p>
 <p><strong>Geen metroseksueel</strong><br>Ik vind mezelf echt geen metroseksueel: een man die volgens Wikipedia, in tegenstelling tot ‘traditioneel ingestelde mannen’ geïnteresseerd is in persoonlijke verzorging, mode en trends. Ik zou alleen graag wat make-up tegen een slechte huid willen. Maar waarschijnlijk ben ik de enige…</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/niek-de-bruijn">Niek</a> (18)? Laatst schreef hij ook al <a href="https://original.sevendays.nl/blog/lijden-door-het-scheiden">Lijden door het scheiden</a> en <a href="https://original.sevendays.nl/blog/een-babyface-geen-feest">Een babyface is geen feest</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/niek-de-bruijn">Niek</a> (18)? Laatst schreef hij ook al <a href="https://7dagen.netlify.app/blog/lijden-door-het-scheiden">Lijden door het scheiden</a> en <a href="https://7dagen.netlify.app/blog/een-babyface-geen-feest">Een babyface is geen feest</a>.</em></p>  

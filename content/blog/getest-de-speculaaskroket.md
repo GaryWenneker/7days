@@ -1,5 +1,5 @@
 ---
-id: be8fccec2e384add9139a33175f62b0d
+id: a283e1503efd49ef97abe36b68887407
 type: post
 layout: post
 title: "Getest: de speculaaskroket"
@@ -18,7 +18,7 @@ Als groot sinterklaasliefhebber maakte mijn hart een sprongetje toen ik hoorde d
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/speculaas2.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/speculaas2.jpeg" alt="">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ Als groot sinterklaasliefhebber maakte mijn hart een sprongetje toen ik hoorde d
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/speculaas3.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/speculaas3.jpeg" alt="">  </div>
 
   
 </div>
@@ -37,7 +37,7 @@ Als groot sinterklaasliefhebber maakte mijn hart een sprongetje toen ik hoorde d
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/speculaas4_0.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/speculaas4_0.jpeg" alt="">  </div>
 
   
 </div>

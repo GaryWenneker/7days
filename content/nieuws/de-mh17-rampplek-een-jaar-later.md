@@ -1,5 +1,5 @@
 ---
-id: b42430de2d664b9d8e371ca8c8c4c54f
+id: a6e6fa903d284253b5064ad08e6aa1b9
 type: nieuws
 layout: post
 title: "De MH17-rampplek een jaar later"
@@ -18,7 +18,7 @@ Precies een jaar geleden stortte vlucht MH17 neer in Oost-Oekraïne. Alle 298 i
         
   
   <div class="content">
-    <img title="Foto: ANP" height="3150" width="4724" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-33488913.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="3150" width="4724" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-33488913.jpg" alt="">  </div>
 
   
 </div>
@@ -28,7 +28,7 @@ Precies een jaar geleden stortte vlucht MH17 neer in Oost-Oekraïne. Alle 298 i
         
   
   <div class="content">
-    <img title="Foto: ANP" height="3149" width="4724" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-33499868.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="3149" width="4724" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-33499868.jpg" alt="">  </div>
 
   
 </div>
@@ -38,7 +38,7 @@ Precies een jaar geleden stortte vlucht MH17 neer in Oost-Oekraïne. Alle 298 i
         
   
   <div class="content">
-    <img title="Foto: ANP" height="3150" width="4724" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-33499883.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="3150" width="4724" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-33499883.jpg" alt="">  </div>
 
   
 </div>
@@ -48,7 +48,7 @@ Precies een jaar geleden stortte vlucht MH17 neer in Oost-Oekraïne. Alle 298 i
         
   
   <div class="content">
-    <img title="Foto: ANP" height="3150" width="4724" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-33488607.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="3150" width="4724" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-33488607.jpg" alt="">  </div>
 
   
 </div>
@@ -58,7 +58,7 @@ Precies een jaar geleden stortte vlucht MH17 neer in Oost-Oekraïne. Alle 298 i
         
   
   <div class="content">
-    <img title="Foto: ANP" height="3150" width="4724" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-33498956_0.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="3150" width="4724" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-33498956_0.jpg" alt="">  </div>
 
   
 </div>
@@ -68,7 +68,7 @@ Precies een jaar geleden stortte vlucht MH17 neer in Oost-Oekraïne. Alle 298 i
         
   
   <div class="content">
-    <img title="Foto: ANP" height="3840" width="5760" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-33488633.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="3840" width="5760" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-33488633.jpg" alt="">  </div>
 
   
 </div>
@@ -78,7 +78,7 @@ Precies een jaar geleden stortte vlucht MH17 neer in Oost-Oekraïne. Alle 298 i
         
   
   <div class="content">
-    <img title="Foto: ANP" height="3150" width="4724" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-33499858.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="3150" width="4724" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-33499858.jpg" alt="">  </div>
 
   
 </div>
@@ -88,7 +88,7 @@ Precies een jaar geleden stortte vlucht MH17 neer in Oost-Oekraïne. Alle 298 i
         
   
   <div class="content">
-    <img title="Foto: ANP" height="3150" width="4724" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-33499843.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="3150" width="4724" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-33499843.jpg" alt="">  </div>
 
   
 </div>

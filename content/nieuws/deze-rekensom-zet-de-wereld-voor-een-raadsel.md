@@ -1,5 +1,5 @@
 ---
-id: 6fbf4b335fe7492db7faa6ffcd61ac98
+id: 49896366a80448cc815ab6d209a4b2ca
 type: nieuws
 layout: post
 title: "Deze rekensom zet de wereld voor een raadsel"
@@ -21,11 +21,11 @@ De internationale ontwikkelingsorganisatie Oxfam kwam maandag met een schokkende
         
   
   <div class="content">
-    <img alt="De kloof tussen arm en rijk wordt steeds groter" title="Beeld Oxfam" height="523" width="777" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Kloof%20arm%20rijk%20Oxfam.JPG">  </div>
+    <img alt="De kloof tussen arm en rijk wordt steeds groter" title="Beeld Oxfam" height="523" width="777" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Kloof%20arm%20rijk%20Oxfam.JPG">  </div>
 
   
 </div>
 </div><br><strong>De oplossing?</strong><br>Een belangrijke oorzaak voor de groeiende kloof tussen arm en rijk is <a href="http://www.oxfamnovib.nl/62-rijksten-bezitten-evenveel-als-armste-helft-wereldbevolking.html" target="_blank">volgens Farah Karimi</a>, directeur van het Nederlandse Oxfam Novib, ‘het perverse belastinggedrag van extreem rijke mensen en internationale bedrijven’.<br><br>Geschat wordt dat bijna zeven biljoen euro aan privévermogens is weggesluisd naar belastingparadijzen, waar mensen bijna geen belasting hoeven te betalen. Zo houden ze lekker veel geld over.
 <iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="248" src="//giphy.com/embed/HgRCL6irM8unm" width="560"></iframe>
 <p>Neem het continent Afrika. Daar wordt bijna een derde van het geld van de rijke Afrikanen op deze wijze achtergehouden. Daarmee lopen Afrikaanse landen zo’n 12,8 miljard euro belastinggeld per jaar mis. Geld dat genoeg zou zijn om voor de gezondheidszorg van vier miljoen kinderen te betalen en om alle kinderen in Afrika te onderwijzen.<br><br>Karimi en haar collega’s roepen regeringsleiders dan ook op om een einde te maken aan belastingparadijzen. Deze oproep komt niet op een toevallig moment. Sinds woensdag vergaderen regeringsleiders en andere invloedrijke lui over de toekomst van de wereldeconomie in (het voormalige belastingparadijs) Zwitserland.</p>
-<p><em>Altijd op de hoogte blijven van het nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">app</a> of neem een <a href="https://original.sevendays.nl/abonnement">proefabonnement</a> op de krant.</em></p>  
+<p><em>Altijd op de hoogte blijven van het nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">app</a> of neem een <a href="https://7dagen.netlify.app/abonnement">proefabonnement</a> op de krant.</em></p>  

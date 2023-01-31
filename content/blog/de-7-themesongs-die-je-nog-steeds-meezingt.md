@@ -1,5 +1,5 @@
 ---
-id: 74dc2792738f4917becca5376dc051c7
+id: fafb009135d5403d9a7cf5534d62ff37
 type: post
 layout: post
 title: "De 7 themesongs die je nog steeds meezingt"
@@ -121,4 +121,4 @@ Spreek ik namens iedereen als ik zeg dat het leven vroeger rondom onze lieveling
   
 </div>
 </div>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/laura-schouten">Laura</a> (18)? Laatst schreef ze ook al <a href="https://original.sevendays.nl/blog/geen-tijd-om-te-lezen">Geen tijd om te lezen</a> en <a href="https://original.sevendays.nl/blog/de-5-dingen-die-je-nog-niet-wist-van-3fm">De 5 dingen die je nog niet wist van 3FM</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/laura-schouten">Laura</a> (18)? Laatst schreef ze ook al <a href="https://7dagen.netlify.app/blog/geen-tijd-om-te-lezen">Geen tijd om te lezen</a> en <a href="https://7dagen.netlify.app/blog/de-5-dingen-die-je-nog-niet-wist-van-3fm">De 5 dingen die je nog niet wist van 3FM</a>.</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: 56c60b45d1ef4106a36a5bb6d1196328
+id: 2a411785d359486f982cf91855644a42
 type: post
 layout: post
 title: "5 redenen om een hond te kopen "
@@ -22,7 +22,7 @@ Zondag 26 mei is niet zomaar een dag. Het is namelijk de Dag van de Hond waarin 
         
   
   <div class="content">
-    <img height="903" width="1605" style="width: 700px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/DSC_0873.JPG" alt="">  </div>
+    <img height="903" width="1605" style="width: 700px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/DSC_0873.JPG" alt="">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ Zondag 26 mei is niet zomaar een dag. Het is namelijk de Dag van de Hond waarin 
         
   
   <div class="content">
-    <img height="720" width="960" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/10616484_519913914821275_659474397549397199_n.jpg" alt="">  </div>
+    <img height="720" width="960" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/10616484_519913914821275_659474397549397199_n.jpg" alt="">  </div>
 
   
 </div>

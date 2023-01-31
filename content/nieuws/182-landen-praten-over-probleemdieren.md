@@ -1,5 +1,5 @@
 ---
-id: 07d7703db2ea46a5b395571dd425904c
+id: 901fccf7d25d45d29df082455209435f
 type: nieuws
 layout: post
 title: "182 landen praten over probleemdieren"
@@ -19,7 +19,7 @@ Het zijn belangrijke dagen voor dierenexperts. Een club van 182 landen zit druk 
         
   
   <div class="content">
-    <img height="478" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/iStock_99739751_MEDIUM.jpg" alt="">  </div>
+    <img height="478" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/iStock_99739751_MEDIUM.jpg" alt="">  </div>
 
   
 </div>
@@ -31,10 +31,10 @@ Het zijn belangrijke dagen voor dierenexperts. Een club van 182 landen zit druk 
         
   
   <div class="content">
-    <img title="Beeld: AFP" height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/EPA-40748339.jpg" alt="">  </div>
+    <img title="Beeld: AFP" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/EPA-40748339.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <p>Of dat gebeurt weten we woensdag. Tot zo lang duurt de grote top, die trouwens ook over bedreigde planten en bomen gaat.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

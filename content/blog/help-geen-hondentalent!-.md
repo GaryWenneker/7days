@@ -1,5 +1,5 @@
 ---
-id: 3326b1a937ae4eb5bf4206e5a6812777
+id: 7f34f9a5c0f3487cb0614ec1cf89627b
 type: post
 layout: post
 title: "Help, (g)een hondentalent! "
@@ -52,4 +52,4 @@ Ivoor zoeken, zelf naar de dierenwinkel lopen en je eigen voer kopen of fietsen 
 <p>Chef loopt de hele dag een beetje door het huis en de tuin te slenteren. Hij eet af en toe een paar brokken, een hoopje gras of een dikke spin. Verder houdt hij van tennisballen en stokken. Hij brengt ze niet terug wanneer ik ze weggooi, maar houdt ze liever voor zichzelf. Om ze vervolgens onder de bank te duwen en ze daarna niet meer te kunnen pakken.</p>
 <h3><strong>Wondertherapie</strong></h3>
 <p>Mijn trouwe viervoeter heeft eigenlijk geen echt talent, denk ik bij mezelf. Licht balend kijk ik naar het gouden beestje voor mij, en Chef maakt een gek gromgeluidje. Ik schiet in de lach. Natuurlijk. Chef heeft wél talent. Hij maakt mij aan het lachen. <a href="http://wibnet.nl/mens/gezondheid/7-goede-redenen-om-een-hond-te-nemen" target="_blank">Uit onderzoek blijkt ook nog eens dat hondenbezitters gelukkiger, gezonder en socialer zijn. </a>Applausje voor Chef dus, hij is wel getalenteerd. </p>
-<p><em>De 17-jarige Lucas heeft een creatieve geest en houdt van schrijven, toneelspelen en tekenen. Hij zit in 6-vwo, maar van hard blokken moet hij niks hebben. Saaie schooldagen houdt hij manhaftig vol met het idee dat hij later een topberoep krijgt; hij weet alleen nog niet wat. </em><a href="https://original.sevendays.nl/users/lucas-versteeg"><em>Lees meer blogs van Lucas.</em></a></p>  
+<p><em>De 17-jarige Lucas heeft een creatieve geest en houdt van schrijven, toneelspelen en tekenen. Hij zit in 6-vwo, maar van hard blokken moet hij niks hebben. Saaie schooldagen houdt hij manhaftig vol met het idee dat hij later een topberoep krijgt; hij weet alleen nog niet wat. </em><a href="https://7dagen.netlify.app/users/lucas-versteeg"><em>Lees meer blogs van Lucas.</em></a></p>  

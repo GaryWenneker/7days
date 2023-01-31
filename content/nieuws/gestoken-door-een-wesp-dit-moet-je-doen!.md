@@ -1,5 +1,5 @@
 ---
-id: 8dc4437a8f5b4c0eba321c8a187fe38d
+id: a95deb9d42004e9c88c9eda011e08183
 type: nieuws
 layout: post
 title: "Gestoken door een wesp? Dit moet je doen!"

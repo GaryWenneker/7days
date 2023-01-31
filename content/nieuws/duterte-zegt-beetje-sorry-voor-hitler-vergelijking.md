@@ -1,5 +1,5 @@
 ---
-id: 56f54672d37b4e5d99b98731fa2df609
+id: 8148a90033ba4509b7951eefa055ea3e
 type: nieuws
 layout: post
 title: "Duterte zegt beetje sorry voor Hitler-vergelijking"
@@ -20,7 +20,7 @@ De Filipijnse president Rodrigo Duterte houdt van pittige uitspraken en duidelij
         
   
   <div class="content">
-    <img height="373" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-47724257.jpg" alt="">  </div>
+    <img height="373" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-47724257.jpg" alt="">  </div>
 
   
 </div>
@@ -32,9 +32,9 @@ De Filipijnse president Rodrigo Duterte houdt van pittige uitspraken en duidelij
         
   
   <div class="content">
-    <img height="373" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-47752606.jpg" alt="">  </div>
+    <img height="373" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-47752606.jpg" alt="">  </div>
 
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

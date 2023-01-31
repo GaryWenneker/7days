@@ -1,5 +1,5 @@
 ---
-id: 254fc358dbbc43d6beb91327a11823fb
+id: 863ae1b952674de6b36865150cde0ab0
 type: post
 layout: post
 title: "7 dingen die je overdag kunt doen om 's nachts beter te slapen"
@@ -28,4 +28,4 @@ Ben je net als ik professioneel plafondstarer? Zorgen die kopjes goede-nachtrust
 <h3>7. Stop op tijd met internetten</h3>
 <p>Hoe jammer het ook is, het is waar. Het blauwachtige licht dat van de tv, computer en je telefoon afkomt heeft een negatief effect op de aanmaak van melatonine, het stofje dat ervoor zorgt dat je slaperig wordt. Het is dus verstandig om een uur voor het slapen je telefoon weg te leggen en een ouderwets boek te gaan lezen. Dan hoef je ook niet de avond voor de boektoets wanhopig naar een boekverslag op<em> Scholieren.com</em> te zoeken, een win/win situatie dus.</p>
 <p><a href="https://www.flickr.com/photos/nicholasjon/">Beeld: Flickr/nicholasjon</a></p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/marloes-ijlst">Marloes</a> (16)? Laatst schreef ze ook <a href="https://original.sevendays.nl/blog/waarom-ik-t%C3%B3ch-voice-kijk">Waarom ik tóch The Voice kijk</a> en <a href="https://original.sevendays.nl/blog/de-7-beste-memes-van-afgelopen-jaar">De 7 beste memes van afgelopen jaar</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/marloes-ijlst">Marloes</a> (16)? Laatst schreef ze ook <a href="https://7dagen.netlify.app/blog/waarom-ik-t%C3%B3ch-voice-kijk">Waarom ik tóch The Voice kijk</a> en <a href="https://7dagen.netlify.app/blog/de-7-beste-memes-van-afgelopen-jaar">De 7 beste memes van afgelopen jaar</a>.</em></p>  

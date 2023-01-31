@@ -1,5 +1,5 @@
 ---
-id: c9fac21a2ef845898e652e72309b2c03
+id: 0a52ea6a24c54cbe84fffc1e5537e9b6
 type: nieuws
 layout: post
 title: "Australische Instagram schakelt likes uit"

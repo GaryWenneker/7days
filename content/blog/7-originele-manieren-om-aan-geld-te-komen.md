@@ -1,5 +1,5 @@
 ---
-id: 55a50354c3994b4db68842e7baaff994
+id: a3b29a0fdc204bb9b21aa135f092901f
 type: post
 layout: post
 title: "7 originele manieren om aan geld te komen"
@@ -26,6 +26,6 @@ Het is alweer half februari, dus de meeste goede voornemens hebben we weer diep
 <h3><strong>6. Maak een raar YouTube-kanaal met reclames</strong></h3>
 <p>YouTuben kan iedereen, het is gewoon een kwestie van creativiteit, geluk en doorzettingsvermogen. Maak een heel raar kanaal dat meteen opvalt en zorg voor een hoop abonnees. Als je eenmaal een beetje bekend bent, overlaad je kanaal dan met reclames. Het geld zal binnenstromen, de abonnees alleen wellicht niet meer…</p>
 <h3><strong>7. Maak en verkoop moderne kunst</strong></h3>
-<p>Kunst is zo’n breed begrip. Kunst is een kwestie van smaak, maar eigenlijk is alles kunst. Moderne kunst is ook bijzonder. <a href="https://original.sevendays.nl/blog/quiz-dit-kunst-een-kindertekening">Schilderijen die lijken op kindertekeningen</a> worden verkocht voor duizenden euro’s. Dat kun jij ook! Maak wat gekke schilderijen, verzin een abstract verhaal en zet ze op Marktplaats! </p>
-<p><em>Meer blogs lezen van Lucas (17)? Lees ook <a href="https://original.sevendays.nl/blog/wij-hopeloze-scholieren-zijn-gedwongen-verslaafd">Wij hopeloze scholieren zijn gedwongen verslaafd</a> of <a href="https://original.sevendays.nl/blog/google-n%C3%B3%C3%B3it-je-pijnklachten">Google nóóit je pijnklachten!</a></em></p>
+<p>Kunst is zo’n breed begrip. Kunst is een kwestie van smaak, maar eigenlijk is alles kunst. Moderne kunst is ook bijzonder. <a href="https://7dagen.netlify.app/blog/quiz-dit-kunst-een-kindertekening">Schilderijen die lijken op kindertekeningen</a> worden verkocht voor duizenden euro’s. Dat kun jij ook! Maak wat gekke schilderijen, verzin een abstract verhaal en zet ze op Marktplaats! </p>
+<p><em>Meer blogs lezen van Lucas (17)? Lees ook <a href="https://7dagen.netlify.app/blog/wij-hopeloze-scholieren-zijn-gedwongen-verslaafd">Wij hopeloze scholieren zijn gedwongen verslaafd</a> of <a href="https://7dagen.netlify.app/blog/google-n%C3%B3%C3%B3it-je-pijnklachten">Google nóóit je pijnklachten!</a></em></p>
 <p><em>Foto Flickr/Rob Smits</em></p>  

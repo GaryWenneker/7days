@@ -1,5 +1,5 @@
 ---
-id: 9f7a246b2c22474cb127fa90b1e4a33d
+id: 6800a1385c2f4ffc88e9aa93ca24558d
 type: nieuws
 layout: post
 title: "Bijzonder: bevroren Niagara Falls "
@@ -19,7 +19,7 @@ In Amerika en Canada is het momenteel extreem koud. En dat levert prachtige plaa
         
   
   <div class="content">
-    <img alt="ijs" title="Beeld: Twitter @TheAction716" height="825" width="1468" style="width: 800px; height: 600px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/falssssss.png">  </div>
+    <img alt="ijs" title="Beeld: Twitter @TheAction716" height="825" width="1468" style="width: 800px; height: 600px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/falssssss.png">  </div>
 
   
 </div>
@@ -29,7 +29,7 @@ In Amerika en Canada is het momenteel extreem koud. En dat levert prachtige plaa
         
   
   <div class="content">
-    <img alt="ijs" title="Beeld: Twitter @1EmmaV" height="826" width="1231" style="font-size: 13.008px; width: 800px; height: 600px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ijsss.png">  </div>
+    <img alt="ijs" title="Beeld: Twitter @1EmmaV" height="826" width="1231" style="font-size: 13.008px; width: 800px; height: 600px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ijsss.png">  </div>
 
   
 </div>
@@ -39,7 +39,7 @@ In Amerika en Canada is het momenteel extreem koud. En dat levert prachtige plaa
         
   
   <div class="content">
-    <img alt="ijs" title="Beeld: Twitter @ClientVoyage" height="822" width="1266" style="width: 800px; height: 600px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Naamloos_33.png">  </div>
+    <img alt="ijs" title="Beeld: Twitter @ClientVoyage" height="822" width="1266" style="width: 800px; height: 600px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Naamloos_33.png">  </div>
 
   
 </div>
@@ -49,7 +49,7 @@ In Amerika en Canada is het momenteel extreem koud. En dat levert prachtige plaa
         
   
   <div class="content">
-    <img alt="ijsq" title="Beeld: Twitter @Beattravelagent" height="826" width="1102" style="width: 800px; height: 600px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ijs_1.png">  </div>
+    <img alt="ijsq" title="Beeld: Twitter @Beattravelagent" height="826" width="1102" style="width: 800px; height: 600px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ijs_1.png">  </div>
 
   
 </div>

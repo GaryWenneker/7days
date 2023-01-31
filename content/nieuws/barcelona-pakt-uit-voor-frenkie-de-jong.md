@@ -1,5 +1,5 @@
 ---
-id: 4504d94e896646729624c9fe5df20e7a
+id: 95242a6934d040bcb36abedfe71df52a
 type: nieuws
 layout: post
 title: "Barcelona pakt uit voor Frenkie de Jong"

@@ -1,5 +1,5 @@
 ---
-id: e58426512547450ca944ad70e3bcfc3d
+id: c4f5ac448ae74ca2a6053507ab2c7dc7
 type: post
 layout: post
 title: "Doe eens gek, kijk geen boekverfilming"
@@ -21,7 +21,7 @@ Samen met mijn vriendinnen zoek ik een goed boek uit voor school, maar het lijkt
         
   
   <div class="content">
-    <img height="1365" width="2048" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/DE%20AANSLAG.jpg" alt="">  </div>
+    <img height="1365" width="2048" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/DE%20AANSLAG.jpg" alt="">  </div>
 
   
 </div>
@@ -36,9 +36,9 @@ Samen met mijn vriendinnen zoek ik een goed boek uit voor school, maar het lijkt
         
   
   <div class="content">
-    <img height="1365" width="2048" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/NETFLIX%20BOEKEN_0.jpg" alt="">  </div>
+    <img height="1365" width="2048" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/NETFLIX%20BOEKEN_0.jpg" alt="">  </div>
 
   
 </div>
 </div>
-<p><i>Meer blogs lezen van <a href="https://original.sevendays.nl/users/lotte-rolleman">Lotte Rolleman</a> (17)? Laatst schreef ze ook al <a href="https://original.sevendays.nl/blog/de-scootermeisjes-van-tegenwoordig">De scootermeisjes van tegenwoordig </a>en <a href="https://original.sevendays.nl/blog/de-meest-gestelde-vragen-aan-een-tweeling">De meest gestelde vragen aan een tweeling</a>.</i></p>  
+<p><i>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/lotte-rolleman">Lotte Rolleman</a> (17)? Laatst schreef ze ook al <a href="https://7dagen.netlify.app/blog/de-scootermeisjes-van-tegenwoordig">De scootermeisjes van tegenwoordig </a>en <a href="https://7dagen.netlify.app/blog/de-meest-gestelde-vragen-aan-een-tweeling">De meest gestelde vragen aan een tweeling</a>.</i></p>  

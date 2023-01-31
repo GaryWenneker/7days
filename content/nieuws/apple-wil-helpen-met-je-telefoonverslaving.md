@@ -1,5 +1,5 @@
 ---
-id: a5b442433e30443aa40d7a6cc2a67ad0
+id: 7c031e92135a4f459a42df7bda9af52a
 type: nieuws
 layout: post
 title: "Apple wil helpen met je telefoonverslaving"

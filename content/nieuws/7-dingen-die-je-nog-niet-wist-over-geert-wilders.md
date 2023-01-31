@@ -1,5 +1,5 @@
 ---
-id: cadf287fbe324d0b96250d9f7b80cb79
+id: f1b567df53004322b2ab3a8d68911002
 type: nieuws
 layout: post
 title: "7 dingen die je nog niet wist over Geert Wilders"
@@ -18,13 +18,13 @@ Op 15 maart worden de Tweede Kamerverkiezingen gehouden. Maar wie zijn die polit
 <h3>2. Geert Wilders heeft Indische roots</h3>
 <p>De moeder van Geert Wilders is geboren in Soekaboemi, in het toenmalig Nederlands-Indië. Dat verklaart zijn deels exotische uiterlijk. Want stiekem heeft Wilders geen blond, maar <a href="http://www.geenstijl.nl/mt/archieven/2009/09/geniale_jeugdfoto_scheert_wild.html" target="_blank">donker </a>haar.</p>
 <h3>3. Geert Wilders bemoeide zich op zijn tiende al met de politiek</h3>
-<p>Laatst heeft een tijdschrift een oude <a href="https://original.sevendays.nl/nieuws/dit-schreef-kleine-wilders-10-de-schoolkrant" target="_blank">schoolkrant </a>opgeduikeld waar ene Geert Wilders (10 jaar) zijn mening deelde. Zo maakte hij zich zorgen om het milieu en riep hij mensen op om niet harder dan 100 kilometer per uur te rijden. Daar is-ie inmiddels van teruggekomen.</p>
+<p>Laatst heeft een tijdschrift een oude <a href="https://7dagen.netlify.app/nieuws/dit-schreef-kleine-wilders-10-de-schoolkrant" target="_blank">schoolkrant </a>opgeduikeld waar ene Geert Wilders (10 jaar) zijn mening deelde. Zo maakte hij zich zorgen om het milieu en riep hij mensen op om niet harder dan 100 kilometer per uur te rijden. Daar is-ie inmiddels van teruggekomen.</p>
 <p><div class="media media-element-container media-default"><div id="file-415160" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img alt="7 dingen die je nog niet wist over Geert Wilders" title="Beeld: ANP" height="699" width="1271" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-48515865.jpg">  </div>
+    <img alt="7 dingen die je nog niet wist over Geert Wilders" title="Beeld: ANP" height="699" width="1271" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-48515865.jpg">  </div>
 
   
 </div>
@@ -38,7 +38,7 @@ Op 15 maart worden de Tweede Kamerverkiezingen gehouden. Maar wie zijn die polit
 <h3>7. Geert Wilders had ooit een stiekem Twitter-account</h3>
 <p>Onder de nickname @zip15nl_frank volgde Wilders een illuster gezelschap aan Twitteraars: van Donald Duck tot pornoster Kim Holland. De PVV-voorman was niet blij met de ontdekking ervan. 'Nu moet ik een nieuw anoniem Twitteraccount aanmaken', liet hij weten</p>
 <div class="kader">
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p>Lees ook: <a href="https://original.sevendays.nl/nieuws/7-dingen-die-je-nog-niet-wist-over-mark-rutte">7 dingen die je nog niet wist over Mark Rutte</a></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p>Lees ook: <a href="https://7dagen.netlify.app/nieuws/7-dingen-die-je-nog-niet-wist-over-mark-rutte">7 dingen die je nog niet wist over Mark Rutte</a></p>
 </div>
   

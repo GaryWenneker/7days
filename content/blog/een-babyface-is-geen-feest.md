@@ -1,5 +1,5 @@
 ---
-id: 11114e8a41d74445b7978614b26fb218
+id: 0771c868212d4280b91239dfe4fd07a8
 type: post
 layout: post
 title: "Een babyface is geen feest"
@@ -21,7 +21,7 @@ Hoera, ik ben eindelijk 18! Ik heb de ‘volwassen leeftijd’ bereikt. Mijn ho
         
   
   <div class="content">
-    <a href="/files/niek-babyfacejpg"><img alt="babyface" height="220" width="199" style="float: left; margin-left: 5px; margin-right: 5px;" class="media-element file-teaser" src="https://original.sevendays.nl/sites/default/files/styles/medium/public/niek%20babyface.jpg?itok=DY77k0jl"></a>  </div>
+    <a href="/files/niek-babyfacejpg"><img alt="babyface" height="220" width="199" style="float: left; margin-left: 5px; margin-right: 5px;" class="media-element file-teaser" src="https://7dagen.netlify.app/sites/default/files/styles/medium/public/niek%20babyface.jpg?itok=DY77k0jl"></a>  </div>
 
   
 </div>
@@ -29,4 +29,4 @@ Hoera, ik ben eindelijk 18! Ik heb de ‘volwassen leeftijd’ bereikt. Mijn ho
 <p>Zelf een biertje halen zat er met carnaval nog nét niet in, maar inmiddels zou een kratje pils halen bij de Appie nu officieel geen probleem meer moeten zijn. 'Mag ik je ID even zien?' Ik bang dat de caissière mij vervolgens bedenkelijk zal aanstaren: 'Ah schattig! Je eerste biertje?'</p>
 <p><strong>Ik ben NIET schattig</strong><br>Nee! Nee, nee, nee, nee! Als er iets is wat ik NIET ben, dan is het wel schattig. Vind ik. Ik bedoel maar: baby's mogen niet stemmen of autorijden en drinken geen alcohol - lijkt me.</p>
 <p>Maar ja, hoe kom ik van die babyface af? Hoeveel 'volwassen dingen' ik ook doe, mijn gezicht zal er niet snel door veranderen. Dan maar hopen dat ik er over dertig jaar blij mee ben.</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/niek-de-bruijn">Niek</a> (18)? Laatst schreef hij ook al <a href="https://original.sevendays.nl/blog/waarom-kan-ik-niet-g%C3%A1%C3%A1n-met-die-banaan">Waarom kan ik niet gáán met die banaan?</a> en <a href="https://original.sevendays.nl/blog/een-dramaqueen-met-plankenkoorts">Een dramaqueen met plankenkoorts</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/niek-de-bruijn">Niek</a> (18)? Laatst schreef hij ook al <a href="https://7dagen.netlify.app/blog/waarom-kan-ik-niet-g%C3%A1%C3%A1n-met-die-banaan">Waarom kan ik niet gáán met die banaan?</a> en <a href="https://7dagen.netlify.app/blog/een-dramaqueen-met-plankenkoorts">Een dramaqueen met plankenkoorts</a>.</em></p>  

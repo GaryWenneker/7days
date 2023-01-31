@@ -1,5 +1,5 @@
 ---
-id: 3ba63c012d9e40199d76ff75890769a1
+id: 964b8f56c8124424ae3cf0a3d4a36847
 type: nieuws
 layout: post
 title: "Foto's: de klimaatstaking in vijf opvallende momenten"
@@ -19,7 +19,7 @@ Vandaag vond misschien wel de grootste klimaatstaking ooit plaats. Kinderen en j
         
   
   <div class="content">
-    <img alt="klimaatstaking Den Haag" title="Foto: ANP" height="1080" width="1616" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-77924605.jpg">  </div>
+    <img alt="klimaatstaking Den Haag" title="Foto: ANP" height="1080" width="1616" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-77924605.jpg">  </div>
 
   
 </div>
@@ -30,7 +30,7 @@ Vandaag vond misschien wel de grootste klimaatstaking ooit plaats. Kinderen en j
         
   
   <div class="content">
-    <img alt="klimaatstaking Den Haag" title="Foto: ANP" height="3037" width="4961" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-77927192.jpg">  </div>
+    <img alt="klimaatstaking Den Haag" title="Foto: ANP" height="3037" width="4961" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-77927192.jpg">  </div>
 
   
 </div>
@@ -41,7 +41,7 @@ Vandaag vond misschien wel de grootste klimaatstaking ooit plaats. Kinderen en j
         
   
   <div class="content">
-    <img alt="klimaatstaking Den Haag" title="Foto: ANP" height="3362" width="4996" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/ANP-77927310.jpg">  </div>
+    <img alt="klimaatstaking Den Haag" title="Foto: ANP" height="3362" width="4996" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/ANP-77927310.jpg">  </div>
 
   
 </div>
@@ -53,7 +53,7 @@ Vandaag vond misschien wel de grootste klimaatstaking ooit plaats. Kinderen en j
         
   
   <div class="content">
-    <img alt="klimaatstaking Den Haag" title="Foto: ANP" height="1958" width="3500" class="media-element file-default" data-delta="4" src="https://original.sevendays.nl/sites/default/files/ANP-77926732.jpg">  </div>
+    <img alt="klimaatstaking Den Haag" title="Foto: ANP" height="1958" width="3500" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/ANP-77926732.jpg">  </div>
 
   
 </div>
@@ -64,7 +64,7 @@ Vandaag vond misschien wel de grootste klimaatstaking ooit plaats. Kinderen en j
         
   
   <div class="content">
-    <img alt="klimaatstaking Den Haag" title="Foto: ANP" height="3803" width="5957" class="media-element file-default" data-delta="5" src="https://original.sevendays.nl/sites/default/files/ANP-77927330.jpg">  </div>
+    <img alt="klimaatstaking Den Haag" title="Foto: ANP" height="3803" width="5957" class="media-element file-default" data-delta="5" src="https://7dagen.netlify.app/sites/default/files/ANP-77927330.jpg">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: 4a173c2601c44843b7c3ae03168dd953
+id: 15d8032ff2fd421e8dbcf8d62524b414
 type: nieuws
 layout: post
 title: "'De terror-oehoe van de politiek'"
@@ -21,7 +21,7 @@ Alle politieke partijen willen woensdag winnen bij de Provinciale Statenverkiezi
         
   
   <div class="content">
-    <img height="562" width="1280" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP1.jpg" alt="">  </div>
+    <img height="562" width="1280" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP1.jpg" alt="">  </div>
 
   
 </div>
@@ -29,13 +29,13 @@ Alle politieke partijen willen woensdag winnen bij de Provinciale Statenverkiezi
 <p><em>'1. Diederik Samsom (PvdA) over Geert Wilders (PVV):</em><br><strong>'U bent een wegloper'</strong><br>De debatten op tv zijn hèt moment om andere politici aan te pakken. Zo waren Samsom en Wilders heel fel tegen elkaar over het onderwerp terreur. Wilders en zijn partij wil Nederland beschermen door de grenzen dicht te gooien. Want, zo zei Wilders tegen Samsom, 'als er hier een aanslag plaatsvindt, dan bent u daar medeverantwoordelijk voor.' Samsom bleef duidelijk: zijn partij doet er alles aan om Nederland veilig te houden, maar doet dat niet door een bevolkingsgroep weg te zetten.</p>
 <p><em>2. Alexander Pechtold (D66) over Diederik Samsom (PvdA):</em><br><strong>'Uw geloofwaardigheid is compleet weg'</strong><br>Het zit sommige partijen nog niet lekker dat de linkse Partij van de Arbeid nu met de rechtste VVD regeert. En als je met elkaar samenwerkt, moet je compromissen sluiten. De PvdA was zo jarenlang fel tegen de aanschaf van de JSF, een nieuw gevechtstoestel. Maar nu is de partij tóch voor. Dat Samsom nu iets anders roept, is niet goed voor de geloofwaardigheid van zijn partij, vindt Pechtold.</p>
 <p><em>3. Mark Rutte (VVD) over Sybrand Buma (CDA): </em><br><strong>'Wat jouw partij doet valt mij zeer tegen' </strong><br>Premier Rutte is een beetje 'geïrriteerd', zei hij laatst tijdens een persconferentie. Zijn VVD en het CDA waren jarenlang goede politieke vrienden, maar Rutte voelt zich nu in de steek gelaten. Hij wil dat Sybrand Buma niet steeds tegenspartelt bij regeringsplannen maar ook de coalitie steunt, in het belang van het land. Buma zelf benadrukt alleen maar dat hij in de oppositie zit en daarom niets voor de VVD hoeft te doen.</p>
-<p><em>4. Geert Wilders (PVV) over Alexander Pechtold (D66): </em><br><strong>'Daar staat de <a href="https://original.sevendays.nl/blog/terror-oehoe">terror-oehoe</a> van de Nederlandse politiek'</strong><br>'En daar staat de wolf', reageerde Pechtold gevat. De twee partijleiders stonden maandag lijnrecht tegenover elkaar in <a href="http://politiek.eenvandaag.nl/tv-items/57675/debat_pechtold_vs_wilders">een debat</a> van <em>EenVandaag</em>. Wilders vindt het maar niets dat Pechtold nog meer wil bezuinigen en geld geeft aan het buitenland. De oehoe van D66 reageerde daarop door te zeggen dat wolf Wilders alleen langs de zijlijn staat en maar wat roeptoetert.</p>
+<p><em>4. Geert Wilders (PVV) over Alexander Pechtold (D66): </em><br><strong>'Daar staat de <a href="https://7dagen.netlify.app/blog/terror-oehoe">terror-oehoe</a> van de Nederlandse politiek'</strong><br>'En daar staat de wolf', reageerde Pechtold gevat. De twee partijleiders stonden maandag lijnrecht tegenover elkaar in <a href="http://politiek.eenvandaag.nl/tv-items/57675/debat_pechtold_vs_wilders">een debat</a> van <em>EenVandaag</em>. Wilders vindt het maar niets dat Pechtold nog meer wil bezuinigen en geld geeft aan het buitenland. De oehoe van D66 reageerde daarop door te zeggen dat wolf Wilders alleen langs de zijlijn staat en maar wat roeptoetert.</p>
 <p><div class="media media-element-container media-default"><div id="file-1858" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img height="562" width="1280" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP2.jpg" alt="">  </div>
+    <img height="562" width="1280" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP2.jpg" alt="">  </div>
 
   
 </div>

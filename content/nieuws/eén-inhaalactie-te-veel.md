@@ -1,5 +1,5 @@
 ---
-id: 4ea21a2557484ff7b9dd5cb4496832c2
+id: e9b50b7fcf8f43d5a71c253da398ce21
 type: nieuws
 layout: post
 title: "Eén inhaalactie te veel"
@@ -13,7 +13,7 @@ seo:
 ---
 KABOEF! Met een grote klap ramde Max Verstappen de muur van het racecircuit van Monaco. Zijn poging om Grosjean te passeren was net één inhaalactie te veel. Gelukkig stelde hij zijn team al snel gerust.'I am ok', zei hij door zijn microfoon.  
 
-    <p>Max Verstappen startte van de negende plaats. Toch een teleurstelling, omdat hij in de <a href="https://original.sevendays.nl/nieuws/max-verstappen-stunt-monaco">eerste training</a> supersnelle rondjes reed. Helaas ging het tijdens de kwalificatie waar de startplaatsen worden verdeeld minder soepel. Ook tijdens de echte race ging lang niet alles gesmeerd. Verstappen verliest door een botsing een stuk van zijn voorvleugel en moet een pitstop maken. Bij een andere pitstop wil zijn band er niet op en verliest hij nog meer tijd.</p>
+    <p>Max Verstappen startte van de negende plaats. Toch een teleurstelling, omdat hij in de <a href="https://7dagen.netlify.app/nieuws/max-verstappen-stunt-monaco">eerste training</a> supersnelle rondjes reed. Helaas ging het tijdens de kwalificatie waar de startplaatsen worden verdeeld minder soepel. Ook tijdens de echte race ging lang niet alles gesmeerd. Verstappen verliest door een botsing een stuk van zijn voorvleugel en moet een pitstop maken. Bij een andere pitstop wil zijn band er niet op en verliest hij nog meer tijd.</p>
 <p><strong>Heelhuids</strong><br>Maar Verstappen geeft niet op en laat een paar mooie inhaalacties zien op een baan waar inhalen bijna onmogelijk zou zijn. Maar helaas: tijdens de strijd om de tiende plaats met Grosjean raakt hij het wiel van de Zwitserse coureur en knalt zelf de muur in. Gelukkig stapt hij heelhuids zijn zeer gehavende auto uit. Grosjean kan door, maar klaagt over de 'stomme actie' van Verstappen. Helemaal goed loopt het voor Verstappen niet af. Bij de wedstrijd over twee weken in Canada moet hij als straf bij de start vijf plaatsen naar achter.</p>
 <p><div class="media media-element-container media-default"><div id="file-3625" class="file file-video file-video-youtube">
 

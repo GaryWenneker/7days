@@ -1,5 +1,5 @@
 ---
-id: 10bfd2389de74ce195eff053a499e0ad
+id: 66bc2868a69f400188fc2e1bf0706f23
 type: nieuws
 layout: post
 title: "Bommen in New York: terrorisme of niet?"
@@ -21,7 +21,7 @@ In de Amerikaanse stad New York zit de schrik er goed in. Bij een flinke explo
         
   
   <div class="content">
-    <img alt="new york bommen explosie" title="Foto: EPA" height="712" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/omgeving.jpg">  </div>
+    <img alt="new york bommen explosie" title="Foto: EPA" height="712" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/omgeving.jpg">  </div>
 
   
 </div>
@@ -35,26 +35,26 @@ In de Amerikaanse stad New York zit de schrik er goed in. Bij een flinke explo
         
   
   <div class="content">
-    <img alt="new york bommen explosie hond" title="Foto: EPA" height="584" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/hond_0.jpg">  </div>
+    <img alt="new york bommen explosie hond" title="Foto: EPA" height="584" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/hond_0.jpg">  </div>
 
   
 </div>
 </div><em>Een speurhond zoekt in Manhattan naar meer explosieven</em>
 <h3>Terrorisme of niet? </h3>
 <p>Of die bom in New Jersey iets met de gebeurtenissen in New York te maken heeft? Burgemeester Bill de Blasio betwijfelt het. Maar dat er opzet in het spel is, is wel duidelijk. Toch denkt hij niet aan terrorisme.</p>
-<p>Het verschil tussen wel of geen terrorisme is best belangrijk: bij een 'gewone' aanslag wil de dader 'alleen maar' mensen pijn doen en verdriet veroorzaken. Dat is natuurlijk al erg genoeg, maar terrorisme heeft nog een groter doel: dan pleegt iemand aanslagen om de hele maatschappij te ontwrichten en dingen te laten veranderen. Meer over wat wel en geen terrorisme is, lees je <a href="https://original.sevendays.nl/nieuws/waarom-was-de-aanslag-m%C3%BCnchen-geen-terrorisme">hier</a>.</p>
+<p>Het verschil tussen wel of geen terrorisme is best belangrijk: bij een 'gewone' aanslag wil de dader 'alleen maar' mensen pijn doen en verdriet veroorzaken. Dat is natuurlijk al erg genoeg, maar terrorisme heeft nog een groter doel: dan pleegt iemand aanslagen om de hele maatschappij te ontwrichten en dingen te laten veranderen. Meer over wat wel en geen terrorisme is, lees je <a href="https://7dagen.netlify.app/nieuws/waarom-was-de-aanslag-m%C3%BCnchen-geen-terrorisme">hier</a>.</p>
 <p>Wie de bommen in New York en New Jersey geplaatst kan of kunnen hebben? De politie doet onderzoek, maar heeft nog geen idee.</p>
 <p><div class="media media-element-container media-default"><div id="file-21901" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img alt="Bill DeBlasio New York bommen explosie" title="Foto: AFP" height="567" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/deblasio.jpg">  </div>
+    <img alt="Bill DeBlasio New York bommen explosie" title="Foto: AFP" height="567" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/deblasio.jpg">  </div>
 
   
 </div>
 </div><em>Hoge politiemensen en burgemeester Bill de Blasio (met rode stropdas)</em>
 <h3>'Bekende' bom</h3>
-<p>Ondanks het 'goede' nieuws dat niets wijst op terrorisme, blijft deze aanslag schrikken voor de New Yorkers. Zeker omdat zo'n snelkookbom een paar jaar geleden nog een hoop ellende veroorzaakte in Boston. Bij <a href="https://original.sevendays.nl/nieuws/boston-bomber-voor-de-rechter">explosies bij de Boston Marathon</a> kwamen toen drie mensen om en vielen zo'n 260 gewonden.</p>
+<p>Ondanks het 'goede' nieuws dat niets wijst op terrorisme, blijft deze aanslag schrikken voor de New Yorkers. Zeker omdat zo'n snelkookbom een paar jaar geleden nog een hoop ellende veroorzaakte in Boston. Bij <a href="https://7dagen.netlify.app/nieuws/boston-bomber-voor-de-rechter">explosies bij de Boston Marathon</a> kwamen toen drie mensen om en vielen zo'n 260 gewonden.</p>
 <p>Maar terrorisme of niet, bekende bom of niet: de New Yorkers laten zich niet kisten, benadrukte de burgemeester tegen de <em>New York Times</em>. 'Wat de oorzaak ook is, New Yorkers laten zich niet intimideren.'</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

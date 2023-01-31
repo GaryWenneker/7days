@@ -1,5 +1,5 @@
 ---
-id: 299233413b9e43c5b9e7a2b69554c0f1
+id: ee84b08fd8c54babb99332fc4726be3f
 type: nieuws
 layout: post
 title: "Akilah (15) tekent Google Doodle "
@@ -20,11 +20,11 @@ Tweedeklasser Akilah Johnson uit Washinton sprong drie gaten in de lucht. Zij wo
         
   
   <div class="content">
-    <img height="481" width="639" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/akilah.jpg" alt="">  </div>
+    <img height="481" width="639" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/akilah.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <p><strong>Cultuur</strong><br>Akilah is Afro-Amerikaans en ze wilde graag die cultuur in haar tekening verbeelden. 'Mijn voorouders komen uit Afrika en hun geschiedenis bracht mij waar ik ben vandaag. Dat vind ik heel belangrijk, daarom wilde ik dat meenemen in mijn tekening.' </p>
 <p>De zes belangrijkste onderdelen van haar tekening zijn, volgens Akilah, de Ankh (een hiëroglief dat staat voor leven), het Afrikaanse continent, het Oog van Horus (een hiëroglief dat staat voor gezondheid en bescherming), de vuist van een protesterende vrouw en de vlag van Washington, 'want ik ben een Washingtonse in mijn hart!'</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis nieuws-app</a> of neem een <a href="https://original.sevendays.nl/abonnement">proefabonnement</a> op de papieren 7Days!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis nieuws-app</a> of neem een <a href="https://7dagen.netlify.app/abonnement">proefabonnement</a> op de papieren 7Days!</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: 3441fcbec9de4cdba315c7f55d9651ac
+id: b2b0d8e9d9474305b6af8f3023ba9f36
 type: nieuws
 layout: post
 title: "De Halbe waarheid van minister Zijlstra"

@@ -1,5 +1,5 @@
 ---
-id: 4c9575926b4745e2b704782839b5200f
+id: ac14090203bf4664bb5e6a2a8cc46a62
 type: nieuws
 layout: post
 title: "7 omstreden uitspraken van de Trump van de tropen"

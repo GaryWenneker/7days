@@ -1,5 +1,5 @@
 ---
-id: 22bbf84cb60a4ff79315a22e05ae0644
+id: 9472916615e44384b01df2fbfdc78eff
 type: post
 layout: post
 title: "De 7 meest memorabele Golden Globe-momenten"
@@ -103,7 +103,7 @@ De Golden Globes werden afgelopen zondag voor de 73ste keer uitgereikt. Deze Ame
   
 </div>
 </div>
-<p><strong>7. 2016 - Ricky Gervais</strong><br>Al vier keer eerder presenteerde Ricky Gervais de Golden Globes. De Britse komiek staat garant voor een hoop grove grappen en ook dit jaar trok hij fel van leer. 'Slachtoffers' waren onder meer acteur Sean Penn, zender NBC en de film <a href="https://original.sevendays.nl/recensies/film/humorloos-lesje-gamegeschiedenis">Pixels</a>: </p>
+<p><strong>7. 2016 - Ricky Gervais</strong><br>Al vier keer eerder presenteerde Ricky Gervais de Golden Globes. De Britse komiek staat garant voor een hoop grove grappen en ook dit jaar trok hij fel van leer. 'Slachtoffers' waren onder meer acteur Sean Penn, zender NBC en de film <a href="https://7dagen.netlify.app/recensies/film/humorloos-lesje-gamegeschiedenis">Pixels</a>: </p>
 <p><div class="media media-element-container media-default"><div id="file-15110" class="file file-video file-video-youtube">
 
         <h2 class="element-invisible"><a href="/files/ricky-gervais-opens-2016-golden-globes">Ricky Gervais Opens the 2016 Golden Globes</a></h2>

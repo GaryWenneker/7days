@@ -1,5 +1,5 @@
 ---
-id: 53430ebadd9245e5a7c11968cf735145
+id: e12fe8189a8d48ad91ae6b3613639d52
 type: nieuws
 layout: post
 title: "Amerikaanse scholier redt vlag"
@@ -24,7 +24,7 @@ Eerlijk zeggen: Wat zou jij doen als je in het weekend langs school fietst en zi
         
   
   <div class="content">
-    <img height="335" width="335" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/13220996_1054753304586454_195341140536058459_n.jpg" alt="">  </div>
+    <img height="335" width="335" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/13220996_1054753304586454_195341140536058459_n.jpg" alt="">  </div>
 
   
 </div>
@@ -35,7 +35,7 @@ Eerlijk zeggen: Wat zou jij doen als je in het weekend langs school fietst en zi
         
   
   <div class="content">
-    <img height="625" width="500" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/13061927_562544520591326_3726751749475540208_n.jpg" alt="">  </div>
+    <img height="625" width="500" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/13061927_562544520591326_3726751749475540208_n.jpg" alt="">  </div>
 
   
 </div>
@@ -45,7 +45,7 @@ Eerlijk zeggen: Wat zou jij doen als je in het weekend langs school fietst en zi
         
   
   <div class="content">
-    <img height="640" width="640" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/13237757_1013672888668871_88526816125656624_n.jpg" alt="">  </div>
+    <img height="640" width="640" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/13237757_1013672888668871_88526816125656624_n.jpg" alt="">  </div>
 
   
 </div>
@@ -55,9 +55,9 @@ Eerlijk zeggen: Wat zou jij doen als je in het weekend langs school fietst en zi
         
   
   <div class="content">
-    <img height="603" width="500" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/13240002_1176951975701412_649666116851226603_n.jpg" alt="">  </div>
+    <img height="603" width="500" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/13240002_1176951975701412_649666116851226603_n.jpg" alt="">  </div>
 
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

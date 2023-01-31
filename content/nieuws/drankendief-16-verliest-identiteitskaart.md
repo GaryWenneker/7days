@@ -1,5 +1,5 @@
 ---
-id: 160fb0d6b1e542e9957e15fcf3990582
+id: 0f77636c35164fcf9e6be174eda5301d
 type: nieuws
 layout: post
 title: "Drankendief (16) verliest identiteitskaart"
@@ -22,4 +22,4 @@ Hij ging er vandoor met maar liefst dertien flessen sterke drank. Maar lang kon 
 <p>Hoewel jongeren in Nederland pas alcohol mogen kopen en drinken vanaf 18 jaar, is dat in Duitsland net even anders. De leeftijdsgrens voor bier en wijn is daar 16 jaar. Sterke drank kopen en drinken mag wel pas vanaf 18 jaar.</p>
 <p>Wat de jongen deed, was dus dubbel illegaal. Niet alleen omdat hij niet betaalde voor de drank, maar ook omdat hij nog minderjarig is en nog helemaal geen sterke drank mag kopen of drinken.</p>
 <p> </p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

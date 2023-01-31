@@ -1,5 +1,5 @@
 ---
-id: 36a454a15b6542b0b71d4fc99f78f809
+id: 31a04e8615f5462aa173e1b0839289fb
 type: nieuws
 layout: post
 title: "Boze bezetters in het Bungehuis"
@@ -19,7 +19,7 @@ Spandoeken, pamfletten en een stapel boeken voor de deur. Het Bungehuis in Amste
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/f.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/f.jpeg" alt="">  </div>
 
   
 </div>
@@ -29,7 +29,7 @@ Spandoeken, pamfletten en een stapel boeken voor de deur. Het Bungehuis in Amste
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/g.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/g.jpeg" alt="">  </div>
 
   
 </div>
@@ -39,7 +39,7 @@ Spandoeken, pamfletten en een stapel boeken voor de deur. Het Bungehuis in Amste
         
   
   <div class="content">
-    <img height="370" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/h.jpeg" alt="">  </div>
+    <img height="370" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/h.jpeg" alt="">  </div>
 
   
 </div>
@@ -49,7 +49,7 @@ Spandoeken, pamfletten en een stapel boeken voor de deur. Het Bungehuis in Amste
         
   
   <div class="content">
-    <img height="840" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/i.jpeg" alt="">  </div>
+    <img height="840" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/i.jpeg" alt="">  </div>
 
   
 </div>
@@ -74,7 +74,7 @@ Spandoeken, pamfletten en een stapel boeken voor de deur. Het Bungehuis in Amste
         
   
   <div class="content">
-    <img height="374" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/j.jpeg" alt="">  </div>
+    <img height="374" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/j.jpeg" alt="">  </div>
 
   
 </div>
@@ -84,7 +84,7 @@ Spandoeken, pamfletten en een stapel boeken voor de deur. Het Bungehuis in Amste
         
   
   <div class="content">
-    <img height="419" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/k.jpeg" alt="">  </div>
+    <img height="419" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/k.jpeg" alt="">  </div>
 
   
 </div>
@@ -94,7 +94,7 @@ Spandoeken, pamfletten en een stapel boeken voor de deur. Het Bungehuis in Amste
         
   
   <div class="content">
-    <img height="281" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/l.jpeg" alt="">  </div>
+    <img height="281" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/l.jpeg" alt="">  </div>
 
   
 </div>

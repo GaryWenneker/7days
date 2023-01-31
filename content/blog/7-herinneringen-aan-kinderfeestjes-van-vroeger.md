@@ -1,5 +1,5 @@
 ---
-id: 1d063f90d22b431db5e302d8400abdbb
+id: 6176db8b09b44835aa13d1167984e04a
 type: post
 layout: post
 title: "7 herinneringen aan kinderfeestjes van vroeger"
@@ -20,10 +20,10 @@ De 'zuipfeesten' van tegenwoordig zijn geen echte feesten meer. Nee, vroeger wis
 <p><strong>2. Uitnodigingen verspreiden</strong><br>Ook dat was een hele <em>happening</em>. De handgeschreven uitnodigingen werden keurig in een envelopje gestopt. Op school mochten we ze niet uitdelen, want dat zou kunnen zorgen voor jaloezie. Dan maar thuis bezorgen. Met één van je ouders fietste je naar al je vriendjes en vriendinnetjes om het kaartje door de brievenbus te gooien.</p>
 <p><strong></strong></p>
 <iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="270" src="https://giphy.com/embed/PwhuKF8koZDby" width="480"></iframe><p></p>
-<p><strong>3. Piraten themafeestje</strong><br>Als je een <a href="https://original.sevendays.nl/blog/7-tips-voor-een-fantastisch-feestje">echt goed feestje</a> wilde geven, koos je een thema en organiseerde je alles in stijl, inclusief de kat. Een piratenfeestje? Bekertjes met doodshoofden, stoere mutsen en Piet Piraat-de film kijken. Aan het eind kreeg iedereen een schatkist-ijsje! Arrrr!</p>
+<p><strong>3. Piraten themafeestje</strong><br>Als je een <a href="https://7dagen.netlify.app/blog/7-tips-voor-een-fantastisch-feestje">echt goed feestje</a> wilde geven, koos je een thema en organiseerde je alles in stijl, inclusief de kat. Een piratenfeestje? Bekertjes met doodshoofden, stoere mutsen en Piet Piraat-de film kijken. Aan het eind kreeg iedereen een schatkist-ijsje! Arrrr!</p>
 <p><strong></strong></p>
 <iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="480" src="https://giphy.com/embed/svy2elSbCs6Ag" width="480"></iframe><p></p>
-<p><strong>4. Neem je zwemspullen mee</strong><br>Soms stond er een heel mysterieus zinnetje op de uitnodiging: <em>Het is nog een verassing wat we gaan doen, maar neem je <a href="https://original.sevendays.nl/lifestyle/buiten-zwemmen-hier-moet-je-op-letten">zwemspullen</a> mee.</em></p>
+<p><strong>4. Neem je zwemspullen mee</strong><br>Soms stond er een heel mysterieus zinnetje op de uitnodiging: <em>Het is nog een verassing wat we gaan doen, maar neem je <a href="https://7dagen.netlify.app/lifestyle/buiten-zwemmen-hier-moet-je-op-letten">zwemspullen</a> mee.</em></p>
 <p>Wat een mysterie…</p>
 <p><strong></strong></p>
 <iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="361" src="https://giphy.com/embed/aVtdz7iNVPI1W" width="480"></iframe><p></p>

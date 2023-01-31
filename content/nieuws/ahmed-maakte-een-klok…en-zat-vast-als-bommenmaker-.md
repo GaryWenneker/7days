@@ -1,5 +1,5 @@
 ---
-id: aac2882c69284714baa798b7a7fba8a5
+id: 34e3a7f5149040c3b7320f9a4a81a162
 type: nieuws
 layout: post
 title: "Ahmed maakte een klok…en zat vast als ‘bommenmaker’ "
@@ -36,7 +36,7 @@ Ahmed Mohamed (14) uit Irving (Texas) is dol op techniek. Noem hem gerust een ne
         
   
   <div class="content">
-    <img height="462" width="727" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/FullSizeRender_0.jpg" alt="">  </div>
+    <img height="462" width="727" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/FullSizeRender_0.jpg" alt="">  </div>
 
   
 </div>
@@ -49,9 +49,9 @@ Ahmed Mohamed (14) uit Irving (Texas) is dol op techniek. Noem hem gerust een ne
         
   
   <div class="content">
-    <img title="Foto: Twitter.com/@anildash" height="800" width="600" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/CPAFMKrUkAABI2a.jpg" alt="">  </div>
+    <img title="Foto: Twitter.com/@anildash" height="800" width="600" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/CPAFMKrUkAABI2a.jpg" alt="">  </div>
 
   
 </div>
 </div>
-<p><em>Op de hoogte blijven van al het onderwijsnieuws? <a href="https://original.sevendays.nl/onderwijsnieuws">Hier</a> vind je ons overzicht van al het schoolnieuws op onze site.</em></p>  
+<p><em>Op de hoogte blijven van al het onderwijsnieuws? <a href="https://7dagen.netlify.app/onderwijsnieuws">Hier</a> vind je ons overzicht van al het schoolnieuws op onze site.</em></p>  

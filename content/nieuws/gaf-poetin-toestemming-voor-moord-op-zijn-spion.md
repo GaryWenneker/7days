@@ -1,5 +1,5 @@
 ---
-id: dea02bc30cef43bdb0ed7bbaeebe9212
+id: 563bf249ed1b4d248249a5c59d654618
 type: nieuws
 layout: post
 title: "Gaf Poetin toestemming voor moord op zijn spion?"
@@ -20,7 +20,7 @@ Het is een verhaal zoals je dat vaker in films ziet dan in het echt: een spion v
         
   
   <div class="content">
-    <img alt="Aleksandr Litvinenko op een persconferentie in 1998" title="Foto EPA" height="562" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Aleksandr%20Litvinenko%20ANP-36569283%207D.jpg">  </div>
+    <img alt="Aleksandr Litvinenko op een persconferentie in 1998" title="Foto EPA" height="562" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Aleksandr%20Litvinenko%20ANP-36569283%207D.jpg">  </div>
 
   
 </div>
@@ -31,7 +31,7 @@ Het is een verhaal zoals je dat vaker in films ziet dan in het echt: een spion v
         
   
   <div class="content">
-    <img alt="Anatoly en Marina Litvinenko, de zoon en de vrouw van Aleksandr, arriveren op een persconferentie over het nieuwe rapport" title="Foto EPA" height="620" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Marina%20Anatoly%20Litvinenko%20ANP-36569283%207D.jpg">  </div>
+    <img alt="Anatoly en Marina Litvinenko, de zoon en de vrouw van Aleksandr, arriveren op een persconferentie over het nieuwe rapport" title="Foto EPA" height="620" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Marina%20Anatoly%20Litvinenko%20ANP-36569283%207D.jpg">  </div>
 
   
 </div>
@@ -41,10 +41,10 @@ Het is een verhaal zoals je dat vaker in films ziet dan in het echt: een spion v
         
   
   <div class="content">
-    <img alt="Kovtoen (links) en Loegovoj (rechts) na een persconferentie in 2007" title="Foto AFP" height="599" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Loegovoj%20en%20Kovtoen%20ANP-5718960%207D.jpg">  </div>
+    <img alt="Kovtoen (links) en Loegovoj (rechts) na een persconferentie in 2007" title="Foto AFP" height="599" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Loegovoj%20en%20Kovtoen%20ANP-5718960%207D.jpg">  </div>
 
   
 </div>
 </div><em>Kovtoen (links) en Loegovoj (rechts) na een persconferentie in 2007</em><br><br><strong>President Poetin</strong><br>Owen vervolgt: ‘Toen meneer Loegovoj meneer Litvinenko vergiftigde, is het waarschijnlijk dat hij dit deed in opdracht van FSB. Ik wil daaraan toevoegen dat ik dit zie als een sterke waarschijnlijkheid. […]'
 <p>'De FSB-operatie om meneer Litvinenko te doden was waarschijnlijk goedgekeurd door meneer Patroesjev (de secretaris van de veiligheidsdiensten, red.) en ook door president Poetin.’ <br><br><strong>'Absurd'</strong><br>De Russische ambassadeur is nu op het matje geroepen door de Britse regering. En de buitenlandse bankrekeningen van Loegovoj en Kovtoen worden bevroren, zodat zij niet meer bij hun geld kunnen. Loegovoj, die sinds 2007 in de Russische Tweede Kamer zit, noemt de beschuldiging tegen hem 'absurd'. De Russische regering wil verder niet reageren. En president Poetin? Die hult zich al helemaal in stilzwijgen. </p>
-<p><em>Altijd op de hoogte blijven van het nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://original.sevendays.nl/abonnement">proefabonnement</a> op de krant.</em></p>  
+<p><em>Altijd op de hoogte blijven van het nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://7dagen.netlify.app/abonnement">proefabonnement</a> op de krant.</em></p>  

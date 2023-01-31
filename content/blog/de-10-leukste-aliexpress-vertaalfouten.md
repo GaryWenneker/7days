@@ -1,5 +1,5 @@
 ---
-id: 114002292ff94f6d91d33b8e5cff422b
+id: c1c45763b3cc429a81acb18f542817d0
 type: post
 layout: post
 title: "De 10 leukste AliExpress-vertaalfouten"
@@ -18,7 +18,7 @@ Sinds kort heb ik een nieuwe hobby: AliExpressen. Urenlang kan ik door de app sc
         
   
   <div class="content">
-    <img alt="AliExpress" height="1164" width="1080" style="width: 750px; height: 808px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Dikke%20darm.jpg">  </div>
+    <img alt="AliExpress" height="1164" width="1080" style="width: 750px; height: 808px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Dikke%20darm.jpg">  </div>
 
   
 </div>
@@ -29,7 +29,7 @@ Sinds kort heb ik een nieuwe hobby: AliExpressen. Urenlang kan ik door de app sc
         
   
   <div class="content">
-    <img alt="AliExpress" height="828" width="1080" style="width: 750px; height: 575px;" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/draadloze%20beha.jpg">  </div>
+    <img alt="AliExpress" height="828" width="1080" style="width: 750px; height: 575px;" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/draadloze%20beha.jpg">  </div>
 
   
 </div>
@@ -40,7 +40,7 @@ Sinds kort heb ik een nieuwe hobby: AliExpressen. Urenlang kan ik door de app sc
         
   
   <div class="content">
-    <img height="930" width="1080" style="height: 646px; width: 750px;" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/dubdeks.jpg" alt="">  </div>
+    <img height="930" width="1080" style="height: 646px; width: 750px;" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/dubdeks.jpg" alt="">  </div>
 
   
 </div>
@@ -51,7 +51,7 @@ Sinds kort heb ik een nieuwe hobby: AliExpressen. Urenlang kan ik door de app sc
         
   
   <div class="content">
-    <img alt="AliExpress" height="1284" width="1080" style="height: 892px; width: 750px;" class="media-element file-default" data-delta="5" src="https://original.sevendays.nl/sites/default/files/haar%20broodje.jpg">  </div>
+    <img alt="AliExpress" height="1284" width="1080" style="height: 892px; width: 750px;" class="media-element file-default" data-delta="5" src="https://7dagen.netlify.app/sites/default/files/haar%20broodje.jpg">  </div>
 
   
 </div>
@@ -62,7 +62,7 @@ Sinds kort heb ik een nieuwe hobby: AliExpressen. Urenlang kan ik door de app sc
         
   
   <div class="content">
-    <img alt="AliExpress" height="1494" width="1080" style="height: 1038px; width: 750px;" class="media-element file-default" data-delta="6" src="https://original.sevendays.nl/sites/default/files/opknoping.jpg">  </div>
+    <img alt="AliExpress" height="1494" width="1080" style="height: 1038px; width: 750px;" class="media-element file-default" data-delta="6" src="https://7dagen.netlify.app/sites/default/files/opknoping.jpg">  </div>
 
   
 </div>
@@ -73,7 +73,7 @@ Sinds kort heb ik een nieuwe hobby: AliExpressen. Urenlang kan ik door de app sc
         
   
   <div class="content">
-    <img alt="AliExpress" height="1133" width="907" style="height: 937px; width: 750px;" class="media-element file-default" data-delta="7" src="https://original.sevendays.nl/sites/default/files/persoonlijkheden.jpg">  </div>
+    <img alt="AliExpress" height="1133" width="907" style="height: 937px; width: 750px;" class="media-element file-default" data-delta="7" src="https://7dagen.netlify.app/sites/default/files/persoonlijkheden.jpg">  </div>
 
   
 </div>
@@ -84,7 +84,7 @@ Sinds kort heb ik een nieuwe hobby: AliExpressen. Urenlang kan ik door de app sc
         
   
   <div class="content">
-    <img height="1068" width="1080" style="height: 742px; width: 750px;" class="media-element file-default" data-delta="8" src="https://original.sevendays.nl/sites/default/files/stoomboot.jpg" alt="">  </div>
+    <img height="1068" width="1080" style="height: 742px; width: 750px;" class="media-element file-default" data-delta="8" src="https://7dagen.netlify.app/sites/default/files/stoomboot.jpg" alt="">  </div>
 
   
 </div>
@@ -95,7 +95,7 @@ Sinds kort heb ik een nieuwe hobby: AliExpressen. Urenlang kan ik door de app sc
         
   
   <div class="content">
-    <img height="1248" width="1080" style="height: 867px; width: 750px;" class="media-element file-default" data-delta="9" src="https://original.sevendays.nl/sites/default/files/struisvogel.jpg" alt="">  </div>
+    <img height="1248" width="1080" style="height: 867px; width: 750px;" class="media-element file-default" data-delta="9" src="https://7dagen.netlify.app/sites/default/files/struisvogel.jpg" alt="">  </div>
 
   
 </div>
@@ -106,7 +106,7 @@ Sinds kort heb ik een nieuwe hobby: AliExpressen. Urenlang kan ik door de app sc
         
   
   <div class="content">
-    <img alt="AliExpress" height="1266" width="1080" style="height: 879px; width: 750px;" class="media-element file-default" data-delta="10" src="https://original.sevendays.nl/sites/default/files/velgen.jpg">  </div>
+    <img alt="AliExpress" height="1266" width="1080" style="height: 879px; width: 750px;" class="media-element file-default" data-delta="10" src="https://7dagen.netlify.app/sites/default/files/velgen.jpg">  </div>
 
   
 </div>
@@ -117,7 +117,7 @@ Sinds kort heb ik een nieuwe hobby: AliExpressen. Urenlang kan ik door de app sc
         
   
   <div class="content">
-    <img height="1344" width="1080" style="height: 933px; width: 750px;" class="media-element file-default" data-delta="11" src="https://original.sevendays.nl/sites/default/files/babybedjes.jpg" alt="">  </div>
+    <img height="1344" width="1080" style="height: 933px; width: 750px;" class="media-element file-default" data-delta="11" src="https://7dagen.netlify.app/sites/default/files/babybedjes.jpg" alt="">  </div>
 
   
 </div>

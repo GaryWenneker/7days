@@ -1,5 +1,5 @@
 ---
-id: 905bc75203d44a12bbfa887d04afd413
+id: 6229b7e93cc64e3a8fbb895f7de156b5
 type: post
 layout: post
 title: "De 5 voordelen van gescheiden ouders hebben"
@@ -22,6 +22,6 @@ Mijn ouders zijn gescheiden en nee, het niet altijd een pretje om met al je spul
 <h3>4. Je krijgt een nieuwe kamer</h3>
 <p>Een nieuw huis krijgen betekent ook een nieuwe kamer krijgen. Dit is dé kans om je creativiteit los te laten op IKEA-meubels en behang! Kun je eindelijk die o zo leuke stoel in je kamer zetten.</p>
 <h3>5. Je krijgt een nieuwe familie  </h3>
-<p>De kans is groot dat één van je ouders vroeg of laat een nieuwe vriend of vriendin krijgt. Dat lijkt misschien verschrikkelijk, maar ik heb het geluk dat ik er een <a href="https://original.sevendays.nl/blog/mijn-puberende-pa">vreselijk leuke bonusmoeder</a> én bonusfamilie bijkreeg. Twee vliegen in één klap!</p>
+<p>De kans is groot dat één van je ouders vroeg of laat een nieuwe vriend of vriendin krijgt. Dat lijkt misschien verschrikkelijk, maar ik heb het geluk dat ik er een <a href="https://7dagen.netlify.app/blog/mijn-puberende-pa">vreselijk leuke bonusmoeder</a> én bonusfamilie bijkreeg. Twee vliegen in één klap!</p>
 <p>Al met al blijft gescheiden ouders hebben vervelend. Maar ik kan je wel aanraden om ook altijd de goede kanten ervan in te zien.</p>
 <p><i>Meer lezen van Maaike? Laatst schreef ze <a href="/node/9469">De verschrikkelijke aanloop naar kerst</a> en <a href="/node/9378">Verslaafd aan een hels apparaat</a>.</i></p>  

@@ -1,5 +1,5 @@
 ---
-id: 62bac994088a4e67bf8bc33df50f8a20
+id: 72e41b6d75e24a16bc0a60f5859bd3c0
 type: post
 layout: post
 title: "Waarom 'Sherlock' zo'n teleurstelling was"
@@ -33,7 +33,7 @@ Na jaren wachten verschenen er afgelopen weken drie splinternieuwe afleveringen 
         
   
   <div class="content">
-    <img alt="sherlock, moriarty, eurus" height="456" width="824" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/128214.png">  </div>
+    <img alt="sherlock, moriarty, eurus" height="456" width="824" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/128214.png">  </div>
 
   
 </div>
@@ -46,7 +46,7 @@ Na jaren wachten verschenen er afgelopen weken drie splinternieuwe afleveringen 
         
   
   <div class="content">
-    <img alt="sherlock recensie" height="53" width="203" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/sherlock.PNG">  </div>
+    <img alt="sherlock recensie" height="53" width="203" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/sherlock.PNG">  </div>
 
   
 </div>

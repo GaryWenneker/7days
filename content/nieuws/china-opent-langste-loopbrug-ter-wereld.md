@@ -1,5 +1,5 @@
 ---
-id: 7da2fcc2bcf14d3fa71b4bfbab703d7e
+id: 96a0901d1afb4927bade481f5ce5dd94
 type: nieuws
 layout: post
 title: "China opent langste loopbrug ter wereld"
@@ -21,7 +21,7 @@ Het duurde anderhalf jaar voor het af was, maar nu is het eindelijk zover. Ch
         
   
   <div class="content">
-    <img alt="glazen brug china" title="Foto: China Xinhua News Facebook" height="509" width="763" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/763%20%281%29.jpeg">  </div>
+    <img alt="glazen brug china" title="Foto: China Xinhua News Facebook" height="509" width="763" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/763%20%281%29.jpeg">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: a40c891a748a47c0b4533322b51465df
+id: 445ffa107e4247c09339823243fd4bc1
 type: post
 layout: post
 title: "Mijn schijtstrijd"
@@ -24,4 +24,4 @@ Samen met mijn hond Chef loop ik richting de dijk. Ik loop op de stoep en word m
 <p>Ze kijkt me zuur aan. Ik loop snel de dijk op. </p>
 <p><strong>Betrapt 2.0</strong><br>Als ik Chef weer een keer uitlaat, ben ik getuige van het volgende voorval. De Hazewindhond-vrouw loopt met haar honden op de dijk en zo’n vier meter achter hen, ligt een spoor van drollen op het fietspad. ‘Chef, dit gaat te ver.’ Chef knikt.</p>
 <p>Ik keer om, in plaats van naar de dijk ga ik naar het huis van de Hazewindhond-vrouw. ‘Zo Chef, nu is het aan jou.’ Chef draait een grote drol. Precies voor haar deur. Deze wraak zal stinken. MUHAHAHA.</p>
-<p><em>Meer blogs lezen van Lucas (16)? Klik <a href="https://original.sevendays.nl/users/lucas-versteeg">hier </a>voor zijn archief.</em></p>  
+<p><em>Meer blogs lezen van Lucas (16)? Klik <a href="https://7dagen.netlify.app/users/lucas-versteeg">hier </a>voor zijn archief.</em></p>  

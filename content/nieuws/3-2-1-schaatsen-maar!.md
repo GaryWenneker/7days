@@ -1,5 +1,5 @@
 ---
-id: d5dbb7149935436bafac848fa0f10d8f
+id: 6b4d5a13b90b41bb98d89614f3f5fcbf
 type: nieuws
 layout: post
 title: "3-2-1: schaatsen maar!"
@@ -20,7 +20,7 @@ Dinsdagavond om half zeven is het dan écht zo ver: de allereerste schaatsmarat
         
   
   <div class="content">
-    <img title="ANP" height="567" width="850" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/schaats2.jpg" alt="">  </div>
+    <img title="ANP" height="567" width="850" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/schaats2.jpg" alt="">  </div>
 
   
 </div>
@@ -31,9 +31,9 @@ Dinsdagavond om half zeven is het dan écht zo ver: de allereerste schaatsmarat
         
   
   <div class="content">
-    <img title="ANP" height="567" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/schaats4.jpg" alt="">  </div>
+    <img title="ANP" height="567" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/schaats4.jpg" alt="">  </div>
 
   
 </div>
 </div><em>De baan bij <a href="http://www.ijsch.nl/">schaatsvereniging IJSCH</a> in Haaksbergen</em>
-<p><em>Altijd op de hoogte blijven van het laatste nieuws? Meld je aan voor onze gratis <a href="https://original.sevendays.nl/whatsapp">WhatsApp-dienst</a>, download onze gratis <a href="https://original.sevendays.nl/app">app </a>of neem een <a href="https://original.sevendays.nl/abonnement">proefabonnement</a> op de krant.</em></p>  
+<p><em>Altijd op de hoogte blijven van het laatste nieuws? Meld je aan voor onze gratis <a href="https://7dagen.netlify.app/whatsapp">WhatsApp-dienst</a>, download onze gratis <a href="https://7dagen.netlify.app/app">app </a>of neem een <a href="https://7dagen.netlify.app/abonnement">proefabonnement</a> op de krant.</em></p>  

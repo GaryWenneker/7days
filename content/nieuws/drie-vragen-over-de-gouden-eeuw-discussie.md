@@ -1,5 +1,5 @@
 ---
-id: da303cdd2a3b4240ab5a2792dc7b83f2
+id: cc65f2f7cba84cf2bb5d13462eed3d7c
 type: nieuws
 layout: post
 title: "Drie vragen over de Gouden Eeuw-discussie"

@@ -1,5 +1,5 @@
 ---
-id: c8d715aabed2412083c82d687af43fd5
+id: f3b29a125f4d440889c27076262b28be
 type: nieuws
 layout: post
 title: "15 Nederlandse woorden die we te weinig gebruiken"
@@ -22,7 +22,7 @@ Lekker even smoddermuilen tijdens de ondergaande hemelvlam! Huh, wat? Er zijn ve
         
   
   <div class="content">
-    <img alt="Tweede Kamer" title="Foto: ANP" height="2794" width="5178" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-49291611.jpg">  </div>
+    <img alt="Tweede Kamer" title="Foto: ANP" height="2794" width="5178" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-49291611.jpg">  </div>
 
   
 </div>
@@ -35,7 +35,7 @@ Lekker even smoddermuilen tijdens de ondergaande hemelvlam! Huh, wat? Er zijn ve
         
   
   <div class="content">
-    <img alt="Hand Vinger" title="Foto: Pixabay" height="1280" width="1920" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/hand-1595547_1920.jpg">  </div>
+    <img alt="Hand Vinger" title="Foto: Pixabay" height="1280" width="1920" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/hand-1595547_1920.jpg">  </div>
 
   
 </div>
@@ -48,7 +48,7 @@ Lekker even smoddermuilen tijdens de ondergaande hemelvlam! Huh, wat? Er zijn ve
         
   
   <div class="content">
-    <img alt="Kinderopvang Kinderdagverblijf Kleuterschool" title="Foto: Pixabay" height="1280" width="1920" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/child-1864718_1920.jpg">  </div>
+    <img alt="Kinderopvang Kinderdagverblijf Kleuterschool" title="Foto: Pixabay" height="1280" width="1920" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/child-1864718_1920.jpg">  </div>
 
   
 </div>
@@ -61,7 +61,7 @@ Lekker even smoddermuilen tijdens de ondergaande hemelvlam! Huh, wat? Er zijn ve
         
   
   <div class="content">
-    <img alt="Champagne" title="Foto: Pixabay" height="1280" width="1920" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/champagne-2407247_1920.jpg">  </div>
+    <img alt="Champagne" title="Foto: Pixabay" height="1280" width="1920" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/champagne-2407247_1920.jpg">  </div>
 
   
 </div>

@@ -1,0 +1,21 @@
+---
+id: 1f20b75a068e4361a1d5fb1ca466a60b
+type: nieuws
+layout: post
+title: "Zweepstraf voor blogger begonnen"
+permalink: /nieuws/zweepstraf-voor-blogger-begonnen/
+date: 2022-05-11T19:16:41.067Z
+author: 7biA1WiYB
+excerpt: "Ondanks felle internationale protesten is de straf voor Raif Badawi begonnen. Afgelopen vrijdag kreeg de Saoedische blogger de eerste vijftig zweepslagen. De komende weken zullen er nog 950 volgen. Iedere vrijdag vijftig stuks.  "
+seo:
+  description: "Zweepstraf voor blogger begonnen"
+  title: "Zweepstraf voor blogger begonnen"
+---
+Ondanks felle internationale protesten is de straf voor Raif Badawi begonnen. Afgelopen vrijdag kreeg de Saoedische blogger de eerste vijftig zweepslagen. De komende weken zullen er nog 950 volgen. Iedere vrijdag vijftig stuks.  
+
+    <p>De straf wordt in het openbaar uitgevoerd. Bij de Al-Jafali-moskee in de stad Jeddah. Badawi is vorig jaar veroordeeld tot tien jaar cel, een grote geldboete en duizend zweepslagen. Hij kreeg de straf voor het leveren van kritiek op de Saoedische regering en het beledigen van de islam.</p>
+<p>Meerdere mensenrechtenorganisaties zoals Amnesty International en verschillende overheden hebben geprotesteerd tegen de gruwelijke lijfstraf. ‘Zijn enige ‘misdaad’ was dat Badawi vreedzaam zijn recht op vrije meningsuiting uitoefende’, aldus Amnesty. De organisatie gaat dan ook door met actievoeren voor de blogger. De Saoedische regering trekt zich tot nu toe niets van aan alle kritiek.</p>
+<p><strong>Wie is die Raif Badawi precies? Een profiel:</strong><br>Raif Badawi (32) groeide op in een gezin met een ultrastrenge Saoedische moslimvader en een veel vrijere christelijke moeder uit Libanon. Al jong raakte hij ervan overtuigd dat het goed is als staat en geloof gescheiden zijn. En dat iedereen zou moeten kunnen geloven, of niet geloven, wat hij of zij wil. Maar hij zag dat de strenge islamitische wetten in zijn land dat onmogelijk maakten. In 2008 richtte hij het blog Vrije Saoedische Liberalenop. Daar kon hij zijn gedachten op kwijt.</p>
+<p>Hij schreef kritisch over ingewikkelde zaken. Zoals extremisten die stiekem hun gevaarlijke gedachten verspreidden op universiteiten. Maar ook over simpele dingen als Valentijnsdag. ‘Waarom is dat in Saoedi-Arabië eigenlijk een verboden feest?’ vroeg Badawi zich af. Langzaam maar zeker kreeg hij steun van mensen die er ook zo over dachten. Dat vonden de autoriteiten blijkbaar bedreigend. Want op 17 juni 2012 werd Badawi opgepakt en opgesloten. Zijn blog werd uit de lucht gehaald. Atheïsme, luidde de aanklacht. Dat betekent in Saoedi-Arabië de doodstraf. Zijn vrouw Ensaf Haidar vluchtte met hun drie kinderen in paniek weg naar Libanon.</p>
+<p><strong>Heftig spotje</strong><br>Nu zijn we twee jaar verder. De aanklacht ‘atheïsme’ heeft geen stand gehouden. Die is inmiddels veranderd in ‘het beledigen van de islam en schaden van de openbare orde’. Geen doodstraf dus. Wel de hierboven genoemde straf. De zweepslagen zijn vrijdag begonnen. Twintig weken lang, iedere vrijdag vijftig zweepslagen, na het middaggebed.<br>Amnesty International is woedend over de zware straf voor de vreedzame blogger en voert campagne om aandacht te vragen voor het lot van Badawi. Met een heftig spotje op de radio waarin iemand nauwgezet vertelt wat er gebeurt als een leren zweep je huid raakt. En met paginagrote foto’s van een gestriemde rug in de kranten. ‘Bloggen is slecht voor je rug’, staat erbij. Amnesty en ook Human Rights Watch dringen er bij de Saoedische overheid op aan de aanklacht tegen de blogger te laten vallen. Tot nu toe zonder succes. </p>
+<p><strong>Wist je dat…</strong><br>… Badawi’s tienjarige zoon Tirad <a href="https://7dagen.netlify.app/archief/zweepslagen-voor-blogger">een brief</a> heeft gestuurd naar Amnesty? ‘Ik houd van jullie want jullie helpen mijn vader’, staat erin.<br>… Badawi van zijn eigen vader weinig steun hoeft te verwachten? Die zei op de Saoedische tv dat hij vindt dat zijn zoon de doodstraf verdiende. En als de autoriteiten die niet willen uitvoeren, doet hij het zelf wel.<br>… Ensaf nu met de kinderen in Canada woont? Daar voert ze actie om te zorgen dat Badawi en zijn droom van een vrijer Saoedi-Arabië niet vergeten worden.</p>  

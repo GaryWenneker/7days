@@ -1,5 +1,5 @@
 ---
-id: 4e2bd00ac9c44f1097f2dd49c6634297
+id: b3d0dd05ff0040838ef3629e4d70e12c
 type: nieuws
 layout: post
 title: "Greta Thunberg (16) genomineerd voor nobelprijs"

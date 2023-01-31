@@ -1,5 +1,5 @@
 ---
-id: 0c756245d6df4049b2ba8f9f353a0dd4
+id: e5b45890f56e4ee88483ff9b23f2dc8c
 type: post
 layout: post
 title: "De Oscars 2016 in 7 momenten"
@@ -13,7 +13,7 @@ seo:
 ---
 Zondagnacht was het weer zo ver. In hartje Hollywood werden de 88ste Academy Awards uitgereikt aan 's werelds grootste filmsterren. En dat leverde de nodige grappige én verrassende momenten op.  
 
-    <p><strong>1. DiCaprio wint, eindelijk.</strong><br>Hè, hè. Het duurde even, maar ook Leonardo DiCaprio heeft na vijf vergeefse nominaties eindelijk zijn Oscar binnen voor zijn rol in <a href="https://original.sevendays.nl/recensies/film/rauw-heftig-en-prachtig-gefilmd"><em>The Revenant</em></a>. Hij kreeg een staande ovatie en benadrukte in zijn speech dat we meer aandacht moeten geven aan klimaatverandering. </p>
+    <p><strong>1. DiCaprio wint, eindelijk.</strong><br>Hè, hè. Het duurde even, maar ook Leonardo DiCaprio heeft na vijf vergeefse nominaties eindelijk zijn Oscar binnen voor zijn rol in <a href="https://7dagen.netlify.app/recensies/film/rauw-heftig-en-prachtig-gefilmd"><em>The Revenant</em></a>. Hij kreeg een staande ovatie en benadrukte in zijn speech dat we meer aandacht moeten geven aan klimaatverandering. </p>
 <p><div class="media media-element-container media-default"><div id="file-16429" class="file file-video file-video-youtube">
 
         <h2 class="element-invisible"><a href="/files/best-actor-oscars-2016-leonardo-dicaprio-full-speech-hd">BEST ACTOR OSCARS 2016 LEONARDO DICAPRIO FULL SPEECH HD</a></h2>
@@ -49,17 +49,17 @@ Zondagnacht was het weer zo ver. In hartje Hollywood werden de 88ste Academy A
         
   
   <div class="content">
-    <img height="377" width="670" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/spotlight-best-picture-oscars.jpg" alt="">  </div>
+    <img height="377" width="670" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/spotlight-best-picture-oscars.jpg" alt="">  </div>
 
   
 </div>
 </div>
-<p><strong>4. Iñárritu wint weer.</strong><br>Mexicaans regisseur Alejandro González Iñárritu is <em>on fire</em>. Vorig jaar won hij maar liefst drie Oscars voor <a href="https://original.sevendays.nl/recensies/film/leander-kijkt-birdman"><em>Birdman</em></a>, waaronder voor Beste Regie en dit jaar was het weer raak. Het is de derde keer in de geschiedenis dat een regisseur twee jaar op rij een Oscar wint. 'Laten we ervoor zorgen dat ooit de kleur van je huid even onbelangrijk is als de lengte van je haar', zei hij grappend. <br><div class="media media-element-container media-default"><div id="file-16432" class="file file-image file-image-jpeg">
+<p><strong>4. Iñárritu wint weer.</strong><br>Mexicaans regisseur Alejandro González Iñárritu is <em>on fire</em>. Vorig jaar won hij maar liefst drie Oscars voor <a href="https://7dagen.netlify.app/recensies/film/leander-kijkt-birdman"><em>Birdman</em></a>, waaronder voor Beste Regie en dit jaar was het weer raak. Het is de derde keer in de geschiedenis dat een regisseur twee jaar op rij een Oscar wint. 'Laten we ervoor zorgen dat ooit de kleur van je huid even onbelangrijk is als de lengte van je haar', zei hij grappend. <br><div class="media media-element-container media-default"><div id="file-16432" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img height="450" width="800" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/xxl_0.jpg" alt="">  </div>
+    <img height="450" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/xxl_0.jpg" alt="">  </div>
 
   
 </div>
@@ -84,7 +84,7 @@ Zondagnacht was het weer zo ver. In hartje Hollywood werden de 88ste Academy A
         
   
   <div class="content">
-    <img height="450" width="800" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/xxl%20%281%29_0.jpg" alt="">  </div>
+    <img height="450" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/xxl%20%281%29_0.jpg" alt="">  </div>
 
   
 </div>

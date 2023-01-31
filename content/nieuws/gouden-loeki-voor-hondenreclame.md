@@ -1,5 +1,5 @@
 ---
-id: 26e7bc7dac674233919d80361ec3cb1c
+id: 3ea292de14214b6186d302feca08cda4
 type: nieuws
 layout: post
 title: "Gouden Loeki voor hondenreclame"

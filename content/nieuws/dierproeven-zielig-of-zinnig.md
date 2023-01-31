@@ -1,5 +1,5 @@
 ---
-id: cf7d52f36de1452d988e78d6f623817f
+id: c30dcb2bba9b463aac7838b4d4772425
 type: nieuws
 layout: post
 title: "Dierproeven: zielig of zinnig?"
@@ -20,7 +20,7 @@ Je weet vast wel wanneer het dierendag is. Maar wist je ook dat het vandaag Were
         
   
   <div class="content">
-    <img height="338" width="800" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/untitled-infographic.png" alt="">  </div>
+    <img height="338" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/untitled-infographic.png" alt="">  </div>
 
   
 </div>
@@ -32,7 +32,7 @@ Je weet vast wel wanneer het dierendag is. Maar wist je ook dat het vandaag Were
         
   
   <div class="content">
-    <img title="Bron: Youtube / Stichting Informatie Dierenproeven" height="448" width="800" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Dierenproef1_0.jpg" alt="">  </div>
+    <img title="Bron: Youtube / Stichting Informatie Dierenproeven" height="448" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Dierenproef1_0.jpg" alt="">  </div>
 
   
 </div>
@@ -44,11 +44,11 @@ Je weet vast wel wanneer het dierendag is. Maar wist je ook dat het vandaag Were
         
   
   <div class="content">
-    <img title="Bron: Youtube / Stichting Informatie Dierenproeven" height="504" width="800" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Dierenproef%20wereld_0.jpg" alt="">  </div>
+    <img title="Bron: Youtube / Stichting Informatie Dierenproeven" height="504" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Dierenproef%20wereld_0.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <p><strong>6. Een wereld zonder dierproeven: is dat mogelijk?</strong><br>Sommige mensen denken dat dierproeven onmisbaar blijven. Want: deze proeven hebben ervoor gezorgd dat we een nu aantal goed werkende medicijnen op de markt hebben kunnen brengen. ‘Nou en!’, roepen tegenstanders. Zij vinden dat dierproeven zo snel mogelijk moeten worden afgeschaft, omdat dieren niet mogen lijden alléén maar om het welzijn van mensen te verbeteren. Anderen vinden dat er alleen dierproeven morgen worden gedaan als ze écht nodig zijn. Bovendien vinden ze het belangrijk dat de dieren daarbij goed verzorgd worden. </p>
 
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren belangrijk is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant! </em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren belangrijk is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant! </em></p>  

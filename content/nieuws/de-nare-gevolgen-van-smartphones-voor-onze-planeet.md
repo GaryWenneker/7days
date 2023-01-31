@@ -1,5 +1,5 @@
 ---
-id: c40f0bae7a52409caec4ae7d6223493d
+id: 572c37c1930e4ab18027a7a6959e7f1a
 type: nieuws
 layout: post
 title: "De nare gevolgen van smartphones voor onze planeet"
@@ -24,7 +24,7 @@ WhatsAppen, foto's maken, spelletjes spelen, de weg vinden: we kunnen niet meer 
         
   
   <div class="content">
-    <img alt="Smartphones hebben ook nare gevolgen" title="Beeld: ANP" height="892" width="1568" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-47142996_0.jpg">  </div>
+    <img alt="Smartphones hebben ook nare gevolgen" title="Beeld: ANP" height="892" width="1568" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-47142996_0.jpg">  </div>
 
   
 </div>
@@ -34,4 +34,4 @@ WhatsAppen, foto's maken, spelletjes spelen, de weg vinden: we kunnen niet meer 
 <p>Eh, tera-<em>wattes</em>? Om je een idee te geven van hoeveel dat is: we gebruikten in Nederland met zijn allen net zoveel stroom in iets minder dan negen jaar.</p>
 <h3>Smartphones worden onvoldoende gerecycled</h3>
 <p>Greenpeace vindt dat telefoonproducenten onderdelen van gebruikte smartphones vaker moeten hergebruiken. Recyclen dus! Dat moet voorkomen dat de materialen het milieu nog verder vervuilen en de afvalberg nog groter wordt. In Nederland bestaan er al een inleverpunten waar je je oude mobieltjes in kunt <a href="http://www.wecycle.nl/inleverpunt-zoeken" target="_blank">leveren</a>. Je kunt zelf dus iets doen om het milieu te helpen!</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

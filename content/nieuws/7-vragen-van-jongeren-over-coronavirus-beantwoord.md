@@ -1,5 +1,5 @@
 ---
-id: 363327427d914fc68f8d77052b2a63d0
+id: 4844cd3c1f264155af860c5dd0be394a
 type: nieuws
 layout: post
 title: "7 vragen van jongeren over coronavirus beantwoord"

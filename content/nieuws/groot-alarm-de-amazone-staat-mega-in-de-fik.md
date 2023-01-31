@@ -1,5 +1,5 @@
 ---
-id: 802e4269ed724786a394db373093e349
+id: 7bae750a22c146f7bc7774aee2dd78df
 type: nieuws
 layout: post
 title: "Groot alarm: de Amazone staat mega in de fik"
@@ -45,4 +45,4 @@ Een intriest record in Brazilië. Nooit eerder hebben er zoveel branden in de Am
 </div>
 </div>
 <h3>Aangestoken</h3>
-<p>Experts zeggen dat de branden moeten zijn aangestoken. De Amazone is namelijk een regenwoud waar het zo nat is dat de natuur niet zomaar uit zichzelf ontvlamt. Wie zoiets doet? Waarschijnlijk mensen die stukken van het woud willen hebben om er plantages aan te leggen. Het illegale kappen van bomen en inpikken van stukken land is schrikbarend toegenomen sinds Jair Bolsonaro alias de <a href="https://original.sevendays.nl/nieuws/7-omstreden-uitspraken-van-de-trump-van-de-tropen" target="_blank">Tropische Trump</a> aan de macht is. De extreemrechtse Braziliaanse president laat duidelijk blijken weinig op te hebben met het milieu en zegt regelmatig dat hij niet 'gelooft' in klimaatverandering. Sinds hij de leiding heeft, is er een grote kaalslag in de Amazone - die overigens al tijden onder zware druk staat - gaande. En nu staat de Amazone, die met zijn zeven miljoen vierkante kilometer woud vol leven en bomen die zuurstof leveren, ook wel 'de longen van de aarde' worden genoemd, ook nog in brand.</p>  
+<p>Experts zeggen dat de branden moeten zijn aangestoken. De Amazone is namelijk een regenwoud waar het zo nat is dat de natuur niet zomaar uit zichzelf ontvlamt. Wie zoiets doet? Waarschijnlijk mensen die stukken van het woud willen hebben om er plantages aan te leggen. Het illegale kappen van bomen en inpikken van stukken land is schrikbarend toegenomen sinds Jair Bolsonaro alias de <a href="https://7dagen.netlify.app/nieuws/7-omstreden-uitspraken-van-de-trump-van-de-tropen" target="_blank">Tropische Trump</a> aan de macht is. De extreemrechtse Braziliaanse president laat duidelijk blijken weinig op te hebben met het milieu en zegt regelmatig dat hij niet 'gelooft' in klimaatverandering. Sinds hij de leiding heeft, is er een grote kaalslag in de Amazone - die overigens al tijden onder zware druk staat - gaande. En nu staat de Amazone, die met zijn zeven miljoen vierkante kilometer woud vol leven en bomen die zuurstof leveren, ook wel 'de longen van de aarde' worden genoemd, ook nog in brand.</p>  

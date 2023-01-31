@@ -1,5 +1,5 @@
 ---
-id: fbe4042952264cdfae48730c68dbb092
+id: 511d14ff2e31495283d97eecc976677b
 type: nieuws
 layout: post
 title: "Gemeentemedewerkers voor de klas in Amsterdam"

@@ -1,5 +1,5 @@
 ---
-id: e954b7391f2a472ea95effaa85cf9885
+id: 21364c07f2ab45dbaef533002066b7e8
 type: nieuws
 layout: post
 title: "5 dingen die je moet weten over de supertelescoop"
@@ -18,7 +18,7 @@ Dit weekend is-ie gelanceerd. En nu is hij in het heelal op zoek naar een geschi
         
   
   <div class="content">
-    <img alt="Experts werken aan de supertelescoop op een basis in de buurt van Moskou  Foto EPA" title="Experts werken aan de supertelescoop op een basis in de buurt van Moskou  Foto EPA" height="3648" width="5472" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-71998137.jpg">  </div>
+    <img alt="Experts werken aan de supertelescoop op een basis in de buurt van Moskou  Foto EPA" title="Experts werken aan de supertelescoop op een basis in de buurt van Moskou  Foto EPA" height="3648" width="5472" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-71998137.jpg">  </div>
 
   
 </div>

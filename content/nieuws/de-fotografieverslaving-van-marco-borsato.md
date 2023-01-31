@@ -1,5 +1,5 @@
 ---
-id: 767f8d91154e4d32bd5eac71c8298f24
+id: 638383d9eb184874b03ac8267667d0b5
 type: nieuws
 layout: post
 title: "De fotografieverslaving van Marco Borsato"
@@ -19,7 +19,7 @@ Mooie vakantiekiekjes, prachtige natuurfoto's en bijzondere portretten. Marco Bo
         
   
   <div class="content">
-    <img alt="Marco Borsato Fotografie" title="Foto: ANP" height="2354" width="3647" style="width: 900px; height: 581px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-48340366.jpg">  </div>
+    <img alt="Marco Borsato Fotografie" title="Foto: ANP" height="2354" width="3647" style="width: 900px; height: 581px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-48340366.jpg">  </div>
 
   
 </div>
@@ -160,4 +160,4 @@ Mooie vakantiekiekjes, prachtige natuurfoto's en bijzondere portretten. Marco Bo
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op 7Days!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op 7Days!</em></p>  

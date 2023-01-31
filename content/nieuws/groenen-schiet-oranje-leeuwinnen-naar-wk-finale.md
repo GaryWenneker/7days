@@ -1,5 +1,5 @@
 ---
-id: 2e183b647e114812a11da926f8cdebe6
+id: ec26c0c714274e9e958453750f256e36
 type: nieuws
 layout: post
 title: "Groenen schiet Oranje Leeuwinnen naar WK-finale"
@@ -26,7 +26,7 @@ Er was een verlenging voor nodig, maar de Oranje Leeuwinnen staan in de finale v
         
   
   <div class="content">
-    <img alt="Oranje Leeuwinnen tegen Zweden in de halve finale" title="Foto ANP" height="2176" width="3402" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-75013794.jpg">  </div>
+    <img alt="Oranje Leeuwinnen tegen Zweden in de halve finale" title="Foto ANP" height="2176" width="3402" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-75013794.jpg">  </div>
 
   
 </div>

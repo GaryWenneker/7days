@@ -1,5 +1,5 @@
 ---
-id: 3929b1b3ab40480d8bfa9dc66120809a
+id: 391209c5b86b409c83effb4b5a531c11
 type: nieuws
 layout: post
 title: "Goochelaar Syb (13) tweede bij NK voor volwassenen"
@@ -59,4 +59,4 @@ Syb Faes uit Gilze goochelt flink aan de weg. Afgelopen weekend eindigde hij als
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de 7Days-krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de 7Days-krant!</em></p>  

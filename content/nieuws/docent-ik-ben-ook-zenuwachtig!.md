@@ -1,5 +1,5 @@
 ---
-id: f271598c68ca46879f7eb6af015aec32
+id: 306b485f2fed433f9c0d079724072649
 type: nieuws
 layout: post
 title: "Docent: 'Ik ben ook zenuwachtig!'"
@@ -34,4 +34,4 @@ Geslaagd, gezakt, of nog een keer aan de bak? Examenkandidaten kregen vandaag he
 </div>
 <h3>Opluchting</h3>
 <p>Na 24 telefoontjes zit het erop. ‘Ik ben opgelucht, moet je nagaan wat zij meemaken vandaag. Mijn handen trillen nog steeds.’ De examenperiode is afgelopen. Nu op naar het leukste gedeelte: de diplomauitreiking. ‘Dat is het mooiste moment. Ik schud ze de hand en geef ze een knuffel en dan begint het leven echt voor ze.’</p>
-<p><em>​</em><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op 7Days!</em></p>  
+<p><em>​</em><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op 7Days!</em></p>  

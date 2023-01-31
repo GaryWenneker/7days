@@ -1,5 +1,5 @@
 ---
-id: 883765bfc91f4d048a4b0488bdbb9a99
+id: adcfab2f6b434e64af3e3fc1b40a3fcc
 type: nieuws
 layout: post
 title: "De feiten en fabels over aids/hiv"
@@ -20,7 +20,7 @@ Het is vandaag Wereld Aids Dag. Een goed moment om je te verdiepen in wat aids
         
   
   <div class="content">
-    <img height="1575" width="913" style="float: right; height: 345px; width: 200px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/World_Aids_Day_Ribbon.png" alt="">  </div>
+    <img height="1575" width="913" style="float: right; height: 345px; width: 200px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/World_Aids_Day_Ribbon.png" alt="">  </div>
 
   
 </div>
@@ -37,7 +37,7 @@ Het is vandaag Wereld Aids Dag. Een goed moment om je te verdiepen in wat aids
         
   
   <div class="content">
-    <img title="Beeld: ANP" height="413" width="1001" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202015-11-30%20om%2016.25.47.png" alt="">  </div>
+    <img title="Beeld: ANP" height="413" width="1001" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202015-11-30%20om%2016.25.47.png" alt="">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: fc03e7e03eb64f9b9d3074c9be610e71
+id: 2339600ab53e48c9a4f894d83b06eadb
 type: nieuws
 layout: post
 title: "GroenLinks wint Scholierenverkiezingen "
@@ -34,4 +34,4 @@ Als Nederlandse scholieren zouden mogen stemmen, dan zou GroenLinks de grote wi
 </div>
 </div>
 <p>En die top-3 bleek ‘n aardige voorspelling: in werkelijkheid won destijds de VVD (41), gevolgd door de PvdA (38) en PVV (15). Of de Scholierenverkiezingen ook dit jaar een goede voorspelling zijn, weten we woensdagavond.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

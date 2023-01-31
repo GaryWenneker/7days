@@ -1,5 +1,5 @@
 ---
-id: 2e153863197e41878b79597b42fabd4c
+id: b4a95fd832004f619e5f2498a687b7ba
 type: post
 layout: post
 title: "De 7 obsessies uit mijn kindertijd"
@@ -27,4 +27,4 @@ Vroeger had ik van die random dingen waar ik helemaal gek op was. Kneedgum bijvo
 <p>Ik was de naam even vergeten, maar het heet een Lolobal. Speelgoed van vroeger, waarbij je<a href="https://www.youtube.com/watch?v=SrbbZwVEpjo" target="_blank"> je voeten op een plastic schijf rondom een opblaasbal moest zetten</a>. Toen ik het eenmaal kon, was ik niet meer te stoppen. Lopen deed ik haast niet meer, ik sprong gewoon overal heen op mijn mooie Lolobal. </p>
 <h3><strong>7. Geronimo Stilton</strong></h3>
 <p>Deze slimme muis beleefde allemaal avonturen in zijn geweldige boeken. Deze boeken waren een van de weinige die ik meerdere keren las. Wat ik er het allergeweldigst aan vond? De verschillende lettertypes, groottes en kleuren van de woorden. Ineens kwam er ook een animatieserie van en dat vond ik natuurlijk harstikke gaaf. Zo kon ik mijn obsessie nog verder doorontwikkelen.</p>
-<p><em>Ik had </em><em>vroeger </em><em>best veel obsessies, maar over de meeste dingen ben ik inmiddels wel heen. Er is geen Geronimo Stilton-boek meer te vinden in mijn boekenkast en mijn kneedgum is ook al jaren weg. Gelukkig maar, want inmiddels heb ik nieuwe obsessies. <a href="https://original.sevendays.nl/blog/7-manieren-om-een-tompouce-weg-te-werken">Het opeten van een tompouce</a> houdt mij bijvoorbeeld erg veel bezig. Of mijn <a href="https://original.sevendays.nl/blog/mijn-doritosgrot">obsessie met Doritos.</a></em></p>  
+<p><em>Ik had </em><em>vroeger </em><em>best veel obsessies, maar over de meeste dingen ben ik inmiddels wel heen. Er is geen Geronimo Stilton-boek meer te vinden in mijn boekenkast en mijn kneedgum is ook al jaren weg. Gelukkig maar, want inmiddels heb ik nieuwe obsessies. <a href="https://7dagen.netlify.app/blog/7-manieren-om-een-tompouce-weg-te-werken">Het opeten van een tompouce</a> houdt mij bijvoorbeeld erg veel bezig. Of mijn <a href="https://7dagen.netlify.app/blog/mijn-doritosgrot">obsessie met Doritos.</a></em></p>  

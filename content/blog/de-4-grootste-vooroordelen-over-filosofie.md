@@ -1,5 +1,5 @@
 ---
-id: cb6da4ad95d24176bc94fea94409c08c
+id: bbca40fec48b49a98f423d1b1f24065b
 type: post
 layout: post
 title: "De 4 grootste vooroordelen over filosofie"
@@ -21,7 +21,7 @@ Heb jij je profielkeuze al gemaakt? Ik heb gekozen voor filosofie in mijn vrije
         
   
   <div class="content">
-    <img height="2848" width="4272" style="height: 467px; width: 700px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/IMG_2102.JPG" alt="">  </div>
+    <img height="2848" width="4272" style="height: 467px; width: 700px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/IMG_2102.JPG" alt="">  </div>
 
   
 </div>
@@ -34,11 +34,11 @@ Heb jij je profielkeuze al gemaakt? Ik heb gekozen voor filosofie in mijn vrije
         
   
   <div class="content">
-    <img height="2848" width="4272" style="height: 467px; width: 700px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/IMG_2139.JPG" alt="">  </div>
+    <img height="2848" width="4272" style="height: 467px; width: 700px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/IMG_2139.JPG" alt="">  </div>
 
   
 </div>
 </div>
 <p><strong>4. Van filosofie krijg je hoofdpijn</strong><br>En tot slot: hoofdpijn. Alleen al van het wóórd 'filosofie' krijgen de meeste mensen migraine. Om dan nog maar te zwijgen over vragen als 'de zin van het leven' of 'de definitie van geluk'. Ik moet zeggen dat ik mijn glaasje water met paracetamol ook al had klaargezet. Zeker als de schrijvers van filosofische teksten er een wedstrijdje van lijken te maken wie zijn theorie het ingewikkeldst kan uitleggen.</p>
 <p>Maar een meevaller: die hoofdpijn heb ik nooit gekregen. Je hersenen kunnen meer aan dan je denkt. Met uitzondering van wiskundesommen misschien. Dáár krijg ik pas hoofdpijn van!</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/sanne-leferink">Sanne</a> (18)? Laatst schreef ze ook al <a href="https://original.sevendays.nl/blog/waarom-uit-de-kast-komen-onzin">Waarom uit de kast komen onzin is</a> en <a href="https://original.sevendays.nl/blog/dromen-zijn-welgeen-bedrog">Dromen zijn wel/geen bedrog</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/sanne-leferink">Sanne</a> (18)? Laatst schreef ze ook al <a href="https://7dagen.netlify.app/blog/waarom-uit-de-kast-komen-onzin">Waarom uit de kast komen onzin is</a> en <a href="https://7dagen.netlify.app/blog/dromen-zijn-welgeen-bedrog">Dromen zijn wel/geen bedrog</a>.</em></p>  

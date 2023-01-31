@@ -1,5 +1,5 @@
 ---
-id: 5c93e34a6f614a53824bd2976172c2bd
+id: e531b7df03b9435c8d14a090ac670c13
 type: nieuws
 layout: post
 title: "7 dingen die je nog niet wist over Jesse Klaver"
@@ -24,14 +24,14 @@ GroenLinks-leider Jesse Klaver is door Time Magazine uitgeroepen tot één van d
         
   
   <div class="content">
-    <img alt="7 dingen die je nog niet wist over Jesse Klaver" title="Beeld: ANP" height="816" width="1496" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-47626245.jpg">  </div>
+    <img alt="7 dingen die je nog niet wist over Jesse Klaver" title="Beeld: ANP" height="816" width="1496" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-47626245.jpg">  </div>
 
   
 </div>
 </div>
 <div class="kader">
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p>Bekijk ook ons <a href="https://original.sevendays.nl/verkiezingen">dossier over de Tweede Kamerverkiezingen 2017</a></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p>Bekijk ook ons <a href="https://7dagen.netlify.app/verkiezingen">dossier over de Tweede Kamerverkiezingen 2017</a></p>
 </div>
 <p><strong style="font-size: 1.231em;">4. Jesse Klaver scheurt in zijn vrije tijd graag door de duinen</strong></p>
 <p>Op zijn racefiets natuurlijk: lekker milieubewust. De fractievoorzitter woont met zijn vrouw en twee kinderen in Den Haag, dus de duinen zijn om de hoek.</p>

@@ -1,5 +1,5 @@
 ---
-id: 287e7b8061e947c58e8c7bf6c87b6f05
+id: e5001cb3a76644758bf8fcdb41011ce9
 type: post
 layout: post
 title: "Facebook gijzelt ons"
@@ -23,7 +23,7 @@ Facebook wil graag dat mensen zo lang mogelijk in de Facebook-app (of op Faceboo
         
   
   <div class="content">
-    <img alt="facebook Mark Zuckerberg agressief" title="Foto: AFP" height="2832" width="3886" style="height: 619px; width: 850px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-22122946.jpg">  </div>
+    <img alt="facebook Mark Zuckerberg agressief" title="Foto: AFP" height="2832" width="3886" style="height: 619px; width: 850px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-22122946.jpg">  </div>
 
   
 </div>
@@ -31,4 +31,4 @@ Facebook wil graag dat mensen zo lang mogelijk in de Facebook-app (of op Faceboo
 <p><strong>Ik wil geen product zijn</strong><br>Maar zelfs als je helemaal niets invult op Facebook - ook al wordt het zo opdringerig gevraagd - weet het platform nog steeds van alles van je: wie je beste vrienden zijn, welke films je leuk vindt, waar je bent. Dat doet het door jouw surfgedrag te volgen. Het ergste is dat je dit nergens uit kunt zetten. En als Facebook al die dingen weet, weten adverteerders het ook. Doordat Facebook de gegevens van jouw gedrag doorverkoopt aan bedrijven, verdienen beide geld. Maar ik wil geen product zijn.</p>
 <p>Facebook is bovendien een enorm belangrijk media-platform. Veel mensen halen bijna al hun nieuws hier vandaan. Dat is handig, maar het kan je nieuwsinname ook heel eenzijdig maken. Als je bijvoorbeeld heel veel dingen liket over René Froger, krijg je bijna alleen nog maar nieuws over René Froger te zien. En als jouw vrienden allemaal <em>de Telegraaf </em>lezen, is de kans groot dat jouw nieuwsoverzicht ook volstaat met Telegraaf-nieuws.</p>
 <p><strong>Ik mijd het</strong><br>Ik vermijd Facebook zo veel mogelijk. Dat is lastig, want steeds vaker plannen bekenden daarop hun feestjes of andere evenementen. Hopelijk zorgt de steeds duidelijker wordende griezeligheid van Facebook ervoor dat mensen er kritischer over worden en het netwerk niet meer overal voor gaan gebruiken. Tot die tijd kun je me vinden op Hyves.</p>
-<p><em>Meer lezen van Lotte (17)? Ze schreef ook over <a href="https://original.sevendays.nl/blog/onze-manier-van-leven-bestaat-niet">onze manier van leven</a> en <a href="https://original.sevendays.nl/blog/een-gameverslaving-echt-zo-erg">gameverslaving</a>.</em></p>  
+<p><em>Meer lezen van Lotte (17)? Ze schreef ook over <a href="https://7dagen.netlify.app/blog/onze-manier-van-leven-bestaat-niet">onze manier van leven</a> en <a href="https://7dagen.netlify.app/blog/een-gameverslaving-echt-zo-erg">gameverslaving</a>.</em></p>  

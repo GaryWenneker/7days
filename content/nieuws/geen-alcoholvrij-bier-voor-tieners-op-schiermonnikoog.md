@@ -1,5 +1,5 @@
 ---
-id: b84e9670baa646dea18e224539c409e8
+id: 8fbcf89f65994086b3560210a5e8d1e4
 type: nieuws
 layout: post
 title: "Geen alcoholvrij bier voor tieners op Schiermonnikoog"

@@ -1,5 +1,5 @@
 ---
-id: 5387ab7103444284aed49145742d11e0
+id: cfd1513c5ecf48f7ab75d2e33248bbbb
 type: post
 layout: post
 title: "Video: Eieren gooien naar Zomaer op de DYTG"
@@ -27,4 +27,4 @@ Waar de zangers van Zomaer ook naartoe gaan, de vlogcamera gaat altijd mee. I
   
 </div>
 </div>
-<p><em>Meer zien van de DYTG? Check ons <a href="https://original.sevendays.nl/dytg">Dossier DYTG</a> voor alle sfeerreportages en video-interviews. Deze week komt er elke dag om 16.00 uur een nieuwe online, dus blijf ons volgen. En vermaak je in de tussentijd ook met ons <a href="https://original.sevendays.nl/veed">Dossier VEED</a>!</em></p>  
+<p><em>Meer zien van de DYTG? Check ons <a href="https://7dagen.netlify.app/dytg">Dossier DYTG</a> voor alle sfeerreportages en video-interviews. Deze week komt er elke dag om 16.00 uur een nieuwe online, dus blijf ons volgen. En vermaak je in de tussentijd ook met ons <a href="https://7dagen.netlify.app/veed">Dossier VEED</a>!</em></p>  

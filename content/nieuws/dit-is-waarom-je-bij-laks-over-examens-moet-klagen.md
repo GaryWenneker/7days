@@ -1,5 +1,5 @@
 ---
-id: 0a6c8321a2eb45dcb7ef1fad094402e9
+id: 712d05a093944f58a1d82718261ca9b5
 type: nieuws
 layout: post
 title: "Dit is waarom je bij LAKS over examens moet klagen"
@@ -23,7 +23,7 @@ Een te moeilijk examen, een onduidelijke vraag of veel overlast. Examenkandidate
         
   
   <div class="content">
-    <img alt="LAKS examens" title="Foto: Angeliek de Jonge" height="2971" width="4457" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/foto%20Angeliek%20de%20Jonge%20-%20LAKS%202.jpg">  </div>
+    <img alt="LAKS examens" title="Foto: Angeliek de Jonge" height="2971" width="4457" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/foto%20Angeliek%20de%20Jonge%20-%20LAKS%202.jpg">  </div>
 
   
 </div>

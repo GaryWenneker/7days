@@ -1,5 +1,5 @@
 ---
-id: 6007f06c7306408296dceeab9b4f79ba
+id: ebd978c2d3a540fe9d020147a6f10934
 type: post
 layout: post
 title: "Maak anti-stressles een verplicht schoolvak"
@@ -20,4 +20,4 @@ Het leven van een scholier bestaat uit vermoeiende toetsweken, gênante mondelin
 <p>Sommige basisscholen zijn er al mee bezig: SchoolTV heeft video’s gemaakt waarin rapper Akwasi kinderen leert dansen, mediteren, lachen en vooral relaxen. Als basisschoolleerlingen al moeten leren omgaan met stress, dan zou voor middelbare scholieren zo’n uurtje gym-zonder-sporten toch nog veel nuttiger zijn?</p>
 <h3>Moeite waard</h3>
 <p>Natuurlijk kosten anti-stresslessen enige moeite, lokalen en leraren maar volgens mij is het echt de moeite waard. Ik vind dat school het ons verschuldigd is. Zonder al die toetsweken en mondelingen zou ik immers al een veel stresslozer bestaan leiden.</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/lotte-rolleman">Lotte Rolleman</a> (17)? Laatst schreef ze ook <a href="https://original.sevendays.nl/blog/de-4-mooiste-momenten-tijdens-het-buitenspelen">De 4 mooiste momenten tijdens het buitenspelen</a> en <a href="https://original.sevendays.nl/blog/waarom-de-chocoladereep-het-wint-van-hardlopen">Waarom de chocoladereep het wint van hardlopen</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/lotte-rolleman">Lotte Rolleman</a> (17)? Laatst schreef ze ook <a href="https://7dagen.netlify.app/blog/de-4-mooiste-momenten-tijdens-het-buitenspelen">De 4 mooiste momenten tijdens het buitenspelen</a> en <a href="https://7dagen.netlify.app/blog/waarom-de-chocoladereep-het-wint-van-hardlopen">Waarom de chocoladereep het wint van hardlopen</a>.</em></p>  

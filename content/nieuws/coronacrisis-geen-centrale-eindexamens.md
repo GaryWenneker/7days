@@ -1,5 +1,5 @@
 ---
-id: 56e1f9e09ffd44a7b880011e730498ec
+id: d8b88f6aa65c4d96a0a80dc36a56ed5e
 type: nieuws
 layout: post
 title: "Coronacrisis: geen centrale eindexamens"
@@ -13,7 +13,7 @@ seo:
 ---
 De centrale schriftelijke eindexamens voor leerlingen op middelbare scholen gaan dit jaar niet door. Dat zei onderwijsminister Slob vandaag.  
 
-    <p>Een aantal onderwijsorganisaties riep de overheid al langer op om de centrale examens te schrappen. Sinds het kabinet maandag met nog <a href="https://original.sevendays.nl/nieuws/extra-maatregelen-de-strijd-tegen-corona" target="_blank">strengere maatregelen</a> kwam om de verspreiding van het coronavirus te stoppen, werd hun verzoek dringender.</p>
+    <p>Een aantal onderwijsorganisaties riep de overheid al langer op om de centrale examens te schrappen. Sinds het kabinet maandag met nog <a href="https://7dagen.netlify.app/nieuws/extra-maatregelen-de-strijd-tegen-corona" target="_blank">strengere maatregelen</a> kwam om de verspreiding van het coronavirus te stoppen, werd hun verzoek dringender.</p>
 <h3>Centraal schriftelijk</h3>
 <p>De centrale schriftelijke examens voor vmbo'ers, havisten en vwo'ers zouden 7 mei beginnen. Vmbo'ers zouden vanaf 30 maart al aan de slag gaan met hun praktijkexamens en digitale examens.</p>
 <p>Het halen van de schoolexamens, die leerlingen ter voorbereiding op de landelijke examens hebben gemaakt, is nu genoeg voor een diploma. Scholen hebben nu meer tijd om de schoolexamens voor te bereiden.</p>

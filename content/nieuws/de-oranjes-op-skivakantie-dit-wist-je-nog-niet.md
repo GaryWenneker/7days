@@ -1,5 +1,5 @@
 ---
-id: d6b9007fa84e46bca2b5e93949e568b3
+id: 569075861c714435b27b07c085786ffa
 type: nieuws
 layout: post
 title: "De Oranjes op skivakantie: dit wist je nog niet"
@@ -18,9 +18,9 @@ seo:
         
   
   <div class="content">
-    <img alt="koninklijke familie in Lech" title="Foto ANP" height="1748" width="2786" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-49990038.jpg">  </div>
+    <img alt="koninklijke familie in Lech" title="Foto ANP" height="1748" width="2786" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-49990038.jpg">  </div>
 
   
 </div>
 </div><br><strong>4.</strong> In 2012 veranderde het Lechsprookje in een nachtmerrie: <strong>prins Friso kwam onder een lawine terecht</strong>. Hij overleed uiteindelijk aan de gevolgen daarvan. Toch bleven de Oranjes er komen. In de kerk van Lech brandt nog altijd een kaarsje bij de foto van Friso.<br><br><strong>5.</strong> Het ‘<strong>vrolijke-fotomoment-op-maandag</strong>’ is inmiddels ook een heuse traditie geworden. Het maakt onderdeel uit van de mediacode die de Oranjes in 2005 bedachten. Het idee: de pers mag een uurtje onbeschaamd klikken en filmen, maar daarna moeten ze de familie met rust laten.<br><br><strong>6.</strong> <em><strong>De</strong> </em><strong><em>Telegraaf</em> is één keer stout geweest</strong>: in 2015 publiceerden ze foto’s van Beatrix in het wild. Voor straf mochten ze dat jaar niet bij de fotosessie zijn.<br><br><strong>7. </strong>Het groepje op de foto was dit jaar kleiner dan anders: <strong>Beatrix was alweer naar huis</strong>. Ze was eerder deze maand al in Lech, met prinses Mabel en haar dochters. Ook het gezin van prins Constantijn was niet bij de sneeuw-shoot.
-<p><em>Altijd op de hoogte blijven van tips die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van tips die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

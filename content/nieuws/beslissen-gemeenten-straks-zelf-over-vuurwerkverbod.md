@@ -1,5 +1,5 @@
 ---
-id: 888db193e5d0469d98f1677b0c8cec5d
+id: a148ee2f911c45feade923d0b658fffb
 type: nieuws
 layout: post
 title: "Beslissen gemeenten straks zelf over vuurwerkverbod?"

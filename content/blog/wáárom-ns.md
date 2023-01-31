@@ -1,5 +1,5 @@
 ---
-id: 9c1571f8552b46929374358cbeb94581
+id: 24230ead77fa494b98361f04e26fffc1
 type: post
 layout: post
 title: "Wáárom, NS?"
@@ -18,7 +18,7 @@ seo:
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ns2.png" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ns2.png" alt="">  </div>
 
   
 </div>

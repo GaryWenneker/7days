@@ -1,5 +1,5 @@
 ---
-id: cd7c046846d1412ca7ce2955b9e4fe8f
+id: 8445890e75b84c51a08788bf700d1f91
 type: post
 layout: post
 title: "Voorgelicht? Opgelicht!"
@@ -18,4 +18,4 @@ seo:
 <p>Was het heteroseks geweest, dan had niemand het gesprek met zijn buurman of buurvrouw over hoe afgelopen weekend was, onderbroken om er iets over te zeggen. Maar nu klaagden zelfs de stoerste jongens met hun handen tegen hun oren en dichtgeknepen ogen dat deze film ‘echt zo fakking gay’ was. </p>
 <p><strong>Beter niet bij biologie</strong><br>Een docente vertelde me: ‘Eerlijk gezegd heb ik te weinig kennis over niet-heteroseks, collega’s misschien ook. Dat kan een reden zijn waarom het niet besproken wordt.’ Bovendien is het op mijn school maar één van de vele biologiehoofdstukken. </p>
 <p>Misschien zou seksuele voorlichting buiten biologie om moeten worden behandeld, zodat er echt op in gegaan kan worden. Met iets meer aandacht voor niet-hetero’s. Zodat Willem en ik voortaan ook onverstoorbaar over ons weekend kunnen praten.</p>
-<p><em>Wil je meer blogs lezen van <a href="https://original.sevendays.nl/users/cas-visser">Cas</a> (17)? Laatst schreef hij ook al <a href="https://original.sevendays.nl/blog/het-drama-dat-samenwerken-heet">Het drama dat samenwerken heet</a> en <a href="https://original.sevendays.nl/blog/applemoes">Applemoes</a>.</em></p>  
+<p><em>Wil je meer blogs lezen van <a href="https://7dagen.netlify.app/users/cas-visser">Cas</a> (17)? Laatst schreef hij ook al <a href="https://7dagen.netlify.app/blog/het-drama-dat-samenwerken-heet">Het drama dat samenwerken heet</a> en <a href="https://7dagen.netlify.app/blog/applemoes">Applemoes</a>.</em></p>  

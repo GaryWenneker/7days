@@ -1,5 +1,5 @@
 ---
-id: 1466691f7de9453281e4cd0d04f1220d
+id: d36dd07518034b8a843707dbd093994c
 type: nieuws
 layout: post
 title: "Geldautomaten gaan 's nachts voortaan uit"

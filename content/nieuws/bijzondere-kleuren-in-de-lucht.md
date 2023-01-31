@@ -1,5 +1,5 @@
 ---
-id: f7eea9a0a9874920a0a88a866aa6b42f
+id: 5654a3ec0a3d42908da97c79f57d2f0c
 type: nieuws
 layout: post
 title: "Bijzondere kleuren in de lucht"
@@ -18,7 +18,7 @@ De lucht boven het noorden van Nederland kleurde vannacht roze, paars, geel en g
         
   
   <div class="content">
-    <img alt="Noorderlicht Douwe van der Leij ANP" title="Noorderlicht Douwe van der Leij ANP" height="833" width="1344" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Noorderlicht%20Douwe%20van%20der%20Leij.jpg">  </div>
+    <img alt="Noorderlicht Douwe van der Leij ANP" title="Noorderlicht Douwe van der Leij ANP" height="833" width="1344" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Noorderlicht%20Douwe%20van%20der%20Leij.jpg">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ De lucht boven het noorden van Nederland kleurde vannacht roze, paars, geel en g
         
   
   <div class="content">
-    <img alt="Noorderlicht Hans van Eijsden ANP" title="Noorderlicht Hans van Eijsden ANP" height="1365" width="2048" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Noorderlicht%20Hans%20van%20Eijsden%20ANP_0.jpg">  </div>
+    <img alt="Noorderlicht Hans van Eijsden ANP" title="Noorderlicht Hans van Eijsden ANP" height="1365" width="2048" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Noorderlicht%20Hans%20van%20Eijsden%20ANP_0.jpg">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ De lucht boven het noorden van Nederland kleurde vannacht roze, paars, geel en g
         
   
   <div class="content">
-    <img height="2741" width="3893" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Noorderlicht%20Duitsland.jpg" alt="">  </div>
+    <img height="2741" width="3893" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Noorderlicht%20Duitsland.jpg" alt="">  </div>
 
   
 </div>
@@ -45,7 +45,7 @@ De lucht boven het noorden van Nederland kleurde vannacht roze, paars, geel en g
         
   
   <div class="content">
-    <img height="2727" width="4096" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Noorderlicht%20Hongarije.jpg" alt="">  </div>
+    <img height="2727" width="4096" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Noorderlicht%20Hongarije.jpg" alt="">  </div>
 
   
 </div>
@@ -54,7 +54,7 @@ De lucht boven het noorden van Nederland kleurde vannacht roze, paars, geel en g
         
   
   <div class="content">
-    <img height="2699" width="4219" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Noorderlicht%20Denemarken%20Zweden.jpg" alt="">  </div>
+    <img height="2699" width="4219" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Noorderlicht%20Denemarken%20Zweden.jpg" alt="">  </div>
 
   
 </div>

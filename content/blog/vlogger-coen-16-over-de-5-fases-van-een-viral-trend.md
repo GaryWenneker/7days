@@ -1,5 +1,5 @@
 ---
-id: a99e8443a1cf49069cf06e9d694d3882
+id: 2c3a08fc82ca46999ea29b0b872735c9
 type: post
 layout: post
 title: "Vlogger Coen (16) over de 5 fases van een viral trend"
@@ -27,4 +27,4 @@ Om de week vind je op Sevendays.nl een nieuwe video van onze huisvlogger Coen 
   
 </div>
 </div>
-<p><em>Meer zien van vlogger Coen? <a href="https://original.sevendays.nl/users/coen-wassink">Bekijk hier meer video's! </a></em></p>  
+<p><em>Meer zien van vlogger Coen? <a href="https://7dagen.netlify.app/users/coen-wassink">Bekijk hier meer video's! </a></em></p>  

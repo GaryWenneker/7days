@@ -1,5 +1,5 @@
 ---
-id: 4734d3f6094f41c8a2ea0af0c4ddf6ff
+id: 6a0a0e17054b4d3d83542800e10f5f98
 type: nieuws
 layout: post
 title: "Advies van de politie: 'Stop met sexting'"
@@ -13,7 +13,7 @@ seo:
 ---
 Naaktfoto's of video's van jezelf of iemand anders in z'n ondergoed op internet zetten. Gewoon echt helemaal never nooit meer doen. Dat is een nieuw advies van de politie.  
 
-    <p>Tot nu toe adviseerde de politie over <a href="https://original.sevendays.nl/school/wat-als-jouw-naaktfoto-op-internet-staat" target="_blank">sexting</a> om 'sexy' beelden alleen in een vertrouwde omgeving rond te sturen. Daarvan komt de politie nu terug. Ook de tips om niet herkenbaar in beeld te komen, worden losgelaten.</p>
+    <p>Tot nu toe adviseerde de politie over <a href="https://7dagen.netlify.app/school/wat-als-jouw-naaktfoto-op-internet-staat" target="_blank">sexting</a> om 'sexy' beelden alleen in een vertrouwde omgeving rond te sturen. Daarvan komt de politie nu terug. Ook de tips om niet herkenbaar in beeld te komen, worden losgelaten.</p>
 <h3>Nooit onherkenbaar</h3>
 <p>De <em><a href="https://nos.nl/artikel/2248894-politie-scherpt-advies-aan-jongeren-aan-stop-met-sexting.html" target="_blank">NOS</a>  </em>sprak met een zedenexpert bij de Nationale Politie die uitlegt dat je eigenlijk nooit onherkenbaar op een foto staat, zelfs niet als je hoofd niet in beeld is. Iemand die kwaad wil, kan altijd achterhalen wie je bent: 'We hebben voorbeelden van hoe foto's online worden vergeleken om te achterhalen om wie het gaat.'</p>
 <h3>Ongelukkig</h3>

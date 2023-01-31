@@ -1,5 +1,5 @@
 ---
-id: fc6e32fba5de4d909ead7367986dc48b
+id: b9a8664355d24b119286c8bf3ccc879d
 type: post
 layout: post
 title: "Wie de hoed past, trekt 'm aan"
@@ -33,4 +33,4 @@ Wanneer mijn pakket van H&amp;M eindelijk binnen is, kan ik niet wachten om mi
 <p><strong>Verrijking voor je garderobe</strong><br>Toch snap ik niet waarom ze zo nadelig over mijn hoed denken. Een hoed is een enorme verrijking voor je garderobe. Fedora’s zijn enorm veelzijdig, je kunt ze vrijwel overal bij dragen. T-shirts, een tanktop of een overhemd: het is allemaal mogelijk!</p>
 <p>Ook in de zomer is het een voordeel, want het zorgt voor schaduw bij je ogen. Het enige nadeel dat ik zo snel kan bedenken is dat-ie bij een zomers briesje snel van je hoofd af waait.</p>
 <p><strong>Hartstikke hip</strong><br>Deze voordelen kennen de bekende mensen die een hoed dragen ook. Denk aan Johnny Depp, Giel van StukTV en Waylon dus. Het is dus hartstikke hip! Waarom zou een über-<em>famous 7Days</em>-blogger zoals ik (ahem) dan niet in het rijtje van hoedendragers mogen staan? Het is bijdetijds, heeft enorm veel voordelen en ik ben wel eens toe aan iets nieuws. Ik neem mijn hoedje af voor mensen die mijn keuze voor een hoed níet veroordelen.</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/niek-de-bruijn">Niek </a>(18)? Laatst schreef hij al <a href="https://original.sevendays.nl/blog/ik-wil-mannen-make">Ik wil mannen-make-up</a> en <a href="https://original.sevendays.nl/blog/lijden-door-het-scheiden">Lijden door het scheiden</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/niek-de-bruijn">Niek </a>(18)? Laatst schreef hij al <a href="https://7dagen.netlify.app/blog/ik-wil-mannen-make">Ik wil mannen-make-up</a> en <a href="https://7dagen.netlify.app/blog/lijden-door-het-scheiden">Lijden door het scheiden</a>.</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: dfb5017cd6ae494ea3eb2e8c56a75628
+id: 5c64c03e29864e82b6d6cb3a23dcc0f2
 type: nieuws
 layout: post
 title: "7 dingen die je moet weten voor het laatste seizoen van Game of Thrones"

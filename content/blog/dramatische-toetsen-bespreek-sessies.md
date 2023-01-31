@@ -1,5 +1,5 @@
 ---
-id: e838ba2231874986a09480ca515df81d
+id: 7b47406d2dba4241b13cf1e0dcfbbd85
 type: post
 layout: post
 title: "Dramatische toetsen-bespreek-sessies"
@@ -19,4 +19,4 @@ Toetsen (of tentamens of examens) maken, is iets waar iedereen aan moet geloven.
 <p><b>Onzekerheid</b><br>Iedereen begint door elkaar te praten en schreeuwt zo hard mogelijk zijn of haar antwoorden van achter naar voor, van voor naar achter en van links naar rechts. Zo gaat dat even door. Ondertussen neemt de onzekerheid toe bij diegenen die horen dat iedereen alle antwoorden anders heeft ingevuld.</p>
 <p>Terwijl de ene helft steeds blijer wordt te horen dat ze alles goed hebben, is de andere helft inmiddels zo in paniek dat ze al schreeuwend hard heen en weer gaan rennen, de aula rond. </p>
 <p><strong>Dat komt ervan</strong><br>Dat krijg je nou, van zo'n toets-bespreek-sessie direct na afloop. Mijn tip is dus: Doe het niet. Denk er na het maken van een toets gewoon niet meer na, vergeet direct alle leerstof en het belangrijkste van alles: zwijg. Anders verandert je brave klasje in een GEKKENHUIS. </p>
-<p><em>Meer blogs lezen van Lucas (16)? Lees ook <a href="https://original.sevendays.nl/blog/mijn-schijtstrijd" target="_blank">Mijn schijtstrijd</a>, <a href="https://original.sevendays.nl/blog/alles-verandert-behalve-het-onderwijs" target="_blank">Alles verandert, behalve het onderwijs</a>, of <a href="https://original.sevendays.nl/blog/nachtjacht-de-strijd-tegen-de-mug" target="_blank">Nachtjacht: de strijd tegen de mug</a>. </em></p>  
+<p><em>Meer blogs lezen van Lucas (16)? Lees ook <a href="https://7dagen.netlify.app/blog/mijn-schijtstrijd" target="_blank">Mijn schijtstrijd</a>, <a href="https://7dagen.netlify.app/blog/alles-verandert-behalve-het-onderwijs" target="_blank">Alles verandert, behalve het onderwijs</a>, of <a href="https://7dagen.netlify.app/blog/nachtjacht-de-strijd-tegen-de-mug" target="_blank">Nachtjacht: de strijd tegen de mug</a>. </em></p>  

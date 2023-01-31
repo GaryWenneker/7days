@@ -1,5 +1,5 @@
 ---
-id: fc480789f6284a3f834b413914221b8f
+id: 0787067935a5417fa0233e679092955e
 type: post
 layout: post
 title: "De aller- allerflauwste grappen"
@@ -25,7 +25,7 @@ Toen je jonger was, maakte het geen bal uit hoe flauw een grap was. Elke opmerk
         
   
   <div class="content">
-    <img height="531" width="480" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/mac.jpg" alt="">  </div>
+    <img height="531" width="480" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/mac.jpg" alt="">  </div>
 
   
 </div>
@@ -40,7 +40,7 @@ Toen je jonger was, maakte het geen bal uit hoe flauw een grap was. Elke opmerk
         
   
   <div class="content">
-    <img height="533" width="553" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ernie_0.jpg" alt="">  </div>
+    <img height="533" width="553" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ernie_0.jpg" alt="">  </div>
 
   
 </div>
@@ -55,7 +55,7 @@ Toen je jonger was, maakte het geen bal uit hoe flauw een grap was. Elke opmerk
         
   
   <div class="content">
-    <img height="480" width="320" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/framboos.jpg" alt="">  </div>
+    <img height="480" width="320" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/framboos.jpg" alt="">  </div>
 
   
 </div>

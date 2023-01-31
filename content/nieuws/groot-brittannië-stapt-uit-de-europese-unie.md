@@ -1,5 +1,5 @@
 ---
-id: 15b2675fd4b648788f33c64a757dcf25
+id: fdf35625f7544601aaf5ce8358758f47
 type: nieuws
 layout: post
 title: "Groot-Brittannië stapt uit de Europese Unie"
@@ -20,7 +20,7 @@ Het is zeker: Groot-Brittannië stapt uit de EU. Bij het referendum over de Bre
         
   
   <div class="content">
-    <img title="Beeld: AFP" height="570" width="1129" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202016-06-24%20om%2006.49.50.png" alt="">  </div>
+    <img title="Beeld: AFP" height="570" width="1129" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202016-06-24%20om%2006.49.50.png" alt="">  </div>
 
   
 </div>
@@ -32,7 +32,7 @@ Het is zeker: Groot-Brittannië stapt uit de EU. Bij het referendum over de Bre
         
   
   <div class="content">
-    <img title="Beeld: ANP" height="685" width="1391" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202016-06-24%20om%2006.52.31.png" alt="">  </div>
+    <img title="Beeld: ANP" height="685" width="1391" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202016-06-24%20om%2006.52.31.png" alt="">  </div>
 
   
 </div>
@@ -42,4 +42,4 @@ Het is zeker: Groot-Brittannië stapt uit de EU. Bij het referendum over de Bre
 <p><strong>Wat betekent de Brexit voor... premier David Cameron?</strong><br>Het EU-referendum is door premier David Cameron zelf opgezet, om de anti-EU'ers tegemoet te komen. Cameron wilde graag in de EU blijven, maar dat is hem niet gelukt. Hij heeft daarom besloten op te stappen als premier.</p>
 <p><strong>Wat betekent de Brexit voor... de Europese Unie?</strong><br>In Brussel zullen ze maar wat boos zijn op de eigenwijze Britten. Wat nu volgt is een lastige en lange vertrekprocedure. Dat is nog nooit gebeurd. Alle EU-landen moeten gaan vergaderen: hoe nemen we afscheid van de Britten? Dat kan wel twee jaar duren. Binnen de EU zelf zal vooral gekeken worden: hoe hadden we dit kunnen voorkomen?</p>
 <p><strong>Wat betekent de Brexit voor... Nederland?</strong><br>'Die blijven wel lid', dacht premier Mark Rutte vooraf. Niet dus. Nederland handelt elk jaar veel met de Britten. Zo'n Brexit kan dus wel eens slecht zijn voor onze economie. Veel politici in Nederland balen, maar sommigen zijn blij. Geert Wilders bijvoorbeeld: hij wil dat in Nederland ook een referendum komt en wij ook de EU verlaten. Zo ver is het nog lang niet. </p>
-<p><em>Snap jij stiekem nog geen snars van de Europese Unie? Lees ons artikel <a href="https://original.sevendays.nl/nieuws/de-europese-unie-voor-beginners">EU voor Beginners</a> en je begrijpt 't wèl.</em></p>  
+<p><em>Snap jij stiekem nog geen snars van de Europese Unie? Lees ons artikel <a href="https://7dagen.netlify.app/nieuws/de-europese-unie-voor-beginners">EU voor Beginners</a> en je begrijpt 't wèl.</em></p>  

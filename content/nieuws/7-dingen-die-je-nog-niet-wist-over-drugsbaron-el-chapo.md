@@ -1,5 +1,5 @@
 ---
-id: b7ead53ddf4148458dad030af4eb1077
+id: 0f98e821d3b54e62a15a8ba04874e3ca
 type: nieuws
 layout: post
 title: "7 dingen die je nog niet wist over drugsbaron El Chapo"
@@ -18,7 +18,7 @@ De Mexicaanse drugsbaron El Chapo moet voor de rest van zijn leven de cel in. Da
         
   
   <div class="content">
-    <img height="354" width="274" style="font-size: 13.008px; width: 200px; height: 258px; float: right;" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/reserve%20AFP-33681223_0.jpg" alt="">  </div>
+    <img height="354" width="274" style="font-size: 13.008px; width: 200px; height: 258px; float: right;" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/reserve%20AFP-33681223_0.jpg" alt="">  </div>
 
   
 </div>
@@ -32,7 +32,7 @@ De Mexicaanse drugsbaron El Chapo moet voor de rest van zijn leven de cel in. Da
         
   
   <div class="content">
-    <img height="371" width="560" style="width: 900px; height: 596px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/beeld%202%20Reuters-35998198_0.jpg" alt="">  </div>
+    <img height="371" width="560" style="width: 900px; height: 596px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/beeld%202%20Reuters-35998198_0.jpg" alt="">  </div>
 
   
 </div>
@@ -42,7 +42,7 @@ De Mexicaanse drugsbaron El Chapo moet voor de rest van zijn leven de cel in. Da
         
   
   <div class="content">
-    <img height="354" width="236" style="font-size: 13.008px; width: 200px; height: 300px; float: right;" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/beeld%205%20Netflix%20-%201516488204550_0.jpg" alt="">  </div>
+    <img height="354" width="236" style="font-size: 13.008px; width: 200px; height: 300px; float: right;" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/beeld%205%20Netflix%20-%201516488204550_0.jpg" alt="">  </div>
 
   
 </div>
@@ -60,7 +60,7 @@ De Mexicaanse drugsbaron El Chapo moet voor de rest van zijn leven de cel in. Da
         
   
   <div class="content">
-    <img height="370" width="560" style="width: 900px; height: 595px;" class="media-element file-default" data-delta="5" src="https://original.sevendays.nl/sites/default/files/ANP-58886857_0.jpg" alt="">  </div>
+    <img height="370" width="560" style="width: 900px; height: 595px;" class="media-element file-default" data-delta="5" src="https://7dagen.netlify.app/sites/default/files/ANP-58886857_0.jpg" alt="">  </div>
 
   
 </div>
@@ -72,7 +72,7 @@ De Mexicaanse drugsbaron El Chapo moet voor de rest van zijn leven de cel in. Da
         
   
   <div class="content">
-    <img height="373" width="560" style="width: 900px; height: 599px;" class="media-element file-default" data-delta="4" src="https://original.sevendays.nl/sites/default/files/beeld%206%20Reuters-65264275.jpg" alt="">  </div>
+    <img height="373" width="560" style="width: 900px; height: 599px;" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/beeld%206%20Reuters-65264275.jpg" alt="">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: 0aae52410c92459ca4b23fc2a5177205
+id: 3e7f6f3e86834cefbb2e8e7d093fc001
 type: nieuws
 layout: post
 title: "7 vooruitstrevende Barbiepoppen"
@@ -19,7 +19,7 @@ Een Barbie-pop is ultradun, heeft blond haar en al haar kleren zijn roze. Toch? 
         
   
   <div class="content">
-    <img alt="Foto: Mattel, Inc." title="Foto: Mattel, Inc." height="800" width="800" style="font-size: 13.008px; width: 150px; height: 150px; float: left;" class="media-element file-default" data-delta="4" src="https://original.sevendays.nl/sites/default/files/Barbie%20astronaut.jpg">  </div>
+    <img alt="Foto: Mattel, Inc." title="Foto: Mattel, Inc." height="800" width="800" style="font-size: 13.008px; width: 150px; height: 150px; float: left;" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/Barbie%20astronaut.jpg">  </div>
 
   
 </div>
@@ -31,7 +31,7 @@ Een Barbie-pop is ultradun, heeft blond haar en al haar kleren zijn roze. Toch? 
         
   
   <div class="content">
-    <img alt="Foto: Mattel, Inc." title="Foto: Mattel, Inc." height="912" width="651" style="font-size: 13.008px; width: 100px; height: 140px; float: right;" class="media-element file-default" data-delta="5" src="https://original.sevendays.nl/sites/default/files/1973-surgeon.jpg">  </div>
+    <img alt="Foto: Mattel, Inc." title="Foto: Mattel, Inc." height="912" width="651" style="font-size: 13.008px; width: 100px; height: 140px; float: right;" class="media-element file-default" data-delta="5" src="https://7dagen.netlify.app/sites/default/files/1973-surgeon.jpg">  </div>
 
   
 </div>
@@ -43,7 +43,7 @@ Een Barbie-pop is ultradun, heeft blond haar en al haar kleren zijn roze. Toch? 
         
   
   <div class="content">
-    <img alt="Foto: Mattel, Inc." title="Foto: Mattel, Inc." height="912" width="291" style="font-size: 13.008px; width: 100px; height: 313px; float: left;" class="media-element file-default" data-delta="6" src="https://original.sevendays.nl/sites/default/files/1992-presidential-candidate.jpg">  </div>
+    <img alt="Foto: Mattel, Inc." title="Foto: Mattel, Inc." height="912" width="291" style="font-size: 13.008px; width: 100px; height: 313px; float: left;" class="media-element file-default" data-delta="6" src="https://7dagen.netlify.app/sites/default/files/1992-presidential-candidate.jpg">  </div>
 
   
 </div>
@@ -63,7 +63,7 @@ Een Barbie-pop is ultradun, heeft blond haar en al haar kleren zijn roze. Toch? 
         
   
   <div class="content">
-    <img alt="Foto: Mattel, Inc." title="Foto: Mattel, Inc." height="1140" width="1599" style="font-size: 13.008px; width: 900px; height: 642px;" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/2019_Fashionistas2.jpg">  </div>
+    <img alt="Foto: Mattel, Inc." title="Foto: Mattel, Inc." height="1140" width="1599" style="font-size: 13.008px; width: 900px; height: 642px;" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/2019_Fashionistas2.jpg">  </div>
 
   
 </div>

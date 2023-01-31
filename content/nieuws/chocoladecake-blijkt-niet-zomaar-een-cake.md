@@ -1,5 +1,5 @@
 ---
-id: 0eb1fd31614a408aa2745810cfa67d93
+id: d31bbd7968024326b3469075e8df764a
 type: nieuws
 layout: post
 title: "Chocoladecake blijkt niet zomaar een cake"

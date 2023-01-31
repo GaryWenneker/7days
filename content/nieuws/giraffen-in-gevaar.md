@@ -1,5 +1,5 @@
 ---
-id: 52e152299eec4909acb85488e1d5c899
+id: a31e002903c64b0f924b6265c93cd1be
 type: nieuws
 layout: post
 title: "Giraffen in gevaar"
@@ -19,4 +19,4 @@ seo:
 <p>Dit jaar staan er maar liefst 24.307 verschillende soorten op. Terwijl er al veel zorgen waren over grote landreuzen als olifanten en neushoorns, ligt dus nu ook de giraf onder vuur.</p>
 <h3>Nek uitsteken</h3>
 <p>De giraf heeft de stempel 'kwetsbaar' gekregen. Net één stapje voor 'met uitsterven bedreigd'. Julian Fennessy is de giraf-deskundige bij de IUCN en zegt hierover: 'Omdat giraffen nog vaak op safari worden gezien, zijn we ons er niet van bewust dat deze statige dieren stilletjes aan het uitsterven zijn. Het is dringend nodig dat we onze nek uitsteken voordat het te laat is voor de giraf.'</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

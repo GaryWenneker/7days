@@ -1,5 +1,5 @@
 ---
-id: cd539b1471f54a108614ce6db940ff49
+id: 550aabc87ffd4a8b92acdacc302f2c13
 type: post
 layout: post
 title: "Waarom ik zo gek ben op de mode in Seoul"

@@ -1,5 +1,5 @@
 ---
-id: f125ce934d3d443fa924082b1e259fb7
+id: f0d676cc4eb34c078dc16528c99bc7b5
 type: nieuws
 layout: post
 title: "'De zonnebank is gevaarlijk en moet verboden worden'"

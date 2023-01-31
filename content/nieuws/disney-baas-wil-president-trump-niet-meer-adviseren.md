@@ -1,5 +1,5 @@
 ---
-id: c813838bf9a7488499ffb355c99b6d05
+id: bbb07451c3784c0bbfd149f2ec5f5417
 type: nieuws
 layout: post
 title: "Disney-baas wil president Trump niet meer adviseren"
@@ -60,5 +60,5 @@ Robert Iger is het zat. De baas van Walt Disney wil president Donald Trump niet 
 </div>
 </div>
 <h3>Eerlijkere deal</h3>
-<p>Donderdag maakte Trump bekend dat Amerika <a href="https://original.sevendays.nl/nieuws/zo-denkt-donald-trump-over-klimaatverandering">uit het klimaatakkoord van Parijs</a> stapt. Een definitieve exit is het echter niet, hij wil namelijk wel onderhandelen over een eventuele terugkeer. Ook sluit hij niet uit dat er een nieuw klimaatakkoord komt, maar dan wil de Amerikaanse president naar eigen zeggen wel 'een eerlijkere deal voor de VS en zijn arbeiders.'</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op 7Days!</em></p>  
+<p>Donderdag maakte Trump bekend dat Amerika <a href="https://7dagen.netlify.app/nieuws/zo-denkt-donald-trump-over-klimaatverandering">uit het klimaatakkoord van Parijs</a> stapt. Een definitieve exit is het echter niet, hij wil namelijk wel onderhandelen over een eventuele terugkeer. Ook sluit hij niet uit dat er een nieuw klimaatakkoord komt, maar dan wil de Amerikaanse president naar eigen zeggen wel 'een eerlijkere deal voor de VS en zijn arbeiders.'</p>
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op 7Days!</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: 5ce93351ab994cd3b19eaa7b5a958721
+id: a1a3eb3e43b84cfb9777d796c54b1715
 type: post
 layout: post
 title: "Italië-schoolreis: Omvergelopen door massa's toeristen"
@@ -18,4 +18,4 @@ Deze maand ben ik met school naar Italië geweest. We hebben een aantal hele moo
 <p>Voor je het weet, raak je net als ik verzeild in een kolonne ultra-enthousiaste Chinezen die één lange pendelfile vormen. Dan kun je net als ik de helft van de bezienswaardigheden weer van je lijst schrappen in verband met tijdnood.</p>
 <p><strong>Op een rustiger moment teruggaan </strong><br>Hoewel het echt een fantastische reis was, weet ik zeker dat ik nog eens terug zal moeten gaan om sommige dingen echt te kunnen bekijken. Daar moet ik dan wel een geschikt tijdstip voor vinden, waarop Venetië zo goed als leeg is en Julia's standbeeld met rust wordt gelaten.</p>
 <p>Hmm, dat klinkt als een droom die te mooi is om waar te zijn. Misschien wordt mijn volgende bezoekje aan Italië wel hartje winter of een onmogelijk uur midden in de nacht.</p>
-<p><em>Meer blogs lezen van Ezra (15)? Laatst schreef hij ook al <a href="https://original.sevendays.nl/blog/nintendo-nostalgie-door-asociaal-geapp">Nintendo-nostalgie door asociaal ge'app</a> en <a href="https://original.sevendays.nl/blog/mijn-obsessie-voor-k3">Mijn obsessie voor K3</a>.</em></p>  
+<p><em>Meer blogs lezen van Ezra (15)? Laatst schreef hij ook al <a href="https://7dagen.netlify.app/blog/nintendo-nostalgie-door-asociaal-geapp">Nintendo-nostalgie door asociaal ge'app</a> en <a href="https://7dagen.netlify.app/blog/mijn-obsessie-voor-k3">Mijn obsessie voor K3</a>.</em></p>  

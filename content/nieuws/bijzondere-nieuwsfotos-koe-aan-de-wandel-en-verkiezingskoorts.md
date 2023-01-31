@@ -1,5 +1,5 @@
 ---
-id: ae1c7050d9944157b590d15d21192678
+id: d48c2d41955d4b8a81bab3eac655610f
 type: nieuws
 layout: post
 title: "Bijzondere nieuwsfoto's: koe aan de wandel en verkiezingskoorts"
@@ -20,7 +20,7 @@ Weekend! Tijd voor een plaatje met een praatje. Er komen heel wat nieuwsfoto’s
         
   
   <div class="content">
-    <img alt="Istanbul verkiezingscampagne  Foto AFP" title="Istanbul verkiezingscampagne  Foto AFP" height="3230" width="4846" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/AFP-57807044.jpg">  </div>
+    <img alt="Istanbul verkiezingscampagne  Foto AFP" title="Istanbul verkiezingscampagne  Foto AFP" height="3230" width="4846" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/AFP-57807044.jpg">  </div>
 
   
 </div>
@@ -31,7 +31,7 @@ Weekend! Tijd voor een plaatje met een praatje. Er komen heel wat nieuwsfoto’s
         
   
   <div class="content">
-    <img alt="Manilla hoog water  Foto AFP" title="Manilla hoog water  Foto AFP" height="2435" width="4000" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/AFP-57813085.jpg">  </div>
+    <img alt="Manilla hoog water  Foto AFP" title="Manilla hoog water  Foto AFP" height="2435" width="4000" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/AFP-57813085.jpg">  </div>
 
   
 </div>

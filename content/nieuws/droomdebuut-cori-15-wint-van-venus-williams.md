@@ -1,5 +1,5 @@
 ---
-id: 3eaa9cfcfcda47e88d58ca9b1f32e228
+id: 0e57f22bca014b6e9204a138a4cdce95
 type: nieuws
 layout: post
 title: "Droomdebuut: Cori (15) wint van Venus Williams"
@@ -23,7 +23,7 @@ Een droomdebuut op Wimbledon. Zo kun je de wedstrijd die Cori Gauff gisteravond 
         
   
   <div class="content">
-    <img alt="EPA - Cori Gauff" title="Foto: EPA" height="2540" width="3500" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-74964936.jpg">  </div>
+    <img alt="EPA - Cori Gauff" title="Foto: EPA" height="2540" width="3500" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-74964936.jpg">  </div>
 
   
 </div>

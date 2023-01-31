@@ -1,5 +1,5 @@
 ---
-id: 3f3fb503ec254404ad552ec4a2350355
+id: 8164bd8285ed4cf1ab6ae333ceeea613
 type: nieuws
 layout: post
 title: "Bijdragen aan elkaars zelfstandigheid"
@@ -19,4 +19,4 @@ Stel: je buurvrouw kan zelf niet meer de hond uitlaten, dus help jij haar een ha
 <h3>Win-Win</h3>
 <p>De makers vinden vooral zelfstandigheid erg belangrijk. Jongeren worden op deze manier zelfstandig doordat ze veel van dit baantje kunnen leren. Ouderen blijven langer zelfstandig doordat ze juist wat langer thuis kunnen blijven wonen. Een echte win-win situatie dus.</p>
 <p>Meer informatie is te vinden op de website van scholierenklusser.nl. Dit is ook de plek waar ouderen en jongeren zich kunnen aanmelden.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

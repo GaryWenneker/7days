@@ -1,5 +1,5 @@
 ---
-id: d7d64e6f87b440fcab18c1d0962de488
+id: 96905845040546de87cc47bba247a496
 type: post
 layout: post
 title: "De 7 beste herinneringen aan Hyves"
@@ -20,7 +20,7 @@ Lang, zeer lang geleden, toen we nog Nokia’s hadden, Spongebob keken en kinder
         
   
   <div class="content">
-    <img alt="hyves herinneringen" title="Foto: ANP" height="556" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/hyves%204.jpg">  </div>
+    <img alt="hyves herinneringen" title="Foto: ANP" height="556" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/hyves%204.jpg">  </div>
 
   
 </div>
@@ -32,7 +32,7 @@ Lang, zeer lang geleden, toen we nog Nokia’s hadden, Spongebob keken en kinder
         
   
   <div class="content">
-    <img alt="hyves herinneringen" title="Foto: ANP" height="508" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/hyves%203.jpg">  </div>
+    <img alt="hyves herinneringen" title="Foto: ANP" height="508" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/hyves%203.jpg">  </div>
 
   
 </div>
@@ -44,10 +44,10 @@ Lang, zeer lang geleden, toen we nog Nokia’s hadden, Spongebob keken en kinder
         
   
   <div class="content">
-    <img alt="hyves herinneringen" title="Foto: ANP" height="564" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/hyves%202.jpg">  </div>
+    <img alt="hyves herinneringen" title="Foto: ANP" height="564" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/hyves%202.jpg">  </div>
 
   
 </div>
 </div>
 <p><strong>7. Buzzzzzzzz</strong><br>Als je dringend je vrienden moest spreken over iets heel belangrijks (bijvoorbeeld over wat je die avond ging eten) kon je hun aandacht trekken met de speciale BUZZZ-knop. Het chatscherm ging dan wild trillen en zo was er geen ontkomen aan het gesprek. Ja, dat waren nog eens tijden..</p>
-<p><i>Smaakt dit blog naar meer? <a href="https://original.sevendays.nl/blogs">Klikkerdeklik</a>.</i></p>  
+<p><i>Smaakt dit blog naar meer? <a href="https://7dagen.netlify.app/blogs">Klikkerdeklik</a>.</i></p>  

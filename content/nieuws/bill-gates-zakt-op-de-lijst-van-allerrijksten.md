@@ -1,5 +1,5 @@
 ---
-id: 77b169f90a254343bb2563156fd8533d
+id: 828a4828ecdd45a59b99b113211d217c
 type: nieuws
 layout: post
 title: "Bill Gates zakt op de lijst van allerrijksten"
@@ -23,7 +23,7 @@ Miljardair Bill Gates is naar de derde plaats gezakt op de beroemde miljardairs
         
   
   <div class="content">
-    <img height="2871" width="2300" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-75163261.jpg" alt="">  </div>
+    <img height="2871" width="2300" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-75163261.jpg" alt="">  </div>
 
   
 </div>

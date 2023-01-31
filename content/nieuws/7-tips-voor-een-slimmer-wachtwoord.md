@@ -1,5 +1,5 @@
 ---
-id: 7f6db9922cc743e489297c95b2461926
+id: 5c78e8aa6567487aaec73fd53d8a7650
 type: nieuws
 layout: post
 title: "7 tips voor een slimmer wachtwoord"

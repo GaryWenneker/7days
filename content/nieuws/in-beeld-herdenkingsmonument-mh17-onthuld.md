@@ -1,5 +1,5 @@
 ---
-id: 76b20b7adcb0444e9f50a9d50ae0bdd4
+id: 4031ea70b15749eebc69854275d89215
 type: nieuws
 layout: post
 title: "In beeld: herdenkingsmonument MH17 onthuld"
@@ -18,18 +18,18 @@ In Vijfhuizen, vlakbij Schiphol, werd maandag een herdenkingsmonument onthuld vo
         
   
   <div class="content">
-    <img title="Foto: ANP" height="483" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Aankomst%20ANP-52355792.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="483" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Aankomst%20ANP-52355792.jpg" alt="">  </div>
 
   
 </div>
 </div>
-<p>Nabestaanden verzamelden zich maandag in Vijfhuizen, tussen Haarlem en Schiphol, voor de onthulling van het monument. Op 17 juli 2014 crashte vlucht MH17, onderweg van Amsterdam naar de Maleisische stad Kuala Lumpur, in Oost-Oekraïne. In die regio werd toen gevochten en na lang onderzoek werd vastgesteld dat een <a href="https://original.sevendays.nl/nieuws/wat-weten-we-nu-over-mh17" target="_blank">BUK-raket</a> de vlucht uit de lucht had geschoten. Die werd afgeschoten door rebellen in het gebied en werd aangeleverd vanuit <a href="https://original.sevendays.nl/nieuws/mh17-neergeschoten-door-raket-uit-rusland" target="_blank">Rusland</a>. De precieze daders zijn nog altijd niet gepakt. </p>
+<p>Nabestaanden verzamelden zich maandag in Vijfhuizen, tussen Haarlem en Schiphol, voor de onthulling van het monument. Op 17 juli 2014 crashte vlucht MH17, onderweg van Amsterdam naar de Maleisische stad Kuala Lumpur, in Oost-Oekraïne. In die regio werd toen gevochten en na lang onderzoek werd vastgesteld dat een <a href="https://7dagen.netlify.app/nieuws/wat-weten-we-nu-over-mh17" target="_blank">BUK-raket</a> de vlucht uit de lucht had geschoten. Die werd afgeschoten door rebellen in het gebied en werd aangeleverd vanuit <a href="https://7dagen.netlify.app/nieuws/mh17-neergeschoten-door-raket-uit-rusland" target="_blank">Rusland</a>. De precieze daders zijn nog altijd niet gepakt. </p>
 <p><div class="media media-element-container media-default"><div id="file-418373" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img title="Foto: ANP" height="486" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Bloemen%20leggen%20ANP-52355563.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="486" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Bloemen%20leggen%20ANP-52355563.jpg" alt="">  </div>
 
   
 </div>
@@ -40,7 +40,7 @@ In Vijfhuizen, vlakbij Schiphol, werd maandag een herdenkingsmonument onthuld vo
         
   
   <div class="content">
-    <img title="Foto: ANP" height="572" width="855" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Rutte%20ANP-52357085.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="572" width="855" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Rutte%20ANP-52357085.jpg" alt="">  </div>
 
   
 </div>
@@ -51,7 +51,7 @@ In Vijfhuizen, vlakbij Schiphol, werd maandag een herdenkingsmonument onthuld vo
         
   
   <div class="content">
-    <img title="Foto: ANP" height="554" width="855" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Overzicht%20ANP-52357109.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="554" width="855" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Overzicht%20ANP-52357109.jpg" alt="">  </div>
 
   
 </div>
@@ -62,7 +62,7 @@ In Vijfhuizen, vlakbij Schiphol, werd maandag een herdenkingsmonument onthuld vo
         
   
   <div class="content">
-    <img title="Foto: ANP" height="591" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Inscripties%20ANP-52356224.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="591" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Inscripties%20ANP-52356224.jpg" alt="">  </div>
 
   
 </div>
@@ -70,8 +70,8 @@ In Vijfhuizen, vlakbij Schiphol, werd maandag een herdenkingsmonument onthuld vo
 <p>Het gedenkteken is nog niet de afsluiting van het MH17-verhaal. De daders zijn nog altijd niet gepakt, laat staan berecht. Omdat Rusland weigert volledig mee te werken aan een onderzoek naar de vliegramp. Vijftien nabestaanden plaatsten daarom afgelopen weekend uit protest een bankje tegenover de Russische ambassade in Den Haag. Ze hopen dat Rusland tóch mee wil werken aan een onderzoek naar de daders.</p>
 <p> </p>
 <div class="kader">
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p>Vond je dit interessant? Lees dan ook eens <a href="https://original.sevendays.nl/nieuws/wat-gebeurde-er-op-911">Wat gebeurde er op 9/11? </a>of <a href="https://original.sevendays.nl/nieuws/wat-gebeurde-er-20-jaar-geleden-srebrenica">Wat gebeurde er 20 jaar geleden in Srebrenica? </a></p>
-<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://original.sevendays.nl/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp, </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p>Vond je dit interessant? Lees dan ook eens <a href="https://7dagen.netlify.app/nieuws/wat-gebeurde-er-op-911">Wat gebeurde er op 9/11? </a>of <a href="https://7dagen.netlify.app/nieuws/wat-gebeurde-er-20-jaar-geleden-srebrenica">Wat gebeurde er 20 jaar geleden in Srebrenica? </a></p>
+<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://7dagen.netlify.app/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp, </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
 </div>
   

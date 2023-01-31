@@ -1,5 +1,5 @@
 ---
-id: 1ebbc4e40c40407bba7aa3197627e4fe
+id: bc07ab3227494ae29f9dd43e6d85fbcc
 type: nieuws
 layout: post
 title: "Belangrijke prijs voor gevangen blogger"
@@ -19,7 +19,7 @@ De Saudische blogger Raif Badawi (32) heeft woensdag een belangrijke prijs gewon
         
   
   <div class="content">
-    <img title="Badawi&#039;s vrouw Ensaf Haidar in oktober tijdens een protest bij de Saoedische ambassade in Wenen  Foto EPA" height="2707" width="4096" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-34449710.jpg" alt="">  </div>
+    <img title="Badawi&#039;s vrouw Ensaf Haidar in oktober tijdens een protest bij de Saoedische ambassade in Wenen  Foto EPA" height="2707" width="4096" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-34449710.jpg" alt="">  </div>
 
   
 </div>
@@ -29,7 +29,7 @@ De Saudische blogger Raif Badawi (32) heeft woensdag een belangrijke prijs gewon
         
   
   <div class="content">
-    <img title="De lege stoel  Foto AFP" height="2981" width="4204" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-35428002.jpg" alt="">  </div>
+    <img title="De lege stoel  Foto AFP" height="2981" width="4204" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-35428002.jpg" alt="">  </div>
 
   
 </div>
@@ -37,4 +37,4 @@ De Saudische blogger Raif Badawi (32) heeft woensdag een belangrijke prijs gewon
 <p>‘Badawi staat symbool voor de mensen die overal ter wereld vechten voor fundamentele rechten’, zei Europees Parlement-voorzitter Martin Schulz tijdens de plechtigheid.</p>
 <p><strong>Eén serie zweepslagen</strong><br>Badawi’s vrouw en kinderen wonen nu in Canada, waar ze politiek asiel hebben gekregen. Vanuit daar blijft Ensaf Haidar dapper strijden voor de vrijlating van haar man. Ook Amnesty International maakt zich sterk voor de blogger. </p>
 <p>Badawi heeft voor zover bekend één serie zweepslagen gekregen en daarna niet meer. Wel maakte Haidar bekend dat haar man naar een isolatiecel is verplaatst. Daar is hij sinds vorige week in hongerstaking.</p>
-<p><em>Een profiel van Raif Badawi lees je <a href="https://original.sevendays.nl/nieuws/zweepstraf-voor-blogger-begonnen">hier</a>.</em></p>  
+<p><em>Een profiel van Raif Badawi lees je <a href="https://7dagen.netlify.app/nieuws/zweepstraf-voor-blogger-begonnen">hier</a>.</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: c8c78330e0b84e9aac1520a2458a6884
+id: 60054c333965470c94456dd517f519e6
 type: nieuws
 layout: post
 title: "Albino-kinderen moeten vrezen voor hun leven"
@@ -20,7 +20,7 @@ Een bleke huid, wit haar en vaak wat rode ogen: dat zijn de kenmerken van een al
         
   
   <div class="content">
-    <img title="Beeld: AFP" height="825" width="1340" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-32266949.jpg" alt="">  </div>
+    <img title="Beeld: AFP" height="825" width="1340" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-32266949.jpg" alt="">  </div>
 
   
 </div>
@@ -33,11 +33,11 @@ Een bleke huid, wit haar en vaak wat rode ogen: dat zijn de kenmerken van een al
         
   
   <div class="content">
-    <img title="Beeld: AFP" height="816" width="1360" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/albino3.jpg" alt="">  </div>
+    <img title="Beeld: AFP" height="816" width="1360" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/albino3.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <p><b>5. Waarom komt dit probleem nu opeens in het nieuws?</b><br>Dat albino's het zwaar hebben in Afrika is al jaren bekend. Nu <a href="https://www.amnesty.nl/nieuwsportaal/nieuws/steeds-meer-mensen-met-albinisme-in-malawi-vermoord" target="_blank">slaat </a>Amnesty International opnieuw alarm: sinds november 2014 zouden in Malawi al achttien albino's zijn vermoord. Veel daarvan zijn kind, of baby. De hulporganisatie spreekt van een crisis. Door de slechte economische situatie in Malawi, en de onrust die daarbij hoort, zouden er meer albino's worden vermoord. </p>
 <p><strong>6. Wat moet er gebeuren om albino's te beschermen?</strong><br>De politie zou misdrijven tegen albino's kunnen bestraffen, maar in de praktijk gebeurt dat nog te weinig. Amnesty International biedt daarom een petitie aan de president van Malawi aan. Ze hopen dat hij de afwijking meer aandacht wil geven. Want pas als in Afrikaanse landen mensen weten wat albinisme is, kunnen albino's een veiliger leven leiden.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

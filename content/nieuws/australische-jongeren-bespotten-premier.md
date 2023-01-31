@@ -1,5 +1,5 @@
 ---
-id: 19c978caa715468f84493712f355e2b4
+id: 1c99bfdf282a41b6bfa043fe0a1072b5
 type: nieuws
 layout: post
 title: "Australische jongeren bespotten premier"
@@ -55,7 +55,7 @@ Terwijl in de Australische deelstaat Nieuw Zuid-Wales meer dan honderd bosbrand
         
   
   <div class="content">
-    <img alt="Foto: ANP" title="Foto: ANP" height="3290" width="4934" class="media-element file-default" data-delta="4" src="https://original.sevendays.nl/sites/default/files/ANP-403521675_0.jpg">  </div>
+    <img alt="Foto: ANP" title="Foto: ANP" height="3290" width="4934" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/ANP-403521675_0.jpg">  </div>
 
   
 </div>
@@ -64,7 +64,7 @@ Terwijl in de Australische deelstaat Nieuw Zuid-Wales meer dan honderd bosbrand
         
   
   <div class="content">
-    <img alt="Foto: ANP" title="Foto: ANP" height="3155" width="4732" class="media-element file-default" data-delta="5" src="https://original.sevendays.nl/sites/default/files/ANP-403521484_1.jpg">  </div>
+    <img alt="Foto: ANP" title="Foto: ANP" height="3155" width="4732" class="media-element file-default" data-delta="5" src="https://7dagen.netlify.app/sites/default/files/ANP-403521484_1.jpg">  </div>
 
   
 </div>

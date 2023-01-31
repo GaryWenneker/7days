@@ -1,5 +1,5 @@
 ---
-id: 21e627afc8ce46afbb682dd234de87cb
+id: bc269b2ae65d4da98ff70ea4456a0fde
 type: nieuws
 layout: post
 title: "Code rood voor het Great Barrier Reef"
@@ -19,7 +19,7 @@ Het grootste koraalrif ter wereld is al een tijd in gevaar. Nu is de alarmfase z
         
   
   <div class="content">
-    <img title="Foto AFP" height="567" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Great%20Barrier%20Reef-klein%20AFP-33324732.jpg" alt="">  </div>
+    <img title="Foto AFP" height="567" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Great%20Barrier%20Reef-klein%20AFP-33324732.jpg" alt="">  </div>
 
   
 </div>
@@ -29,7 +29,7 @@ Het grootste koraalrif ter wereld is al een tijd in gevaar. Nu is de alarmfase z
         
   
   <div class="content">
-    <img title="Soepschildpad  Foto Wikipedia" height="560" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/soepschildpad%20klein%20Wikipedia.jpg" alt="">  </div>
+    <img title="Soepschildpad  Foto Wikipedia" height="560" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/soepschildpad%20klein%20Wikipedia.jpg" alt="">  </div>
 
   
 </div>
@@ -39,10 +39,10 @@ Het grootste koraalrif ter wereld is al een tijd in gevaar. Nu is de alarmfase z
         
   
   <div class="content">
-    <img title="Foto ARC Centre of Excellence Coral Reef Studies" height="567" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/bleek%20koraal-klein.jpg" alt="">  </div>
+    <img title="Foto ARC Centre of Excellence Coral Reef Studies" height="567" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/bleek%20koraal-klein.jpg" alt="">  </div>
 
   
 </div>
 </div><br><strong>Andere oorzaken</strong><br>'Een andere oorzaak is vervuiling. Die zorgt voor zuur en troebel water en daar kan koraal niet tegen. En vergeet ook de vraatzuchtige doornkroonzeester niet’, legt koraalexpert Hoeksema uit. 'Die lust wel pap van koraal en kan in korte tijd grote stukken oppeuzelen.’
 <p>Na het alarm van de onderzoekers heeft de Australische milieuminister Hunt beloofd meer energie te steken in oplossingen voor de zeesterrenplaag en in ideeën om vervuiling tegen te gaan. Dat is te weinig, zeggen natuurorganisaties. Ze vinden dat Hunt ook zo veel mogelijk moet doen om de oorzaken van klimaatverandering aan te pakken.<br><br><strong>Wist je dat het Barrier Reef...</strong><br>... een oppervlakte heeft van 334.400 vierkante kilometer?<br>... en een lengte van 2600 kilometer?<br>... bestaat uit meer dan 2.900 verschillende riffen, 900 eilanden en 400 types koraal?<br>... het leefgebied is van 1500 vissoorten, 4000 soorten weekdieren, zeekoeien en de zeldzame soepschildpad?<br>... te zien is vanuit de ruimte?<br>... Werelderfgoed is sinds 1981?<br>... de grootste toeristische trekpleister van Australië is?</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis nieuws-app</a> of neem een <a href="https://original.sevendays.nl/abonnement">proefabonnement</a> op de papieren 7Days!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis nieuws-app</a> of neem een <a href="https://7dagen.netlify.app/abonnement">proefabonnement</a> op de papieren 7Days!</em></p>  

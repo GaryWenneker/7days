@@ -1,5 +1,5 @@
 ---
-id: ef79c81a7db6429b9052fbd0127c7f42
+id: 8bc19243d457464984c52c05354e2f8c
 type: post
 layout: post
 title: "Ontevreden met m'n zeven"
@@ -22,7 +22,7 @@ Grote kans dat jij je op dit moment door je laatste toetsweek of schoolexamenwee
         
   
   <div class="content">
-    <img height="2560" width="1440" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/IMG-20150928-WA0000.jpeg" alt="">  </div>
+    <img height="2560" width="1440" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/IMG-20150928-WA0000.jpeg" alt="">  </div>
 
   
 </div>
@@ -30,4 +30,4 @@ Grote kans dat jij je op dit moment door je laatste toetsweek of schoolexamenwee
 <p><strong>Prestatiemaatschappij</strong><br>Dan realiseer ik me dat ik nog maar zeventien ben. Dat ik eigenlijk domme en gekke dingen zou moeten doen en plezier zou moeten hebben met mijn vrienden in plaats van dagenlang in de bieb te zitten. </p>
 <p>Maar waarom doen we dat dan toch? Waarom nemen we toetsweken zó serieus? Omdat ik merk dat er steeds meer naar cijfers en gemiddeldes wordt gekeken. Een vriendin van mij zakte vorig jaar op het verschil van één cijfer achter de komma, een andere vriend werd niet toegelaten tot een studie omdat hij een 7.8 in plaats van een 8.0 stond. Gemiddeldes en toetsen lijken tegenwoordig wel heilig.</p>
 <p>Twee weken later krijg ik mijn schoolexamen terug. Een zeven. Geen slecht cijfer, maar toch ben ik er ontevreden mee. Dankzij de prestatiemaatschappij.</p>
-<p><i>Smaakt dit blog naar meer? <a href="https://original.sevendays.nl/blogs">Klikkerdeklik</a>.</i></p>  
+<p><i>Smaakt dit blog naar meer? <a href="https://7dagen.netlify.app/blogs">Klikkerdeklik</a>.</i></p>  

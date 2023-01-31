@@ -1,5 +1,5 @@
 ---
-id: ebfb52a87b7148e7b42e55f46af5e962
+id: 148946023f42496d8301ee81d3d88300
 type: nieuws
 layout: post
 title: "Dakloze man helpt vrouw met zijn laatste geld"

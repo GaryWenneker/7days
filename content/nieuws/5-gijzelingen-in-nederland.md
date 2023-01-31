@@ -1,5 +1,5 @@
 ---
-id: 6b1ab242fed0453fbfbdbae3599efc4c
+id: dfe42cd8452d45dab98eb1186e9401ea
 type: nieuws
 layout: post
 title: "5 gijzelingen in Nederland"
@@ -35,7 +35,7 @@ seo:
         
   
   <div class="content">
-    <img title="Foto: ANP Historisch Archief" height="4021" width="5315" style="height: 643px; width: 850px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-5926064.jpg" alt="">  </div>
+    <img title="Foto: ANP Historisch Archief" height="4021" width="5315" style="height: 643px; width: 850px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-5926064.jpg" alt="">  </div>
 
   
 </div>
@@ -64,7 +64,7 @@ seo:
         
   
   <div class="content">
-    <img title="Foto: ANP" height="1579" width="2172" style="height: 618px; width: 850px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-1853974.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="1579" width="2172" style="height: 618px; width: 850px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-1853974.jpg" alt="">  </div>
 
   
 </div>
@@ -75,8 +75,8 @@ seo:
         
   
   <div class="content">
-    <img title="Foto: ANP" height="486" width="864" style="height: 478px; width: 850px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/tarik.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="486" width="864" style="height: 478px; width: 850px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/tarik.jpg" alt="">  </div>
 
   
 </div>
-</div><br>Januari 2015 dringt de student <a href="https://original.sevendays.nl/nieuws/man-met-neppistool-kaapt-nos-studio">Tarik Z.</a> het gebouw van de NOS binnen om zendtijd te eisen. Gewapend met een neppistool neemt hij een portier mee de studio in. Tarik verklaart de Nederlandse bevolking te willen waarschuwen tegen, hou je vast, de fundamenten van het huidige monetaire systeem in Nederland, die inhumane gevolgen zouden hebben. Wat hij daar precies mee bedoelt, is nog steeds niet duidelijk. Bovendien wil hij wijzen op de 'grootschalige manipulatie van de NOS'. Volgens Tarik heeft de Nederlandse Omroep Stichting het glasvezelnetwerk en Mediapark in bezit, waardoor de organisatie al het dataverkeer kan manipuleren. Deze informatie zou hij van hackers hebben gekregen. Volgens het OM is Z. volledig toerekeningsvatbaar en heeft hij dus geen psychische stoornis. <br><br>Terwijl Tarik in een NOS-studio staat te wachten tot hij zijn verhaal op de Nederlandse tv mag vertellen, stormt de politie binnen. Hij geeft zich zonder morren over. Vandaag hoort hij of hij inderdaad de straf krijgt die het Openbaar Ministerie eist: 4 jaar cel.   
+</div><br>Januari 2015 dringt de student <a href="https://7dagen.netlify.app/nieuws/man-met-neppistool-kaapt-nos-studio">Tarik Z.</a> het gebouw van de NOS binnen om zendtijd te eisen. Gewapend met een neppistool neemt hij een portier mee de studio in. Tarik verklaart de Nederlandse bevolking te willen waarschuwen tegen, hou je vast, de fundamenten van het huidige monetaire systeem in Nederland, die inhumane gevolgen zouden hebben. Wat hij daar precies mee bedoelt, is nog steeds niet duidelijk. Bovendien wil hij wijzen op de 'grootschalige manipulatie van de NOS'. Volgens Tarik heeft de Nederlandse Omroep Stichting het glasvezelnetwerk en Mediapark in bezit, waardoor de organisatie al het dataverkeer kan manipuleren. Deze informatie zou hij van hackers hebben gekregen. Volgens het OM is Z. volledig toerekeningsvatbaar en heeft hij dus geen psychische stoornis. <br><br>Terwijl Tarik in een NOS-studio staat te wachten tot hij zijn verhaal op de Nederlandse tv mag vertellen, stormt de politie binnen. Hij geeft zich zonder morren over. Vandaag hoort hij of hij inderdaad de straf krijgt die het Openbaar Ministerie eist: 4 jaar cel.   

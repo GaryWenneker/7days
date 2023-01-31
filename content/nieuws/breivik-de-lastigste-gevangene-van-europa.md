@@ -1,5 +1,5 @@
 ---
-id: 40a27b8f18c74e1487df109236361df5
+id: 275d0933a2ef45b3ab285d48672f08c9
 type: nieuws
 layout: post
 title: "Breivik: de lastigste gevangene van Europa"
@@ -20,7 +20,7 @@ Precies vijf jaar geleden werd Noorwegen opgeschrikt door twee grote aanslagen. 
         
   
   <div class="content">
-    <img title="Beeld: AFP" height="810" width="1402" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-33678444_0.jpg" alt="">  </div>
+    <img title="Beeld: AFP" height="810" width="1402" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-33678444_0.jpg" alt="">  </div>
 
   
 </div>
@@ -33,7 +33,7 @@ Precies vijf jaar geleden werd Noorwegen opgeschrikt door twee grote aanslagen. 
         
   
   <div class="content">
-    <img title="Beeld: EPA" height="474" width="1008" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202016-07-20%20om%2011.07.47.png" alt="">  </div>
+    <img title="Beeld: EPA" height="474" width="1008" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202016-07-20%20om%2011.07.47.png" alt="">  </div>
 
   
 </div>
@@ -45,7 +45,7 @@ Precies vijf jaar geleden werd Noorwegen opgeschrikt door twee grote aanslagen. 
         
   
   <div class="content">
-    <img title="Beeld: EPA" height="524" width="1000" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202016-07-20%20om%2010.50.11.png" alt="">  </div>
+    <img title="Beeld: EPA" height="524" width="1000" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202016-07-20%20om%2010.50.11.png" alt="">  </div>
 
   
 </div>
@@ -60,10 +60,10 @@ Precies vijf jaar geleden werd Noorwegen opgeschrikt door twee grote aanslagen. 
         
   
   <div class="content">
-    <img title="Beeld: AFP" height="556" width="1055" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202016-07-20%20om%2011.05.53.png" alt="">  </div>
+    <img title="Beeld: AFP" height="556" width="1055" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202016-07-20%20om%2011.05.53.png" alt="">  </div>
 
   
 </div>
 </div>
-<p><strong>20 april 2016: 'Ik heb gewonnen!'</strong><br>De rechter geeft Breivik <a href="https://original.sevendays.nl/nieuws/breivik-wint-rechtszaak-voor-een-deel">deels gelijk</a>: hij wordt te veel afgezonderd van de buitenwereld. Na 4,5 jaar in een isoleercel te hebben doorgebracht moet hij nu meer bewegingsvrijheid krijgen. Al worden niet al zijn eigen ingewilligd. De Noorse staat is het er niet mee eens en gaat in beroep. Breivik mag dan wel achter dikke muren zitten, zelfs na vijf jaar weet hij nog de aandacht op te eisen.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><strong>20 april 2016: 'Ik heb gewonnen!'</strong><br>De rechter geeft Breivik <a href="https://7dagen.netlify.app/nieuws/breivik-wint-rechtszaak-voor-een-deel">deels gelijk</a>: hij wordt te veel afgezonderd van de buitenwereld. Na 4,5 jaar in een isoleercel te hebben doorgebracht moet hij nu meer bewegingsvrijheid krijgen. Al worden niet al zijn eigen ingewilligd. De Noorse staat is het er niet mee eens en gaat in beroep. Breivik mag dan wel achter dikke muren zitten, zelfs na vijf jaar weet hij nog de aandacht op te eisen.</p>
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

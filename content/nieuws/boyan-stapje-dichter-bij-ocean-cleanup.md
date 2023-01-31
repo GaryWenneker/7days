@@ -1,5 +1,5 @@
 ---
-id: 383ddf622405401581d504630db7e184
+id: c2f8b6acb41343279c8faecd1da71130
 type: nieuws
 layout: post
 title: "Boyan stapje dichter bij Ocean Cleanup"
@@ -19,7 +19,7 @@ En weer komt hij weer iets dichterbij, de droom van de Nederlandse Boyan Slat (2
         
   
   <div class="content">
-    <img title="Foto: AFP" height="3946" width="5920" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-27939271.jpg" alt="">  </div>
+    <img title="Foto: AFP" height="3946" width="5920" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-27939271.jpg" alt="">  </div>
 
   
 </div>
@@ -32,7 +32,7 @@ En weer komt hij weer iets dichterbij, de droom van de Nederlandse Boyan Slat (2
         
   
   <div class="content">
-    <img title="Foto: AFP" height="2848" width="4272" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-27939272.jpg" alt="">  </div>
+    <img title="Foto: AFP" height="2848" width="4272" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-27939272.jpg" alt="">  </div>
 
   
 </div>

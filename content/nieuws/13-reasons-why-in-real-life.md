@@ -1,5 +1,5 @@
 ---
-id: a03ad98f4f094d368714088c6b7195bd
+id: 36c57b782d8a4e2e88f1914ea519453a
 type: nieuws
 layout: post
 title: "13 Reasons Why in ‘real life'"
@@ -35,4 +35,4 @@ Zet 13 Reasons Why jongeren aan tot zelfmoord of niet? Die discussie laaide wee
 <h3>Flink wat kritiek</h3>
 <p>De afgelopen tijd kreeg <em>13 Reasons Why </em>flink wat kritiek. Sommige psychologen vrezen dat kwetsbare jongeren zich teveel identificeren met de hoofdpersoon en dat ze daardoor ook sneller zelfmoord kunnen plegen. Ook vallen ze erover dat nergens in het verhaal een link wordt gelegd tussen psychische problemen en zelfmoord. Hannah kwam tot haar beslissing omdat ze zoveel nare dingen meemaakte, niet omdat ze depressief zou zijn.</p>
 <p>Ondanks de kritiek en de zelfmoord in Peru hebben de makers van de serie besloten om een tweede seizoen te maken.</p>
-<p><em>​</em><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op 7Days!</em></p>  
+<p><em>​</em><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op 7Days!</em></p>  

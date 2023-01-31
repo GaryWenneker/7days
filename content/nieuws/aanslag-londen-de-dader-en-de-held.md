@@ -1,5 +1,5 @@
 ---
-id: 5b9fe5a4f28646a99b1b1757d8f7be92
+id: 7f973f06e622432eb9a4bfd3b4c39ce5
 type: nieuws
 layout: post
 title: "Aanslag Londen: de dader en de held"
@@ -22,7 +22,7 @@ Keep Calm and Carry On. Onder dat credo gaan de Londenaren door met hun leven, n
         
   
   <div class="content">
-    <img alt="Tobias Ellwood" title="Beeld: AFP" height="657" width="1090" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202017-03-23%20om%2020.03.41.png">  </div>
+    <img alt="Tobias Ellwood" title="Beeld: AFP" height="657" width="1090" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202017-03-23%20om%2020.03.41.png">  </div>
 
   
 </div>
@@ -31,4 +31,4 @@ Keep Calm and Carry On. Onder dat credo gaan de Londenaren door met hun leven, n
 <p>Bij een terreuraanslag zie je niet alleen het slechtste, maar vaak ook het beste van de mens. Onder de vele helden viel eentje het meest op: Tobias Ellwood. Hij is parlementslid en was vanwege de vergadering in de buurt van de aanslag.</p>
 <p>Zonder aarzelen rende hij naar buiten, toen hij zag dat een politieman werd neergestoken. Volgens ooggetuigen zou Ellwood mond-op-mondbeademing hebben gegeven en probeerde hij de wonden van de agente te stelpen. Tevergeefs. Tot de traumahelikopter arriveerde bleef Ellwood, gehurkt op de grond in zijn pak, bij de agent zitten. </p>
 <p>Veel Britten zien Ellwood als een held. Zelf heeft hij veel verdriet, liet hij in een reactie weten. Als parlementslid houdt Ellwood zich, hoe toevallig, bezig met buitenlandse zaken en terrorisme. Dat laatste kwam voor de politicus nu wel heel dichtbij.</p>
-<p><em>Altijd op de hoogte blijven van tips die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van tips die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: f1c2f822df3c43c3985a7c176f3c4fe3
+id: 56c241061a6f4f74b886a258f458869e
 type: nieuws
 layout: post
 title: "Amerika schiet raketten op Syrië, wat nu?"
@@ -24,7 +24,7 @@ Deze week kwamen uit de hele wereld geschokte reacties op de gifgasaanval in Syr
         
   
   <div class="content">
-    <img title="Foto: AFP" height="478" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/7D%20Luchtaanval%20in%20artikel%20ANP-50588242.jpg" alt="">  </div>
+    <img title="Foto: AFP" height="478" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/7D%20Luchtaanval%20in%20artikel%20ANP-50588242.jpg" alt="">  </div>
 
   
 </div>
@@ -51,5 +51,5 @@ Deze week kwamen uit de hele wereld geschokte reacties op de gifgasaanval in Syr
 <h3>Hoe reageert de Syrische regering?</h3>
 <p><span style="font-size: 13.008px;">De Syrische overheid noemt de VS een partner van de terreurgroepen. Zij zeggen dat deze actie van ‘brute agressie’ bijvoorbeeld IS in de kaart speelt. </span></p>
 <p><span style="font-size: 13.008px;">Ook d</span>e Russen veroordelen de actie van de Amerikanen stevig. Ze noemen de actie een ‘bedreiging voor de wereldwijde veiligheid’. Ook Rusland wil dat de VN-veiligheidsraad bijeenkomt voor een spoedberaad, maar dan om de reactie van de VS te bespreken. </p>
-<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease;">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease;">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease;">proefabonnement </a>op de krant!</em></p>
+<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease;">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease;">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease;">proefabonnement </a>op de krant!</em></p>
   

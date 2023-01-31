@@ -1,5 +1,5 @@
 ---
-id: 23a5dcf6d58a4f119e3a0f79ef931661
+id: 8b8511a0aac64cfbb27d4d9cac195131
 type: nieuws
 layout: post
 title: "De Amerikaanse verkiezingen voor beginners"
@@ -20,13 +20,13 @@ Tjonge, wat zijn ze dichtbij. Een boel mensen kunnen de namen Trump en Clinton n
         
   
   <div class="content">
-    <img title="Beelden AFP, collage 7Days" height="425" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/trump%20en%20hillary%20samen%20AFP.jpg" alt="">  </div>
+    <img title="Beelden AFP, collage 7Days" height="425" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/trump%20en%20hillary%20samen%20AFP.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <h3>2. En toen? Moddergooien maar?</h3>
-<p>Yep, toen werd het <em>serious business</em>. Hup, daar gingen ze: het hele land door, alle staten af, praatjes houden, debatteren en moddergooien. Heel veel moddergooien. Heel, heel, heel veel moddergooien. Nooit eerder draaide een Amerikaanse presidentsverkiezing zo om de kandidaten zelf in plaats van hun plannen voor de toekomst van het land. De inhoud leek wel bijzaak. Elkaar <a href="https://original.sevendays.nl/nieuws/trumps-twittergescheld-bij-elkaar-opgeteld">vegen uit de pan geven</a> was aan de orde van de dag. </p>
+<p>Yep, toen werd het <em>serious business</em>. Hup, daar gingen ze: het hele land door, alle staten af, praatjes houden, debatteren en moddergooien. Heel veel moddergooien. Heel, heel, heel veel moddergooien. Nooit eerder draaide een Amerikaanse presidentsverkiezing zo om de kandidaten zelf in plaats van hun plannen voor de toekomst van het land. De inhoud leek wel bijzaak. Elkaar <a href="https://7dagen.netlify.app/nieuws/trumps-twittergescheld-bij-elkaar-opgeteld">vegen uit de pan geven</a> was aan de orde van de dag. </p>
 <h3>3. Wanneer zijn de daadwerkelijke presidentsverkiezingen?</h3>
 <p>Op dinsdag 8 november dus. Een happening van jewelste. Want zoveel stemmen in zoveel staten tellen, in tig verschillende tijdzones: da’s hogere wiskunde. </p>
 <h3>4. Worden alle stemmen van alle Amerikanen gewoon op één hoop gegooid? </h3>
@@ -39,11 +39,11 @@ Tjonge, wat zijn ze dichtbij. Een boel mensen kunnen de namen Trump en Clinton n
         
   
   <div class="content">
-    <img alt="Amerikaanse president verkiezingen uitleg" title="Na het afleggen van de eed: werk aan de winkel Foto AFP" height="668" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/AFP-obama%20en%20eed_0.jpg">  </div>
+    <img alt="Amerikaanse president verkiezingen uitleg" title="Na het afleggen van de eed: werk aan de winkel Foto AFP" height="668" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/AFP-obama%20en%20eed_0.jpg">  </div>
 
   
 </div>
 </div>
 <h3><strong>6. Nog een klein lesje Amerikaanse staatsinrichting, als afsluiter?  </strong></h3>
 <p><strong><em>*Congres </em></strong>- Senaat én Huis van Afgevaardigden. Samen de wetgevende macht.<br><em><strong>Huis van Afgevaardigden</strong></em> - Het Huis van Afgevaardigden lijkt op onze Tweede Kamer. Hier worden plannen en wetten bedacht. Het heeft 435 leden die om de twee jaar herkozen worden. Elke staat kiest een paar mensen in het Huis, gebaseerd op inwonertal. Staten zijn daarvoor ingedeeld in districten. Per district komt één afgevaardigde in het Huis. <br><em><strong>Senaat</strong></em> - Vergelijkbaar met de Nederlandse Eerste Kamer. Hier worden plannen en wetten goedgekeurd. Er zitten honderd mensen in de Senaat, twee uit elke staat. De senatoren worden om de zes jaar herkozen. Veel presidentskandidaten waren eerst senator of gouverneur. <br><em><strong>Kiesmannen </strong></em>– Die kiesmannen, waarover we hierboven al schreven, zitten dus samen in het Kiescollege, dat gelijk is aan het aantal leden van de Senaat, het Huis van Afgevaardigden plus nog drie voor Washington DC Ezelsbruggetje: gewoon even aan de radiozender denken. <br><em><strong>Gouverneur </strong></em>- De belangrijkste bestuurder van een staat. Iedere staat heeft er een. Zijn of haar werk is te vergelijken met dat van de president, maar dan op een kleinere schaal. Een gouverneur wordt rechtstreeks gekozen door de kiesgerechtigden van de staat.</p>
-<p><em>Meer lezen over de Amerikaanse presidentsverkiezingen?<a href="https://original.sevendays.nl/dossier-verkiezingen-vs"> Klik hier</a> voor ons dossier. </em></p>  
+<p><em>Meer lezen over de Amerikaanse presidentsverkiezingen?<a href="https://7dagen.netlify.app/dossier-verkiezingen-vs"> Klik hier</a> voor ons dossier. </em></p>  

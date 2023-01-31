@@ -1,5 +1,5 @@
 ---
-id: 3663e195fbb14d15a8cbe5ff0f3f89d6
+id: 1eb9522889374986b4933cd48b1dc0c9
 type: nieuws
 layout: post
 title: "'Beste voetbalster' Lieke Martens in 7 feiten"
@@ -34,7 +34,7 @@ Ze speelde al een belangrijke rol bij het winnen van het EK Voetbal deze zomer. 
         
   
   <div class="content">
-    <img alt="Lieke Martens op FIFA-gala uitgeroepen tot beste speelster ter wereld" title="Beeld: ANP" height="844" width="1392" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-52596995.jpg">  </div>
+    <img alt="Lieke Martens op FIFA-gala uitgeroepen tot beste speelster ter wereld" title="Beeld: ANP" height="844" width="1392" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-52596995.jpg">  </div>
 
   
 </div>
@@ -45,7 +45,7 @@ Ze speelde al een belangrijke rol bij het winnen van het EK Voetbal deze zomer. 
         
   
   <div class="content">
-    <img height="512" width="512" style="margin-right: 3px; margin-left: 3px; font-size: 13.008px; width: 22px; height: 22px; float: left;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/02_Soccer-512.png" alt="">  </div>
+    <img height="512" width="512" style="margin-right: 3px; margin-left: 3px; font-size: 13.008px; width: 22px; height: 22px; float: left;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/02_Soccer-512.png" alt="">  </div>
 
   
 </div>
@@ -55,7 +55,7 @@ Ze speelde al een belangrijke rol bij het winnen van het EK Voetbal deze zomer. 
         
   
   <div class="content">
-    <img height="512" width="512" style="margin-right: 3px; margin-left: 3px; font-size: 13.008px; width: 22px; height: 22px; float: left;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/02_Soccer-512.png" alt="">  </div>
+    <img height="512" width="512" style="margin-right: 3px; margin-left: 3px; font-size: 13.008px; width: 22px; height: 22px; float: left;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/02_Soccer-512.png" alt="">  </div>
 
   
 </div>
@@ -65,7 +65,7 @@ Ze speelde al een belangrijke rol bij het winnen van het EK Voetbal deze zomer. 
         
   
   <div class="content">
-    <img height="512" width="512" style="margin-right: 3px; margin-left: 3px; font-size: 13.008px; width: 22px; height: 22px; float: left;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/02_Soccer-512.png" alt="">  </div>
+    <img height="512" width="512" style="margin-right: 3px; margin-left: 3px; font-size: 13.008px; width: 22px; height: 22px; float: left;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/02_Soccer-512.png" alt="">  </div>
 
   
 </div>
@@ -75,7 +75,7 @@ Ze speelde al een belangrijke rol bij het winnen van het EK Voetbal deze zomer. 
         
   
   <div class="content">
-    <img height="512" width="512" style="margin-right: 3px; margin-left: 3px; font-size: 13.008px; width: 22px; height: 22px; float: left;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/02_Soccer-512.png" alt="">  </div>
+    <img height="512" width="512" style="margin-right: 3px; margin-left: 3px; font-size: 13.008px; width: 22px; height: 22px; float: left;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/02_Soccer-512.png" alt="">  </div>
 
   
 </div>
@@ -85,7 +85,7 @@ Ze speelde al een belangrijke rol bij het winnen van het EK Voetbal deze zomer. 
         
   
   <div class="content">
-    <img height="512" width="512" style="margin-right: 3px; margin-left: 3px; font-size: 13.008px; width: 22px; height: 22px; float: left;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/02_Soccer-512.png" alt="">  </div>
+    <img height="512" width="512" style="margin-right: 3px; margin-left: 3px; font-size: 13.008px; width: 22px; height: 22px; float: left;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/02_Soccer-512.png" alt="">  </div>
 
   
 </div>
@@ -95,7 +95,7 @@ Ze speelde al een belangrijke rol bij het winnen van het EK Voetbal deze zomer. 
         
   
   <div class="content">
-    <img height="512" width="512" style="margin-right: 3px; margin-left: 3px; font-size: 13.008px; width: 22px; height: 22px; float: left;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/02_Soccer-512.png" alt="">  </div>
+    <img height="512" width="512" style="margin-right: 3px; margin-left: 3px; font-size: 13.008px; width: 22px; height: 22px; float: left;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/02_Soccer-512.png" alt="">  </div>
 
   
 </div>
@@ -105,15 +105,15 @@ Ze speelde al een belangrijke rol bij het winnen van het EK Voetbal deze zomer. 
         
   
   <div class="content">
-    <img height="512" width="512" style="margin-right: 3px; margin-left: 3px; font-size: 13.008px; width: 22px; height: 22px; float: left;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/02_Soccer-512.png" alt="">  </div>
+    <img height="512" width="512" style="margin-right: 3px; margin-left: 3px; font-size: 13.008px; width: 22px; height: 22px; float: left;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/02_Soccer-512.png" alt="">  </div>
 
   
 </div>
 </div>Lieke Martens is al ongeveer haar hele leven bevriend met Kika van Es, die ook uitkomt voor het Nederlands elftal. Als ze ergens moeten logeren zijn ze ook altijd kamergenoten!
 <div> </div>
 <div class="kader">
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p>Vond je dit interessant? Lees dan ook eens <a href="https://original.sevendays.nl/blogs/de-28-grootste-clich%C3%A9s-over-meisjesvoetbal">De 28 grootste clichés over meisjesvoetbal</a> of <a href="https://original.sevendays.nl/video/amerikaanse-sterren-promoten-vrouwenvoetbal">Amerikaanse sterren promoten vrouwenvoetbal</a>.</p>
-<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://original.sevendays.nl/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp</a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">,</em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://original.sevendays.nl/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"> </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p>Vond je dit interessant? Lees dan ook eens <a href="https://7dagen.netlify.app/blogs/de-28-grootste-clich%C3%A9s-over-meisjesvoetbal">De 28 grootste clichés over meisjesvoetbal</a> of <a href="https://7dagen.netlify.app/video/amerikaanse-sterren-promoten-vrouwenvoetbal">Amerikaanse sterren promoten vrouwenvoetbal</a>.</p>
+<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://7dagen.netlify.app/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp</a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">,</em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://7dagen.netlify.app/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"> </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
 </div>
   

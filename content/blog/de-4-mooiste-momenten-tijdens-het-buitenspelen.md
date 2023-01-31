@@ -1,5 +1,5 @@
 ---
-id: 87f3f92315bd4f9e95ab93ea53fae186
+id: 7a195de84f694176aa0ea0f070db4dc0
 type: post
 layout: post
 title: "De 4 mooiste momenten tijdens het buitenspelen"
@@ -22,7 +22,7 @@ Als je in de brugklas komt, verandert de vraag 'kom je buiten spelen?' al snel 
         
   
   <div class="content">
-    <img height="823" width="1234" style="font-size: 13px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/sleeee.jpg" alt="">  </div>
+    <img height="823" width="1234" style="font-size: 13px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/sleeee.jpg" alt="">  </div>
 
   
 </div>
@@ -38,9 +38,9 @@ Als je in de brugklas komt, verandert de vraag 'kom je buiten spelen?' al snel 
         
   
   <div class="content">
-    <img height="823" width="1234" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/tikkertje.jpg" alt="">  </div>
+    <img height="823" width="1234" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/tikkertje.jpg" alt="">  </div>
 
   
 </div>
 </div>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/lotte-rolleman">Lotte Rolleman</a> (17)? Laatst schreef ze ook <a href="https://original.sevendays.nl/blog/waarom-de-chocoladereep-het-wint-van-hardlopen">Waarom de chocoladereep het wint van hardlopen</a> en <a href="https://original.sevendays.nl/blog/doe-mij-maar-geen-tattoo">Doe mij maar (g)een tattoo</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/lotte-rolleman">Lotte Rolleman</a> (17)? Laatst schreef ze ook <a href="https://7dagen.netlify.app/blog/waarom-de-chocoladereep-het-wint-van-hardlopen">Waarom de chocoladereep het wint van hardlopen</a> en <a href="https://7dagen.netlify.app/blog/doe-mij-maar-geen-tattoo">Doe mij maar (g)een tattoo</a>.</em></p>  

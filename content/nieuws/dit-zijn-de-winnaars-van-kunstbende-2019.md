@@ -1,5 +1,5 @@
 ---
-id: 4d9d5d17ce4e4c84bbda72e47da7d9c4
+id: 533cf658125140a7ba645749da64e96e
 type: nieuws
 layout: post
 title: "Dit zijn de winnaars van Kunstbende 2019"
@@ -26,7 +26,7 @@ Tijdens Kunstbende laten jonge dj's, dichters, dansers, filmmakers, modeontwerp
         
   
   <div class="content">
-    <img alt="DJ_UT_Hidenseek" title="Foto: Kunstbende/Maan Limburg" height="1154" width="1731" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/DJ_UT_Hidenseek_MaanLimburg.jpg">  </div>
+    <img alt="DJ_UT_Hidenseek" title="Foto: Kunstbende/Maan Limburg" height="1154" width="1731" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/DJ_UT_Hidenseek_MaanLimburg.jpg">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ Tijdens Kunstbende laten jonge dj's, dichters, dansers, filmmakers, modeontwerp
         
   
   <div class="content">
-    <img alt="Kunstbende2019" title="Foto: Kunstbende/Maan Limburg" height="1154" width="1732" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/Fashion_NH_Klaskie_MaanLimburg%20.jpg">  </div>
+    <img alt="Kunstbende2019" title="Foto: Kunstbende/Maan Limburg" height="1154" width="1732" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/Fashion_NH_Klaskie_MaanLimburg%20.jpg">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: 5ca7444ce82a42af97ea54ed9188b379
+id: 89fcd4c7ab214245b7dfbcd83c2e2047
 type: nieuws
 layout: post
 title: "De Gouden Eeuw: kan dat nog wel? "
@@ -29,7 +29,7 @@ In de zeventiende eeuw ging het Nederland economisch voor de wind. Daarom word
         
   
   <div class="content">
-    <img alt="Foto: Evert Elzinga" title="Foto: Evert Elzinga" height="2832" width="4256" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Evert%20Elzinga.jpg">  </div>
+    <img alt="Foto: Evert Elzinga" title="Foto: Evert Elzinga" height="2832" width="4256" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Evert%20Elzinga.jpg">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: b8ab1c19162741edbfec8897720b6ed9
+id: f853553b9175456283d42d5da550c5b7
 type: nieuws
 layout: post
 title: "De grootste zoen-afknappers op een rij"
@@ -22,9 +22,9 @@ Wat vind jij nu écht een afknapper tijdens het zoenen? Die vraag - en nog veel
         
   
   <div class="content">
-    <img height="1397" width="800" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/new-piktochart.jpg" alt="">  </div>
+    <img height="1397" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/new-piktochart.jpg" alt="">  </div>
 
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van artikelen die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van artikelen die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

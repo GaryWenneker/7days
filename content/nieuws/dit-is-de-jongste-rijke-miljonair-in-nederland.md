@@ -1,5 +1,5 @@
 ---
-id: 9907bc5a038e49089d3bf879af4c466c
+id: 741361f5fe7a4f56b1e4d68271567c15
 type: nieuws
 layout: post
 title: "Dit is de jongste rijke miljonair in Nederland"
@@ -42,10 +42,10 @@ De jongste rijke miljonair van Nederland is 21 jaar, hartstikke populair en verk
         
   
   <div class="content">
-    <img alt="Michael van Gerwen" title="Foto: ANP" height="905" width="1527" style="font-size: 13.008px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Michael%20van%20Gerwen%20ANP.png">  </div>
+    <img alt="Michael van Gerwen" title="Foto: ANP" height="905" width="1527" style="font-size: 13.008px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Michael%20van%20Gerwen%20ANP.png">  </div>
 
   
 </div>
 </div>
 <p> </p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant 7Days!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant 7Days!</em></p>  

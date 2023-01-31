@@ -1,5 +1,5 @@
 ---
-id: 532f44f15678438b9a41c847b04a9e36
+id: 5110a03e8b1f4d44bcfd75cb6e33f3d4
 type: nieuws
 layout: post
 title: "Enzo Knol: 'Kijkers spelen een grote rol in mijn leven'"
@@ -31,7 +31,7 @@ Deze week verscheen het boek Knolpower, over het leven van Enzo Knol. Aan 7Day
         
   
   <div class="content">
-    <img alt="Win het boek van Enzo Knol op Facebook" title="Beeld 7Days" height="565" width="882" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Winnen%20boek%20Enzo%20Knol.JPG">  </div>
+    <img alt="Win het boek van Enzo Knol op Facebook" title="Beeld 7Days" height="565" width="882" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Winnen%20boek%20Enzo%20Knol.JPG">  </div>
 
   
 </div>

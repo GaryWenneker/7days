@@ -1,5 +1,5 @@
 ---
-id: 6e05373bb5f14a30b20f315ddf70077a
+id: 9ee802b6059d41919447015925665e9d
 type: post
 layout: post
 title: "Mijn smartphone, mijn precious!"
@@ -19,4 +19,4 @@ Door een gebrek aan opslagruimte heb ik al maanden struggles met mijn telefoon.
 <p>Onder de tafel open ik mijn vergrendelscherm, ik ga naar het startvenster en open de game. Het scherm wordt even zwart en daarna komt het bekende logo in beeld. Plotseling dendert het intromuziekje keihard door het lokaal. Alle ogen zijn op mij gericht en ook de leraar draait zich om.</p>
 <p><strong>Half op de grond</strong><br>Met zijn laserblik doorspit hij de hele klas, totdat hij bij mij stopt. Ik lig inmiddels nog half op de grond door de schrik van het oorverdovende geluid. De leraar loopt met grote passen op me af. ‘Geef die mobiel maar snel hier.’ Ik kijk de leraar aan, haal diep adem en geef mijn telefoon. Ondertussen roep ik nog even onhoorbaar dat ik aan hem zal denken. Met een wanhopige blik kijk ik naar de leraar die mijn smartphone in zijn bureaula stopt.</p>
 <p>‘Kom 'm morgen maar weer ophalen.’ De leraar knikt me toe als ik aan het eind van de les naar zijn bureau sprint. ‘Is goed. Sorry…’ Ik hap naar lucht en loop de klas uit. Overleef ik dit? Nee. Op naar de elektronicazaak dan maar. </p>
-<p><em>Ook zo verslaafd aan je smartphone? Of valt dat bij jou heus, echt waar, best mee? Ontdek het in de grote <a href="https://original.sevendays.nl/blog/de-grote-smartphone-verslavings-test">Smartphone-Verslavings-Test</a> van blogger Hannah! </em></p>  
+<p><em>Ook zo verslaafd aan je smartphone? Of valt dat bij jou heus, echt waar, best mee? Ontdek het in de grote <a href="https://7dagen.netlify.app/blog/de-grote-smartphone-verslavings-test">Smartphone-Verslavings-Test</a> van blogger Hannah! </em></p>  

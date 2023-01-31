@@ -1,5 +1,5 @@
 ---
-id: c88e1345fc5a4e22a570436d0c3e6d18
+id: d258ca966759474caf411912213743e6
 type: nieuws
 layout: post
 title: "Docent ontslagen door achterlaten klas na tramaanslag "

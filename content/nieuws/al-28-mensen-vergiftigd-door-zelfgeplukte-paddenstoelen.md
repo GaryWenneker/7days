@@ -1,5 +1,5 @@
 ---
-id: 5eb905203bfe4d519ff9d5a07992a44f
+id: 133ca85121bb47cb81d005f5db9eebc6
 type: nieuws
 layout: post
 title: "Al 28 mensen vergiftigd door zelfgeplukte paddenstoelen"

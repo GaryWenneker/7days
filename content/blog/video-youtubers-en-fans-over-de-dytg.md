@@ -1,5 +1,5 @@
 ---
-id: 2905df692845421ea33f082365f92d8b
+id: d97639e4f5014017bef7cbda7f20054c
 type: post
 layout: post
 title: "Video: YouTubers en fans over de DYTG"
@@ -43,4 +43,4 @@ Heel beroemd YouTube-land kwam dit weekend bij elkaar op de Dutch YouTube Gather
   
 </div>
 </div>
-<p><em>Meer zien van de DYTG? Komende week staat er elke dag om 16.00 uur een interview met een van de YouTubers uit bovenstaand filmpje voor je klaar op <a href="https://original.sevendays.nl">www.sevendays.nl</a>. En vermaak je in de tussentijd met ons <a href="https://original.sevendays.nl/veed">Dossier VEED</a>!</em></p>  
+<p><em>Meer zien van de DYTG? Komende week staat er elke dag om 16.00 uur een interview met een van de YouTubers uit bovenstaand filmpje voor je klaar op <a href="https://7dagen.netlify.app">www.sevendays.nl</a>. En vermaak je in de tussentijd met ons <a href="https://7dagen.netlify.app/veed">Dossier VEED</a>!</em></p>  

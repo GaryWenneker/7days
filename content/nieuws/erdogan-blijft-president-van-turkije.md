@@ -1,5 +1,5 @@
 ---
-id: 98af370c188c4a5b9ba3e54f218e95a3
+id: 10c88909d1004f63918642f878ef1104
 type: nieuws
 layout: post
 title: "Erdogan blijft president van Turkije"

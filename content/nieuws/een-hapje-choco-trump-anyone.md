@@ -1,5 +1,5 @@
 ---
-id: 5b0059dfc8d5498986cbffd86b666210
+id: e962bca9c1064eed92893483dc582243
 type: nieuws
 layout: post
 title: "Een hapje choco-Trump, anyone?"
@@ -17,4 +17,4 @@ Is-ie niet om op te vreten, die bijna-nieuwe president van de Verenigde Staten? 
 <h3>Mexicaanse peper</h3>
 <p>Trumps haar is gemaakt van gedroogde goudbloem. De bonbon heeft wat extra pit door wat stukjes Mexicaans chilipepertje. En dat laatste is misschien ook wel een kleine sneer naar de muur die de nieuwe president aan wil leggen bij de grens met Mexico.</p>
 <p>Klanten die bij de webshop van Ligoon chocolade bestellen, krijgen er tijdelijk twee Trumpies bij. De productie stopt op 20 januari, de dag waarop Donald Trump officieel als president wordt beëdigd.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

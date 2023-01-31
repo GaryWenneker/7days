@@ -1,5 +1,5 @@
 ---
-id: 753865eccd00476f94d980b2a31b3c3f
+id: a118bac4531443e8b01a38ae071659a0
 type: nieuws
 layout: post
 title: "DJ Willy in tha house"
@@ -34,7 +34,7 @@ Het is niet de nieuwe Tiësto, maar ach, Willem-Alexander deed in ieder geval 
         
   
   <div class="content">
-    <img title="Beeld: ANP" height="2866" width="4265" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-32851207_1.jpg" alt="">  </div>
+    <img title="Beeld: ANP" height="2866" width="4265" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-32851207_1.jpg" alt="">  </div>
 
   
 </div>

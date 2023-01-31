@@ -1,5 +1,5 @@
 ---
-id: 45cf815842c24b0a8df2d77a47a0eaf6
+id: 19e440650e1d421a982588c5df894f1c
 type: post
 layout: post
 title: "Geen tijd om te lezen"
@@ -19,4 +19,4 @@ Zodra ik op de basisschool AVI-uit was, werd ik een enorme boekenwurm. Ik las he
 <p>De volgende dag neem ik mijn boek mee in de trein, een Sprinter die sinds kort wifi heeft. Gevolg: ik raak verwikkeld in een interessant WhatsApp-gesprek met mijn beste vriendin. Op school lezen gaat al helemaal niet. ‘Waarom lees je nog een boek, dat is toch ouderwets?’ hoor ik continu.</p>
 <p><strong>Resultaat</strong><br>Het resultaat van mijn onbeperkte bibliotheekabonnement? Ik fiets constant op en neer met stapels ongelezen boeken. Superleuk natuurlijk, al die onnodige ritjes, maar niet echt hoe ik het me had voorgesteld. Dus ik ga mezelf een doel stellen. Ik wil tijdens elke treinrit die ik maak 25 bladzijden lezen. Als je iets maar vaak genoeg doet, schijnt het een gewoonte te worden. </p>
 <p>En als ik het niet haal? Dan hoef ik door al die ritjes op de fiets naar de bieb in elk geval geen abonnement op de sportschool aan te schaffen.</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/laura-schouten">Laura</a> (18)? Laatst schreef ze ook al <a href="https://original.sevendays.nl/blog/ieuw-iemand-naast-je-de-trein?platform=hootsuite">Ieuw, ieemand naast je in de trein</a> en <a href="https://original.sevendays.nl/blog/onbeleefd-op-whatsapp">Onbeleefd op WhatsApp</a>. </em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/laura-schouten">Laura</a> (18)? Laatst schreef ze ook al <a href="https://7dagen.netlify.app/blog/ieuw-iemand-naast-je-de-trein?platform=hootsuite">Ieuw, ieemand naast je in de trein</a> en <a href="https://7dagen.netlify.app/blog/onbeleefd-op-whatsapp">Onbeleefd op WhatsApp</a>. </em></p>  

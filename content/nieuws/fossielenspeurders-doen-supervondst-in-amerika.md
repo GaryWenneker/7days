@@ -1,5 +1,5 @@
 ---
-id: adae0eb425cf444db648b86575cfaac1
+id: 2e028d77e4214e48bfd06fb26399cbb9
 type: nieuws
 layout: post
 title: "Fossielenspeurders doen supervondst in Amerika"
@@ -20,7 +20,7 @@ In de Amerikaanse staat North Dakota is een bijzondere plek gevonden. Het ligt e
         
   
   <div class="content">
-    <img alt="Vissenfossiel van de vindplek  Foto AFP" title="Vissenfossiel van de vindplek  Foto AFP" height="2819" width="4500" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-71550382.jpg">  </div>
+    <img alt="Vissenfossiel van de vindplek  Foto AFP" title="Vissenfossiel van de vindplek  Foto AFP" height="2819" width="4500" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-71550382.jpg">  </div>
 
   
 </div>

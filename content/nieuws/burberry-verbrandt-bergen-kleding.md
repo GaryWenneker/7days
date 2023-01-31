@@ -1,5 +1,5 @@
 ---
-id: 94f811695040433aa9f672802fdbd2a1
+id: b1ae47efb6fe41f8ae9622710fbc6be6
 type: nieuws
 layout: post
 title: "Burberry verbrandt bergen kleding"
@@ -19,7 +19,7 @@ Peperdure zijdezachte sjaals en kleding met de bekende geruite prints. Spullen v
 <h3>Oven</h3>
 <p>‘Keiharde cijfers zijn er niet’, zegt Maria van der Heijden, van duurzaam bedrijvennetwerk MVO Nederland. Maar ook zij denkt dat er veel bedrijven zijn die kleding verbranden. 'Ze<strong> </strong>denken niet na over geld uitgeven aan recyclen, maar schuiven kleding die overblijft al jaren in de verbrandingsoven omdat het in hun ogen goedkoper is. Op korte termijn is dat ook zo maar het kan uiteindelijk echt geld schelen om materialen opnieuw te gebruiken.’</p>
 <div class="kader">
-<p><img class="kaderafbeelding" src="/sites/default/files/ff.png"> Anderen lazen ook: <a href="https://original.sevendays.nl/lifestyle/tweedehands-spullen-gadver">'Tweedehands spullen? Gatver!'</a></p>
+<p><img class="kaderafbeelding" src="/sites/default/files/ff.png"> Anderen lazen ook: <a href="https://7dagen.netlify.app/lifestyle/tweedehands-spullen-gadver">'Tweedehands spullen? Gatver!'</a></p>
 </div>
 <h3>Vervalsers</h3>
 <p>Maar er zijn meer redenen waarom kleding op de brandstapel wordt gegooid. ‘Dure merken willen dat hun kleding exclusief blijft’, zegt Ruigrok. ‘Daarom kiezen ze er vaak nog liever voor om kleding te verbranden dan het voor minder geld te verkopen.’ Burberry zou op de manier ook willen voorkomen dat vervalsers hun ontwerpen stelen en namaken. Ook Van der Heijden ziet de nadelen van deze fast fashion: ‘Er is iets ontstaan in de kledingindustrie dat we iedere week een nieuw trui willen. Een kledingstuk wordt gemiddeld maar zes keer gedragen! Dat ligt niet alleen aan de consument, modeketens moeten veranderen en stoppen met teveel kleding maken.’</p>

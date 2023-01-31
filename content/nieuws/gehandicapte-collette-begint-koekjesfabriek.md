@@ -1,5 +1,5 @@
 ---
-id: ac76746a07c64b7fb211c9a0c5504bf4
+id: e7211fa918cf4e11a3ef919951ae3382
 type: nieuws
 layout: post
 title: "Gehandicapte Collette begint koekjesfabriek"
@@ -18,4 +18,4 @@ Nee, nee en nog eens nee. Dat hoorde de gehandicapte Collette (26) uit Boston e
 <p>Dapper, vond een journalist bij CBS News. Hij maakte een reportage over de fabriek en BOEM: die ging viral. Nu rollen er vijftigduizend koekjes per week uit de oven bij Collettey’s Cookies. Vierduizend klanten uit heel Amerika bestellen bij de fabriek.</p>
 <p><iframe allowfullscreen="" frameborder="0" height="500" src="https://www.youtube.com/embed/75OIgWaHYsw" width="850"></iframe></p>
 <p>Collette is trots. Ze hoopt dat haar succes andere mensen met een handicap op een idee brengt. ‘Want’, zei ze tegen CBS, ‘wat Collette kan, kun jij ook!’</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant! </em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant! </em></p>  

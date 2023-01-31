@@ -1,5 +1,5 @@
 ---
-id: 3f9a667ce0274c3baf36a7cfd5643751
+id: 02b64cb02aaf4bd1a357d46a0ab4cd1c
 type: nieuws
 layout: post
 title: "Brexit klein stapje dichterbij"
@@ -13,12 +13,12 @@ seo:
 ---
 Na 595 dagen zijn Britse en EU-onderhandelaars het dinsdag eens geworden. Er is een voorlopig Brexit-akkoord. Maar of het ook echt tot een scheiding met de EU gaat komen en hoe dan, is nog totaal niet zeker. Hoe dat zit? We leggen het uit in zeven stappen.  
 
-    <p><strong>Stap 1</strong><br><em>To B or not to B. That is the question today.</em> Niet alleen vandaag trouwens, want er volgen nog meer Brexit-beslismomenten. Maar vandaag is wel een soort van D-day voor de Britse premier May als het over de <a href="https://original.sevendays.nl/nieuws/de-brexit-voor-beginners">Brexit</a> gaat. Want <em>as we speak </em>zijn haar ministers hard bezig om hun zegje te doen over het voorlopige 500 pagina's tellende akkoord dat gisteren is bereikt.<br><br><strong>Stap 2</strong><br>Dat is dus de eerste horde die genomen moet worden. Pas als het kabinet van May vandaag instemt met de tekst - de precieze inhoud wordt waarschijnlijk pas morgen bekend - kan de volgende horde genomen worden. Een makkie wordt dat niet want het is bekend dat de meningen van Mays ministers sterk verschillen als het over de Brexit gaat. Halverwege deze middag liepen de meningsverschillen in het Britse Lagerhuis al hoog op. Hete hangijzers zijn onder andere hoe het moet met grenscontroles en invoerrechten. Labour-leider Corbyn had het over 'een prutsdeal' die het land economisch zou verzwakken. Mocht het uitlopen op een kabinetscrisis, dan staat de deal op lossere schroeven dan ooit. <br><div class="media media-element-container media-default"><div id="file-535306" class="file file-image file-image-jpeg">
+    <p><strong>Stap 1</strong><br><em>To B or not to B. That is the question today.</em> Niet alleen vandaag trouwens, want er volgen nog meer Brexit-beslismomenten. Maar vandaag is wel een soort van D-day voor de Britse premier May als het over de <a href="https://7dagen.netlify.app/nieuws/de-brexit-voor-beginners">Brexit</a> gaat. Want <em>as we speak </em>zijn haar ministers hard bezig om hun zegje te doen over het voorlopige 500 pagina's tellende akkoord dat gisteren is bereikt.<br><br><strong>Stap 2</strong><br>Dat is dus de eerste horde die genomen moet worden. Pas als het kabinet van May vandaag instemt met de tekst - de precieze inhoud wordt waarschijnlijk pas morgen bekend - kan de volgende horde genomen worden. Een makkie wordt dat niet want het is bekend dat de meningen van Mays ministers sterk verschillen als het over de Brexit gaat. Halverwege deze middag liepen de meningsverschillen in het Britse Lagerhuis al hoog op. Hete hangijzers zijn onder andere hoe het moet met grenscontroles en invoerrechten. Labour-leider Corbyn had het over 'een prutsdeal' die het land economisch zou verzwakken. Mocht het uitlopen op een kabinetscrisis, dan staat de deal op lossere schroeven dan ooit. <br><div class="media media-element-container media-default"><div id="file-535306" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img alt="May verlaat 10 Downing Street op pad naar het Brexitdealoverleg in het Lagerhuis  Foto AFP" title="May verlaat 10 Downing Street op pad naar het Brexitdealoverleg in het Lagerhuis  Foto AFP" height="2548" width="3821" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-65616041.jpg">  </div>
+    <img alt="May verlaat 10 Downing Street op pad naar het Brexitdealoverleg in het Lagerhuis  Foto AFP" title="May verlaat 10 Downing Street op pad naar het Brexitdealoverleg in het Lagerhuis  Foto AFP" height="2548" width="3821" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-65616041.jpg">  </div>
 
   
 </div>

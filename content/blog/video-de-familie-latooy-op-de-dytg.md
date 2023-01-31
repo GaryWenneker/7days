@@ -1,5 +1,5 @@
 ---
-id: 7830a83ffa484e59bfb51867a441078c
+id: 014a087997a44e218e07ac0fab27e6a4
 type: post
 layout: post
 title: "Video: De familie Latooy op de DYTG"
@@ -27,4 +27,4 @@ Ze zijn misschien wel de eerste vloggende familie van Nederland: de Latooys! Ze 
   
 </div>
 </div>
-<p><em>Meer zien van de DYTG? Check ons <a href="https://original.sevendays.nl/dytg">Dossier DYTG</a> voor alle sfeerreportages en video-interviews. Deze week komt er elke dag om 16.00 uur een nieuwe online, dus blijf ons volgen. En vermaak je in de tussentijd ook met ons <a href="https://original.sevendays.nl/veed">Dossier VEED</a>!</em></p>  
+<p><em>Meer zien van de DYTG? Check ons <a href="https://7dagen.netlify.app/dytg">Dossier DYTG</a> voor alle sfeerreportages en video-interviews. Deze week komt er elke dag om 16.00 uur een nieuwe online, dus blijf ons volgen. En vermaak je in de tussentijd ook met ons <a href="https://7dagen.netlify.app/veed">Dossier VEED</a>!</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: 41049ed70d094e6db7493ddb1707ff0a
+id: 06d02f3619cf49f4b882abf035d739ba
 type: post
 layout: post
 title: "Een broodje zand"
@@ -20,7 +20,7 @@ Het is prachtig weer: ideaal om een dagje naar het strand te gaan. De auto is v
         
   
   <div class="content">
-    <img height="3864" width="5152" style="width: 851px; height: 638px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/DSC03644.JPG" alt="">  </div>
+    <img height="3864" width="5152" style="width: 851px; height: 638px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/DSC03644.JPG" alt="">  </div>
 
   
 </div>

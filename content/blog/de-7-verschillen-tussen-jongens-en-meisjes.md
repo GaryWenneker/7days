@@ -1,5 +1,5 @@
 ---
-id: c0944c6c8cf54280b70e5da1e5c96297
+id: 9d071c0ff13f4684b84a7f22c583436a
 type: post
 layout: post
 title: "De 7 verschillen tussen jongens en meisjes"
@@ -23,4 +23,4 @@ Jongens en meisjes zijn twee volledig verschillende typen wezens met elk hun ei
 <p>Jongens worden wakker, doen in één minuut – half slapend - hun haar goed en lopen direct naar school.</p>
 <p><strong>7. Praten</strong><br>Meisjes praten ongeveer dertien keer zoveel als jongens. Op de vraag: ‘hoe gaat het?’, zegt een jongen: ‘goed.’ </p>
 <p>Een meisje ziet die vraag als een gelegenheid om tien minuten aan één stuk door te ratelen: ‘Oooh fijn dat je het vraagt. Ja gisteren had ik even een baaldag. Al die regen ook... Hartstikke fijn dat het nu even weekend is. En hoe gaat het dan met jou? Ik zag nog een bericht langskomen. BLA BLA BLA.’</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/lucas-versteeg">Lucas</a> (16)? Laatst schreef hij ook <a href="https://original.sevendays.nl/blog/mijn-doritosgrot">Mijn Doritosgrot</a> en <a href="https://original.sevendays.nl/blog/mijn-schijtstrijd">Mijn schijtstrijd</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/lucas-versteeg">Lucas</a> (16)? Laatst schreef hij ook <a href="https://7dagen.netlify.app/blog/mijn-doritosgrot">Mijn Doritosgrot</a> en <a href="https://7dagen.netlify.app/blog/mijn-schijtstrijd">Mijn schijtstrijd</a>.</em></p>  

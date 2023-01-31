@@ -1,5 +1,5 @@
 ---
-id: dec3ed4a38874973a6b37a4d4fc12c9b
+id: 68a0619f54b54876b01b9306d5010e24
 type: nieuws
 layout: post
 title: "Cubs rekenen af met de vloek van de geit"
@@ -17,5 +17,5 @@ Er moest verlengd worden en toen ging het nog regenen ook. Maar uiteindelijk won
 <h3>Boze Billy</h3>
 <p>Boos stampte Billy het stadion uit en voorspelde dat de Cubs nooit meer zouden winnen. Dat jaar verloor het team inderdaad de World Series. In de 71 jaar daarna kwam het niet eens meer in de buurt van dit toernooi en won het zelfs geen landelijke competitie meer. Tot dit jaar. Vannacht werd de beslissende zevende wedstrijd na bijna vijf uur spelen gewonnen. De eerste overwinning van de Cubs in de World Series sinds 1908!Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? </p>
 <p><iframe allowfullscreen="" src="https://www.youtube.com/embed/HOp8w2PgHlM?rel=0" width="560" height="315" frameborder="0"></iframe></p>
-<p>Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</p>
+<p>Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</p>
 <p> </p>  

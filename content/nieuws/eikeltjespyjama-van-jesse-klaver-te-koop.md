@@ -1,5 +1,5 @@
 ---
-id: 2c603c0b5d894bd0a32a272513d6118d
+id: 0f69394c5a74431c8e5a6b529dc36478
 type: nieuws
 layout: post
 title: "Eikeltjespyjama van Jesse Klaver te koop"
@@ -13,7 +13,7 @@ seo:
 ---
 GroenLinks-leider Jesse Klaver kwam dit jaar veel in het nieuws. Niet alleen over zijn werk, ook over zijn kleding. Zijn eikeltjespyjama werd algemeen bekend en die is nu te koop voor Serious Request.  
 
-    <p>De pyjama werd bekend toen <a href="https://original.sevendays.nl/nieuws/7-dingen-die-je-nog-niet-wist-over-jesse-klaver">Klaver</a> meedeed aan de nagellakactie van <a href="https://original.sevendays.nl/nieuws/ouders-van-tijn-gaan-nagels-lakken-voor-serious-request">Tijn</a> en een foto op internet plaatste. Zijn vrouw Jolein Klaver deed daar in het voorjaar nog een schepje bovenop en Twitterde een foto van Klaver op de bank in de pyjama. In het tv-programma <em>RTL Late Night </em>vertelde de politicus dat hij er zelfs een keer in koffie is gaan drinken bij een tankstation, om zijn vrouw te pesten.</p>
+    <p>De pyjama werd bekend toen <a href="https://7dagen.netlify.app/nieuws/7-dingen-die-je-nog-niet-wist-over-jesse-klaver">Klaver</a> meedeed aan de nagellakactie van <a href="https://7dagen.netlify.app/nieuws/ouders-van-tijn-gaan-nagels-lakken-voor-serious-request">Tijn</a> en een foto op internet plaatste. Zijn vrouw Jolein Klaver deed daar in het voorjaar nog een schepje bovenop en Twitterde een foto van Klaver op de bank in de pyjama. In het tv-programma <em>RTL Late Night </em>vertelde de politicus dat hij er zelfs een keer in koffie is gaan drinken bij een tankstation, om zijn vrouw te pesten.</p>
 <p><div class="media media-element-container media-default"><div id="file-420500" class="file file-document file-text-oembed">
 
         <h2 class="element-invisible"><a href="/files/jesse-klaver-1513870031">Jesse Klaver 1513870031</a></h2>
@@ -42,4 +42,4 @@ GroenLinks-leider Jesse Klaver kwam dit jaar veel in het nieuws. Niet alleen ove
 </div>
 </div>
 <h3>Veiling</h3>
-<p>De eikeltjespyjama, die klaver van Sinterklaas kreeg, wordt nu <a href="https://veiling.3fm.nl/de-eikeltjes-pyjama-van-jesse-klaver" target="_blank">geveild</a> voor <a href="https://original.sevendays.nl/nieuws-entertainment/7-vragen-aan-glazen-huis-dj-sander-hoogendoorn">3FM Serious Request</a>. De pyjama is ingedeeld in de categorie 'ludieke bekende koppenkleding'. </p>  
+<p>De eikeltjespyjama, die klaver van Sinterklaas kreeg, wordt nu <a href="https://veiling.3fm.nl/de-eikeltjes-pyjama-van-jesse-klaver" target="_blank">geveild</a> voor <a href="https://7dagen.netlify.app/nieuws-entertainment/7-vragen-aan-glazen-huis-dj-sander-hoogendoorn">3FM Serious Request</a>. De pyjama is ingedeeld in de categorie 'ludieke bekende koppenkleding'. </p>  

@@ -1,5 +1,5 @@
 ---
-id: 6c9e1b65204145e8a9d873829ad410ff
+id: e487c0fccc0144dd8c9165c7fef30981
 type: nieuws
 layout: post
 title: "7 dingen die je nog niet wist over Mark Rutte"
@@ -22,7 +22,7 @@ Op 15 maart worden de Tweede Kamerverkiezingen gehouden. Maar wie zijn de politi
         
   
   <div class="content">
-    <img alt="Mark Rutte voor de klas" title="Beeld: ANP" height="2180" width="4372" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-28671213.jpg">  </div>
+    <img alt="Mark Rutte voor de klas" title="Beeld: ANP" height="2180" width="4372" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-28671213.jpg">  </div>
 
   
 </div>
@@ -38,7 +38,7 @@ Op 15 maart worden de Tweede Kamerverkiezingen gehouden. Maar wie zijn de politi
         
   
   <div class="content">
-    <img alt="Mark Rutte doet z&#039;n jasje goed" title="Beeld: ANP" height="1527" width="3000" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-20960446.jpg">  </div>
+    <img alt="Mark Rutte doet z&#039;n jasje goed" title="Beeld: ANP" height="1527" width="3000" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-20960446.jpg">  </div>
 
   
 </div>
@@ -47,4 +47,4 @@ Op 15 maart worden de Tweede Kamerverkiezingen gehouden. Maar wie zijn de politi
 <p>Dé vraag waar Nederland zich al jarenlang op stukbijt: waarom heeft Rutte (voor zover wij weten) geen relatie? Hij is toch hartstikke goed gekleed, verdient niet verkeerd, en kan nog aardig pianospelen ook! Dat moet het goed doen bij de vrouwen. Of mannen. Nee, hij is geen homo, en voor een vrouw heeft hij 'geen tijd'. Al heeft hij wel laten weten dat hij een 'gezonde, Hollandse vrouw' als Sophie Hilbrand wel kan waarderen. Wie weet wordt dat ooit nog wat. </p>
 <h3><strong>7. Mark Rutte is zo lekker gewoon gebleven</strong></h3>
 <p>Geen peperdure villa, hippe gadgets of buitensporige feestjes voor onze MP. Rutte woont nog altijd in een bovenhuis met 'een klein hypotheekje' in Den Haag en rijdt in een tweedehands auto. Bellen doet hij met een oude Nokia. Al die jaren al premier, en toch zo normaal gebleven.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

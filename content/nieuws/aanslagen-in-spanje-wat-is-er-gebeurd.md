@@ -1,5 +1,5 @@
 ---
-id: eaaa4346f6534acbb0fbd7547f1aceca
+id: d4731f11c932488cb810df35810285a7
 type: nieuws
 layout: post
 title: "Aanslagen in Spanje: wat is er gebeurd?"
@@ -22,7 +22,7 @@ Spanje werd donderdag opgeschrikt door twee terroristische aanslagen. Er vielen 
         
   
   <div class="content">
-    <img alt="Aanslag Barcelona" title="Foto ANP" height="567" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Aanslag%20Barcelona%20ANP-52789048%20kl.jpg">  </div>
+    <img alt="Aanslag Barcelona" title="Foto ANP" height="567" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Aanslag%20Barcelona%20ANP-52789048%20kl.jpg">  </div>
 
   
 </div>
@@ -37,15 +37,15 @@ Spanje werd donderdag opgeschrikt door twee terroristische aanslagen. Er vielen 
         
   
   <div class="content">
-    <img alt="La Rambla Barcelona" title="Foto ANP" height="558" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Aanslag%20La%20Rambla%20Barcelona%20ANP-52790582%20kl.jpg">  </div>
+    <img alt="La Rambla Barcelona" title="Foto ANP" height="558" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Aanslag%20La%20Rambla%20Barcelona%20ANP-52790582%20kl.jpg">  </div>
 
   
 </div>
 </div>
 <p> </p>
 <div class="kader">
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p>Vond je dit interessant? Lees dan ook eens<a href="https://original.sevendays.nl/lifestyle/fenna-17-van-hoefwijzer-over-het-succes-van-paardentubers" target="_blank"> </a><a href="https://original.sevendays.nl/nieuws/gaat-ook-aanslagen-plegen-nederland-0">Gaat IS ook aanslagen plegen in Nederland</a>? of <a href="https://original.sevendays.nl/nieuws/minder-aanslagen-gepleegd-2016">Minder aanslagen gepleegd in 2016</a>.</p>
-<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://original.sevendays.nl/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp</a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">,</em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://original.sevendays.nl/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"> </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p>Vond je dit interessant? Lees dan ook eens<a href="https://7dagen.netlify.app/lifestyle/fenna-17-van-hoefwijzer-over-het-succes-van-paardentubers" target="_blank"> </a><a href="https://7dagen.netlify.app/nieuws/gaat-ook-aanslagen-plegen-nederland-0">Gaat IS ook aanslagen plegen in Nederland</a>? of <a href="https://7dagen.netlify.app/nieuws/minder-aanslagen-gepleegd-2016">Minder aanslagen gepleegd in 2016</a>.</p>
+<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://7dagen.netlify.app/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp</a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">,</em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://7dagen.netlify.app/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"> </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
 </div>
   

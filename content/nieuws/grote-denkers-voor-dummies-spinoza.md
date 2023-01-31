@@ -1,5 +1,5 @@
 ---
-id: 82bed19ae61641a99e9e8070d4753930
+id: e0086208d95844d09943bdd46e553437
 type: nieuws
 layout: post
 title: "Grote Denkers voor Dummies: Spinoza"

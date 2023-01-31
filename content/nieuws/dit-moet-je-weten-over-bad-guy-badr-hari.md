@@ -1,5 +1,5 @@
 ---
-id: 482ca317c2554493b1e8cc05ac12ddc1
+id: f216679865ed4acbaacd448437a950e9
 type: nieuws
 layout: post
 title: "Dit moet je weten over 'bad guy' Badr Hari"
@@ -20,7 +20,7 @@ Het moest het 'gevecht van de eeuw' worden. De huidige wereldkampioen kickboksen
         
   
   <div class="content">
-    <img alt="Badr Hari versus Rico Verhoeven" title="Beeld: ANP" height="682" width="1364" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202016-12-11%20om%2009.56.10.png">  </div>
+    <img alt="Badr Hari versus Rico Verhoeven" title="Beeld: ANP" height="682" width="1364" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202016-12-11%20om%2009.56.10.png">  </div>
 
   
 </div>
@@ -34,7 +34,7 @@ Het moest het 'gevecht van de eeuw' worden. De huidige wereldkampioen kickboksen
         
   
   <div class="content">
-    <img alt="Badr Hari" title="Beeld: ANP" height="507" width="1057" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202016-12-11%20om%2010.32.50.png">  </div>
+    <img alt="Badr Hari" title="Beeld: ANP" height="507" width="1057" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202016-12-11%20om%2010.32.50.png">  </div>
 
   
 </div>
@@ -47,11 +47,11 @@ Het moest het 'gevecht van de eeuw' worden. De huidige wereldkampioen kickboksen
         
   
   <div class="content">
-    <img alt="Badr Hari" title="Beeld: ANP" height="628" width="1036" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202016-12-11%20om%2010.43.19.png">  </div>
+    <img alt="Badr Hari" title="Beeld: ANP" height="628" width="1036" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202016-12-11%20om%2010.43.19.png">  </div>
 
   
 </div>
 </div>
 <h3>Een tweede kans</h3>
 <p>In de tussentijd is Hari nog altijd op vrije voeten. Veel tijd brengt hij door in Marokko, waar zijn ouders vandaan komen. Af en toe speelt Hari nog een wedstrijd, zoals dit weekend in Oberhausen. Hij hoopt een tweede kans te krijgen: in de boksring, en daarbuiten. Verhoeven heeft Hari in ieder geval al een herkansing aangeboden: volgend jaar treffen de twee elkaar weer.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

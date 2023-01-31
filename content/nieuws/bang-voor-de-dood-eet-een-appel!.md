@@ -1,5 +1,5 @@
 ---
-id: 786dfcca8b7c40b894ff07f69f69dae0
+id: c1307d82e47340b8a2880bf73ef9ae60
 type: nieuws
 layout: post
 title: "Bang voor de dood? Eet een appel!"
@@ -20,7 +20,7 @@ Kijk je wel eens angstig omhoog of je de oorlogsvliegtuigen al over ziet scheren
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/7.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/7.jpeg" alt="">  </div>
 
   
 </div>

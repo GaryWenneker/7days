@@ -1,5 +1,5 @@
 ---
-id: f4eb1a3ba6bd4c3dadcb8318ab0961fb
+id: 3260fd6dabd247f7aad2debe70e077ec
 type: nieuws
 layout: post
 title: "Donovan (13): 'Mijn zeep helpt daklozen'"
@@ -18,7 +18,7 @@ De dertienjarige Donovan Smith uit het Amerikaanse Albuquerque (of Burque zoals 
         
   
   <div class="content">
-    <img height="380" width="570" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ijsjeszeep%20Donovan.jpg" alt="">  </div>
+    <img height="380" width="570" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ijsjeszeep%20Donovan.jpg" alt="">  </div>
 
   
 </div>
@@ -28,7 +28,7 @@ De dertienjarige Donovan Smith uit het Amerikaanse Albuquerque (of Burque zoals 
         
   
   <div class="content">
-    <img height="428" width="570" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/gebakken%20ei%20Donovan.jpg" alt="">  </div>
+    <img height="428" width="570" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/gebakken%20ei%20Donovan.jpg" alt="">  </div>
 
   
 </div>
@@ -38,7 +38,7 @@ De dertienjarige Donovan Smith uit het Amerikaanse Albuquerque (of Burque zoals 
         
   
   <div class="content">
-    <img height="570" width="570" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/citroenzeepje%20Donovan.jpg" alt="">  </div>
+    <img height="570" width="570" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/citroenzeepje%20Donovan.jpg" alt="">  </div>
 
   
 </div>
@@ -48,7 +48,7 @@ De dertienjarige Donovan Smith uit het Amerikaanse Albuquerque (of Burque zoals 
         
   
   <div class="content">
-    <img height="570" width="570" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Zeepje%20Donovan.jpg" alt="">  </div>
+    <img height="570" width="570" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Zeepje%20Donovan.jpg" alt="">  </div>
 
   
 </div>
@@ -58,10 +58,10 @@ De dertienjarige Donovan Smith uit het Amerikaanse Albuquerque (of Burque zoals 
         
   
   <div class="content">
-    <img height="570" width="570" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/beerzeepje.jpg" alt="">  </div>
+    <img height="570" width="570" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/beerzeepje.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <p><strong>Hoe gaat het nu?</strong><br>‘Goed! Mijn moeder heeft werk. We wonen in een fijn huis. Ik ga naar school. En als ik vrij ben, maak ik zeep en doe ik andere dingen voor de daklozen. Afgelopen jaar heb ik er drie prijzen voor gekregen. De burgemeester heeft me gevraagd om in de Jeugdraad van Burque te komen om verbeter-ideeën voor de stad te bedenken. Ik ben de jongste. En ik heb ook nog een studiebeurs gewonnen. Het is allemaal nogal <em>super amazing</em>! Wat ik wil gaan doen? Ik dacht eerst naar de toneelschool. Ik acteer graag. Ik speel een rolletje in <a href="http://www.imdb.com/title/tt1628841/"><em>Independence Day: Resurgence</em></a> die net uit is. Maar ik geloof dat er niet veel goede rollen zijn voor Afro-Amerikaanse jongens. Dus ik weet het nog niet zo goed. Hoe dan ook: ik zal me altijd inzetten voor anderen. Want dit weet ik wel: ook al doe je iets kleins, je kunt het leven van mensen die het moeilijk hebben een beetje lichter maken.'</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

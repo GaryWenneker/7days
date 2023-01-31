@@ -1,5 +1,5 @@
 ---
-id: 23c261a55af04a20bc291616a992e83e
+id: bbb8686a9dab4c4fae6c757c549c37a7
 type: nieuws
 layout: post
 title: "Arnhem viert bekerwinst Vitesse"
@@ -18,7 +18,7 @@ Het Marktplein in Arnhem was maandagavond zwart-geel gekleurd. Bekerwinnaar Vite
         
   
   <div class="content">
-    <img title="Foto: ANP" height="519" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Publiek%20sjaals%20ANP-50953688.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="519" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Publiek%20sjaals%20ANP-50953688.jpg" alt="">  </div>
 
   
 </div>
@@ -28,7 +28,7 @@ Het Marktplein in Arnhem was maandagavond zwart-geel gekleurd. Bekerwinnaar Vite
         
   
   <div class="content">
-    <img title="Foto: ANP" height="565" width="855" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Publiek%20Sjaals%202%20ANP-50954315.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="565" width="855" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Publiek%20Sjaals%202%20ANP-50954315.jpg" alt="">  </div>
 
   
 </div>
@@ -38,7 +38,7 @@ Het Marktplein in Arnhem was maandagavond zwart-geel gekleurd. Bekerwinnaar Vite
         
   
   <div class="content">
-    <img title="Foto: ANP" height="526" width="855" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Team%20podium%20ANP-50955160.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="526" width="855" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Team%20podium%20ANP-50955160.jpg" alt="">  </div>
 
   
 </div>
@@ -48,7 +48,7 @@ Het Marktplein in Arnhem was maandagavond zwart-geel gekleurd. Bekerwinnaar Vite
         
   
   <div class="content">
-    <img title="Foto: ANP" height="524" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Publiek%20Confettie%20ANP-50955060.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="524" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Publiek%20Confettie%20ANP-50955060.jpg" alt="">  </div>
 
   
 </div>
@@ -58,9 +58,9 @@ Het Marktplein in Arnhem was maandagavond zwart-geel gekleurd. Bekerwinnaar Vite
         
   
   <div class="content">
-    <img title="Foto: ANP" height="534" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Publiek%20Pyro%202%20ANP-50955246.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="534" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Publiek%20Pyro%202%20ANP-50955246.jpg" alt="">  </div>
 
   
 </div>
 </div><em>No pyro, no party! Vuurwerk licht het Marktplein op. Voor het eerst in 125 jaar konden de supporters van Vitesse juichen om een échte prijs.</em>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

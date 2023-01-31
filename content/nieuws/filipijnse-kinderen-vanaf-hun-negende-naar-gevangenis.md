@@ -1,5 +1,5 @@
 ---
-id: b63b135a3abf436599a864651b36f458
+id: 954c4027a06342d69d00d8ecef99b074
 type: nieuws
 layout: post
 title: "'Filipijnse kinderen vanaf hun negende naar gevangenis'"
@@ -20,4 +20,4 @@ Als het aan Filipijnse politici ligt, kunnen kinderen van negen jaar straks een 
 <h3>Doodstraf</h3>
 <p>Dezelfde politici willen dus ook de doodstraf opnieuw invoeren. Dat zou in de praktijk kunnen betekenen dat kinderen ter dood veroordeeld kunnen worden.</p>
 <p>Unicef benadrukt dat dit echt niet mag gebeuren. Jonge kinderen weten niet goed wat ze doen en worden bovendien vaak door ouderen aangespoord om criminele daden te verrichten. Zij mogen dus nooit dezelfde straf krijgen als een volwassene. Het is dus te hopen dat de politici zich bedenken voordat dit plan werkelijkheid wordt.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

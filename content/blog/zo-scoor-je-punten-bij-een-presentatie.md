@@ -1,5 +1,5 @@
 ---
-id: 9738eecdd13c48418ba6ef38dce1d0d1
+id: bdacc39146c04737a955dedf21dadf47
 type: post
 layout: post
 title: "Zo scoor je punten bij een presentatie"
@@ -19,7 +19,7 @@ Als scholier ontkom je er niet aan: presentaties geven. Hoewel de één er als e
         
   
   <div class="content">
-    <img height="848" width="1291" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/plaatje%201.jpg" alt="">  </div>
+    <img height="848" width="1291" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/plaatje%201.jpg" alt="">  </div>
 
   
 </div>
@@ -31,7 +31,7 @@ Als scholier ontkom je er niet aan: presentaties geven. Hoewel de één er als e
         
   
   <div class="content">
-    <img title="Flickr: Jim Driscoll" height="494" width="826" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/vernieuwdplaatjepresentatieblog.jpg" alt="">  </div>
+    <img title="Flickr: Jim Driscoll" height="494" width="826" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/vernieuwdplaatjepresentatieblog.jpg" alt="">  </div>
 
   
 </div>
@@ -43,10 +43,10 @@ Als scholier ontkom je er niet aan: presentaties geven. Hoewel de één er als e
         
   
   <div class="content">
-    <img height="420" width="518" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Hiphopprank%202.jpg" alt="">  </div>
+    <img height="420" width="518" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Hiphopprank%202.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <p><strong>Wees enthousiast</strong>!<br>Wanneer je zelf enthousiast praat, worden je klasgenoten vanzelf óók echt wel enthousiast over het onderwerp. Ook al vind je je eigen presentatieonderwerp eigenlijk heel saai: doe alsof! Praat dus over de Cubaanse cavia alsof het je toekomstige echtgenoot is. Reken maar: Na je presentatie rent heel de klas naar de dierenwinkel. </p>
-<p><em>Meer blogs lezen van Lucas(17)? Bekijk <a href="https://original.sevendays.nl/blog/de-cirkel-van-het-schoolleven">De cirkel van het schoolleven</a> of <a href="https://original.sevendays.nl/blog/nachtjacht-de-strijd-tegen-de-mug">Nachtjacht: de strijd tegen de mug</a>.</em></p>  
+<p><em>Meer blogs lezen van Lucas(17)? Bekijk <a href="https://7dagen.netlify.app/blog/de-cirkel-van-het-schoolleven">De cirkel van het schoolleven</a> of <a href="https://7dagen.netlify.app/blog/nachtjacht-de-strijd-tegen-de-mug">Nachtjacht: de strijd tegen de mug</a>.</em></p>  

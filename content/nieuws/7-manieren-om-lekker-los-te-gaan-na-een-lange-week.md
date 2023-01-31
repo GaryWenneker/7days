@@ -1,5 +1,5 @@
 ---
-id: 3bf0d32c94ee40f985ac71da7067e8a8
+id: e09e4300effb48829b694fbeeea8b5ea
 type: nieuws
 layout: post
 title: "7 manieren om lekker los te gaan na een lange week"
@@ -24,7 +24,7 @@ Iedereen kent het gevoel wel: de vrijdag na een zware toetsweek of een week met 
         
   
   <div class="content">
-    <img alt="losgaan" title="Gif: Giphy" height="270" width="480" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/giphy_67.gif">  </div>
+    <img alt="losgaan" title="Gif: Giphy" height="270" width="480" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/giphy_67.gif">  </div>
 
   
 </div>

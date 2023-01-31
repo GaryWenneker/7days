@@ -1,5 +1,5 @@
 ---
-id: 5990b1a915184e529dd35d834584882c
+id: 2f923cd9ef8649b6948fe4e4df436388
 type: nieuws
 layout: post
 title: "Ed Sheeran en Rita Ora samen in de studio"
@@ -27,4 +27,4 @@ Rita Ora en Ed Sheeran voeren iets in hun schild. Dat is wel duidelijk als je na
 </div>
 </div>
 <p> </p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

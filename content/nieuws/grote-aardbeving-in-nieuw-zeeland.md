@@ -1,5 +1,5 @@
 ---
-id: 5642a2c180ce42c59782cd67fb1b83a1
+id: 7a1d2dedba07472bb01a3f56b1dc6094
 type: nieuws
 layout: post
 title: "Grote aardbeving in Nieuw-Zeeland"
@@ -18,7 +18,7 @@ De inwoners van Nieuw-Zeeland zijn opgeschrikt door een zware aardbeving. Het aa
         
   
   <div class="content">
-    <img alt="Ook in de hoofdstad Wellington is schade  Foto AFP" title="Ook in de hoofdstad Wellington is schade  Foto AFP" height="567" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-48433000-klein.jpg">  </div>
+    <img alt="Ook in de hoofdstad Wellington is schade  Foto AFP" title="Ook in de hoofdstad Wellington is schade  Foto AFP" height="567" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-48433000-klein.jpg">  </div>
 
   
 </div>
@@ -29,8 +29,8 @@ De inwoners van Nieuw-Zeeland zijn opgeschrikt door een zware aardbeving. Het aa
         
   
   <div class="content">
-    <img height="413" width="464" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/aardbeving%20NZ_0.jpg" alt="">  </div>
+    <img height="413" width="464" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/aardbeving%20NZ_0.jpg" alt="">  </div>
 
   
 </div>
-</div><br><br><em>Altijd op de hoogte blijven van artikelen die voor jongeren interessant zijn? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em>  
+</div><br><br><em>Altijd op de hoogte blijven van artikelen die voor jongeren interessant zijn? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em>  

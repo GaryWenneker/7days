@@ -1,5 +1,5 @@
 ---
-id: 16f590045c9a4c6b901d793c487fee4b
+id: 894e829a37324f5d92f51406bfe9177e
 type: nieuws
 layout: post
 title: "8 weetjes over Amsterdam Dance Event "

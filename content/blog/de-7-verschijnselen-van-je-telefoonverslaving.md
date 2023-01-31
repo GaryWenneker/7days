@@ -1,5 +1,5 @@
 ---
-id: fac1b5e74d6247d2b39db3d96cfd16a4
+id: 305893bac23e4142bfe9beac4c3f8cc7
 type: post
 layout: post
 title: "De 7 verschijnselen van je telefoonverslaving"
@@ -26,7 +26,7 @@ In de les, op de fiets, bij je ouders aan tafel of in gezelschap van je vrienden
         
   
   <div class="content">
-    <img alt="Telefoonverslaving verschijnselen" title="Beeld: Pixabay" height="499" width="948" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/iphone-518101_960_720.jpg">  </div>
+    <img alt="Telefoonverslaving verschijnselen" title="Beeld: Pixabay" height="499" width="948" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/iphone-518101_960_720.jpg">  </div>
 
   
 </div>

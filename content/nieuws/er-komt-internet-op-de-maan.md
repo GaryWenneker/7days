@@ -1,5 +1,5 @@
 ---
-id: e17998146947424f95b72ba9031c0f0c
+id: 8a4ae49faf8249e9adc1e51dd9b69869
 type: nieuws
 layout: post
 title: "Er komt internet op de maan"

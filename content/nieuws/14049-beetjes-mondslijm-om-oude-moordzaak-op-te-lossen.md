@@ -1,5 +1,5 @@
 ---
-id: 2e4b984d600544f28cc85ac3a26a7dbb
+id: 586b0702699f48468c6c01a959a41bb8
 type: nieuws
 layout: post
 title: "14.049 beetjes mondslijm om oude moordzaak op te lossen"
@@ -21,7 +21,7 @@ In Limburg hebben 14.049 mannen de afgelopen weken vrijwillig een beetje mondsli
         
   
   <div class="content">
-    <img height="709" width="534" style="width: 300px; height: 398px; float: right;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/download%20%282%29.jpg" alt="">  </div>
+    <img height="709" width="534" style="width: 300px; height: 398px; float: right;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/download%20%282%29.jpg" alt="">  </div>
 
   
 </div>
@@ -35,7 +35,7 @@ In Limburg hebben 14.049 mannen de afgelopen weken vrijwillig een beetje mondsli
         
   
   <div class="content">
-    <img height="6000" width="9000" style="width: 900px; height: 600px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-56040438.jpg" alt="">  </div>
+    <img height="6000" width="9000" style="width: 900px; height: 600px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-56040438.jpg" alt="">  </div>
 
   
 </div>

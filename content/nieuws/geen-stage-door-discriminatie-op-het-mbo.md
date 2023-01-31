@@ -1,5 +1,5 @@
 ---
-id: 1c92ce75a014421b8ce49703b8208a0c
+id: bcd8f26b4fab486f8b77b36477ac8e38
 type: nieuws
 layout: post
 title: "Geen stage door discriminatie op het MBO"

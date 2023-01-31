@@ -1,5 +1,5 @@
 ---
-id: 8b8cd9ef2c1741688317516927fdaf6d
+id: 46db9593c2f84133878bf21499ca6c33
 type: nieuws
 layout: post
 title: "Formatie mislukt: wie willen nog met elkaar?"
@@ -22,7 +22,7 @@ seo:
         
   
   <div class="content">
-    <img alt="VVD, CDA, D66 en GroenLinks onderhandelden over kabinet" title="Beeld: ANP" height="716" width="1892" style="font-size: 13.008px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/De%20grote%20vier%20%281%29.png">  </div>
+    <img alt="VVD, CDA, D66 en GroenLinks onderhandelden over kabinet" title="Beeld: ANP" height="716" width="1892" style="font-size: 13.008px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/De%20grote%20vier%20%281%29.png">  </div>
 
   
 </div>
@@ -35,7 +35,7 @@ seo:
         
   
   <div class="content">
-    <img alt="Mogelijke coalities" title="Beeld: 7Days" height="384" width="1277" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/coalities%20%281%29.png">  </div>
+    <img alt="Mogelijke coalities" title="Beeld: 7Days" height="384" width="1277" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/coalities%20%281%29.png">  </div>
 
   
 </div>
@@ -47,4 +47,4 @@ seo:
 <p>Het formeren is dus een lastige puzzel. Bij de vorige verkiezingen in 2012 ging het een stuk sneller: de VVD en de PVDA hadden met z'n tweeën genoeg zetels voor een meerderheidskabinet. Die twee partijen zitten nu nog altijd in het (demissionaire) kabinet. Echt haast is er dan ook niet: het land wordt nog altijd bestuurd.</p>
 <h3>Nieuwe verkiezingen?</h3>
 <p>Mocht de formatiepuzzel helemaal niet opgelost kunnen worden? Dan kunnen er theoretisch nieuwe verkiezingen worden uitgeschreven. Al zitten weinig partijen daar op te wachten. En de kiezer al helemaal niet!</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

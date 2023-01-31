@@ -1,5 +1,5 @@
 ---
-id: f05c792c6307498da1cccc39e3f81326
+id: 93b99946484d4616b089473ab8cae102
 type: nieuws
 layout: post
 title: "Gedoe rond Nederlandse Pegida-demonstratie"
@@ -20,7 +20,7 @@ Bij een demonstratie van Pegida-aanhangers in Den Haag arresteerde de politie af
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-47883195.jpg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-47883195.jpg" alt="">  </div>
 
   
 </div>
@@ -32,7 +32,7 @@ Bij een demonstratie van Pegida-aanhangers in Den Haag arresteerde de politie af
         
   
   <div class="content">
-    <img height="340" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-47883103.jpg" alt="">  </div>
+    <img height="340" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-47883103.jpg" alt="">  </div>
 
   
 </div>
@@ -44,10 +44,10 @@ Bij een demonstratie van Pegida-aanhangers in Den Haag arresteerde de politie af
         
   
   <div class="content">
-    <img height="500" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-47799654.jpg" alt="">  </div>
+    <img height="500" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-47799654.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <p><strong>Wat vindt de rest van Duitsland van Pegida?</strong><br>De beweging roept veel emoties op. Niet alleen Pegida, maar ook tegenstanders gingen afgelopen jaar de straat op. Net zoals zondag in Den Haag dus. Duitse politici weten niet zo goed wat ze met Pegida aan moeten. In het begin dachten veel mensen dat de betogingen vanzelf wel zouden stoppen, maar de groep groeit nog steeds . De Duitse bondskanselier Angela Merkel liet eerder al weten dat ze vindt dat de club vrij moet kunnen bewegen, ook al is ze het niet eens met de anti-islamideeën.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

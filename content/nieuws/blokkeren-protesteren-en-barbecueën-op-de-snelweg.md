@@ -1,5 +1,5 @@
 ---
-id: a1901e03efcd47a38eb8e74bde24547a
+id: 6a83496c56b54b1eb8e7283cc9047514
 type: nieuws
 layout: post
 title: "Blokkeren, protesteren en barbecueën op de snelweg"
@@ -19,7 +19,7 @@ In heel het land zorgen boeren en bouwers vandaag voor overlast. Ze voeren opnie
         
   
   <div class="content">
-    <img alt="ANP - boerenprotest" title="Foto: ANP" height="2912" width="4368" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-403484008.jpg">  </div>
+    <img alt="ANP - boerenprotest" title="Foto: ANP" height="2912" width="4368" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-403484008.jpg">  </div>
 
   
 </div>
@@ -30,7 +30,7 @@ In heel het land zorgen boeren en bouwers vandaag voor overlast. Ze voeren opnie
         
   
   <div class="content">
-    <img alt="ANP - boerenprotest" title="Foto: ANP" height="2951" width="4500" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-403492785.jpg">  </div>
+    <img alt="ANP - boerenprotest" title="Foto: ANP" height="2951" width="4500" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-403492785.jpg">  </div>
 
   
 </div>
@@ -41,7 +41,7 @@ In heel het land zorgen boeren en bouwers vandaag voor overlast. Ze voeren opnie
         
   
   <div class="content">
-    <img alt="ANP - boerenprotest" title="Foto: ANP" height="3456" width="5184" class="media-element file-default" data-delta="4" src="https://original.sevendays.nl/sites/default/files/ANP-403490885.jpg">  </div>
+    <img alt="ANP - boerenprotest" title="Foto: ANP" height="3456" width="5184" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/ANP-403490885.jpg">  </div>
 
   
 </div>
@@ -52,7 +52,7 @@ In heel het land zorgen boeren en bouwers vandaag voor overlast. Ze voeren opnie
         
   
   <div class="content">
-    <img alt="ANP - boerenprotest" title="Foto: ANP" height="921" width="1387" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/boerenprotest-mediapark.png">  </div>
+    <img alt="ANP - boerenprotest" title="Foto: ANP" height="921" width="1387" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/boerenprotest-mediapark.png">  </div>
 
   
 </div>

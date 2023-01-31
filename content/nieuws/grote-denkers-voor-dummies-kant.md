@@ -1,5 +1,5 @@
 ---
-id: 602afd4e71654b7b99b8663cf0cca6eb
+id: 8513233b92aa492fbad66e8cd675e643
 type: nieuws
 layout: post
 title: "Grote Denkers voor Dummies: Kant"

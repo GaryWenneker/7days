@@ -1,5 +1,5 @@
 ---
-id: d5616b9808c14e6da8d05fa99b6b94fa
+id: ffca2a38654444e3828728d339f9cd3f
 type: post
 layout: post
 title: "Die verdraaide Rubiks kubus!"
@@ -21,7 +21,7 @@ Het is vakantie. Dat betekent: tijd in overvloed. Misschien wel om te proberen o
         
   
   <div class="content">
-    <img title="How to...?" height="211" width="466" style="width: 850px; height: 385px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/How%20to.png" alt="">  </div>
+    <img title="How to...?" height="211" width="466" style="width: 850px; height: 385px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/How%20to.png" alt="">  </div>
 
   
 </div>
@@ -33,7 +33,7 @@ Het is vakantie. Dat betekent: tijd in overvloed. Misschien wel om te proberen o
         
   
   <div class="content">
-    <img title="OPGELOST!" height="2274" width="2274" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px; height: 260px; width: 260px; float: left;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/lucas_rubiks_kubiks_0.jpg" alt="">  </div>
+    <img title="OPGELOST!" height="2274" width="2274" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px; height: 260px; width: 260px; float: left;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/lucas_rubiks_kubiks_0.jpg" alt="">  </div>
 
   
 </div>

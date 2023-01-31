@@ -1,5 +1,5 @@
 ---
-id: 4e52bf86dbee409883e38b9cadad5d61
+id: 1e2f595688be4be496d98887ff023d5e
 type: post
 layout: post
 title: "Ook áltijd je fietslampjes kwijt?"
@@ -23,7 +23,7 @@ Fietsen zonder licht levert je een boete op van 55 euro. Terecht want het is ha
         
   
   <div class="content">
-    <img alt="Flickr: Joe Penniston" title="Flickr: Joe Penniston" height="618" width="800" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/6478250447_c2c7692645_c.jpg">  </div>
+    <img alt="Flickr: Joe Penniston" title="Flickr: Joe Penniston" height="618" width="800" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/6478250447_c2c7692645_c.jpg">  </div>
 
   
 </div>

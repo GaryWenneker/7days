@@ -1,5 +1,5 @@
 ---
-id: 8e4a680203804c65a15c0558d07f5051
+id: afc2ce147de34b44be11e5c986c34ac4
 type: nieuws
 layout: post
 title: "5 tips tegen verveling tijdens een lange autorit"
@@ -26,6 +26,6 @@ Het is vandaag zwarte zaterdag: de dag waarop het extra druk is op de weg richti
 <h3>3. Train je hersenen</h3>
 <p>Er zijn allerlei manieren waarop je jezelf kunt uitdagen tijdens een autorit. Download bijvoorbeeld een braintraining-app of leer een nieuwe taal via de app Duolingo. Dan is het straks lekker makkelijk om een broodje of colaatje te bestellen op vakantie. Heb je geen telefoon of iPad bij de hand? Koop dan een puzzelboekje met bijvoorbeeld kruiswoordpuzzels. Wie wil nou niet slimmer uit de auto stappen?</p>
 <h3>4. Laat je oren het werk doen</h3>
-<p>Ben je een beetje klaar met alle standaard liedjes die je normaal luistert? Download dan eens een <a href="https://original.sevendays.nl/blog/dit-waarom-podcasts-super-tof-zijn" target="_blank">podcast </a>of koop of download een luisterboek, dan kun je lekker ontspannen naar je favoriete boek luisteren.</p>
+<p>Ben je een beetje klaar met alle standaard liedjes die je normaal luistert? Download dan eens een <a href="https://7dagen.netlify.app/blog/dit-waarom-podcasts-super-tof-zijn" target="_blank">podcast </a>of koop of download een luisterboek, dan kun je lekker ontspannen naar je favoriete boek luisteren.</p>
 <h3>5. Schrijven</h3>
 <p>In de auto heb je eindelijk eens de tijd om rustig te schrijven. Begin bijvoorbeeld alvast met je reisdagboekje. Ook is het leuk om een brief naar jezelf te schrijven: wat verwacht je van de vakantie en waar heb je het meeste zin in? Na de vakantie kun je de brief weer openen en kijken of het klopte wat je hebt opgeschreven.</p>  

@@ -1,5 +1,5 @@
 ---
-id: f4d52d2292d6400aba7165c9fc964cee
+id: edcf5c3dc02f452e9a564d764a09f8f1
 type: nieuws
 layout: post
 title: "De wereld verbeteren? 'Je kunt nú al iets groots doen'"
@@ -19,7 +19,7 @@ Nul plastic tasjes op Bali in 2018. Dat is het doel van Melati (15, links) en Is
         
   
   <div class="content">
-    <img alt="Bali Beach" title="Kuta Beach op Bali ligt bezaaid met plastic  Foto EPA" height="567" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/bali%20klein.jpg">  </div>
+    <img alt="Bali Beach" title="Kuta Beach op Bali ligt bezaaid met plastic  Foto EPA" height="567" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/bali%20klein.jpg">  </div>
 
   
 </div>
@@ -29,7 +29,7 @@ Nul plastic tasjes op Bali in 2018. Dat is het doel van Melati (15, links) en Is
         
   
   <div class="content">
-    <img alt="Green School Bali" title="Green School Bali" height="508" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Green%20school-klein.jpg">  </div>
+    <img alt="Green School Bali" title="Green School Bali" height="508" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Green%20school-klein.jpg">  </div>
 
   
 </div>
@@ -39,7 +39,7 @@ Nul plastic tasjes op Bali in 2018. Dat is het doel van Melati (15, links) en Is
         
   
   <div class="content">
-    <img alt="Bye Bye Plastic Bags" title="Melati en Isabel tijdens een schoonmaakactie  Foto Bye Bye Plastic Bags" height="331" width="500" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Melati%20en%20Isabel%20schoonmaakactie.jpg">  </div>
+    <img alt="Bye Bye Plastic Bags" title="Melati en Isabel tijdens een schoonmaakactie  Foto Bye Bye Plastic Bags" height="331" width="500" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Melati%20en%20Isabel%20schoonmaakactie.jpg">  </div>
 
   
 </div>
@@ -65,7 +65,7 @@ Nul plastic tasjes op Bali in 2018. Dat is het doel van Melati (15, links) en Is
         
   
   <div class="content">
-    <img alt="Bye Bye Plastic Bags" title="Melati (links) en Isabel Wijsen  Foto Karen Hoogland" height="564" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Isabel%20en%20Melati-klein_0.jpg">  </div>
+    <img alt="Bye Bye Plastic Bags" title="Melati (links) en Isabel Wijsen  Foto Karen Hoogland" height="564" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Isabel%20en%20Melati-klein_0.jpg">  </div>
 
   
 </div>

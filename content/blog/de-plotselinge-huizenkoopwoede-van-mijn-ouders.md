@@ -1,5 +1,5 @@
 ---
-id: 291afda75a5a4efca80583f635cff9e5
+id: 351e0a1981d046039ecb86c93fe4ac1a
 type: post
 layout: post
 title: "De plotselinge huizenkoopwoede van mijn ouders"
@@ -20,4 +20,4 @@ Van de ene op de andere dag gingen mijn ouders op zoek naar een nieuw huis. Wat
 <h3>Wifi platleggen</h3>
 <p>De emoties wat betreft de plotseling aanwezige huizenkoopwoede lopen hoog op. Al dat verbouwen, gesjouw met verhuisdozen en chaos met sleutels die wel of niet op tijd aankomen: ik zit er helemaal niet op te wachten. Na verschillende dreigbrieven aan mijn ouders en een mislukte poging de wifi thuis plat te leggen, heb ik het maar opgegeven.</p>
 <p>'Wanneer willen jullie gaan verhuizen dan?' vroeg ik laatst.<br>'Ergens in de zomervakantie misschien', was het antwoord.<br>'Oké. Dan ga ik vanaf "ergens in de zomervakantie" heerlijk op kamers!'</p>
-<p><em>Meer blogs lezen van Lucas (17)? Laatst schreef hij ook <a href="https://original.sevendays.nl/blog/wij-hopeloze-scholieren-zijn-gedwongen-verslaafd">Wij hopeloze scholieren zijn gedwongen verslaafd</a> en <a href="https://original.sevendays.nl/blog/de-7-obsessies-uit-mijn-kindertijd">De 7 obsessies uit mijn kindertijd.</a> </em></p>  
+<p><em>Meer blogs lezen van Lucas (17)? Laatst schreef hij ook <a href="https://7dagen.netlify.app/blog/wij-hopeloze-scholieren-zijn-gedwongen-verslaafd">Wij hopeloze scholieren zijn gedwongen verslaafd</a> en <a href="https://7dagen.netlify.app/blog/de-7-obsessies-uit-mijn-kindertijd">De 7 obsessies uit mijn kindertijd.</a> </em></p>  

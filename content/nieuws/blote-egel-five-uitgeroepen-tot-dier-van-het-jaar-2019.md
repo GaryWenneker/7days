@@ -1,5 +1,5 @@
 ---
-id: 98034e967dbc4394a0d7abd3792a8ca3
+id: bca4c62617c3433c88b7617bb98bfd35
 type: nieuws
 layout: post
 title: "Blote egel Five uitgeroepen tot Dier van het Jaar 2019"
@@ -19,7 +19,7 @@ Five is door ons krantenbroertje Kidsweek uitgeroepen tot Dier van het Jaar 201
 <h3>Ook applaus voor...</h3>
 <p>De Familie Wolf! Deze mysterieuze wolvenfamilie op de Veluwe eindigde op de tweede plek. De rest van de stemmen werd verdeeld onder de avontuurlijke kat Mia die verzeild raakte op een vissersboot en de verstoten zwaan Otje die werd gered door mensen en nu weer leert een wilde zwaan te zijn.</p>
 <h3>Dier van het Jaar</h3>
-<p>Het is de negende keer dat <em>Kidsweek </em>de verkiezing - vlak voor Dierendag - organiseert. Vorig jaar ging <a href="https://original.sevendays.nl/joy" target="_blank">opruimhond Joy</a> met de prijs naar huis en in 2018 kreeg <a href="https://original.sevendays.nl/nieuws/kidsweek-roept-politiepup-bumper-uit-tot-dier-van-het-jaar" target="_blank">politiepup Bumper</a> de meeste stemmen.</p>
+<p>Het is de negende keer dat <em>Kidsweek </em>de verkiezing - vlak voor Dierendag - organiseert. Vorig jaar ging <a href="https://7dagen.netlify.app/joy" target="_blank">opruimhond Joy</a> met de prijs naar huis en in 2018 kreeg <a href="https://7dagen.netlify.app/nieuws/kidsweek-roept-politiepup-bumper-uit-tot-dier-van-het-jaar" target="_blank">politiepup Bumper</a> de meeste stemmen.</p>
 <p><div class="media media-element-container media-default"><div id="file-538503" class="file file-video file-video-youtube">
 
         <h2 class="element-invisible"><a href="/files/kidsweek-dier-van-het-jaar-2019-five">Kidsweek Dier van het Jaar 2019: Five</a></h2>

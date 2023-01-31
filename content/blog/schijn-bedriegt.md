@@ -1,5 +1,5 @@
 ---
-id: 098a334356e9473ca5288ecbf11bb412
+id: 17dff7de78f6479984c435394093a098
 type: post
 layout: post
 title: "Schijn bedriegt"
@@ -20,7 +20,7 @@ Mijn hond Chef is thuis enorm gehoorzaam. Hij kan veel trucjes en haalt altijd d
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/schijn%20bedriegt%202.jpg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/schijn%20bedriegt%202.jpg" alt="">  </div>
 
   
 </div>
@@ -33,7 +33,7 @@ Mijn hond Chef is thuis enorm gehoorzaam. Hij kan veel trucjes en haalt altijd d
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/schijn%20bedriegt.jpg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/schijn%20bedriegt.jpg" alt="">  </div>
 
   
 </div>

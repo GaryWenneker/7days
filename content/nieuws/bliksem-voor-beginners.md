@@ -1,5 +1,5 @@
 ---
-id: 914d8f4551d641feaa93de560be6a0a9
+id: 3683cb094fa6406dbfe48e9562fd24de
 type: nieuws
 layout: post
 title: "Bliksem voor beginners"

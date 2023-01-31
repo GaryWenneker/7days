@@ -1,5 +1,5 @@
 ---
-id: 58fce776738d452ab4968a590c53d08a
+id: 79101ddfe7c646fa96ad43b2bdba00e3
 type: post
 layout: post
 title: "Mijn pleidooi voor meer kunst op school "

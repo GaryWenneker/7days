@@ -1,5 +1,5 @@
 ---
-id: e22b467a8b1c4964953e958ff4f736eb
+id: 5957bbf05b0146f79929d4b495a93db7
 type: nieuws
 layout: post
 title: "Eerste hulp bij zieke egels"
@@ -21,7 +21,7 @@ Het is enorm druk bij de egelopvang in ons land. Hoe komt dat? We namen een kijk
         
   
   <div class="content">
-    <img height="2378" width="3667" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/SK%20Egelopvang%2003.JPG" alt="">  </div>
+    <img height="2378" width="3667" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/SK%20Egelopvang%2003.JPG" alt="">  </div>
 
   
 </div>

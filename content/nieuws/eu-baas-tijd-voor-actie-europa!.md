@@ -1,5 +1,5 @@
 ---
-id: 69826d946215462f84bf322317b9affa
+id: 03bf3d9048d9471b9f0a27657cd72afd
 type: nieuws
 layout: post
 title: "EU-baas: 'Tijd voor actie, Europa!'"
@@ -19,7 +19,7 @@ Europa faalt big time bij de aanpak van de grote vluchtelingenstroom. Daar kome
         
   
   <div class="content">
-    <img title="Juncker tijdens zijn toespraak  Foto AFP" height="3280" width="4928" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-34035801.jpg" alt="">  </div>
+    <img title="Juncker tijdens zijn toespraak  Foto AFP" height="3280" width="4928" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-34035801.jpg" alt="">  </div>
 
   
 </div>
@@ -29,7 +29,7 @@ Europa faalt big time bij de aanpak van de grote vluchtelingenstroom. Daar kome
         
   
   <div class="content">
-    <img title="Sommige parlementsleden hadden borden meegenomen om hun woorden tijdens het parlementsdebat kracht bij te zetten Foto AFP " height="2916" width="4928" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-34037336.jpg" alt="">  </div>
+    <img title="Sommige parlementsleden hadden borden meegenomen om hun woorden tijdens het parlementsdebat kracht bij te zetten Foto AFP " height="2916" width="4928" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-34037336.jpg" alt="">  </div>
 
   
 </div>
@@ -43,4 +43,4 @@ Europa faalt big time bij de aanpak van de grote vluchtelingenstroom. Daar kome
 <li>we stoppen meer energie in het onderzoeken hoe de oorlog in Syrië en de chaos in Libië zijn te stoppen.</li>
 <li>we stappen in crisissituaties af van de Dublin-regel, die inhoudt dat vluchtelingen verplicht asiel moeten aanvragen in het eerste EU-land waar ze aankomen.</li>
 </ul><p>Aanstaande maandag is er een top-overleg tussen alle EU-ministers van Binnenlandse Zaken over de vluchtelingencrisis. Juncker zei te hopen zij dan allemaal akkoord gaan met zijn plan. Of dat gaat lukken is zeer de vraag. Binnen de EU wordt al maanden, nee: al jaren gekibbeld over de juiste aanpak van het vluchtelingenprobleem.</p>
-<p><em>Meer weten over de vluchtelingenstroom naar Europa? In ons <a href="https://original.sevendays.nl/dossier-vluchtelingen">dossier vluchtelingen</a> vind je al onze eerdere artikelen over dit onderwerp.</em></p>  
+<p><em>Meer weten over de vluchtelingenstroom naar Europa? In ons <a href="https://7dagen.netlify.app/dossier-vluchtelingen">dossier vluchtelingen</a> vind je al onze eerdere artikelen over dit onderwerp.</em></p>  

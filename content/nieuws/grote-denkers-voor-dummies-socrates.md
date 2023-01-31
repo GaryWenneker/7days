@@ -1,5 +1,5 @@
 ---
-id: d0f76091eb364a668013bbf839852388
+id: 6467abf6d2d44ab2b7cf684674991568
 type: nieuws
 layout: post
 title: "Grote Denkers voor Dummies: Socrates"

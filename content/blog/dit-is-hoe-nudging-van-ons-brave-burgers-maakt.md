@@ -1,5 +1,5 @@
 ---
-id: d36d7a5a5ce742dba1dbdbad593612f0
+id: 7b4d75b75a1e44848ef6852964b7b893
 type: post
 layout: post
 title: "Dit is hoe nudging van ons brave burgers maakt"
@@ -22,7 +22,7 @@ Ik kies zelf hoe hard ik rijd. Of ik de trap of de lift neem. Of ik vlees of veg
         
   
   <div class="content">
-    <img height="514" width="945" style="font-size: 13.008px;" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/Nudge%20trap.png" alt="">  </div>
+    <img height="514" width="945" style="font-size: 13.008px;" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/Nudge%20trap.png" alt="">  </div>
 
   
 </div>
@@ -34,7 +34,7 @@ Ik kies zelf hoe hard ik rijd. Of ik de trap of de lift neem. Of ik vlees of veg
         
   
   <div class="content">
-    <img height="539" width="408" style="font-size: 13.008px; width: 200px; height: 264px; float: left;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Nudge%20nijntje_0.png" alt="">  </div>
+    <img height="539" width="408" style="font-size: 13.008px; width: 200px; height: 264px; float: left;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Nudge%20nijntje_0.png" alt="">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: b30fbb26c74242788f97f7ddfbb99371
+id: e9e64b3135494309b0560601bb47756f
 type: post
 layout: post
 title: "Samson en Gert: ken je ze nog?"
@@ -35,7 +35,7 @@ De stem van die snoezige Samson herken ik nog steeds uit duizenden. Wat komen er
         
   
   <div class="content">
-    <img title="Foto&#039;s: ANP" height="1275" width="1885" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/anp%20foto.jpg" alt="">  </div>
+    <img title="Foto&#039;s: ANP" height="1275" width="1885" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/anp%20foto.jpg" alt="">  </div>
 
   
 </div>

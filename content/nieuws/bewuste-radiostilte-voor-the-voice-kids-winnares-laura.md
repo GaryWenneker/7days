@@ -1,5 +1,5 @@
 ---
-id: 63baad1a8e4b482b9cad948886c0b1b4
+id: c5d91603d2f64c2cb9d38728c7cb42d7
 type: nieuws
 layout: post
 title: "Bewuste radiostilte voor The Voice Kids-winnares Laura"
@@ -33,9 +33,9 @@ Morgen is het zover, morgenvroeg reizen we af naar een heel...</p>Posted by <a h
   
 </div>
 </div>
-<p>Laura maakt er dus geen geheim van dat ze depressief is. In januari vertelde ze over haar ziekte bij het <a href="https://original.sevendays.nl/lifestyle-nieuws/voice-kid-laura-18-ik-wil-niet-meer-liegen-ik-ben-depressief">Depressiegala</a>. 'Jarenlang ben ik acteur geweest in mijn eigen leven. Nu sta ik hier voor het eerst op het podium als mezelf. Ik laat de schaamte los. Het taboe moet eraf', zei ze toen.</p>
+<p>Laura maakt er dus geen geheim van dat ze depressief is. In januari vertelde ze over haar ziekte bij het <a href="https://7dagen.netlify.app/lifestyle-nieuws/voice-kid-laura-18-ik-wil-niet-meer-liegen-ik-ben-depressief">Depressiegala</a>. 'Jarenlang ben ik acteur geweest in mijn eigen leven. Nu sta ik hier voor het eerst op het podium als mezelf. Ik laat de schaamte los. Het taboe moet eraf', zei ze toen.</p>
 <h3>Moeilijke keuze</h3>
 <p>In april werd de zangeres met spoed opgenomen. 'De maanden voor de acute opname ging het met de dag slechter en ook op de acute opnameafdeling konden ze me niet verder helpen. Ik was er slechter aan toe dan ooit tevoren', vertelt Laura. Daarna is ze thuis door haar ouders verzorgd. 'Een maandje bijgetankt, met lieve mensen afgesproken, non-stop met Buddie (haar kat) geknuffeld, geen stress om therapie, vrij van problemen. Even niets. Maar daarmee word ik niet beter.'</p>
 <h3>Behandeling</h3>
 <p>Er werd een nieuw plan gemaakt, wat allesbehalve makkelijk was. 'De keuze die ik heb moeten maken is en blijft een moeilijke. Maar ook de beste! Want hoe kwetsbaar ik ook was, erachter schuilt een meisje die niet met zich laat sollen', zegt Laura. Een paar dagen geleden hebben haar ouders haar (met een heleboel bagage) naar een kliniek gebracht. Daar zal ze de komende weken worden behandeld. 'Ik ga niet twee maanden lang updates geven hoe het gaat en ben waarschijnlijk wat stiller dan anders. Dat is wat jullie ervan merken', laat ze aan haar volgers weten.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis nieuws-app</a> of neem een <a href="https://original.sevendays.nl/abonnement">proefabonnement</a> op 7Days!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis nieuws-app</a> of neem een <a href="https://7dagen.netlify.app/abonnement">proefabonnement</a> op 7Days!</em></p>  

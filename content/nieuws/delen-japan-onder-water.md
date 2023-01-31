@@ -1,5 +1,5 @@
 ---
-id: f7b3f6b5f96c42278a86187531376425
+id: da54e22a9d464c1f8701958022f930c3
 type: nieuws
 layout: post
 title: "Delen Japan onder water"
@@ -19,7 +19,7 @@ Enorme modderstromen en overstromingen hebben flinke delen van Japan deze week 
         
   
   <div class="content">
-    <img title="AFP" height="3124" width="4811" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/2%20AFP%202_0.jpg" alt="">  </div>
+    <img title="AFP" height="3124" width="4811" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/2%20AFP%202_0.jpg" alt="">  </div>
 
   
 </div>
@@ -28,7 +28,7 @@ Enorme modderstromen en overstromingen hebben flinke delen van Japan deze week 
         
   
   <div class="content">
-    <img title="AFP" height="1365" width="2048" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/3%20AFP%209.jpg" alt="">  </div>
+    <img title="AFP" height="1365" width="2048" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/3%20AFP%209.jpg" alt="">  </div>
 
   
 </div>
@@ -37,7 +37,7 @@ Enorme modderstromen en overstromingen hebben flinke delen van Japan deze week 
         
   
   <div class="content">
-    <img title="EPA" height="1836" width="2682" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/4%20EPA%2011.jpg" alt="">  </div>
+    <img title="EPA" height="1836" width="2682" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/4%20EPA%2011.jpg" alt="">  </div>
 
   
 </div>
@@ -46,7 +46,7 @@ Enorme modderstromen en overstromingen hebben flinke delen van Japan deze week 
         
   
   <div class="content">
-    <img title="AFP" height="1686" width="2500" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/5%20AFP%205.jpg" alt="">  </div>
+    <img title="AFP" height="1686" width="2500" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/5%20AFP%205.jpg" alt="">  </div>
 
   
 </div>
@@ -55,7 +55,7 @@ Enorme modderstromen en overstromingen hebben flinke delen van Japan deze week 
         
   
   <div class="content">
-    <img title="AFP" height="3280" width="4928" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/6%20AFP%204.jpg" alt="">  </div>
+    <img title="AFP" height="3280" width="4928" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/6%20AFP%204.jpg" alt="">  </div>
 
   
 </div>
@@ -64,7 +64,7 @@ Enorme modderstromen en overstromingen hebben flinke delen van Japan deze week 
         
   
   <div class="content">
-    <img title="AFP" height="3280" width="4928" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/7%20AFP%2012.jpg" alt="">  </div>
+    <img title="AFP" height="3280" width="4928" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/7%20AFP%2012.jpg" alt="">  </div>
 
   
 </div>
@@ -73,7 +73,7 @@ Enorme modderstromen en overstromingen hebben flinke delen van Japan deze week 
         
   
   <div class="content">
-    <img title="EPA" height="2696" width="4096" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/8%20EPA%2010.jpg" alt="">  </div>
+    <img title="EPA" height="2696" width="4096" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/8%20EPA%2010.jpg" alt="">  </div>
 
   
 </div>
@@ -82,7 +82,7 @@ Enorme modderstromen en overstromingen hebben flinke delen van Japan deze week 
         
   
   <div class="content">
-    <img title="EPA" height="2137" width="3321" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/9%20EPA%20overstroming%206.jpg" alt="">  </div>
+    <img title="EPA" height="2137" width="3321" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/9%20EPA%20overstroming%206.jpg" alt="">  </div>
 
   
 </div>
@@ -92,9 +92,9 @@ Enorme modderstromen en overstromingen hebben flinke delen van Japan deze week 
         
   
   <div class="content">
-    <img height="80" width="80" style="float: left;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/In%20Beeld2_3.png" alt="">  </div>
+    <img height="80" width="80" style="float: left;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/In%20Beeld2_3.png" alt="">  </div>
 
   
 </div>
-</div><em>Wil je meer nieuwsfoto's bekijken? Ga dan naar <a href="https://original.sevendays.nl/inbeeld">Sevendays.nl/inbeeld</a>.</em>
+</div><em>Wil je meer nieuwsfoto's bekijken? Ga dan naar <a href="https://7dagen.netlify.app/inbeeld">Sevendays.nl/inbeeld</a>.</em>
 <p> </p>  

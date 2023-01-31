@@ -1,5 +1,5 @@
 ---
-id: 6e8de742e2a54d0fa28e41a259671d3c
+id: ef2955e4cf25408a92ab3ac2489491cc
 type: nieuws
 layout: post
 title: "Amerikaans Luke (13) wint razendsnel wiskundewedstrijd"
@@ -35,4 +35,4 @@ Zat jij deze week flink te zweten op het eindexamen wiskunde? Misschien dat de A
 <p>Luke’s prestatie ging niet onopgemerkt voorbij. De rekenstrijd werd live uitgezonden op sportzender ESPN. Ongeveer duizend mensen zaten in het publiek toen Luke zijn winnende antwoord gaf.</p>
 <h3>Hoe zit het met die kippen?</h3>
 <p>Nog even over dat winnende antwoord. Voor alle kippen in de cirkel zijn er vier mogelijkheden: van rechts gepikt worden, van links gepikt worden, van beide kanten gepikt worden of niet gepikt worden. De kans op elke mogelijkheid is even groot, vandaar dat het waarschijnlijk is dat één vierde van de kippen ongepikt blijft. En dat zijn er dus 25.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

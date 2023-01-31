@@ -1,5 +1,5 @@
 ---
-id: 0064660cb39644f8be9017e98edd6c0c
+id: 5113f801f19046afbd134aa4d8fd7339
 type: nieuws
 layout: post
 title: "Griepgolf in zicht: feitjes die je niet wist"
@@ -22,7 +22,7 @@ Hoofdpijn, koorts en overal spierpijn. Volgens gezondheidsinstituut Nivel komt e
         
   
   <div class="content">
-    <img height="1175" width="1920" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/fever-3063126_1920.jpg" alt="">  </div>
+    <img height="1175" width="1920" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/fever-3063126_1920.jpg" alt="">  </div>
 
   
 </div>

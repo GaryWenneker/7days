@@ -1,5 +1,5 @@
 ---
-id: d0fbbbff55bc472482bf2aa006b51e10
+id: 3d4694f7b7154a0dbb4daa53067f9837
 type: post
 layout: post
 title: "7 originele anti-stress tips"

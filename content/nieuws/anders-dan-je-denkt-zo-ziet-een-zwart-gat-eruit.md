@@ -1,5 +1,5 @@
 ---
-id: 9b42fa807a814beeb8e2e1a8812a480c
+id: 7073fe29c0404b65b414e40ebcdffb13
 type: nieuws
 layout: post
 title: "Anders dan je denkt: zo ziet een zwart gat eruit"
@@ -23,7 +23,7 @@ Wetenschappers zijn superblij met een wazige foto van een oranje ring met een zw
         
   
   <div class="content">
-    <img title="Foto AFP" height="2369" width="4112" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-66930056.jpg" alt="">  </div>
+    <img title="Foto AFP" height="2369" width="4112" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-66930056.jpg" alt="">  </div>
 
   
 </div>

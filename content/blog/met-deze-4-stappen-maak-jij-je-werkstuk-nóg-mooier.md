@@ -1,5 +1,5 @@
 ---
-id: af07b09968044f25a642da74d4d18a97
+id: a8debaa8a7ed4d2b8bd48910b3a582f3
 type: post
 layout: post
 title: "Met deze 4 stappen maak jij je werkstuk nóg mooier"
@@ -24,7 +24,7 @@ Na uren werk ben je dan éindelijk klaar met het schoolproject. Of toch niet… 
         
   
   <div class="content">
-    <a href="/files/reisgids-marokkopagina16jpg"><img height="220" width="157" class="media-element file-teaser" data-delta="2" src="https://original.sevendays.nl/sites/default/files/styles/medium/public/Reisgids%20Marokko_Pagina_16.jpg?itok=GogstBwf" alt=""></a>  </div>
+    <a href="/files/reisgids-marokkopagina16jpg"><img height="220" width="157" class="media-element file-teaser" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/styles/medium/public/Reisgids%20Marokko_Pagina_16.jpg?itok=GogstBwf" alt=""></a>  </div>
 
   
 </div>

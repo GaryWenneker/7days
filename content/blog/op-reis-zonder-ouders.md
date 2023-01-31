@@ -1,5 +1,5 @@
 ---
-id: 0ef09a132ea04ce096869ecfe6e6bb0a
+id: 940821721e5e49e0aef72cf85ae62b42
 type: post
 layout: post
 title: "Op reis zonder ouders"
@@ -22,7 +22,7 @@ Beiden ploffen we neer op het opgemaakte bed. ‘We hebben het gehaald’, zucht
         
   
   <div class="content">
-    <img height="800" width="746" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/reisss_3.jpg" alt="">  </div>
+    <img height="800" width="746" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/reisss_3.jpg" alt="">  </div>
 
   
 </div>
@@ -32,4 +32,4 @@ Beiden ploffen we neer op het opgemaakte bed. ‘We hebben het gehaald’, zucht
 <h3>We zijn heelhuids thuisgekomen</h3>
 <p>En hoewel er veel meer is misgegaan: we stonden op het verkeerde station en vervolgens op het verkeerde perron op onze eindtrein te wachten, toch is uiteindelijk alles goed gekomen. Hoeveel rondjes we ook verkeerd hebben gelopen, welke plaatsen we ook niet gevonden hebben, uiteindelijk zijn we heelhuids thuisgekomen.</p>
 <p>Maar het belangrijkste is dat  zulke reisjes zijn goed voor ons, voor onze ontwikkeling en voor onze zelfontplooiing. Hoewel ik nauwelijks Duits spreek, had ik niet verwacht dat wij ons met ons gebrekkige Engels konden redden. En misschien ging dit reisje nog niet vlekkeloos, maar ik weet zeker dat reizen een gevalletje is van 'oefening baart kunst'. Op naar onze volgende citytrip dan maar!</p>
-<p><em>Lotte verzamelt om onverklaarbare reden haar hele leven al schildpaddenbeeldjes. En boeken over de Tweede Wereldoorlog, maar die leest ze eigenlijk nooit. Droomt er al sinds haar elfde van om schrijfster te worden. <a href="https://original.sevendays.nl/users/lotte-rolleman">Lees meer blogs van Lotte</a>.</em><br> </p>  
+<p><em>Lotte verzamelt om onverklaarbare reden haar hele leven al schildpaddenbeeldjes. En boeken over de Tweede Wereldoorlog, maar die leest ze eigenlijk nooit. Droomt er al sinds haar elfde van om schrijfster te worden. <a href="https://7dagen.netlify.app/users/lotte-rolleman">Lees meer blogs van Lotte</a>.</em><br> </p>  

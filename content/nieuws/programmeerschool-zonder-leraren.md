@@ -1,0 +1,24 @@
+---
+id: 277ec778c6334504a2aef652f306f22d
+type: nieuws
+layout: post
+title: "Programmeerschool zonder leraren"
+permalink: /nieuws/programmeerschool-zonder-leraren/
+date: 2022-05-11T19:16:41.067Z
+author: 7biA1WiYB
+excerpt: "In Amsterdam is een school zonder leraren geopend. Je werkt er zelf aan programmeeropdrachten op de computer. En als je klaar bent, heb je ook nog een grote kans op een baan. We namen een kijkje.  "
+seo:
+  description: "Programmeerschool zonder leraren"
+  title: "Programmeerschool zonder leraren"
+---
+In Amsterdam is een school zonder leraren geopend. Je werkt er zelf aan programmeeropdrachten op de computer. En als je klaar bent, heb je ook nog een grote kans op een baan. We namen een kijkje.  
+
+    <p>Het grijs-wit-gestreepte gebouw staat op het Marineterrein Amsterdam. Een doolhof van hekken leidt je naar de tijdelijke ingang van de gloednieuwe school Codam. Achter die hekken is het verboden terrein voor buitenstaanders. De studenten mogen echter 24 uur per dag binnenlopen. Ook directeur David Giron is hier regelmatig te vinden. In een sobere witte kamer ploft de bebaarde Fransman in een van de gekleurde zitzakken en begint te vertellen over zijn school voor programmeurs in spe. Het leerprogramma is er totaal anders dan bij een traditionele school: ‘We hebben hier geen leraren en geen vakken. De studenten zijn afhankelijk van elkaar. Ze zitten allemaal in één ruimte en moeten daar samen programmeerproblemen oplossen. Zo worden ze steeds beter.’</p>
+<h3>Vrijheid</h3>
+<p>Maar hoe zorgt de school ervoor dat studenten met zoveel vrijheid wel komen opdagen? Volgens communicatiemanager Lisa Stamm zijn alle studenten zich ervan bewust dat ze er voor zichzelf zitten. ‘Maar,’ zegt ze, ‘door een pasjessysteem kunnen we zien wanneer de studenten komen. Als iemand wekenlang wegblijft, bellen we toch even om te vragen wat er aan de hand is. Ook als iemand heel lang over een project doet, volgt er een gesprek. In principe is de tijd dat je erover mag doen heel ruim genomen zodat zelfs de langzaamste leerlingen het kunnen halen.’</p>
+<h3>Selectie</h3>
+<p>Zo’n duizend kandidaten meldden zich aan voor de online toelatingstest. Daarvan bleven er zo’n 360 over. De eerste 120 zijn vorige week maandag gestart met de vier weken durende selectieprocedure, de rest begint later in het jaar. Daarna volgt weer een test en verwacht wordt dat dan nog maar een derde overblijft. Om voor alle tests te slagen is doorzettingsvermogen nodig. Sommige kandidaten lieten al op de eerste dag zien dat ze daarover beschikken. Ze werkten tot diep in de nacht aan hun project. Buiten de tests zijn er voor de opleiding weinig toelatingseisen. Zelfs een middelbareschooldiploma is geen must. De enige vereiste is dat je tussen de achttien en dertig jaar bent. David (17, links op de foto) is eigenlijk nog te jong maar omdat hij bijna achttien wordt, mocht hij toch de toelatingstest doen. Hij is blij met deze nieuwe vorm van leren. ‘Hiervoor zat ik op het vwo maar daar  ging het helemaal niet goed. Op gewone scholen krijg je vijftig minuten les terwijl ik het al in vijf minuten begrijp. Dat werkt niet voor mij, het gaat te langzaam. Hier kan ik gewoon doorgaan als ik het snap. Het fijne aan deze opleiding is dat je van elkaar leert. Ik help anderen met hun opdrachten en zij helpen mij weer met die van mij.’</p>
+<h3>Geen diploma</h3>
+<p>Maar wat gebeurt er na de selectie? Giron: ‘Dan start het Codam-leerprogramma zelf. Dit van oorsprong Franse programma duurt ongeveer 3,5 jaar. Daarna zijn ze programmeur op hoog niveau. Ze krijgen echter geen diploma. Ik wil niet dat studenten naar een diploma toe werken, ik wil dat ze werken naar het hebben van vaardigheden. Als een bedrijf de studenten niet wil aannemen omdat ze geen diploma hebben, dan is dat maar zo. Maar ik heb nog nooit meegemaakt dat dat een probleem was. Ik maak me eerder zorgen dat ik studenten vroegtijdig kwijt ben aan stageadressen dan dat ik geen werk voor ze kan vinden.’</p>
+<h3>Frankrijk</h3>
+<p>In Frankrijk is de eerste school die op deze manier werkt geopend in 2013. School 42 werd opgericht en gesponsord door miljardair Nicolas Sadirac. Het Franse project was zo’n succes dat er inmiddels zo’n tien scholen over de hele wereld zijn geopend die op deze manier programmeren leren aan hun studenten. De aanmeldingen voor de scholen stromen binnen en bijna alle afgestudeerden hebben in no time een baan. En sinds vorige week maandag is er dus ook een in Amsterdam. Hier heeft Tomtom-topvrouw Corinne Vigreux de taak van Sadirac op zich genomen. Zij zag een tekort aan programmeurs en dat veel veelbelovende techneuten de kosten van de opleidingen niet konden betalen. Haar stichting zorgt voor het benodigde budget. De studenten betalen geen collegegeld, krijgen reiskostenvergoeding en krijgen in sommige gevallen hulp bij het vinden van een woning.</p>  

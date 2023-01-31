@@ -1,5 +1,5 @@
 ---
-id: 67845e8e00bc41159d7a3a83505aba80
+id: c22f69963d4a4efcbd897e614018a416
 type: post
 layout: post
 title: "Gebak met ongemak"
@@ -20,7 +20,7 @@ Omgevallen glazen, een taart met te veel kaarsjes en bovenal de 'ik-voel-me-zoge
         
   
   <div class="content">
-    <img alt="verjaardag kaarsjes feest" height="2848" width="4272" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/IMG_1957_0.JPG">  </div>
+    <img alt="verjaardag kaarsjes feest" height="2848" width="4272" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/IMG_1957_0.JPG">  </div>
 
   
 </div>
@@ -34,12 +34,12 @@ Omgevallen glazen, een taart met te veel kaarsjes en bovenal de 'ik-voel-me-zoge
         
   
   <div class="content">
-    <img alt="verjaardag kaarsje appel gezond" height="2680" width="4255" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/IMG_1966b_0.jpg">  </div>
+    <img alt="verjaardag kaarsje appel gezond" height="2680" width="4255" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/IMG_1966b_0.jpg">  </div>
 
   
 </div>
 </div>
 <p><strong>Zitten nixen</strong><br>De ongemakkelijke vragen maken halverwege het feest langzaam plaats voor ongemakkelijke stiltes. Is het al toegestaan om naar huis te gaan? Vragen aan anderen stellen durf je niet, uit angst voor het ontstaan van een veel te lang gesprek. Daarbij is het vinden van een neutraal gespreksonderwerp ook geen makkie.</p>
-<p>Een gezellig spelletje spelen is altijd nog een optie, hoewel je daarvoor eerst nog moet wachten tot je familie wat meer wijntjes gedronken heeft en pas echt loskomt. In geval van nood zou je altijd nog de <a href="https://original.sevendays.nl/blog/nix-aan-te-doen">NIX-campagne</a> kunnen <a href="https://original.sevendays.nl/nieuws/verborgen-nix-kaarten-lekker-nutteloos">aankaarten</a> om de sfeer wat 'minder ongemakkelijk te maken'. Maar iets zegt je dat je familieleden niet zo goed tegen hun verlies kunnen.</p>
+<p>Een gezellig spelletje spelen is altijd nog een optie, hoewel je daarvoor eerst nog moet wachten tot je familie wat meer wijntjes gedronken heeft en pas echt loskomt. In geval van nood zou je altijd nog de <a href="https://7dagen.netlify.app/blog/nix-aan-te-doen">NIX-campagne</a> kunnen <a href="https://7dagen.netlify.app/nieuws/verborgen-nix-kaarten-lekker-nutteloos">aankaarten</a> om de sfeer wat 'minder ongemakkelijk te maken'. Maar iets zegt je dat je familieleden niet zo goed tegen hun verlies kunnen.</p>
 <p><strong>Kinderfeestje</strong><br>Inmiddels heb je je erbij neergelegd. Het 'familie-verjaardags-partijtje' is niet jouw ding, maar je beseft dat je soms iets voor een ander over moet hebben. Ondanks dat prefereer je de volgende keer toch weer een kinderfeestje. Daar krijg je tenminste na afloop een snoepzakje mee naar huis.</p>
-<p><em>Wil je meer blogs lezen van Sanne (18)? Klik <a href="https://original.sevendays.nl/users/sanne-leferink">hier</a> voor een overzicht.</em></p>  
+<p><em>Wil je meer blogs lezen van Sanne (18)? Klik <a href="https://7dagen.netlify.app/users/sanne-leferink">hier</a> voor een overzicht.</em></p>  

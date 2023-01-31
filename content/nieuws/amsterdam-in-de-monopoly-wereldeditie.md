@@ -1,5 +1,5 @@
 ---
-id: f0754b8d76c248fbb929178537886b03
+id: 195ba482895648d1bc9dd3be5d8eb2b0
 type: nieuws
 layout: post
 title: "Amsterdam in de Monopoly Wereldeditie?"
@@ -18,7 +18,7 @@ Het meest geliefde én gehate bordspel ter wereld bestaat 80 jaar. Dat wordt gev
         
   
   <div class="content">
-    <img height="228" width="225" style="width: 225px; height: 228px; float: left;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/monopoly.jpg" alt="">  </div>
+    <img height="228" width="225" style="width: 225px; height: 228px; float: left;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/monopoly.jpg" alt="">  </div>
 
   
 </div>

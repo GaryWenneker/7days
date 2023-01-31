@@ -1,5 +1,5 @@
 ---
-id: 69808bee80b649ab8d3419d22808721a
+id: 18ef44774bb74892a1edc7cc4b33495b
 type: nieuws
 layout: post
 title: "Echt waar: een beter milieu begint bij jezelf"
@@ -23,7 +23,7 @@ Het is geen verrassing meer: we zorgen niet goed voor de aarde. 'We reizen vake
         
   
   <div class="content">
-    <img alt="Douche Douchen" title="Foto: Pixabay" height="1285" width="1920" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/shower-1027904_1920.jpg">  </div>
+    <img alt="Douche Douchen" title="Foto: Pixabay" height="1285" width="1920" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/shower-1027904_1920.jpg">  </div>
 
   
 </div>
@@ -34,7 +34,7 @@ Het is geen verrassing meer: we zorgen niet goed voor de aarde. 'We reizen vake
         
   
   <div class="content">
-    <img alt="Broodje kroket Febo" title="Foto: Wikimedia Commons" height="681" width="1024" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/wiki.JPG">  </div>
+    <img alt="Broodje kroket Febo" title="Foto: Wikimedia Commons" height="681" width="1024" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/wiki.JPG">  </div>
 
   
 </div>
@@ -45,7 +45,7 @@ Het is geen verrassing meer: we zorgen niet goed voor de aarde. 'We reizen vake
         
   
   <div class="content">
-    <img alt="Kleding Kleren T-shirts" title="Foto: Pixabay" height="1080" width="1920" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/shirt-1435613_1920.jpg">  </div>
+    <img alt="Kleding Kleren T-shirts" title="Foto: Pixabay" height="1080" width="1920" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/shirt-1435613_1920.jpg">  </div>
 
   
 </div>
@@ -56,7 +56,7 @@ Het is geen verrassing meer: we zorgen niet goed voor de aarde. 'We reizen vake
         
   
   <div class="content">
-    <img alt="Water Drinken Flesje" title="Foto: Pixabay" height="1061" width="1920" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/bottle-2032980_1920.jpg">  </div>
+    <img alt="Water Drinken Flesje" title="Foto: Pixabay" height="1061" width="1920" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/bottle-2032980_1920.jpg">  </div>
 
   
 </div>
@@ -67,14 +67,14 @@ Het is geen verrassing meer: we zorgen niet goed voor de aarde. 'We reizen vake
         
   
   <div class="content">
-    <img alt="Koe" title="Foto: Pixabay" height="1280" width="1920" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/cow-1715829_1920.jpg">  </div>
+    <img alt="Koe" title="Foto: Pixabay" height="1280" width="1920" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/cow-1715829_1920.jpg">  </div>
 
   
 </div>
 </div>
 <div class="kader">
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p>Vond je dit interessant? Lees dan ook eens <a href="https://original.sevendays.nl/nieuws/suppen-voor-het-milieu">Suppen voor het milieu</a> of <a href="https://original.sevendays.nl/nieuws/record-de-noordpool-had-nog-nooit-zo-weinig-ijs">Record: de Noordpool had nog nooit zo weinig ijs</a>.</p>
-<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://original.sevendays.nl/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp</a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">,</em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://original.sevendays.nl/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"> </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p>Vond je dit interessant? Lees dan ook eens <a href="https://7dagen.netlify.app/nieuws/suppen-voor-het-milieu">Suppen voor het milieu</a> of <a href="https://7dagen.netlify.app/nieuws/record-de-noordpool-had-nog-nooit-zo-weinig-ijs">Record: de Noordpool had nog nooit zo weinig ijs</a>.</p>
+<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://7dagen.netlify.app/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp</a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">,</em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://7dagen.netlify.app/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"> </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
 </div>
   

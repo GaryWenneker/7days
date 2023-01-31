@@ -1,5 +1,5 @@
 ---
-id: 90e9027cfc564392bbc1790ec5817875
+id: 842a323db9144dbdb57e953eca1e9d04
 type: post
 layout: post
 title: "7x waarom een fietsvakantie een goed idee is"
@@ -17,7 +17,7 @@ Ik had nog nooit gekampeerd en om dat van mijn bucketlist af te kunnen strepen, 
 <p><strong>1. Locatie</strong></p>
 <p>Stel jezelf een doel van hoeveel kilometer je wilt fietsen. Zoek in die straal een locatie en eindbestemming en ga op zoek naar een leuke camping. Je kunt ervan uitgaan dat de gemiddelde fietssnelheid 15 km/u is. De fietstocht naar de Utrechtse Heuvelrug zou voor ons circa 4 uur duren, maar met pauzes erbij kom je pas aan het eind van de middag op de eindbestemming. En als de zon fel schijnt, fiets je vast minder hard en denk er dan ook aan dat je liever ’s ochtends rijdt in plaats van op het warmste moment van de dag.</p>
 <p><strong>2. Route </strong></p>
-<p>Een fietsroutekaart is makkelijk online te vinden (bijvoorbeeld via <a href="http://Fietsroutenetwerk.nl" target="_blank"><em>Fietsroutenetwerk.nl</em></a>) en te printen (<a href="https://original.sevendays.nl/nieuws/boete-van-95-euro-voor-appen-op-de-fiets">niet op je telefoon</a> als je op de fiets zit natuurlijk, da’s gevaarlijk!). Zo spijker je ook je kaartleesskills nog eens bij! En anders kun je de weg altijd vragen. </p>
+<p>Een fietsroutekaart is makkelijk online te vinden (bijvoorbeeld via <a href="http://Fietsroutenetwerk.nl" target="_blank"><em>Fietsroutenetwerk.nl</em></a>) en te printen (<a href="https://7dagen.netlify.app/nieuws/boete-van-95-euro-voor-appen-op-de-fiets">niet op je telefoon</a> als je op de fiets zit natuurlijk, da’s gevaarlijk!). Zo spijker je ook je kaartleesskills nog eens bij! En anders kun je de weg altijd vragen. </p>
 <p><strong>3. Spullen</strong></p>
 <p>Als je zelf geen kampeerspullen hebt, vraag dan rond want je kunt vast van alles lenen. Waarschijnlijk is er in je omgeving wel iemand die een tentje en kookgerei heeft. Kampeerspullen zijn een stuk lichter dan bijvoorbeeld die gietijzeren wok die thuis in het keukenkastje staat. Als je alles op de fiets mee moet nemen, zijn de mogelijkheden van wat je mee kunt sjouwen beperkt.</p>
 <p><strong>4. Dichtbij en toch weg </strong></p>

@@ -1,5 +1,5 @@
 ---
-id: 5b636448f7a54c6b8399a4c70c8f2cb2
+id: 9766062f98da4c31aa8ba1567b84da11
 type: nieuws
 layout: post
 title: "CBR: theorie-trucjes vanaf nu verleden tijd"
@@ -22,7 +22,7 @@ Heb jij een oudere broer of zus die het autotheorie-examen haalde door trucjes t
         
   
   <div class="content">
-    <img title="Foto: ANP" height="503" width="800" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-29340772.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="503" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-29340772.jpg" alt="">  </div>
 
   
 </div>
@@ -30,4 +30,4 @@ Heb jij een oudere broer of zus die het autotheorie-examen haalde door trucjes t
 <p><strong>Groot verschil</strong><br>Maar helpt het ook echt? Uit onderzoek van <em>RTL Nieuws</em> blijkt van wel. Van de mensen die kiezen voor een turbo-theoriecursus slaagt 87 procent, terwijl gemiddeld maar zo'n 40% van de theorie-kandidaten het examen haalt. Dat is een groot verschil!</p>
 <p>Het CBR schrok van het feit dat veel mensen dus hun examen halen zonder de verkeersregels goed te kennen. En dus besloot het de voorspelbare vragen te schappen of aan te passen. Daar ging een heel onderzoek aan vooraf: alle 4500 vragen én alle 3800 plaatjes zijn nauwkeurig bestudeerd door onderzoekers van de universiteit Twente.</p>
 <p>Nu zegt het CBR dat álle voorspelbare vragen uit de theorie-examens zijn gehaald. Maar daar blijft het niet bij: vragen worden voortaan sneller vernieuwd en ook het onderdeel gevaarherkenning wordt in de toekomst helemaal anders. Theorie-trucjes zijn, zo denkt het CBR, vanaf nu dus echt verleden tijd. </p>
-<p><em>Altijd op de hoogte blijven van artikelen die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van artikelen die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: 8437f48fc7c64ce8b8b370494d11a880
+id: 6071c2031f8747cab2ba569ef2e67dbf
 type: nieuws
 layout: post
 title: "En de slechtste politieke slogan 2018 is..."

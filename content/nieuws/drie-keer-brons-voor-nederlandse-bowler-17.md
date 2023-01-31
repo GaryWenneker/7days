@@ -1,5 +1,5 @@
 ---
-id: 8d3071007c774d8ba459b06d0db7cbaf
+id: e7389b3983904620a0aa577d6610356d
 type: nieuws
 layout: post
 title: "Drie keer brons voor Nederlandse bowler (17)"
@@ -21,7 +21,7 @@ Ja, bowlen is een echte sport. En nee, één strike is voor hem niks bijzonders
         
   
   <div class="content">
-    <img alt="yorick van deutekom bowling bowlen EK" height="747" width="1328" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/20160322%20Vooraf%20ontspannen%20halve%20finale.JPG">  </div>
+    <img alt="yorick van deutekom bowling bowlen EK" height="747" width="1328" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/20160322%20Vooraf%20ontspannen%20halve%20finale.JPG">  </div>
 
   
 </div>
@@ -33,7 +33,7 @@ Ja, bowlen is een echte sport. En nee, één strike is voor hem niks bijzonders
         
   
   <div class="content">
-    <img alt="yorick van deutekom bowling bowlen EK" height="850" width="500" style="float: left; margin-left: 5px; margin-right: 5px; width: 350px; height: 595px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/yorick%203.jpg">  </div>
+    <img alt="yorick van deutekom bowling bowlen EK" height="850" width="500" style="float: left; margin-left: 5px; margin-right: 5px; width: 350px; height: 595px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/yorick%203.jpg">  </div>
 
   
 </div>
@@ -41,4 +41,4 @@ Ja, bowlen is een echte sport. En nee, één strike is voor hem niks bijzonders
 <p>Verder sleepte Yorick nog zes bowlingballen mee naar het EK in Reykjavik. 'Die wegen elk 7,5 kilo.' Om te voorkomen dat hij op de luchthaven een boete moest betalen omdat zijn bagage te zwaar was, zijn alle bowlingballen van de Nederlandse selectie keurig over de koffers van alle bowlers, ouders en begeleiders verdeeld. Maar dan nog moest de Noord-Hollander kiezen welke-ie meenam. 'Ik heb in totaal een stuk of achttien ballen. Die liggen niet verspreid door het huis hoor, de meeste liggen op de bowlingbaan.'</p>
 <p><strong>Opleiding in Amerika</strong><br>Hoe Yoricks toekomst eruit ziet? Hij heeft geen idee. 'Ik ben nu bijna klaar met een anderhalf jaar durende opleiding van Defensie. Wat ik daarna ga doen, weet ik nog niet. Vorig jaar kreeg ik een aanbod uit de VS om daar een opleiding te volgen en te bowlen.' Dat feest ging niet door, omdat Yorick nog met zijn studie bezig was.</p>
 <p>'Achteraf had ik het beter wel kunnen doen. Amerika is echt hét bowlingland, denk ik. Misschien kan ik alsnog komen, maar daar heb ik me niet in verdiept. En ik heb ook niet zo'n haast. Als ik klaar ben met het EK, ga ik er wel even naar kijken, denk ik.'</p>
-<p><em>Altijd op de hoogte blijven van nieuws en tips waar je als jongere iets mee kunt? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis nieuwsapp</a> of neem een proefabonnement op de <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">papieren 7Days</a>!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws en tips waar je als jongere iets mee kunt? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis nieuwsapp</a> of neem een proefabonnement op de <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">papieren 7Days</a>!</em></p>  

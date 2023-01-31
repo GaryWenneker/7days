@@ -1,5 +1,5 @@
 ---
-id: ef02dffc6ef64e1eb0d515c68070ff14
+id: de01e739f13740fbb27fa9057c065dd5
 type: nieuws
 layout: post
 title: "Australische rots Uluru gaat definitief dicht"
@@ -20,7 +20,7 @@ Het was de laatste tijd nogal een chaos op en rond de Uluru. Het stikte er van d
         
   
   <div class="content">
-    <img alt="Foto EPA" title="Foto EPA" height="4024" width="6048" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-378328897.jpg">  </div>
+    <img alt="Foto EPA" title="Foto EPA" height="4024" width="6048" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-378328897.jpg">  </div>
 
   
 </div>

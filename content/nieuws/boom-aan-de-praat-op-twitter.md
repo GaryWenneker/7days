@@ -1,5 +1,5 @@
 ---
-id: ae8235931c5142b98f7680254844f32f
+id: 0c0968e6af2c42d38680ee985160fcf5
 type: nieuws
 layout: post
 title: "Boom aan de praat op Twitter"
@@ -20,7 +20,7 @@ Wil jij wel eens weten hoe een boom zich voelt? Dat kan nu! Nouja, een beetje da
         
   
   <div class="content">
-    <img title="Foto Jonas von der Crone" height="960" width="1280" style="width: 350px; height: 263px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/TT%20equipment%20Foto%20Jonas%20von%20der%20Crone.jpg" alt="">  </div>
+    <img title="Foto Jonas von der Crone" height="960" width="1280" style="width: 350px; height: 263px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/TT%20equipment%20Foto%20Jonas%20von%20der%20Crone.jpg" alt="">  </div>
 
   
 </div>
@@ -94,4 +94,4 @@ Wil jij wel eens weten hoe een boom zich voelt? Dat kan nu! Nouja, een beetje da
 
   
 </div>
-</div><br><br><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant 7Days!</em><br>   
+</div><br><br><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant 7Days!</em><br>   

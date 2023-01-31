@@ -1,5 +1,5 @@
 ---
-id: dcb27ba5cb2740fbaa619a240173227d
+id: c5863c5ca3be44438127626e6f7a9bc6
 type: nieuws
 layout: post
 title: "Doden en gewonden na paniek in Italiaanse discotheek"

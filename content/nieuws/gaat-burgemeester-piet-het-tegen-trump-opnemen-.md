@@ -1,5 +1,5 @@
 ---
-id: 7482478d548f44bea4effc5a398eefe1
+id: 6259d57abb81429b9a6b354a6dc24088
 type: nieuws
 layout: post
 title: "Gaat burgemeester Piet het tegen Trump opnemen? "
@@ -24,7 +24,7 @@ Het was een politiek rumoerig weekje in de Verenigde Staten. De poging van de De
         
   
   <div class="content">
-    <img height="3500" width="6000" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-405776651.jpg" alt="">  </div>
+    <img height="3500" width="6000" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-405776651.jpg" alt="">  </div>
 
   
 </div>

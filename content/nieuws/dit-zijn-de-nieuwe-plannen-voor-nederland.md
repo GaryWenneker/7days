@@ -1,5 +1,5 @@
 ---
-id: a7e56c685746485cb1c5258425ebfa1c
+id: 6a1d1c3322104f6e94d026e97b586944
 type: nieuws
 layout: post
 title: "Dit zijn de nieuwe plannen voor Nederland"
@@ -20,7 +20,7 @@ Na 209 dagen vergaderen was het vandaag eindelijk zo ver. Trots kwamen de leide
         
   
   <div class="content">
-    <img height="3280" width="4928" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-32650598.jpg" alt="">  </div>
+    <img height="3280" width="4928" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-32650598.jpg" alt="">  </div>
 
   
 </div>
@@ -44,7 +44,7 @@ Na 209 dagen vergaderen was het vandaag eindelijk zo ver. Trots kwamen de leide
         
   
   <div class="content">
-    <img height="5568" width="3712" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-49002517%20%281%29.jpg" alt="">  </div>
+    <img height="5568" width="3712" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-49002517%20%281%29.jpg" alt="">  </div>
 
   
 </div>
@@ -58,15 +58,15 @@ Na 209 dagen vergaderen was het vandaag eindelijk zo ver. Trots kwamen de leide
         
   
   <div class="content">
-    <img height="3840" width="5760" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-42621049.jpg" alt="">  </div>
+    <img height="3840" width="5760" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-42621049.jpg" alt="">  </div>
 
   
 </div>
 </div>Wat gaat er nu gebeuren?</h3>
 <p>Het is niet zo dat de nieuwe regering meteen kan beginnen. Er moet nog heel wat gebeuren. De komende dagen zal het vooral gaan om het invullen van de poppetjes. Premier Mark Rutte heeft ongetwijfeld al een lijstje klaarliggen met gewenste kandidaten. Die zal hij allemaal uitnodigen voor een kopje koffie en een pittig gesprek in zijn werkkamer.<br><br>De kandidaten zullen stevig aan de tand gevoeld worden. Kloppen hun diploma’s? Betalen ze netjes hun belasting? Hebben ze niets stiekems gedaan? Als het goed is, is dan ergens rond 23 oktober, direct na de herfstvakantie, de presentatie van Rutte III. Kort daarna volgt de officiële beëdiging door koning Willem-Alexander en de klassieke fotosessie op de trappen van het bordes. En dán kan het regeren eindelijk beginnen.</p>
 <div class="kader">
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p><em>Vond je dit interessant? Lees dan ook eens <a href="https://original.sevendays.nl/lifestyle/fenna-17-van-hoefwijzer-over-het-succes-van-paardentubers" target="_blank">Dit gebeurt er op Prinsjesdag</a> of <a href="https://original.sevendays.nl/nieuws/de-leukste-fotos-van-prinsjesdag">De leukste foto's van Prinsjesdag</a>.</em></p>
-<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://original.sevendays.nl/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp</a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">,</em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://original.sevendays.nl/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"> </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p><em>Vond je dit interessant? Lees dan ook eens <a href="https://7dagen.netlify.app/lifestyle/fenna-17-van-hoefwijzer-over-het-succes-van-paardentubers" target="_blank">Dit gebeurt er op Prinsjesdag</a> of <a href="https://7dagen.netlify.app/nieuws/de-leukste-fotos-van-prinsjesdag">De leukste foto's van Prinsjesdag</a>.</em></p>
+<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://7dagen.netlify.app/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp</a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">,</em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://7dagen.netlify.app/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"> </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
 </div>
   

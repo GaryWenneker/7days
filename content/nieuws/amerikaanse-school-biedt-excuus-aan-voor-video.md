@@ -1,5 +1,5 @@
 ---
-id: fe4c1e645f834e59b6acfdd0ba8321c7
+id: 98276335070f40c6a85f53ef74146ff4
 type: nieuws
 layout: post
 title: "Amerikaanse school biedt excuus aan voor video"

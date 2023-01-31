@@ -1,5 +1,5 @@
 ---
-id: adbb3ed5ce424715afe923bbe0d05bef
+id: e436ef708a7547db9dd5a4d2a1aad9c1
 type: nieuws
 layout: post
 title: "Goed doel als shirtsponsor"

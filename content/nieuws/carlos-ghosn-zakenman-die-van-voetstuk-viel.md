@@ -1,5 +1,5 @@
 ---
-id: 5345bdd606794aff9f4d85365f33dd55
+id: 684e3ea40d4946caa9d77bf8641cc9f2
 type: nieuws
 layout: post
 title: "Carlos Ghosn: zakenman die van voetstuk viel"

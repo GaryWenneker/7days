@@ -1,5 +1,5 @@
 ---
-id: 4bf7f8f6819d4740922291b1f574e968
+id: 72bbd5c4afb9482a805a2a202d47c336
 type: nieuws
 layout: post
 title: "Emma (16) krijgt eindelijk hulp"
@@ -20,7 +20,7 @@ Psychologen, psychiaters, de crisisopvang. Er is al van alles geprobeerd om Emma
         
   
   <div class="content">
-    <img alt="Claudia - moeder Emma foto RTL Late Night" title="Claudia - moeder Emma foto RTL Late Night" height="349" width="620" style="width: 800px; height: 450px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/RTL-Late-Night-claudia.jpg">  </div>
+    <img alt="Claudia - moeder Emma foto RTL Late Night" title="Claudia - moeder Emma foto RTL Late Night" height="349" width="620" style="width: 800px; height: 450px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/RTL-Late-Night-claudia.jpg">  </div>
 
   
 </div>
@@ -32,7 +32,7 @@ Psychologen, psychiaters, de crisisopvang. Er is al van alles geprobeerd om Emma
         
   
   <div class="content">
-    <img alt="Martin van Rijn foto ANP" title="Martin van Rijn foto ANP" height="534" width="800" style="width: 800px; height: 534px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-50666372.jpg">  </div>
+    <img alt="Martin van Rijn foto ANP" title="Martin van Rijn foto ANP" height="534" width="800" style="width: 800px; height: 534px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-50666372.jpg">  </div>
 
   
 </div>

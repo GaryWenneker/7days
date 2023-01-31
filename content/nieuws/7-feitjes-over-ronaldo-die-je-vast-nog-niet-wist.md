@@ -1,5 +1,5 @@
 ---
-id: 6bcba29dc70a417988a048eb90110075
+id: 6691c4a2a0544046a8338bfe12828fbd
 type: nieuws
 layout: post
 title: "7 feitjes over Ronaldo die je (vast) nog niet wist"
@@ -34,7 +34,7 @@ Cristiano Ronaldo is weer een record rijker. Als eerste voetballer ooit vierde d
         
   
   <div class="content">
-    <img alt="Zeven voetbalfeitjes over Cristiano Ronaldo" title="Foto AFP" height="1426" width="2139" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/AFP-54714238_0.jpg">  </div>
+    <img alt="Zeven voetbalfeitjes over Cristiano Ronaldo" title="Foto AFP" height="1426" width="2139" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/AFP-54714238_0.jpg">  </div>
 
   
 </div>

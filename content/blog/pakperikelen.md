@@ -1,5 +1,5 @@
 ---
-id: 505afdba3d5a472da9472bb0435a5540
+id: 7186655b44664e1eb7a5a631df037968
 type: post
 layout: post
 title: "Pakperikelen"
@@ -19,4 +19,4 @@ Twee weken voor de start van mijn highschool-halfjaar staat mijn koffer al promi
 Verwoed begin ik te strepen. Weg vest, geen extra jurkje en misschien kan mijn korte broek ook wel thuisblijven. Die heb ik niet nodig als het buiten vriest. Of misschien toch wel? Straks in de lente is het vast superwarm in Salt Lake City… Alles nieuw kopen is zo zonde dan. Onder aan de lijst schrijf ik de doorgestreepte items rustig weer opnieuw op. <br> 
 Een nieuwe strategie: wat nou als ik mijn koffer inpak met evenveel kledingstukken, maar dan <i>efficiënter</i>? Op internet staan genoeg tips die me kunnen helpen. Shirts in stapeltjes oprollen in plaats van vouwen, alles in vacuüm zakken stoppen en een hele grote tas als handbagage, noem maar op. Dikke trui aan in het vliegtuig en klaar. De inhoud van mijn koffer lijkt wel gehalveerd terwijl toch echt bijna alles er nog in zit. En toch nog drie kilo onder het maximum gewicht! Lang leve Google. 
 <br><b>Alles al ingepakt</b>
-Ja, en dan zit alles ingepakt. Inclusief mijn tandenborstel, wat achteraf niet zo’n slim idee is. Alles er weer uithalen is niet echt een optie, want dan is er een grote kans dat alsnog iets vergeet. En aangezien al mijn leuke kleren  al ingepakt zijn, heb ik ook geen flauw idee wat ik nou naar school aan moet. De komende week leef ik dus in te grote broeken en shirts met gaten erin. Nog een reden waarom ik niet kan wachten om naar Amerika te vertrekken: eindelijk weer eens mijn eigen sokken aan. <br><br><em>Elke twee weken blogt Rosemarie op Sevendays.nl over haar highschool-halfjaar in Salt Lake City. Haar complete archief vind je <a href="https://original.sevendays.nl/highschoolhalfjaar">hier</a>. </em>  
+Ja, en dan zit alles ingepakt. Inclusief mijn tandenborstel, wat achteraf niet zo’n slim idee is. Alles er weer uithalen is niet echt een optie, want dan is er een grote kans dat alsnog iets vergeet. En aangezien al mijn leuke kleren  al ingepakt zijn, heb ik ook geen flauw idee wat ik nou naar school aan moet. De komende week leef ik dus in te grote broeken en shirts met gaten erin. Nog een reden waarom ik niet kan wachten om naar Amerika te vertrekken: eindelijk weer eens mijn eigen sokken aan. <br><br><em>Elke twee weken blogt Rosemarie op Sevendays.nl over haar highschool-halfjaar in Salt Lake City. Haar complete archief vind je <a href="https://7dagen.netlify.app/highschoolhalfjaar">hier</a>. </em>  

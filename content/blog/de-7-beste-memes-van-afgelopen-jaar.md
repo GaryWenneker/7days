@@ -1,5 +1,5 @@
 ---
-id: 45b32ed9dc244c838d11d4cc7ab59cd8
+id: 78120a7eef934a12870aef0a96cfdbb0
 type: post
 layout: post
 title: "De 7 beste memes van afgelopen jaar"
@@ -21,7 +21,7 @@ In 2016 zijn er een hoop goede dingen gebeurd, maar helaas had het lot ook minde
         
   
   <div class="content">
-    <img height="400" width="315" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/tag%20yourself%20meme_0.jpg" alt="">  </div>
+    <img height="400" width="315" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/tag%20yourself%20meme_0.jpg" alt="">  </div>
 
   
 </div>
@@ -32,7 +32,7 @@ In 2016 zijn er een hoop goede dingen gebeurd, maar helaas had het lot ook minde
         
   
   <div class="content">
-    <img height="209" width="418" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/zodiac.png" alt="">  </div>
+    <img height="209" width="418" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/zodiac.png" alt="">  </div>
 
   
 </div>
@@ -44,7 +44,7 @@ In 2016 zijn er een hoop goede dingen gebeurd, maar helaas had het lot ook minde
         
   
   <div class="content">
-    <img height="378" width="381" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/evil%20kermit%202.jpg" alt="">  </div>
+    <img height="378" width="381" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/evil%20kermit%202.jpg" alt="">  </div>
 
   
 </div>
@@ -56,7 +56,7 @@ In 2016 zijn er een hoop goede dingen gebeurd, maar helaas had het lot ook minde
         
   
   <div class="content">
-    <img height="336" width="336" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/biden%20meme%202.jpg" alt="">  </div>
+    <img height="336" width="336" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/biden%20meme%202.jpg" alt="">  </div>
 
   
 </div>
@@ -68,7 +68,7 @@ In 2016 zijn er een hoop goede dingen gebeurd, maar helaas had het lot ook minde
         
   
   <div class="content">
-    <img height="315" width="315" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/bone%20app%20the%20teeth_0.jpg" alt="">  </div>
+    <img height="315" width="315" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/bone%20app%20the%20teeth_0.jpg" alt="">  </div>
 
   
 </div>
@@ -80,7 +80,7 @@ In 2016 zijn er een hoop goede dingen gebeurd, maar helaas had het lot ook minde
         
   
   <div class="content">
-    <img height="456" width="440" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/youtuber%20meme.png" alt="">  </div>
+    <img height="456" width="440" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/youtuber%20meme.png" alt="">  </div>
 
   
 </div>
@@ -92,10 +92,10 @@ In 2016 zijn er een hoop goede dingen gebeurd, maar helaas had het lot ook minde
         
   
   <div class="content">
-    <img height="452" width="379" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/hillary%20meme.jpg" alt="">  </div>
+    <img height="452" width="379" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/hillary%20meme.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <p dir="ltr">Hoewel 2016 niet zo’n goed jaar was, was het wél een vruchtbaar jaar voor de meme-wereld. Ik hoop dat we in 2017, hoe goed het jaar ook wordt, weer net zulke leuke tegenkomen.</p>
-<p dir="ltr"><br><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/marloes-ijlst">Marloes </a>(16)? Laatst schreef ze ook <a href="https://original.sevendays.nl/blog/die-gezond-eten-hype-wel-zo-gezond">Is die gezond-eten-hype wel zo gezond?</a> en <a href="https://original.sevendays.nl/blog/laat-die-lelijke-kersttrui-toch-liggen">Laat die lelijke kersttrui toch liggen</a>.</em></p>  
+<p dir="ltr"><br><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/marloes-ijlst">Marloes </a>(16)? Laatst schreef ze ook <a href="https://7dagen.netlify.app/blog/die-gezond-eten-hype-wel-zo-gezond">Is die gezond-eten-hype wel zo gezond?</a> en <a href="https://7dagen.netlify.app/blog/laat-die-lelijke-kersttrui-toch-liggen">Laat die lelijke kersttrui toch liggen</a>.</em></p>  

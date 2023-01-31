@@ -1,5 +1,5 @@
 ---
-id: a89124e4eac5443aa0282af04e32c343
+id: 3a47527eef674e559137bec933a41659
 type: nieuws
 layout: post
 title: "Facebookchat beantwoordt vragen over Anne Frank"
@@ -37,7 +37,7 @@ Anne Frank en Facebook: het klinkt als een gekke combinatie. De Anne Frank Stic
         
   
   <div class="content">
-    <img alt="Anne Frank Huis chatbot Facebook Messenger dagboek" title="Foto: AFP" height="555" width="850" style="font-size: 13.008px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-5010422_0.jpg">  </div>
+    <img alt="Anne Frank Huis chatbot Facebook Messenger dagboek" title="Foto: AFP" height="555" width="850" style="font-size: 13.008px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-5010422_0.jpg">  </div>
 
   
 </div>
@@ -50,9 +50,9 @@ Anne Frank en Facebook: het klinkt als een gekke combinatie. De Anne Frank Stic
         
   
   <div class="content">
-    <img alt="Anne Frank Huis rijen toeristen" title="Foto: ANP" height="605" width="850" style="font-size: 13.008px;" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/ANP-33058154.jpg">  </div>
+    <img alt="Anne Frank Huis rijen toeristen" title="Foto: ANP" height="605" width="850" style="font-size: 13.008px;" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/ANP-33058154.jpg">  </div>
 
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van tips die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van tips die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

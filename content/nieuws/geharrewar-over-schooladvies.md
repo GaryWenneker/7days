@@ -1,5 +1,5 @@
 ---
-id: c28bc2ff2cdf47fc8ed1308f7411084c
+id: 04aae6cea83b44eb9d0ba5518fbdf256
 type: nieuws
 layout: post
 title: "Geharrewar over schooladvies"
@@ -18,7 +18,7 @@ Middelbare scholen moeten weer gaan vertrouwen op ervaren docenten in plaats van
         
   
   <div class="content">
-    <a href="/files/06jpg-3"><img height="220" width="220" style="float: right;" class="media-element file-teaser" src="https://original.sevendays.nl/sites/default/files/styles/medium/public/06_3.jpg?itok=bDXDO83U" alt=""></a>  </div>
+    <a href="/files/06jpg-3"><img height="220" width="220" style="float: right;" class="media-element file-teaser" src="https://7dagen.netlify.app/sites/default/files/styles/medium/public/06_3.jpg?itok=bDXDO83U" alt=""></a>  </div>
 
   
 </div>
@@ -29,7 +29,7 @@ Middelbare scholen moeten weer gaan vertrouwen op ervaren docenten in plaats van
         
   
   <div class="content">
-    <a href="/files/07jpg-3"><img height="220" width="220" style="float: right;" class="media-element file-teaser" src="https://original.sevendays.nl/sites/default/files/styles/medium/public/07_3.jpg?itok=eH7-oeKt" alt=""></a>  </div>
+    <a href="/files/07jpg-3"><img height="220" width="220" style="float: right;" class="media-element file-teaser" src="https://7dagen.netlify.app/sites/default/files/styles/medium/public/07_3.jpg?itok=eH7-oeKt" alt=""></a>  </div>
 
   
 </div>
@@ -40,7 +40,7 @@ Middelbare scholen moeten weer gaan vertrouwen op ervaren docenten in plaats van
         
   
   <div class="content">
-    <a href="/files/08jpg-4"><img height="220" width="220" style="float: right;" class="media-element file-teaser" src="https://original.sevendays.nl/sites/default/files/styles/medium/public/08_4.jpg?itok=L9-yNIcd" alt=""></a>  </div>
+    <a href="/files/08jpg-4"><img height="220" width="220" style="float: right;" class="media-element file-teaser" src="https://7dagen.netlify.app/sites/default/files/styles/medium/public/08_4.jpg?itok=L9-yNIcd" alt=""></a>  </div>
 
   
 </div>
@@ -51,10 +51,10 @@ Middelbare scholen moeten weer gaan vertrouwen op ervaren docenten in plaats van
         
   
   <div class="content">
-    <a href="/files/09jpg-3"><img height="220" width="220" style="float: right;" class="media-element file-teaser" src="https://original.sevendays.nl/sites/default/files/styles/medium/public/09_3.jpg?itok=pOfH2QDg" alt=""></a>  </div>
+    <a href="/files/09jpg-3"><img height="220" width="220" style="float: right;" class="media-element file-teaser" src="https://7dagen.netlify.app/sites/default/files/styles/medium/public/09_3.jpg?itok=pOfH2QDg" alt=""></a>  </div>
 
   
 </div>
 </div><strong>4. Protest aantekenen is ingewikkeld</strong><br>Leuk en aardig, maar stel nou dat de school van Puks keuze haar weigert toe te laten op de havo vanwege haar lage citoscore. Haar ouders willen protest aantekenen, maar dat duurt allemaal veel te lang. Tegen de tijd dat de rechter uitspraak heeft gedaan, zegt de school gewoon dat alle klassen al vol zitten. En dan? 
 <p>Tijdens het debat vanmiddag worden deze problemen besproken. De organisatie van basisscholen, de PO-raad, vindt dat schooladvies-bezwaren met extra haast moeten worden behandeld. De meeste partijen willen sowieso dat de middelbare scholen die de wet omzeilen, hard worden aangepakt. Wordt vervolgd dus. </p>
-<p><em>Ga je bijna naar de brugklas? Onze pagina <a href="https://original.sevendays.nl/brugklas">Sevendays.nl/brugklas</a> staat bomvol slimme tips, interessant brugklasnieuws en grappige blogs die je klaarstomen voor de middelbare school. En misschien heb je ook wel iets aan onze speciale krant <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/actiesmetderden/brugklasvoorbeginners">Brugklas voor Beginners</a>! </em></p>  
+<p><em>Ga je bijna naar de brugklas? Onze pagina <a href="https://7dagen.netlify.app/brugklas">Sevendays.nl/brugklas</a> staat bomvol slimme tips, interessant brugklasnieuws en grappige blogs die je klaarstomen voor de middelbare school. En misschien heb je ook wel iets aan onze speciale krant <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/actiesmetderden/brugklasvoorbeginners">Brugklas voor Beginners</a>! </em></p>  

@@ -1,5 +1,5 @@
 ---
-id: 0ab35b1c079e437e8a357a0cea2b662a
+id: 3b7c6e9e813a4722a4d1048078843ef9
 type: nieuws
 layout: post
 title: "3 vragen over de brugramp in Italië"
@@ -24,7 +24,7 @@ Een grote ramp in Italië. Een brug in de Italiaanse havenstad Genua is dinsdag 
         
   
   <div class="content">
-    <img alt="AFP" title="Foto: AFP" height="4000" width="6000" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-58886522.jpg">  </div>
+    <img alt="AFP" title="Foto: AFP" height="4000" width="6000" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-58886522.jpg">  </div>
 
   
 </div>

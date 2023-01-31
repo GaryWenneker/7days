@@ -1,5 +1,5 @@
 ---
-id: 5fbfdea9ad3e480498033d6afe7f0fd1
+id: e6f3976b8389461794e7cd531689296f
 type: post
 layout: post
 title: "Wij hopeloze scholieren zijn gedwongen verslaafd"
@@ -21,7 +21,7 @@ seo:
         
   
   <div class="content">
-    <img height="897" width="1395" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/roken1.jpg" alt="">  </div>
+    <img height="897" width="1395" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/roken1.jpg" alt="">  </div>
 
   
 </div>
@@ -29,4 +29,4 @@ seo:
 <p>Zouden wij niet, net als rokers die proberen te stoppen, een poging moeten wagen om minder te zitten? Dat kan volgens mij best. Schooldagen kunnen best korter, zet hometrainers en loopbanden in de klas, of geef les terwijl we staan.</p>
 <h3>Afkicken</h3>
 <p>Hebben scholen en het ministerie van Onderwijs daar geen trek in? Dan moet de regering maar eens bedenken hoeveel geld Nederland jaarlijks kwijt is aan ziektekosten voor kuchende en proestende paffers. Dat wil je toch niet ook nog eens veroorzaken door zittende scholieren? En ach, al lopend leskrijgen lijkt me een heel stuk goedkoper dan een complete generatie laten afkicken met nicotinepleisters en -kauwgom.</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/lucas-versteeg">Lucas </a>(17)? Laatst schreef hij ook al <a href="https://original.sevendays.nl/blog/de-17-dingen-die-je-2017-echt-moet-gaan-doen">De 17 dingen die je in 2017</a> echt moet gaan doen en <a href="https://original.sevendays.nl/blog/de-gelukkig-nieuwjaar-bedelaars">De Gelukkig Nieuwjaar-bedelaars</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/lucas-versteeg">Lucas </a>(17)? Laatst schreef hij ook al <a href="https://7dagen.netlify.app/blog/de-17-dingen-die-je-2017-echt-moet-gaan-doen">De 17 dingen die je in 2017</a> echt moet gaan doen en <a href="https://7dagen.netlify.app/blog/de-gelukkig-nieuwjaar-bedelaars">De Gelukkig Nieuwjaar-bedelaars</a>.</em></p>  

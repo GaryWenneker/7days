@@ -1,5 +1,5 @@
 ---
-id: 8bbd40c3f34c461a9c29af2bfcbf1fd5
+id: d7f639a8ae54416cb3bded921eff9409
 type: nieuws
 layout: post
 title: "Amerikaanse Youtuber wil 20 miljoen bomen planten"
@@ -15,7 +15,7 @@ Als de teller van je kanaal de 20 miljoen abonnees bereikt, dan moet dat natuurl
 
     <p>De Youtuber, die in het echt Jimmy Donaldson heet, hoopt hiermee klimaatverandering tegen te gaan. ‘We willen laten zien dat YouTube niet alleen maar drama is’, vertelt hij. ‘We kunnen echt verschil maken.’ Donaldson hoopt dat deze actie de grootste YouTube-samenwerking ooit wordt. </p>
 <h3>Hulp</h3>
-<p>Zelf schonk Donaldson 200.000 dollar, maar gelukkig staat hij er niet alleen voor. Zijn vriendin YouTuber Azzy doneerde al 10.000 dollar. En ook <a href="https://original.sevendays.nl/nieuws-entertainment/pewdiepie-heeft-als-eerste-ooit-100-miljoen-abonnees" target="_blank">PewDiePie</a> sloot zich bij de actie aan. De Nederlandse Youtuber Kwebbelkop doneerde maar liefst 2500 dollar. Inmiddels staat de teller van de actie al op 5.545.247 bomen.</p>
+<p>Zelf schonk Donaldson 200.000 dollar, maar gelukkig staat hij er niet alleen voor. Zijn vriendin YouTuber Azzy doneerde al 10.000 dollar. En ook <a href="https://7dagen.netlify.app/nieuws-entertainment/pewdiepie-heeft-als-eerste-ooit-100-miljoen-abonnees" target="_blank">PewDiePie</a> sloot zich bij de actie aan. De Nederlandse Youtuber Kwebbelkop doneerde maar liefst 2500 dollar. Inmiddels staat de teller van de actie al op 5.545.247 bomen.</p>
 <p><em>In deze video kondigt MrBeast de actie aan:</em></p>
 <p><div class="media media-element-container media-default"><div id="file-538716" class="file file-video file-video-youtube">
 

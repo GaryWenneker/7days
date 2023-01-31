@@ -1,5 +1,5 @@
 ---
-id: c010115ca71046558897a40ab6a25d8f
+id: 01415648bda0433cbdc5e702eeffa46f
 type: post
 layout: post
 title: "De 7 dingen die je moet weten over studeren aan de kunstacademie"
@@ -29,4 +29,4 @@ Er studeren niet alleen maar kunstzinnige hipsters, je moet vaak aan de slag in 
 <p>'Het derde kwartaal dit jaar hebben wij iets heel gaafs: we mogen een hele periode andere richtingen op de kunstacademie volgen. Dit, samen met het feit dat je gebruik kunt maken van alle werkplekken van alle richtingen, zorgt ervoor dat je op deze opleiding meer meekrijgt dan alleen de dingen die in je eigen straatje liggen.'</p>
 <h3><strong>7. Mijn eindproject van deze periode</strong></h3>
 <p>Het afgelopen kwartaal was het thema van de richting Audiovisueel ontwerpen "My dark side". Alle vakken die wij volgden, sloten aan op dit thema. Als eindproject moet je een korte film maken over jouw dark side (<em>bekijk <a href="https://vimeo.com/186430245" target="_blank">hier </a>die van Thijs, red.</em>) Hier kan ik veel creativiteit in kwijt en de vrijheid om dit te maken maakt het echt een leuke opdracht.'</p>
-<p><em>Meer interviews over studies lezen? Lees ook <a href="https://original.sevendays.nl/blog/7-dingen-die-je-moet-weten-over-de-opleiding-brood-en-banket">7 Dingen die je moet weten over de opleiding Brood en Banket</a> en de <a href="https://original.sevendays.nl/blog/7-dingen-die-je-moet-weten-over-de-studie-mondzorgkunde">7 dingen die je moet weten over de opleiding Mondzorgkunde</a>. Wil je graag dat we in deze rubriek een bepaalde studie behandelen? Tip ons via <a href="https://original.sevendays.nl/whatsapp">WhatsApp</a>!</em></p>  
+<p><em>Meer interviews over studies lezen? Lees ook <a href="https://7dagen.netlify.app/blog/7-dingen-die-je-moet-weten-over-de-opleiding-brood-en-banket">7 Dingen die je moet weten over de opleiding Brood en Banket</a> en de <a href="https://7dagen.netlify.app/blog/7-dingen-die-je-moet-weten-over-de-studie-mondzorgkunde">7 dingen die je moet weten over de opleiding Mondzorgkunde</a>. Wil je graag dat we in deze rubriek een bepaalde studie behandelen? Tip ons via <a href="https://7dagen.netlify.app/whatsapp">WhatsApp</a>!</em></p>  

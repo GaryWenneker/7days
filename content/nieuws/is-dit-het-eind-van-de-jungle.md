@@ -1,5 +1,5 @@
 ---
-id: e8b2bece085c4613aadccedf3988e74d
+id: 8a2f656aa14a4cf19fc50f4c842eea69
 type: nieuws
 layout: post
 title: "Is dit het eind van de Jungle?"
@@ -18,7 +18,7 @@ Ordetroepen zijn vanmorgen begonnen met het ontruimen van de Jungle in Calais. D
         
   
   <div class="content">
-    <img alt="The Jungle Calais  Foto AFP" title="The Jungle Calais  Foto AFP" height="566" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/AFP-42531270-klein.jpg">  </div>
+    <img alt="The Jungle Calais  Foto AFP" title="The Jungle Calais  Foto AFP" height="566" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/AFP-42531270-klein.jpg">  </div>
 
   
 </div>
@@ -28,7 +28,7 @@ Ordetroepen zijn vanmorgen begonnen met het ontruimen van de Jungle in Calais. D
         
   
   <div class="content">
-    <img alt="The Jungle Calais  Foto AFP" title="The Jungle Calais  Foto AFP" height="566" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/AFP-48079130-klein.jpg">  </div>
+    <img alt="The Jungle Calais  Foto AFP" title="The Jungle Calais  Foto AFP" height="566" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/AFP-48079130-klein.jpg">  </div>
 
   
 </div>
@@ -38,7 +38,7 @@ Ordetroepen zijn vanmorgen begonnen met het ontruimen van de Jungle in Calais. D
         
   
   <div class="content">
-    <img alt="The Jungle Calais  Foto AFP" title="The Jungle Calais  Foto AFP" height="567" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/AFP-48079781-klein.jpg">  </div>
+    <img alt="The Jungle Calais  Foto AFP" title="The Jungle Calais  Foto AFP" height="567" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/AFP-48079781-klein.jpg">  </div>
 
   
 </div>
@@ -48,7 +48,7 @@ Ordetroepen zijn vanmorgen begonnen met het ontruimen van de Jungle in Calais. D
         
   
   <div class="content">
-    <img alt="The Jungle Calais  Foto EPA" title="The Jungle Calais  Foto EPA" height="567" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/EPA-48079120-klein.jpg">  </div>
+    <img alt="The Jungle Calais  Foto EPA" title="The Jungle Calais  Foto EPA" height="567" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/EPA-48079120-klein.jpg">  </div>
 
   
 </div>
@@ -58,11 +58,11 @@ Ordetroepen zijn vanmorgen begonnen met het ontruimen van de Jungle in Calais. D
         
   
   <div class="content">
-    <img alt="The Jungle Calais  Foto EPA" title="The Jungle Calais  Foto EPA" height="567" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/EPA-48077556-klein.jpg">  </div>
+    <img alt="The Jungle Calais  Foto EPA" title="The Jungle Calais  Foto EPA" height="567" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/EPA-48077556-klein.jpg">  </div>
 
   
 </div>
 </div></li>
 <li>Sommige vluchtelingen willen niet geregistreerd worden. Want dat betekent automatisch dat ze asiel aanvragen in Frankrijk en dan wordt het lastiger om naar Groot-Brittannië te gaan. Toen bekend werd dat de Jungle gesloopt zou worden zijn er naar schatting 2000 bewoners het kamp ontvlucht. Waar zij nu zijn is onbekend. De Vlaamse politie heeft extra agenten ingezet voor controles bij de grens.<br> </li>
 <li>Vanaf dinsdag wordt er een begin gemaakt met het weghalen van de tenten en het afbreken van de zelfgebouwde huisjes en winkeltjes. De schoonmaakdiensten staan al klaar. Zou dit het definitieve einde van het kamp betekenen? Het is niet de eerste keer dat de Jungle - het kamp bestaat al 17 jaar -  wordt opgeruimd en tot nu toe kwamen de tentjes telkens toch weer terug.</li>
-</ol><p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+</ol><p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

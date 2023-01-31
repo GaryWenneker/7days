@@ -1,5 +1,5 @@
 ---
-id: cf363261106b4700935b5d500a2440dd
+id: f283db4811ff430e993912d9e98305bd
 type: post
 layout: post
 title: "Filosoferen over appels en peren"
@@ -21,4 +21,4 @@ Ik open de witte deur van de voorraadkast en mijn ogen scannen alle voedselverpa
 <h3>Gefrituurde kippenpoten</h3>
 <p>Ik heb vaak van die periodes waarin een gezond eetpatroon mij vrij weinig uitmaakt en ik de ene dag 39 gefrituurde kippenpoten eet, en de andere dag 27 chocolate-chip-cookies in mijn mond prop. Bij wijze van spreken dan. Soms krijg ik ineens een ingeving dat ik toch maar beter minder tussendoortjes moet eten en wat meer moet letten op de schijf van vijf. Een paar weken ben ik gefocust op groenvoer en eiwitten, maar daar krijg ik dan gauw ook weer genoeg van. Kunnen we mijn fases, en die van ieder ander niet grofweg in twee groepen schetsen? De YOLO-gedachte waarbij je elke dag (een hamburger) plukt, en de gedachte waarbij je veel waarde hecht aan een (gezonde) toekomst?</p>
 <p>Terwijl ik de trap op loop met mijn hoofd vol levensvragen over de wijsheid van het kijken naar de tijd gedurende het leven, stop ik een chipje in mijn mond. Misschien moet ik eten maar gewoon als eten zien. Als iets wat je lichaam energie geeft om de dag door te komen, en niets meer dan dat.</p>
-<p><em>Meer lezen van Lucas(17)? Bekijk ook: <a href="https://original.sevendays.nl/blog/de-ergste-avond-van-het-jaar-de-ouderavond">De ergste avond van het jaar: de ouderavond!</a> of <a href="https://original.sevendays.nl/blog/de-20-grootste-struggles-van-linkshandigen">De 20 grootste struggles van linkshandigen</a>.</em></p>  
+<p><em>Meer lezen van Lucas(17)? Bekijk ook: <a href="https://7dagen.netlify.app/blog/de-ergste-avond-van-het-jaar-de-ouderavond">De ergste avond van het jaar: de ouderavond!</a> of <a href="https://7dagen.netlify.app/blog/de-20-grootste-struggles-van-linkshandigen">De 20 grootste struggles van linkshandigen</a>.</em></p>  

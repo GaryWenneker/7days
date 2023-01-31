@@ -1,5 +1,5 @@
 ---
-id: 109c280a419042d4837b559975160c09
+id: 6b0c0eb0feea474a8c8dfc5ae3955e4c
 type: post
 layout: post
 title: "De 7 liedjes uit je kindertijd die iedereen kent"
@@ -119,6 +119,6 @@ Terwijl we tegenwoordig losgaan op Justin Bieber, Mike Posner en Lil'Kleine, zei
   
 </div>
 </div>
-<p><i>Smaakt dit blog naar meer? <a href="https://original.sevendays.nl/blogs">Klikkerdeklik</a>.</i></p>
+<p><i>Smaakt dit blog naar meer? <a href="https://7dagen.netlify.app/blogs">Klikkerdeklik</a>.</i></p>
 
 <p> </p>  

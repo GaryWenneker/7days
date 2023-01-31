@@ -1,5 +1,5 @@
 ---
-id: 1712afb0af6c4c6881b2f9e064b3bcd5
+id: d9b59f17213847faa5802d7bd8e8c8c1
 type: post
 layout: post
 title: "De 20 grootste struggles van linkshandigen"

@@ -1,5 +1,5 @@
 ---
-id: a2c2ccff72424195bdc6d4fc3824f108
+id: d67bf15a54304059b653618aa72feca1
 type: nieuws
 layout: post
 title: "C&amp;A in Duitsland haalt 'neonazi-hoodie' uit de winkel"

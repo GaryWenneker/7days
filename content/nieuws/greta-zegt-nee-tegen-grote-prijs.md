@@ -1,5 +1,5 @@
 ---
-id: a5ac1c185f35449195c3f9f6a7bc5675
+id: b0eafcb3d8f442398edb60d6c21d6ed0
 type: nieuws
 layout: post
 title: "Greta zegt 'nee' tegen grote prijs"
@@ -24,4 +24,4 @@ Bedankt maar nee bedankt. Dat zegt de Zweedse klimaatactiviste Greta Thunberg (1
 
   
 </div>
-</div><br><br>Waar Greta precies 'nee' tegen zegt? Tegen zo'n 46.800 euro. 'De klimaatbeweging heeft geen prijzen meer nodig. Wat we nodig hebben is dat onze politici en machthebbers beginnen te luisteren naar de wetenschap', zegt Greta in de post op haar Instagram.<br><br><strong>Kindervredesprijs</strong><br>De Nederlandse <a href="https://original.sevendays.nl/nieuws/greta-thunberg-wint-kindervredesprijs" target="_blank">Kindervredesprijs</a> neemt Greta trouwens wel aan. Ze komt 'm alleen niet zelf ophalen straks in Den Haag op 20 november, want Greta is dan nog in de <a href="https://original.sevendays.nl/nieuws/greta-16-komt-met-zeilschip-aan-new-york" target="_blank">Verenigde Staten</a> waar ze meedoet met allerlei klimaatacties. De Zweedse tiener deelt de Kindervredesprijs met de Kameroense Divina Maloum (14), die wel naar Den Haag komt. Divina richtte <em>Children of Peace</em> op. Deze organisatie probeert te voorkomen dat kinderen in Kameroen worden ingezet als kindsoldaten.  
+</div><br><br>Waar Greta precies 'nee' tegen zegt? Tegen zo'n 46.800 euro. 'De klimaatbeweging heeft geen prijzen meer nodig. Wat we nodig hebben is dat onze politici en machthebbers beginnen te luisteren naar de wetenschap', zegt Greta in de post op haar Instagram.<br><br><strong>Kindervredesprijs</strong><br>De Nederlandse <a href="https://7dagen.netlify.app/nieuws/greta-thunberg-wint-kindervredesprijs" target="_blank">Kindervredesprijs</a> neemt Greta trouwens wel aan. Ze komt 'm alleen niet zelf ophalen straks in Den Haag op 20 november, want Greta is dan nog in de <a href="https://7dagen.netlify.app/nieuws/greta-16-komt-met-zeilschip-aan-new-york" target="_blank">Verenigde Staten</a> waar ze meedoet met allerlei klimaatacties. De Zweedse tiener deelt de Kindervredesprijs met de Kameroense Divina Maloum (14), die wel naar Den Haag komt. Divina richtte <em>Children of Peace</em> op. Deze organisatie probeert te voorkomen dat kinderen in Kameroen worden ingezet als kindsoldaten.  

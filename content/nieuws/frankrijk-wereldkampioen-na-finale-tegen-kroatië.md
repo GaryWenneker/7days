@@ -1,5 +1,5 @@
 ---
-id: 3432438562f049b2a1d7ec91632dd99b
+id: 122c1d0c4721496e85bb81ac8cd7e507
 type: nieuws
 layout: post
 title: "Frankrijk wereldkampioen na finale tegen Kroatië"
@@ -23,7 +23,7 @@ Frankrijk is wereldkampioen voetbal 2018. In Moskou hebben de Franse voetballers
         
   
   <div class="content">
-    <img alt="ANP" title="Foto: ANP" height="2363" width="3543" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-58444832.jpg">  </div>
+    <img alt="ANP" title="Foto: ANP" height="2363" width="3543" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-58444832.jpg">  </div>
 
   
 </div>

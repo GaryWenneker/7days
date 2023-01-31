@@ -1,5 +1,5 @@
 ---
-id: 7fa1687ccb1b4a63be09be72d499ce15
+id: 6fabe219e64b4009a967e948a16fdede
 type: post
 layout: post
 title: "De Grote Eindexamenquiz "
@@ -15,5 +15,5 @@ Eindexamen: bijna elke scholier moet eraan geloven. Met zwetende handjes de seco
 
     <p> </p>
 <p><iframe border="none" frameborder="0" height="700px" id="quizWidget-408284" scrolling="no" src="https://www.qzzr.com/widget/quiz/fi9xdWl6emVzLzQwODI4NA" width="100%"></iframe></p>
-<p><em>Nog niet uitgequizd? <a href="https://original.sevendays.nl/quiz/test-jouw-kennis-over-gezond-eten">Test jouw kennis over gezond eten</a> of <a href="https://original.sevendays.nl/blog/quiz-ben-jij-een-echte-netflix-kenner">doe de Netflix-quiz.</a></em></p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant 7Days!</em></p>  
+<p><em>Nog niet uitgequizd? <a href="https://7dagen.netlify.app/quiz/test-jouw-kennis-over-gezond-eten">Test jouw kennis over gezond eten</a> of <a href="https://7dagen.netlify.app/blog/quiz-ben-jij-een-echte-netflix-kenner">doe de Netflix-quiz.</a></em></p>
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant 7Days!</em></p>  

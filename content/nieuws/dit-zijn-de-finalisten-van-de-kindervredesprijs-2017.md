@@ -1,5 +1,5 @@
 ---
-id: b6238c9c37804ef790f987571c7ec1b4
+id: c2ccd24d9303454d8c1bc544caa53586
 type: nieuws
 layout: post
 title: "Dit zijn de finalisten van de Kindervredesprijs 2017"
@@ -19,7 +19,7 @@ Faye (15) uit Indonesië, Mohamad (16) uit Syrië en Tymon (16) uit Polen. E�
         
   
   <div class="content">
-    <img alt="Faye finalist KidsRights Kindervredesprijs 2017" title="Beeld: KidsRights" height="300" width="300" style="width: 200px; height: 200px; float: left; margin-left: 5px; margin-right: 5px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/faye.png">  </div>
+    <img alt="Faye finalist KidsRights Kindervredesprijs 2017" title="Beeld: KidsRights" height="300" width="300" style="width: 200px; height: 200px; float: left; margin-left: 5px; margin-right: 5px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/faye.png">  </div>
 
   
 </div>
@@ -30,7 +30,7 @@ Faye (15) uit Indonesië, Mohamad (16) uit Syrië en Tymon (16) uit Polen. E�
         
   
   <div class="content">
-    <img alt="Mohamad finalist KidsRights Kindervredesprijs 2017" title="Beeld: KidsRights" height="300" width="300" style="width: 200px; height: 200px; float: left; margin-left: 5px; margin-right: 5px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/mohammad.png">  </div>
+    <img alt="Mohamad finalist KidsRights Kindervredesprijs 2017" title="Beeld: KidsRights" height="300" width="300" style="width: 200px; height: 200px; float: left; margin-left: 5px; margin-right: 5px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/mohammad.png">  </div>
 
   
 </div>
@@ -41,7 +41,7 @@ Faye (15) uit Indonesië, Mohamad (16) uit Syrië en Tymon (16) uit Polen. E�
         
   
   <div class="content">
-    <img alt="Tymon finalist KidsRights Kindervredesprijs 2017" title="Beeld: KidsRights" height="300" width="300" style="width: 200px; float: left; height: 200px; margin-left: 5px; margin-right: 5px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/tymon.png">  </div>
+    <img alt="Tymon finalist KidsRights Kindervredesprijs 2017" title="Beeld: KidsRights" height="300" width="300" style="width: 200px; float: left; height: 200px; margin-left: 5px; margin-right: 5px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/tymon.png">  </div>
 
   
 </div>

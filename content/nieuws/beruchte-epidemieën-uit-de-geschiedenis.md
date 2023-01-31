@@ -1,5 +1,5 @@
 ---
-id: 7bf5523e10c34b30838567a8405e03da
+id: 156a045832894586aeee7f2caf8b56eb
 type: nieuws
 layout: post
 title: "Beruchte epidemieën uit de geschiedenis"
@@ -28,7 +28,7 @@ Door de eeuwen heen hebben mensen te maken gehad met epidemieën en pandemieën.
         
   
   <div class="content">
-    <img alt="Spaanse griep" title="Foto: Wikimedia" height="540" width="840" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/spanish-flu-effect-840x540.jpg">  </div>
+    <img alt="Spaanse griep" title="Foto: Wikimedia" height="540" width="840" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/spanish-flu-effect-840x540.jpg">  </div>
 
   
 </div>
@@ -41,7 +41,7 @@ Door de eeuwen heen hebben mensen te maken gehad met epidemieën en pandemieën.
         
   
   <div class="content">
-    <img alt="Griep in Zweden" title="Foto: Wikipedia" height="396" width="660" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/Asian_flu_in_Sweden_1957_0.jpg">  </div>
+    <img alt="Griep in Zweden" title="Foto: Wikipedia" height="396" width="660" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/Asian_flu_in_Sweden_1957_0.jpg">  </div>
 
   
 </div>

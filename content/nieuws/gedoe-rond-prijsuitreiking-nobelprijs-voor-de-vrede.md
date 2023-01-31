@@ -1,5 +1,5 @@
 ---
-id: 75557c5fa1f7451dadc6da7c4d385211
+id: 2008a40e623e4b519a4c0f3a18c88378
 type: nieuws
 layout: post
 title: "Gedoe rond prijsuitreiking Nobelprijs voor de Vrede"
@@ -26,7 +26,7 @@ De Nobelprijs voor de Vrede is vanmiddag in de Noorse stad Oslo uitgereikt aan d
         
   
   <div class="content">
-    <img alt="Nobelprijs voor de Vrede" title="Foto: AFP" height="1632" width="2449" style="font-size: 13.008px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-403094513.jpg">  </div>
+    <img alt="Nobelprijs voor de Vrede" title="Foto: AFP" height="1632" width="2449" style="font-size: 13.008px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-403094513.jpg">  </div>
 
   
 </div>

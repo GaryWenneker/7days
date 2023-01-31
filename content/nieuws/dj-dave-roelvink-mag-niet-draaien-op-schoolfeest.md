@@ -1,5 +1,5 @@
 ---
-id: a4c9c50b3ef447f488beac747a4e7afe
+id: d6462a3b25264f15b8ccfeed0bae036c
 type: nieuws
 layout: post
 title: "DJ Dave Roelvink mag niet draaien op schoolfeest"
@@ -35,4 +35,4 @@ Dave Roelvink zou op een groot schoolfeest van het Montessori College in Arnhem 
 <p>Ook de leerlingen van de school balen. 'Ik zou alleen naar het feest gaan omdat hij er was', vertelde een van hen in <em>De Gelderlander.</em> </p>
 <h3>Mystery Guest</h3>
 <p>In samenspraak met het artiestenbureau is voor het feest een vervanger geregeld. Ruud Feltkamp komt nu draaien. Mocht Dave worden vrijgesproken worden dan mag de dj later komen draaien in Arnhem.</p>
-<p><em>Altijd op de hoogte blijven van artikelen die voor jongeren interessant zijn? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van artikelen die voor jongeren interessant zijn? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

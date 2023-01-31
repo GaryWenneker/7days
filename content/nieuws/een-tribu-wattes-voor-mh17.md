@@ -1,5 +1,5 @@
 ---
-id: b01065758a53427c8cdabdde05e4e471
+id: 3c7e16630e0e44418fe5d9e43f6240f2
 type: nieuws
 layout: post
 title: "Een tribu-wattes voor MH17?"
@@ -21,7 +21,7 @@ Eindelijk gerechtigheid. Dat willen landen als Nederland en Maleisïe, van wie e
         
   
   <div class="content">
-    <img title="Foto: AFP" height="2700" width="3750" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-32589584.jpg" alt="">  </div>
+    <img title="Foto: AFP" height="2700" width="3750" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-32589584.jpg" alt="">  </div>
 
   
 </div>
@@ -33,7 +33,7 @@ Eindelijk gerechtigheid. Dat willen landen als Nederland en Maleisïe, van wie e
         
   
   <div class="content">
-    <img title="Foto: EPA" height="2870" width="4096" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-32915340.jpg" alt="">  </div>
+    <img title="Foto: EPA" height="2870" width="4096" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-32915340.jpg" alt="">  </div>
 
   
 </div>

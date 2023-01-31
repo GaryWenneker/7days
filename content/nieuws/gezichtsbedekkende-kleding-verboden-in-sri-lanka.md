@@ -1,5 +1,5 @@
 ---
-id: 95174b6dcbd043a18c27fac36ae230ee
+id: de7fe6f8529545e6a87a35e7b8725b94
 type: nieuws
 layout: post
 title: "Gezichtsbedekkende kleding verboden in Sri Lanka"

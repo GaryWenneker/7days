@@ -1,5 +1,5 @@
 ---
-id: 4e2e71343ace421696f338238fe352d9
+id: 116179a4dc7d44c6bcc04b3b02b46122
 type: nieuws
 layout: post
 title: "3 vragen over vulkaanuitbarsting Nieuw-Zeeland"
@@ -24,7 +24,7 @@ In Nieuw-Zeeland is het flink misgegaan. Bij een vulkaanuitbarsting zijn zeker 
         
   
   <div class="content">
-    <img alt="ANP" title="ANP - vulkaan" height="2000" width="3000" class="media-element file-default" data-delta="4" src="https://original.sevendays.nl/sites/default/files/ANP-403075410_0.jpg">  </div>
+    <img alt="ANP" title="ANP - vulkaan" height="2000" width="3000" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/ANP-403075410_0.jpg">  </div>
 
   
 </div>

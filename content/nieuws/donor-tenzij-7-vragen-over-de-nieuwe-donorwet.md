@@ -1,5 +1,5 @@
 ---
-id: 1b15223927be486a9766f27c5f6fee59
+id: 0bd47e3300e74c569cbea88c8935b32e
 type: nieuws
 layout: post
 title: "'Donor, tenzij...': 7 vragen over de nieuwe donorwet"
@@ -26,7 +26,7 @@ Niemand verwachtte het, maar de kogel lijkt door de kerk. De Tweede Kamer ging 
         
   
   <div class="content">
-    <img alt="donorwet organen alexander pechtold pia dijkstra d66" title="Foto: ANP" height="481" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/pechtold%201.jpg">  </div>
+    <img alt="donorwet organen alexander pechtold pia dijkstra d66" title="Foto: ANP" height="481" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/pechtold%201.jpg">  </div>
 
   
 </div>
@@ -37,4 +37,4 @@ Niemand verwachtte het, maar de kogel lijkt door de kerk. De Tweede Kamer ging 
 <p>Nee, dat niet. De Tweede Kamer heeft al 'ja' gezegd, maar nu moet de Eerste Kamer nog stemmen over de wet. Die groep politici gaat met de meeste wetsvoorstellen wel akkoord, maar soms wordt er een uitzondering gemaakt. Bijvoorbeeld als er in de Tweede Kamer ook al heel veel werd getwijfeld. Maar als meer dan de helft van de Eerste Kamer ook gewoon vóór de nieuwe wet stemt, wordt-ie werkelijkheid. Dan is elke 18+'er voortaan automatisch donor, tenzij hij dat aangeeft in het register.</p>
 <h3>7. Ik ben nog geen 18! Hoe zit dat dan? </h3>
 <p>Als je minderjarig bent, dan ben je automatisch nog geen donor. Nu niet, en straks met de eventuele nieuwe wet ook niet. Je kunt je keuze vanaf je twaalfde al registreren. Geef je toestemming en denken je ouders daar bij jouw overlijden anders over, dan hebben zij wel het laatste woord. Maar als je al registreert dat je géén donor wilt zijn, dan kan niemand die keuze nog veranderen. </p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

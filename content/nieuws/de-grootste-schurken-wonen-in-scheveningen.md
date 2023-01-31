@@ -1,5 +1,5 @@
 ---
-id: 587b9e19106e44a1a7997cd962777572
+id: b7d2573bc2b140b0b7cecbcf4790fe66
 type: nieuws
 layout: post
 title: "De grootste schurken wonen in Scheveningen"
@@ -19,13 +19,13 @@ Denk jij bij Scheveningen vooral aan zee en strandtenten? Vlak achter de duinen 
         
   
   <div class="content">
-    <img title="Beeld: ANP" height="798" width="1432" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-15773082.jpg" alt="">  </div>
+    <img title="Beeld: ANP" height="798" width="1432" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-15773082.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <h3><strong>Srebrenica</strong></h3>
-<p>De oud-generaal (73) wordt gezien als de verantwoordelijke man voor de massaslachtingen rond de Bosnische plaats Srebrenica in 1995. Die kostten aan meer dan 7000 moslimjongens en -mannen het leven. <a href="https://original.sevendays.nl/nieuws/wat-gebeurde-er-20-jaar-geleden-srebrenica">Lees hier </a>hoe dat ook alweer zat.</p>
+<p>De oud-generaal (73) wordt gezien als de verantwoordelijke man voor de massaslachtingen rond de Bosnische plaats Srebrenica in 1995. Die kostten aan meer dan 7000 moslimjongens en -mannen het leven. <a href="https://7dagen.netlify.app/nieuws/wat-gebeurde-er-20-jaar-geleden-srebrenica">Lees hier </a>hoe dat ook alweer zat.</p>
 <h3>Andere regels</h3>
 <p>Verdachten worden in Schevingen opgesloten in afwachting van hun proces. Hun eventuele straf zitten ze meestal uit in hun eigen land. Mladic zal dus ook niet zijn hele leven hier blijven. Na zijn proces, de uitspraak kan nog wel een jaar op zich laten wachten, zal hij wellicht teruggaan naar Servië.</p>
 <h3>Taart en kanarie</h3>
@@ -36,7 +36,7 @@ Denk jij bij Scheveningen vooral aan zee en strandtenten? Vlak achter de duinen 
         
   
   <div class="content">
-    <img height="372" width="560" style="width: 851px; height: 565px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-29278911.jpg" alt="">  </div>
+    <img height="372" width="560" style="width: 851px; height: 565px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-29278911.jpg" alt="">  </div>
 
   
 </div>
@@ -50,9 +50,9 @@ Denk jij bij Scheveningen vooral aan zee en strandtenten? Vlak achter de duinen 
         
   
   <div class="content">
-    <img height="695" width="560" style="font-size: 13.008px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/VN-cel-Mladic.jpg" alt="">  </div>
+    <img height="695" width="560" style="font-size: 13.008px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/VN-cel-Mladic.jpg" alt="">  </div>
 
   
 </div>
 </div>​
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

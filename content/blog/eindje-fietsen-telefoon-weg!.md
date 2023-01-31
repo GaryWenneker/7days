@@ -1,5 +1,5 @@
 ---
-id: 120b0831b62c405c829b9b14d0c37245
+id: 5b3f1cbf394e408e952776f809572710
 type: post
 layout: post
 title: "Eindje fietsen? Telefoon weg!"
@@ -13,7 +13,7 @@ seo:
 ---
 Stap je op de fiets? Laat die telefoon dan maar even voor wat-ie is. Je moeder appen om te vragen hoe laat jullie eten, een snapselfie maken om de streaks te behouden of Insta Stories doortikken? Dat zijn sinds deze week allemaal overtredingen.  
 
-    <p>Het is je vast niet ontgaan, maar maandag 1 juli is een <a href="https://original.sevendays.nl/nieuws/appen-op-de-fiets-verboden" target="_blank">nieuwe wet ingegaan</a> die weggebruikers verbiedt een mobiel elektronisch apparaat vast te houden wanneer ze een voertuig besturen. Voor jou betekent dit waarschijnlijk vooral geen telefoon meer op de fiets. Toch staat dit niet zo duidelijk in de wet. In plaats van ‘telefoon’ wordt de term ‘mobiel elektronisch apparaat’ gebruikt. Waardoor ook camera’s, smartwatches en andere elektronische apparaten die nu nog niet uitgevonden zijn, maar wel de verkeersveiligheid in de weg zitten, onder deze wet vallen. Wél specifiek in de wet staat het woordje ‘vasthouden’. Het komt erop neer dat je geen schermpje meer mag vasthouden terwijl je fietst, zelfs niet als dat uitstaat.</p>
+    <p>Het is je vast niet ontgaan, maar maandag 1 juli is een <a href="https://7dagen.netlify.app/nieuws/appen-op-de-fiets-verboden" target="_blank">nieuwe wet ingegaan</a> die weggebruikers verbiedt een mobiel elektronisch apparaat vast te houden wanneer ze een voertuig besturen. Voor jou betekent dit waarschijnlijk vooral geen telefoon meer op de fiets. Toch staat dit niet zo duidelijk in de wet. In plaats van ‘telefoon’ wordt de term ‘mobiel elektronisch apparaat’ gebruikt. Waardoor ook camera’s, smartwatches en andere elektronische apparaten die nu nog niet uitgevonden zijn, maar wel de verkeersveiligheid in de weg zitten, onder deze wet vallen. Wél specifiek in de wet staat het woordje ‘vasthouden’. Het komt erop neer dat je geen schermpje meer mag vasthouden terwijl je fietst, zelfs niet als dat uitstaat.</p>
 <h3>Stoplicht</h3>
 <p>Wat nog wel mag, is handsfree bellen en muziek skippen via je oortjes. En hoe zit dat dan met Google Maps? Zonder die navigeerpijltjes verdwaal ik namelijk binnen no-time. Eigenlijk gelden hiervoor dezelfde regels als voor automobilisten: je mag je navigatie gebruiken, zolang je je mobieltje maar niet in je hand hebt. Ik moet dus zo’n telefoonhouder voor op de fiets kopen. Mag je wel op je telefoon als je wacht voor het stoplicht? Ja! Dat mag wel. Zolang je stilstaat mag je gewoon op je telefoon. Let wel op, want zelfs bij een kleine beweging als bestuurder, zoals het opstappen op je fiets, mag je geen mobieltje vasthouden: zó streng zijn ze!</p>
 <h3>Technologische ontwikkelingen</h3>

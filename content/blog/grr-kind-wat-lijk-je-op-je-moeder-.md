@@ -1,5 +1,5 @@
 ---
-id: 1faf208125524a729a6638b8f0dbf14a
+id: 47c9e999212940acbf3ee61f39e3dd43
 type: post
 layout: post
 title: "Grr: 'Kind, wat lijk je op je moeder' "
@@ -17,4 +17,4 @@ seo:
 <p>Hoewel het uiteindelijk niks van dat alles zou worden, was mij één ding duidelijk: extreme problemen vragen om extreme oplossingen. In blinde paniek ruilde ik het 50+’ers-bloesje om voor een fluorescerende crop top (nooit gedacht dat het ooit zover zou komen). Maar helaas: mensen blijven beweren dat ik op mijn moeder lijk.</p>
 <p><strong>Haar probleem</strong><br>Vind ik dat nou echt zo erg? Oké, haar dikke enkels heb ik liever niet, maar wat kun je eraan veranderen? En als mijn moeder dezelfde bloesjes leuk vindt als ik, dan is dat meer haar probleem dan het mijne. Hoe je het ook wendt of keert, het blijft toch je familie.</p>
 <p>De wereld vergaat niet als je sprekend op je moeder lijkt. En ja, ook die ‘de wereld vergaat niet’-opmerking is een vaststaand begrip in onze familie.</p>
-<p><em>Meer blogs lezen van Sanne (19)? Laatst schreef ze ook al <a href="https://original.sevendays.nl/blog/totally-spies-totally-traumatiserend">Totally Spies? Totally traumatiserend!</a> en <a href="https://original.sevendays.nl/blog/de-3-fases-van-een-hobby-die-uit-de-hand-loopt">De 3 fases van een hobby die volledig uit de hand loopt</a>.</em></p>  
+<p><em>Meer blogs lezen van Sanne (19)? Laatst schreef ze ook al <a href="https://7dagen.netlify.app/blog/totally-spies-totally-traumatiserend">Totally Spies? Totally traumatiserend!</a> en <a href="https://7dagen.netlify.app/blog/de-3-fases-van-een-hobby-die-uit-de-hand-loopt">De 3 fases van een hobby die volledig uit de hand loopt</a>.</em></p>  

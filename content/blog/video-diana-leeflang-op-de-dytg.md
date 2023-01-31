@@ -1,5 +1,5 @@
 ---
-id: fa926cddf70d47e8b438e9c1b9ec4b64
+id: 7176c8d46c9048de9421ea232188a094
 type: post
 layout: post
 title: "Video: Diana Leeflang op de DYTG"
@@ -27,4 +27,4 @@ Eigenlijk begon Diana Leeflang haar YouTube-kanaal als aanvulling op haar blog,
   
 </div>
 </div>
-<p><em>Meer zien van de DYTG? Check ons <a href="https://original.sevendays.nl/dytg">Dossier DYTG</a> voor alle sfeerreportages en video-interviews. Deze week komt er elke dag om 16.00 uur een nieuwe online, dus blijf ons volgen. En vermaak je in de tussentijd ook met ons <a href="https://original.sevendays.nl/veed">Dossier VEED</a>!</em></p>  
+<p><em>Meer zien van de DYTG? Check ons <a href="https://7dagen.netlify.app/dytg">Dossier DYTG</a> voor alle sfeerreportages en video-interviews. Deze week komt er elke dag om 16.00 uur een nieuwe online, dus blijf ons volgen. En vermaak je in de tussentijd ook met ons <a href="https://7dagen.netlify.app/veed">Dossier VEED</a>!</em></p>  

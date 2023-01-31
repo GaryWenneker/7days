@@ -1,5 +1,5 @@
 ---
-id: 33324c07a16a450bb2158bdac2da4445
+id: 29799874d2b94c2392f5bfde00518d64
 type: nieuws
 layout: post
 title: "7 keer tijd vastgelegd in een capsule"
@@ -19,7 +19,7 @@ Leerlingen van het Wellantcollege in Gorinchem groeven maandag een tijdcapsule o
         
   
   <div class="content">
-    <img height="309" width="400" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/05.jpg" alt="">  </div>
+    <img height="309" width="400" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/05.jpg" alt="">  </div>
 
   
 </div>
@@ -30,7 +30,7 @@ Leerlingen van het Wellantcollege in Gorinchem groeven maandag een tijdcapsule o
         
   
   <div class="content">
-    <img height="266" width="400" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/06.jpg" alt="">  </div>
+    <img height="266" width="400" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/06.jpg" alt="">  </div>
 
   
 </div>
@@ -41,7 +41,7 @@ Leerlingen van het Wellantcollege in Gorinchem groeven maandag een tijdcapsule o
         
   
   <div class="content">
-    <img height="266" width="400" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/07.jpg" alt="">  </div>
+    <img height="266" width="400" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/07.jpg" alt="">  </div>
 
   
 </div>
@@ -54,7 +54,7 @@ Leerlingen van het Wellantcollege in Gorinchem groeven maandag een tijdcapsule o
         
   
   <div class="content">
-    <img height="259" width="400" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/08.jpg" alt="">  </div>
+    <img height="259" width="400" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/08.jpg" alt="">  </div>
 
   
 </div>
@@ -65,7 +65,7 @@ Leerlingen van het Wellantcollege in Gorinchem groeven maandag een tijdcapsule o
         
   
   <div class="content">
-    <img height="300" width="400" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/09.jpg" alt="">  </div>
+    <img height="300" width="400" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/09.jpg" alt="">  </div>
 
   
 </div>
@@ -77,7 +77,7 @@ Leerlingen van het Wellantcollege in Gorinchem groeven maandag een tijdcapsule o
         
   
   <div class="content">
-    <a href="/files/10jpg"><img height="220" width="179" style="height: 123px; width: 100px; float: left;" class="media-element file-teaser" src="https://original.sevendays.nl/sites/default/files/styles/medium/public/10.jpg?itok=zXiu4F80" alt=""></a>  </div>
+    <a href="/files/10jpg"><img height="220" width="179" style="height: 123px; width: 100px; float: left;" class="media-element file-teaser" src="https://7dagen.netlify.app/sites/default/files/styles/medium/public/10.jpg?itok=zXiu4F80" alt=""></a>  </div>
 
   
 </div>

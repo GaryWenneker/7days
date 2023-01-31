@@ -1,5 +1,5 @@
 ---
-id: dc138e5f1e78426ea186b15cfd1d5109
+id: d1d49913c6cd49078f17960a85c12be6
 type: nieuws
 layout: post
 title: "Erik (15) blikt terug op het Apple WWDC"
@@ -13,12 +13,12 @@ seo:
 ---
 Tijdens de jaarlijkse World Wide Developers Conference (WWDC) in San Francisco introduceren Apple-bazen alle nieuwe technologieën. Appbouwer Erik (15) was er dit jaar voor de derde keer. Voor 7Days hield hij een fotodagboek bij op Instagram. Nu is hij weer in Nederland en blikt hij terug.  
 
-    <p>De kaartjes voor Apples WWDC zijn behoorlijk prijzig, maar jonge app-ontwikkelaars kunnen gratis toegang winnen. Dat lukte Erik ook dit jaar <a href="https://original.sevendays.nl/nieuws/erik-14-ontmoet-apple-topmannen" target="_blank">weer</a>. ‘Je moest een app maken met een zo mooi mogelijk design en verschillende technologieën’, vertelt hij.<br><br><div class="media media-element-container media-default"><div id="file-19998" class="file file-image file-image-jpeg">
+    <p>De kaartjes voor Apples WWDC zijn behoorlijk prijzig, maar jonge app-ontwikkelaars kunnen gratis toegang winnen. Dat lukte Erik ook dit jaar <a href="https://7dagen.netlify.app/nieuws/erik-14-ontmoet-apple-topmannen" target="_blank">weer</a>. ‘Je moest een app maken met een zo mooi mogelijk design en verschillende technologieën’, vertelt hij.<br><br><div class="media media-element-container media-default"><div id="file-19998" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img alt="App Erik van der Plas" title="Foto Erik van der Plas" height="511" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/App%20Erik%20van%20der%20Plas.jpg">  </div>
+    <img alt="App Erik van der Plas" title="Foto Erik van der Plas" height="511" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/App%20Erik%20van%20der%20Plas.jpg">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ Tijdens de jaarlijkse World Wide Developers Conference (WWDC) in San Francisco i
         
   
   <div class="content">
-    <img alt="Stanford University" title="Foto Erik van der Plas" height="916" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Erik%20Zaterdag%20Stanford%20University.jpg">  </div>
+    <img alt="Stanford University" title="Foto Erik van der Plas" height="916" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Erik%20Zaterdag%20Stanford%20University.jpg">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ Tijdens de jaarlijkse World Wide Developers Conference (WWDC) in San Francisco i
         
   
   <div class="content">
-    <img alt="Erik badge Apple WWDC" title="Foto Erik van der Plas" height="832" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Erik%20Zondag%20badge%20Apple%20WWDC.jpg">  </div>
+    <img alt="Erik badge Apple WWDC" title="Foto Erik van der Plas" height="832" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Erik%20Zondag%20badge%20Apple%20WWDC.jpg">  </div>
 
   
 </div>
@@ -45,7 +45,7 @@ Tijdens de jaarlijkse World Wide Developers Conference (WWDC) in San Francisco i
         
   
   <div class="content">
-    <img alt="Erik Apple WWDC Tim Cook" title="Foto Erik van der Plas" height="850" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Erik%20Maandag%20Apple%20WWDC%20Tim%20Cook.jpg">  </div>
+    <img alt="Erik Apple WWDC Tim Cook" title="Foto Erik van der Plas" height="850" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Erik%20Maandag%20Apple%20WWDC%20Tim%20Cook.jpg">  </div>
 
   
 </div>
@@ -54,7 +54,7 @@ Tijdens de jaarlijkse World Wide Developers Conference (WWDC) in San Francisco i
         
   
   <div class="content">
-    <img alt="Apple WWDC" title="Foto Erik van der Plas" height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Erik%20Dinsdag%20WWDC%20start.jpg">  </div>
+    <img alt="Apple WWDC" title="Foto Erik van der Plas" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Erik%20Dinsdag%20WWDC%20start.jpg">  </div>
 
   
 </div>
@@ -63,7 +63,7 @@ Tijdens de jaarlijkse World Wide Developers Conference (WWDC) in San Francisco i
         
   
   <div class="content">
-    <img alt="Apple WWDC engineers" title="Foto Erik van der Plas" height="422" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Erik%20Woensdag%20Apple%20WWDC%20blauwe%20engineers.jpg">  </div>
+    <img alt="Apple WWDC engineers" title="Foto Erik van der Plas" height="422" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Erik%20Woensdag%20Apple%20WWDC%20blauwe%20engineers.jpg">  </div>
 
   
 </div>
@@ -72,7 +72,7 @@ Tijdens de jaarlijkse World Wide Developers Conference (WWDC) in San Francisco i
         
   
   <div class="content">
-    <img alt="Apple wwdc john geleynse" title="Foto Erik van der Plas" height="638" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Erik%20Donderdagochtend%20Apple%20wwdc%20john%20geleynse.jpg">  </div>
+    <img alt="Apple wwdc john geleynse" title="Foto Erik van der Plas" height="638" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Erik%20Donderdagochtend%20Apple%20wwdc%20john%20geleynse.jpg">  </div>
 
   
 </div>
@@ -81,9 +81,9 @@ Tijdens de jaarlijkse World Wide Developers Conference (WWDC) in San Francisco i
         
   
   <div class="content">
-    <img alt="Apple WWDC Bash" title="Foto Erik van der Plas" height="566" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Erik%20apple%20wwdc%20bash.jpg">  </div>
+    <img alt="Apple WWDC Bash" title="Foto Erik van der Plas" height="566" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Erik%20apple%20wwdc%20bash.jpg">  </div>
 
   
 </div>
 </div>‘Vrijdag was de laatste dag van de WWDC. Het was een heel leuke week! Donderdagavond was de WWDC-bash. DJ QBert opende het feest en daarna trad de band Good Charlotte op. Dat is niet mijn type muziek, maar het was erg leuk om daar de week af te ronden met alle studenten.’
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

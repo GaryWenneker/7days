@@ -1,5 +1,5 @@
 ---
-id: 478ebfc4a6d5491abf171f349324394f
+id: e4dc0c045a25411f86c0e61bba4607ec
 type: post
 layout: post
 title: "Opgesloten in ons eigen hokjesdenken"
@@ -14,7 +14,7 @@ seo:
 'De Gay Pride? Daar zijn alleen maar mannen in leren pakjes en vrouwen met kortpittig kapsel!' Dat wilde ik weleens met eigen ogen zien. Maar wat bleek: op de Canal Parade, de botenparade door de grachten, waren vrouwen met korte én lange kapsels. En lang niet iedereen liep er zo schaars gekleed bij als menig Nederlander beweert.  
 
     <p>Wij Nederlanders zijn dol op vooroordelen en stereotypes. Hoe komen we daar toch aan? Negen van de tien keer hebben we het niet bij het juiste eind.</p>
-<p><strong>De eeuwige hokjescultuur</strong><br>In Nederland denken we graag in 'hokjes': het verdelen van mensen in groepen. Ieder mens behoort tot één of meerdere hokjes. Je wordt ingedeeld naar uiterlijke verschijning, innerlijk en andere zaken om alles zo overzichtelijk mogelijk te maken. Voor de chaoten onder ons, of zo? Zo pas je in het hokje 'meisje' of 'jongen', ben je een 'puber' of een 'bejaarde', een 'liefhebber van klassieke muziek' of een 'heavymetalfan' en <a href="https://original.sevendays.nl/blog/waarom-uit-de-kast-komen-onzin">ben je 'homo' of 'hetero'</a>. </p>
+<p><strong>De eeuwige hokjescultuur</strong><br>In Nederland denken we graag in 'hokjes': het verdelen van mensen in groepen. Ieder mens behoort tot één of meerdere hokjes. Je wordt ingedeeld naar uiterlijke verschijning, innerlijk en andere zaken om alles zo overzichtelijk mogelijk te maken. Voor de chaoten onder ons, of zo? Zo pas je in het hokje 'meisje' of 'jongen', ben je een 'puber' of een 'bejaarde', een 'liefhebber van klassieke muziek' of een 'heavymetalfan' en <a href="https://7dagen.netlify.app/blog/waarom-uit-de-kast-komen-onzin">ben je 'homo' of 'hetero'</a>. </p>
 <p>We vergeten alleen vaak dat we mensen zijn en geen producten in een koelkast die je makkelijk kunt opsluiten. Want de werkelijkheid is dat mensen dat vaak helemaal niet leuk vinden.</p>
 <p><strong>Als je niet in het hokje past</strong><br>Sommige mensen passen niet in een hokje of willen dat niet. Niet alleen omdat het maar een krappe bedoening is, maar ook omdat zij zich niet helemaal kunnen of willen identificeren met dat hokje.</p>
 <p>Zo zijn er mensen die zich niet uitsluitend 'meisje' of 'jongen' voelen of die helemaal niet 'homo' of 'hetero' zijn maar bijvoorbeeld aseksueel of ongelabeld. Maar daar kunnen veel Nederlanders maar moeilijk mee dealen. </p>

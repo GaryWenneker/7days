@@ -1,5 +1,5 @@
 ---
-id: a5e6d5e62ef8492a84f6ec366e02404b
+id: 345d7582ba0c4ab19a258730f83b7fff
 type: post
 layout: post
 title: "De Uitzwaaidag Islam haalt het beste uit Nederland naar boven"
@@ -13,7 +13,7 @@ seo:
 ---
 Voor wie (nog) niet op vakantie is, is Nederland deze zomer niet saai. Na Pokémon GO is er nu iets nieuws dat het land bezighoudt. Een zekere Sonya Bethare maakte vorige week een Facebookpagina aan om de ‘islam uit te zwaaien’. De datum is 15 maart 2017: de dag waarop Nederland een nieuwe Tweede Kamer kiest. En die pagina, die gaat nu viral. Maar niet zoals de oprichtster had gewild...   
 
-    <p>De pagina Uitzwaaidag Islam doet denken aan de <a href="https://original.sevendays.nl/nieuws/de-aangifte-van-sylvana-simons-zo-zit-het">uitzwaaidag voor presentatrice Sylvana Simons</a>. Op die pagina werden de verschrikkelijkste reacties geplaatst. Ik houd dan ook mijn hart vast als ik voor het eerst Nederlands nieuwste ‘uitzwaaidagpagina’ (ik zeg: woord van het jaar!) open. De afbeelding van de Facebookpagina (zie hierboven) zegt misschien al genoeg.</p>
+    <p>De pagina Uitzwaaidag Islam doet denken aan de <a href="https://7dagen.netlify.app/nieuws/de-aangifte-van-sylvana-simons-zo-zit-het">uitzwaaidag voor presentatrice Sylvana Simons</a>. Op die pagina werden de verschrikkelijkste reacties geplaatst. Ik houd dan ook mijn hart vast als ik voor het eerst Nederlands nieuwste ‘uitzwaaidagpagina’ (ik zeg: woord van het jaar!) open. De afbeelding van de Facebookpagina (zie hierboven) zegt misschien al genoeg.</p>
 <p><strong>Humor en liefde</strong><br>Gelukkig hoef ik nergens bang voor te zijn, want de eerste posts die ik zie barsten van de humor, positiviteit en sarcasme. Zo schrijft ene Mohamed: '<em>Lieve Sonya, natuurlijk ben ik erbij, 15 maart. Voorwaarde is wel dat je voor vervoer naar Schiphol zorgt, pindakaas met jam als lunch en Marokkaanse muziek'</em><strong><em>. </em></strong>En de Surinamer Orville zegt: '<em>Is 14:00 ook goed? Want de Surinaamse moslims komen iets later. En zorg voor een band en lekker eten. Anders komen we niet.'</em></p>
 <p>Dat zijn pas twee van de ruim 5000 berichten die de groep nu telt. Er stromen ook flink wat berichten binnen van 'Nederlandse' Nederlanders die ook uitgezwaaid willen worden en gratis op vakantie willen. Het lijkt erop dat veel moslims en niet-moslims deze extreemrechtse haat proberen om te zetten in positieve energie. Maar wat vinden islamitische jongeren daar nu van? Raakt het hen echt niet? </p>
 <p><div class="media media-element-container media-default"><div id="file-20728" class="file file-image file-image-png">
@@ -21,7 +21,7 @@ Voor wie (nog) niet op vakantie is, is Nederland deze zomer niet saai. Na Poké
         
   
   <div class="content">
-    <img height="606" width="876" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Schermafdruk%202016-07-26%2000.52.19.png" alt="">  </div>
+    <img height="606" width="876" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Schermafdruk%202016-07-26%2000.52.19.png" alt="">  </div>
 
   
 </div>
@@ -34,7 +34,7 @@ Voor wie (nog) niet op vakantie is, is Nederland deze zomer niet saai. Na Poké
         
   
   <div class="content">
-    <img height="768" width="1366" style="font-size: 13.008px; line-height: 1.538em;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/FotorCreated.jpg" alt="">  </div>
+    <img height="768" width="1366" style="font-size: 13.008px; line-height: 1.538em;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/FotorCreated.jpg" alt="">  </div>
 
   
 </div>

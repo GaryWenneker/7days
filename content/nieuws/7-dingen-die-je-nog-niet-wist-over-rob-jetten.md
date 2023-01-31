@@ -1,5 +1,5 @@
 ---
-id: a99234ab9782429283d393a16d100f9d
+id: 6698d8834a5840fab315ffbcc1bc802e
 type: nieuws
 layout: post
 title: "7 dingen die je nog niet wist over Rob Jetten"
@@ -52,7 +52,7 @@ Precies een jaar geleden werd Rob Jetten (32) partijleider van D66. Hij heeft ee
         
   
   <div class="content">
-    <img height="960" width="781" style="height: 560px; width: 456px;" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/tk2016-d66-rjetten%20%281%29_0.jpg" alt="">  </div>
+    <img height="960" width="781" style="height: 560px; width: 456px;" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/tk2016-d66-rjetten%20%281%29_0.jpg" alt="">  </div>
 
   
 </div>
@@ -64,7 +64,7 @@ Precies een jaar geleden werd Rob Jetten (32) partijleider van D66. Hij heeft ee
         
   
   <div class="content">
-    <img height="2318" width="3231" style="height: 402px; width: 560px;" class="media-element file-default" data-delta="4" src="https://original.sevendays.nl/sites/default/files/ANP-57756147_0.jpg" alt="">  </div>
+    <img height="2318" width="3231" style="height: 402px; width: 560px;" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/ANP-57756147_0.jpg" alt="">  </div>
 
   
 </div>
@@ -78,7 +78,7 @@ Precies een jaar geleden werd Rob Jetten (32) partijleider van D66. Hij heeft ee
         
   
   <div class="content">
-    <img height="720" width="540" style="width: 420px; height: 560px;" class="media-element file-default" data-delta="5" src="https://original.sevendays.nl/sites/default/files/rob.jpg" alt="">  </div>
+    <img height="720" width="540" style="width: 420px; height: 560px;" class="media-element file-default" data-delta="5" src="https://7dagen.netlify.app/sites/default/files/rob.jpg" alt="">  </div>
 
   
 </div>

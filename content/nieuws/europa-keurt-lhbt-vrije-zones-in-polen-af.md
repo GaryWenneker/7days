@@ -1,5 +1,5 @@
 ---
-id: 50f424bfc464470c951921f209d3762b
+id: d01e12e2c93449e48eadf880c5535665
 type: nieuws
 layout: post
 title: "Europa keurt ’LHBT-vrije’ zones in Polen af"
@@ -22,7 +22,7 @@ Poolse autoriteiten moeten een einde maken aan LHBT-vrije zones in een aantal st
         
   
   <div class="content">
-    <img alt="lhbt-vrije zones polen" title="Foto: ANP" height="4480" width="6720" style="font-size: 13.008px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-375538105.jpg">  </div>
+    <img alt="lhbt-vrije zones polen" title="Foto: ANP" height="4480" width="6720" style="font-size: 13.008px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-375538105.jpg">  </div>
 
   
 </div>

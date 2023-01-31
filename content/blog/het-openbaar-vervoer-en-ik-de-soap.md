@@ -1,5 +1,5 @@
 ---
-id: 8a0282165a5445f28d2b4bfa31e18d38
+id: abecaf80d6114cfb998f43759e588319
 type: post
 layout: post
 title: "Het Openbaar Vervoer En Ik: de soap"
@@ -18,7 +18,7 @@ Oh oh, het openbaar vervoer en ik. Ik kan er een soap over schrijven. Drie seiz
         
   
   <div class="content">
-    <img height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/trein%202b.jpg" alt="">  </div>
+    <img height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/trein%202b.jpg" alt="">  </div>
 
   
 </div>
@@ -31,7 +31,7 @@ Oh oh, het openbaar vervoer en ik. Ik kan er een soap over schrijven. Drie seiz
         
   
   <div class="content">
-    <img height="500" width="850" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/trein%203b.jpg" alt="">  </div>
+    <img height="500" width="850" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/trein%203b.jpg" alt="">  </div>
 
   
 </div>
@@ -42,7 +42,7 @@ Oh oh, het openbaar vervoer en ik. Ik kan er een soap over schrijven. Drie seiz
         
   
   <div class="content">
-    <img alt="openbaar vervoer trein ov station verkeer" height="900" width="1600" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/IMG-20151203-WA0019_0.jpg">  </div>
+    <img alt="openbaar vervoer trein ov station verkeer" height="900" width="1600" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/IMG-20151203-WA0019_0.jpg">  </div>
 
   
 </div>
@@ -53,7 +53,7 @@ Oh oh, het openbaar vervoer en ik. Ik kan er een soap over schrijven. Drie seiz
         
   
   <div class="content">
-    <img alt="openbaar vervoer trein ov station verkeer" height="900" width="1600" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/IMG-20151203-WA0015_1.jpg">  </div>
+    <img alt="openbaar vervoer trein ov station verkeer" height="900" width="1600" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/IMG-20151203-WA0015_1.jpg">  </div>
 
   
 </div>
@@ -64,7 +64,7 @@ Oh oh, het openbaar vervoer en ik. Ik kan er een soap over schrijven. Drie seiz
         
   
   <div class="content">
-    <img alt="openbaar vervoer trein ov station verkeer" height="900" width="1600" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/IMG-20151203-WA0002_0.jpg">  </div>
+    <img alt="openbaar vervoer trein ov station verkeer" height="900" width="1600" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/IMG-20151203-WA0002_0.jpg">  </div>
 
   
 </div>
@@ -74,7 +74,7 @@ Oh oh, het openbaar vervoer en ik. Ik kan er een soap over schrijven. Drie seiz
         
   
   <div class="content">
-    <img alt="openbaar vervoer trein ov station verkeer" height="900" width="1600" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/IMG-20151203-WA0003_0.jpg">  </div>
+    <img alt="openbaar vervoer trein ov station verkeer" height="900" width="1600" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/IMG-20151203-WA0003_0.jpg">  </div>
 
   
 </div>
@@ -86,8 +86,8 @@ Oh oh, het openbaar vervoer en ik. Ik kan er een soap over schrijven. Drie seiz
         
   
   <div class="content">
-    <img alt="openbaar vervoer trein ov station verkeer" height="900" width="1600" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/IMG-20151203-WA0023_1.jpg">  </div>
+    <img alt="openbaar vervoer trein ov station verkeer" height="900" width="1600" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/IMG-20151203-WA0023_1.jpg">  </div>
 
   
 </div>
-</div><em>Meer blogs lezen van Merel (17)? Al haar eerdere stukken vind je <a href="https://original.sevendays.nl/users/merel-pechtold">hier</a>.</em>  
+</div><em>Meer blogs lezen van Merel (17)? Al haar eerdere stukken vind je <a href="https://7dagen.netlify.app/users/merel-pechtold">hier</a>.</em>  

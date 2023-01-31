@@ -1,5 +1,5 @@
 ---
-id: 0608fef08ff84a62a76c0ddab8702f2c
+id: fd0a260d21ca4d409d21d7ed65cc0599
 type: nieuws
 layout: post
 title: "Duizenden mensen herdenken slachtoffers Nieuw-Zeeland"
@@ -21,7 +21,7 @@ In Nieuw-Zeeland werden vandaag de slachtoffers van de aanslag in Christchurch 
         
   
   <div class="content">
-    <img alt="herdenking christchurch nieuw-zeeland aanslag" title="Foto: ANP" height="2118" width="3000" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-71405515.jpg">  </div>
+    <img alt="herdenking christchurch nieuw-zeeland aanslag" title="Foto: ANP" height="2118" width="3000" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-71405515.jpg">  </div>
 
   
 </div>
@@ -33,7 +33,7 @@ In Nieuw-Zeeland werden vandaag de slachtoffers van de aanslag in Christchurch 
         
   
   <div class="content">
-    <img alt="herdenking christchurch nieuw-zeeland aanslag" title="Foto: ANP" height="2000" width="3000" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-71407883.jpg">  </div>
+    <img alt="herdenking christchurch nieuw-zeeland aanslag" title="Foto: ANP" height="2000" width="3000" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-71407883.jpg">  </div>
 
   
 </div>
@@ -45,7 +45,7 @@ In Nieuw-Zeeland werden vandaag de slachtoffers van de aanslag in Christchurch 
         
   
   <div class="content">
-    <img alt="herdenking christchurch nieuw-zeeland aanslag" title="Foto: ANP" height="2890" width="4335" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/ANP-71404612_0.jpg">  </div>
+    <img alt="herdenking christchurch nieuw-zeeland aanslag" title="Foto: ANP" height="2890" width="4335" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/ANP-71404612_0.jpg">  </div>
 
   
 </div>

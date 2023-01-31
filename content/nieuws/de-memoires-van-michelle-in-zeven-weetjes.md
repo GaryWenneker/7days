@@ -1,5 +1,5 @@
 ---
-id: bb1f9a6f6686492d8ef980ce3283a9bf
+id: b08c05c00c9146bb9a2ab9377a320b54
 type: nieuws
 layout: post
 title: "De memoires van Michelle in zeven weetjes"
@@ -19,7 +19,7 @@ De autobiografie van Michelle Obama is uit. De voormalige first lady van de VS n
         
   
   <div class="content">
-    <img alt="Michelle Obama werd dinsdag bij de lancering in Chicago geïnterviewd door Oprah Winfrey  Foto EPA " title="Michelle Obama werd dinsdag bij de lancering in Chicago geïnterviewd door Oprah Winfrey  Foto EPA " height="2728" width="5130" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-65612278.jpg">  </div>
+    <img alt="Michelle Obama werd dinsdag bij de lancering in Chicago geïnterviewd door Oprah Winfrey  Foto EPA " title="Michelle Obama werd dinsdag bij de lancering in Chicago geïnterviewd door Oprah Winfrey  Foto EPA " height="2728" width="5130" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-65612278.jpg">  </div>
 
   
 </div>
@@ -30,7 +30,7 @@ De autobiografie van Michelle Obama is uit. De voormalige first lady van de VS n
         
   
   <div class="content">
-    <img alt="Michelle Obama bezocht ook haar oude middelbare school in Chicago  Foto Reuters" title="Michelle Obama bezocht ook haar oude middelbare school in Chicago  Foto Reuters" height="2393" width="4000" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-65595208.jpg">  </div>
+    <img alt="Michelle Obama bezocht ook haar oude middelbare school in Chicago  Foto Reuters" title="Michelle Obama bezocht ook haar oude middelbare school in Chicago  Foto Reuters" height="2393" width="4000" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-65595208.jpg">  </div>
 
   
 </div>
@@ -41,7 +41,7 @@ De autobiografie van Michelle Obama is uit. De voormalige first lady van de VS n
         
   
   <div class="content">
-    <img alt="De Obama&#039;s in de lift op weg naar het inauguratiebal in 2009  Foto Pete Souza" title="De Obama&#039;s in de lift op weg naar het inauguratiebal in 2009  Foto Pete Souza" height="2000" width="3000" class="media-element file-default" data-delta="4" src="https://original.sevendays.nl/sites/default/files/ANP-9737655.jpg">  </div>
+    <img alt="De Obama&#039;s in de lift op weg naar het inauguratiebal in 2009  Foto Pete Souza" title="De Obama&#039;s in de lift op weg naar het inauguratiebal in 2009  Foto Pete Souza" height="2000" width="3000" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/ANP-9737655.jpg">  </div>
 
   
 </div>
@@ -52,7 +52,7 @@ De autobiografie van Michelle Obama is uit. De voormalige first lady van de VS n
         
   
   <div class="content">
-    <img alt="De Trumpjes en de Obamaatjes in Washington op de dag (20 jan. 2017) dat Trump president werd  Foto Reuters" title="De Trumpjes en de Obamaatjes in Washington op de dag (20 jan. 2017) dat Trump president werd  Foto Reuters" height="2109" width="3164" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/ANP-49349335_1.jpg">  </div>
+    <img alt="De Trumpjes en de Obamaatjes in Washington op de dag (20 jan. 2017) dat Trump president werd  Foto Reuters" title="De Trumpjes en de Obamaatjes in Washington op de dag (20 jan. 2017) dat Trump president werd  Foto Reuters" height="2109" width="3164" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/ANP-49349335_1.jpg">  </div>
 
   
 </div>

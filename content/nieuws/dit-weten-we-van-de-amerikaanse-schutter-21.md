@@ -1,5 +1,5 @@
 ---
-id: f7d8067c83034df8bd024fcc7d527466
+id: 3fc7e68d542247508a4d4fdb88ec26f8
 type: nieuws
 layout: post
 title: "Dit weten we van de Amerikaanse schutter (21)"
@@ -22,12 +22,12 @@ seo:
         
   
   <div class="content">
-    <img title="Beeld: EPA" height="468" width="1080" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202015-06-20%20om%2016.48.12_0.png" alt="">  </div>
+    <img title="Beeld: EPA" height="468" width="1080" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202015-06-20%20om%2016.48.12_0.png" alt="">  </div>
 
   
 </div>
 </div>
-<ul><li>Al snel na het bloedblad bleek dat het om 'hate crime' ging, met racistische motieven. Op Facebook stond een foto van Roof, <a href="https://original.sevendays.nl/sites/default/files/ANP-33095273%20%281%29.jpg">waarop</a> hij een Zuid-Afrikaanse vlag draagt. Die was afkomstig uit de tijd van de Zuid-Afrikaanse apartheid, toen blanken en zwarten gescheiden leefden. </li>
+<ul><li>Al snel na het bloedblad bleek dat het om 'hate crime' ging, met racistische motieven. Op Facebook stond een foto van Roof, <a href="https://7dagen.netlify.app/sites/default/files/ANP-33095273%20%281%29.jpg">waarop</a> hij een Zuid-Afrikaanse vlag draagt. Die was afkomstig uit de tijd van de Zuid-Afrikaanse apartheid, toen blanken en zwarten gescheiden leefden. </li>
 <li>Na vijftien uur op de vlucht te zijn geweest, werd Roof uiteindelijk gepakt in North Carolina. Hij wordt verdacht van negenvoudige moord en verboden wapenbezit.</li>
 <li>In zijn cel werd Roof via een cameraverbinding ondervraagd door de rechter. Ook mochten enkele nabestaanden wat tegen de schutter zeggen. Roof toonde <a href="https://www.youtube.com/watch?v=e26Eysq22Yg">geen enkele emotie</a>.</li>
 </ul><p><iframe frameborder="0" height="300" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1714755.7022229498!2d-80.10025395097658!3d32.921104461596954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88fe7a42dca82477%3A0x35faf7e0aee1ec6b!2sCharleston%2C+South+Carolina%2C+Verenigde+Staten!5e0!3m2!1snl!2snl!4v1434811552246" width="800"></iframe></p>

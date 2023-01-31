@@ -1,5 +1,5 @@
 ---
-id: 77363e470b7240a095fa1b25ff67dbf1
+id: c1e447fc84fe4a37a709dd69366e4c2d
 type: nieuws
 layout: post
 title: "Gekke Sint-tradities in het buitenland"
@@ -25,7 +25,7 @@ Sinds dit weekend is Sinterklaas weer in Nederland. Staat-ie hier bekend als ee
         
   
   <div class="content">
-    <img alt="giphy cheers" title="Beeld: Giphy" height="270" width="480" style="width: 800px; height: 450px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/giphy_39.gif">  </div>
+    <img alt="giphy cheers" title="Beeld: Giphy" height="270" width="480" style="width: 800px; height: 450px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/giphy_39.gif">  </div>
 
   
 </div>

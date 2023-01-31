@@ -1,5 +1,5 @@
 ---
-id: fa907af70e994ad2b6c6b823d88a8108
+id: d1ffacc1d9f8489396a000adcbe7efe4
 type: nieuws
 layout: post
 title: "Eerste stappen naar vrede in Jemen?"
@@ -22,9 +22,9 @@ Meer dan 70.000 doden, waaronder tienduizenden kinderen die gestorven zijn door 
 <p>Andere westerse landen willen Saoedie-Arabië ook niet te veel tegenwerken, omdat het land een bondgenoot in het Midden-Oosten zou zijn, bijvoorbeeld in de strijd tegen IS. </p>
 <h3>2. Hoe gingen de vredesbesprekingen?</h3>
 <p>De <a href="https://www.nu.nl/buitenland/5628341/regering-jemen-en-rebellen-akkoord-met-wapenstilstand-in-hodeidah.html?redirect=1" target="_blank">vredesbesprekingen</a> van afgelopen week in Zweden pakten onverwacht goed uit. Afgelopen donderdag maakte VN-secretaris-generaal Antonio Guterres bekend dat de strijdende partijen afspraken dat ze niet langer zullen vechten in de belangrijkste havenstad van Jemen, Hodeida. Ook in twee kleinere havens moet het geweld stoppen. Het lijkt een eerste stap naar eventuele vrede.</p>
-<p>De Amerikaanse senaat nam bovendien (ook afgelopen donderdag) een resolutie aan die oproept de Amerikaanse militaire steun aan de Saoedische coalitie te stoppen. De aanleiding voor dit besluit was de moord op de Saoedische kritische journalist <a href="https://original.sevendays.nl/nieuws/saoedis-journalist-kwam-om-bij-gevecht" target="_blank">Jamal Khashoggi</a> die op 2 oktober werd vermoord in het Saoedische consulaat in Istanbul, in Turkije. </p>
+<p>De Amerikaanse senaat nam bovendien (ook afgelopen donderdag) een resolutie aan die oproept de Amerikaanse militaire steun aan de Saoedische coalitie te stoppen. De aanleiding voor dit besluit was de moord op de Saoedische kritische journalist <a href="https://7dagen.netlify.app/nieuws/saoedis-journalist-kwam-om-bij-gevecht" target="_blank">Jamal Khashoggi</a> die op 2 oktober werd vermoord in het Saoedische consulaat in Istanbul, in Turkije. </p>
 <h3>3. Gaat er iets veranderen?</h3>
-<p>Door de moord op Khashoggi is de druk op Saoedie-Arabië toegenomen. Ook de nieuwe afspraak van de strijdende partijen lijkt goed nieuws. Hopelijk kan via de havensteden nu weer voedsel het land in. Of er echt iets gaat veranderen voor de miljoenen Jemenieten die lijden onder geweld en <a href="https://original.sevendays.nl/hongerjemen" target="_blank">honger</a>, moet nog blijken.</p>
+<p>Door de moord op Khashoggi is de druk op Saoedie-Arabië toegenomen. Ook de nieuwe afspraak van de strijdende partijen lijkt goed nieuws. Hopelijk kan via de havensteden nu weer voedsel het land in. Of er echt iets gaat veranderen voor de miljoenen Jemenieten die lijden onder geweld en <a href="https://7dagen.netlify.app/hongerjemen" target="_blank">honger</a>, moet nog blijken.</p>
 <p><em><a href="https://www.volkskrant.nl/video/kanalen/nieuws-achtergrond~c474/series/video-s-waarin-we-iets-uitleggen~s1170/oorlog-in-jemen~p45231" target="_blank">De Volkskrant</a> maakte in juli 2018 een video over het conflict in Jemen. Je kunt 'm hier bekijken</em>: <div class="media media-element-container media-default"><div id="file-535620" class="file file-video file-video-youtube">
 
         <h2 class="element-invisible"><a href="/files/waarom-maken-we-ons-niet-druk-om-de-oorlog-jemen-de-volkskrant">Waarom maken we ons niet druk om de oorlog in Jemen? | de Volkskrant</a></h2>

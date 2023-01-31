@@ -1,5 +1,5 @@
 ---
-id: c6e7b4277b06464494551dc7e9ed46fc
+id: 7d0bd38ba5b14ae98923ffa9793d2cd3
 type: nieuws
 layout: post
 title: "Aanslagen Nieuw-Zeeland: 50 slachtoffers"

@@ -1,5 +1,5 @@
 ---
-id: 3bbe5ee72cc34de39e6b3192ea8986c3
+id: 13dcc47af77f4e9e8de4fb284a5900e8
 type: nieuws
 layout: post
 title: "Djokovic kust Djokovic"
@@ -18,7 +18,7 @@ Novak Djokovic trakteerde zichzelf zondag op een dikke zoen en dat was meer dan 
         
   
   <div class="content">
-    <img title="Foto AFP" height="2000" width="3000" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/AFP-34121621.jpg" alt="">  </div>
+    <img title="Foto AFP" height="2000" width="3000" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/AFP-34121621.jpg" alt="">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ Novak Djokovic trakteerde zichzelf zondag op een dikke zoen en dat was meer dan 
         
   
   <div class="content">
-    <img alt="Novak Djokovic, US Open" title="Foto AFP" height="2312" width="3204" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/AfP-34121981.jpg">  </div>
+    <img alt="Novak Djokovic, US Open" title="Foto AFP" height="2312" width="3204" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/AfP-34121981.jpg">  </div>
 
   
 </div>
@@ -50,7 +50,7 @@ Novak Djokovic trakteerde zichzelf zondag op een dikke zoen en dat was meer dan 
         
   
   <div class="content">
-    <img alt="Serena Williams, US Open" title="Foto AFP" height="2156" width="3192" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/AFP-34073332.jpg">  </div>
+    <img alt="Serena Williams, US Open" title="Foto AFP" height="2156" width="3192" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/AFP-34073332.jpg">  </div>
 
   
 </div>
@@ -59,7 +59,7 @@ Novak Djokovic trakteerde zichzelf zondag op een dikke zoen en dat was meer dan 
         
   
   <div class="content">
-    <img alt="US Open" title="Foto AFP" height="3053" width="4606" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/AFP-34090849.jpg">  </div>
+    <img alt="US Open" title="Foto AFP" height="3053" width="4606" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/AFP-34090849.jpg">  </div>
 
   
 </div>
@@ -68,7 +68,7 @@ Novak Djokovic trakteerde zichzelf zondag op een dikke zoen en dat was meer dan 
         
   
   <div class="content">
-    <img alt="US Open" title="Foto AFP" height="1709" width="5067" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/AFP-34110210%20half.jpg">  </div>
+    <img alt="US Open" title="Foto AFP" height="1709" width="5067" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/AFP-34110210%20half.jpg">  </div>
 
   
 </div>
@@ -78,8 +78,8 @@ Novak Djokovic trakteerde zichzelf zondag op een dikke zoen en dat was meer dan 
         
   
   <div class="content">
-    <img height="80" width="80" style="float: left;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/In%20Beeld2_3.png" alt="">  </div>
+    <img height="80" width="80" style="float: left;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/In%20Beeld2_3.png" alt="">  </div>
 
   
 </div>
-</div><em>Meer fotogalerijen bekijken? Op <a href="https://original.sevendays.nl/inbeeld">Sevendays.nl/inbeeld</a> vind je ons hele archief.</em>  
+</div><em>Meer fotogalerijen bekijken? Op <a href="https://7dagen.netlify.app/inbeeld">Sevendays.nl/inbeeld</a> vind je ons hele archief.</em>  

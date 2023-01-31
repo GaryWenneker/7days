@@ -1,5 +1,5 @@
 ---
-id: a2678db4cb2e4e57a20c00f8305b01b0
+id: 184403f135264b759ea8c2cee761ce14
 type: nieuws
 layout: post
 title: "De criminele kerstkalender"
@@ -18,8 +18,8 @@ Europol heeft een bijzondere kerstwens. De internationale politieorganisatie wil
         
   
   <div class="content">
-    <img height="469" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/europol%202-klein.jpg" alt="">  </div>
+    <img height="469" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/europol%202-klein.jpg" alt="">  </div>
 
   
 </div>
-</div><br><strong>Kerstballen</strong><br>Elke dag is een ander Europees land waar Europol actief is aan de beurt. Vandaag, 5 december, is het vijfde filmpje gepubliceerd. Over Aleks Burreli, een 48-jarige Albanees, die drie mensen doodschoot in een restaurant in het Cypriotische Ayia Napa.<br><br>Benieuwd wie de meest gezochte crimineel van Nederland is? Dan moet je nog even geduld hebben. Zijn of haar kerstbal wordt op 16 december in de 'kerstboom' van Europol gehangen. <br><br><strong>Zware jongens</strong><br>De boodschap van de aparte adventskalender is duidelijk. Het liefst ziet de Europese politieorganisatie deze voortvluchtige zware jongens en dames stuk voor stuk nog voor kerst 2016 achter slot en grendel. En hoe meer mensen de video's bekijken, hoe groter de kans dat dat lukt.<br><br><em>Altijd op de hoogte blijven van artikelen die voor jongeren interessant zijn? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em>  
+</div><br><strong>Kerstballen</strong><br>Elke dag is een ander Europees land waar Europol actief is aan de beurt. Vandaag, 5 december, is het vijfde filmpje gepubliceerd. Over Aleks Burreli, een 48-jarige Albanees, die drie mensen doodschoot in een restaurant in het Cypriotische Ayia Napa.<br><br>Benieuwd wie de meest gezochte crimineel van Nederland is? Dan moet je nog even geduld hebben. Zijn of haar kerstbal wordt op 16 december in de 'kerstboom' van Europol gehangen. <br><br><strong>Zware jongens</strong><br>De boodschap van de aparte adventskalender is duidelijk. Het liefst ziet de Europese politieorganisatie deze voortvluchtige zware jongens en dames stuk voor stuk nog voor kerst 2016 achter slot en grendel. En hoe meer mensen de video's bekijken, hoe groter de kans dat dat lukt.<br><br><em>Altijd op de hoogte blijven van artikelen die voor jongeren interessant zijn? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em>  

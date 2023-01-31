@@ -1,5 +1,5 @@
 ---
-id: 874552903f7a4a888b9dd4eeb93749e3
+id: b80647cfdf7f40749b1bcdcfd81b8ef8
 type: nieuws
 layout: post
 title: "Australische ei-gooier wordt internetheld"

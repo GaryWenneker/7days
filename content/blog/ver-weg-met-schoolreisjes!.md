@@ -1,5 +1,5 @@
 ---
-id: 0782614707da4f66a687010490e005ff
+id: 1b6e29155880430e8b1d09dedf93effe
 type: post
 layout: post
 title: "(Ver) weg met schoolreisjes!"
@@ -23,7 +23,7 @@ Van de drie categorieën waarin schoolreisjes op te delen zijn (musea, stedentri
 <p>Ik zeg natuurlijk niet dat korte, nabije excursies níet leuk zijn. Begin dit schooljaar ben ik met school gaan poldersporten in de buurt. Het was alleen 's ochtends en 's middags, maar het is ge-wel-dig om te zien hoe je klasgenoten in het water vallen of door de modder glijden. Dat is toch wel leuker dan een museum driehonderd kilometer verderop.</p>
 <p>Jammer genoeg organiseren heel veel scholen niet zulke leuke tripjes als de mijne. Gevolg: gefrustreerde, verveelde leerlingen. Zonde van het geld, want zo steek je er natuurlijk bar weinig van op. Daarom vind ik dat leerlingen meer inbreng zouden moeten hebben bij het bepalen van de bestemming van de uitjes. Natuurlijk zijn musea erg pedagogisch verantwoord en gaat het hart van menig leraar er sneller door kloppen, maar lang niet elk museum is even leuk voor een stelletje pubers. </p>
 <h3>Iets in de melk te brokkelen</h3>
-<p>Gelukkig zijn er genoeg bestemmingen die wel leuk én leerzaam zijn. Denk eens aan sciencemuseum NEMO in Amsterdam: hartstikke interessant om met natuur- en /of scheikunde heen te gaan. Mooie, bijzondere gebouwen in het buitenland bezoeken (<a href="https://original.sevendays.nl/blog/de-7-gekste-gebouwen-die-je-wilt-zien-op-vakantie">zoals deze zeven</a>) kan natuurlijk ook</p>
+<p>Gelukkig zijn er genoeg bestemmingen die wel leuk én leerzaam zijn. Denk eens aan sciencemuseum NEMO in Amsterdam: hartstikke interessant om met natuur- en /of scheikunde heen te gaan. Mooie, bijzondere gebouwen in het buitenland bezoeken (<a href="https://7dagen.netlify.app/blog/de-7-gekste-gebouwen-die-je-wilt-zien-op-vakantie">zoals deze zeven</a>) kan natuurlijk ook</p>
 <p>Als wij scholieren iets meer in de melk te brokkelen zouden krijgen bij het bepalen van de bestemming, hebben we een leukere dag én zijn we veel meer bereid om er iets van op te steken. Dat is toch een win-winsituatie?</p>
 <p><em>​Foto: Flickr/<a href="https://www.flickr.com/photos/leehaywood/4607221200/in/photolist-828dmh-v3RKu-v3U3N-v3UyJ-v3SZc-v3Snk-v3SUm-v3TvM-cb8gLj-aUMXsr-v3VJ3-v3TE5-v3RQL-v3UF3-v3RoZ-v3VCP-bDumR5-v3RxC-v3REa-v3TVQ-v3SGw-4LUtB9-pgmcaP-v3V1f-v3VmL-dG9Vh9-v3Vgv-7XX8c6-8zbk">Lee Haywood</a></em></p>
-<p><em>Meer blogs lezen van Thijs (15)? Laatst schreef hij ook <a href="https://original.sevendays.nl/blog/7-majestueuze-minecraft-bouwwerken">7 majestueuze Minecraft-bouwwerken</a> en <a href="https://original.sevendays.nl/blog/waarom-scouting-m%C3%A9%C3%A9r-dan-losse-eindjes-aan-elkaar-knopen">Waarom scouting méér is dan losse eindjes aan elkaar knopen</a>. </em></p>  
+<p><em>Meer blogs lezen van Thijs (15)? Laatst schreef hij ook <a href="https://7dagen.netlify.app/blog/7-majestueuze-minecraft-bouwwerken">7 majestueuze Minecraft-bouwwerken</a> en <a href="https://7dagen.netlify.app/blog/waarom-scouting-m%C3%A9%C3%A9r-dan-losse-eindjes-aan-elkaar-knopen">Waarom scouting méér is dan losse eindjes aan elkaar knopen</a>. </em></p>  

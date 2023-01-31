@@ -1,5 +1,5 @@
 ---
-id: fb880a3cc33e414e8d950e1c86334546
+id: e0c2562ff6914a45b1a54a668f7767ff
 type: nieuws
 layout: post
 title: "Aanklacht schutter Christchurch: 50x moord"
@@ -13,7 +13,7 @@ seo:
 ---
 De Australiër (28) die verdacht wordt van een aanslag in twee moskeeën in de Nieuw-Zeelandse stad Christchurch, wordt aangeklaagd voor vijftig moorden en 39 pogingen tot moord. Over eventuele andere aanklachten wordt nog nagedacht. Dat meldt de politie in Nieuw-Zeeland.  
 
-    <p>Bij de <a href="https://original.sevendays.nl/nieuws/duizenden-mensen-herdenken-slachtoffers-nieuw-zeeland" target="_blank">aanslag</a> door de rechts-extremistische schutter Brent Tarrant, kwamen op 15 maart vijftig mensen om het leven. Tientallen anderen raakten gewond. De man zei dat hij wraak wilde nemen voor de aanslagen door moslim-extremisten en gebruikte daarvoor <a href="https://original.sevendays.nl/nieuws/nieuw-zeeland-eens-over-strengere-wapenregels" target="_blank">semi-automatische wapens </a>waarvoor hij een vergunning had. Beelden van de aanslag zond hij live uit op internet.</p>
+    <p>Bij de <a href="https://7dagen.netlify.app/nieuws/duizenden-mensen-herdenken-slachtoffers-nieuw-zeeland" target="_blank">aanslag</a> door de rechts-extremistische schutter Brent Tarrant, kwamen op 15 maart vijftig mensen om het leven. Tientallen anderen raakten gewond. De man zei dat hij wraak wilde nemen voor de aanslagen door moslim-extremisten en gebruikte daarvoor <a href="https://7dagen.netlify.app/nieuws/nieuw-zeeland-eens-over-strengere-wapenregels" target="_blank">semi-automatische wapens </a>waarvoor hij een vergunning had. Beelden van de aanslag zond hij live uit op internet.</p>
 <h3>Verdediging</h3>
 <p>De dag na zijn terreurdaad stond Tarrant voor de rechter. Er werd hem toen één keer moord ten laste gelegd. Hij kreeg die dag geen spreektijd. Morgen wordt de verdachte gehoord via een videoverbinding met de zwaarbeveiligde gevangenis waar hij vastzit. Het zal in de zitting vooral gaan over de verdediging. Tarrant heeft al gezegd dat hij zichzelf wil verdedigen. </p>
 <h3>Onherkenbaar</h3>

@@ -1,5 +1,5 @@
 ---
-id: 72d43efa2e684975831b5b202a800000
+id: fa89ee33e59449818bd19b0e55c1be85
 type: post
 layout: post
 title: "Speciaal voor non-koks: twee verrassend eenvoudige recepten"
@@ -19,7 +19,7 @@ Misschien wil je deze zomer indruk maken op je vriend(in), of wil je voor de ve
         
   
   <div class="content">
-    <img alt="IJs-stroopwafelsandwich" height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/IJs-stroopwafelsandwich%20klaar_0.jpg">  </div>
+    <img alt="IJs-stroopwafelsandwich" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/IJs-stroopwafelsandwich%20klaar_0.jpg">  </div>
 
   
 </div>
@@ -33,7 +33,7 @@ Misschien wil je deze zomer indruk maken op je vriend(in), of wil je voor de ve
         
   
   <div class="content">
-    <img alt="Benodigdheden IJs-stroopwafelsandwich" height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Benodigdheden%201.jpg">  </div>
+    <img alt="Benodigdheden IJs-stroopwafelsandwich" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Benodigdheden%201.jpg">  </div>
 
   
 </div>
@@ -60,7 +60,7 @@ Misschien wil je deze zomer indruk maken op je vriend(in), of wil je voor de ve
         
   
   <div class="content">
-    <img alt="Benodigdheden spaghetti aglio e olio" height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Benodigdheden%202.jpg">  </div>
+    <img alt="Benodigdheden spaghetti aglio e olio" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Benodigdheden%202.jpg">  </div>
 
   
 </div>
@@ -71,7 +71,7 @@ Misschien wil je deze zomer indruk maken op je vriend(in), of wil je voor de ve
         
   
   <div class="content">
-    <img alt="Hoe je peper moet snijden" height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Peper%20snijden.jpg">  </div>
+    <img alt="Hoe je peper moet snijden" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Peper%20snijden.jpg">  </div>
 
   
 </div>
@@ -81,7 +81,7 @@ Misschien wil je deze zomer indruk maken op je vriend(in), of wil je voor de ve
         
   
   <div class="content">
-    <img alt="Peterselie, knoflook en rode peper gesneden" height="500" width="850" style="font-size: 13.008px; line-height: 1.538em;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Alles%20gesneden.jpg">  </div>
+    <img alt="Peterselie, knoflook en rode peper gesneden" height="500" width="850" style="font-size: 13.008px; line-height: 1.538em;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Alles%20gesneden.jpg">  </div>
 
   
 </div>
@@ -91,7 +91,7 @@ Misschien wil je deze zomer indruk maken op je vriend(in), of wil je voor de ve
         
   
   <div class="content">
-    <img alt="De knoflook in olijfolie, bijna klaar met bakken" height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Knoflook%20bijna%20klaar.jpg">  </div>
+    <img alt="De knoflook in olijfolie, bijna klaar met bakken" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Knoflook%20bijna%20klaar.jpg">  </div>
 
   
 </div>
@@ -102,4 +102,4 @@ Misschien wil je deze zomer indruk maken op je vriend(in), of wil je voor de ve
 <li>Gooi alles bij mekaar. Giet de olijfolie met stukjes knoflook in de pan met spaghetti en strooi de gesneden peper en de geknipte peterselie eroverheen. Wees vooral niet bang dat de rode peper te pittig zal zijn, die proef je nauwelijks meer tussen al die spaghetti. Doe er als laatste nog een snufje (gewone) peper (gewoon uit de pepermolen bedoel ik) bij en roer alles goed door elkaar. </li>
 <li>Doe de spaghetti op borden en strooi er strooikaas overheen als je dat lekker vindt. Eventueel kun je er nog wat groente bij maken zoals ik ook heb gedaan op de foto. </li>
 </ol><p>Nog een laatste supertip: de beste manier om goed te leren koken is door het vaak te oefenen, dus geef niet gelijk op als het de eerste keer mislukt. Eet smakelijk!</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/cas-visser">Cas </a>(17)? Laatst schreef hij ook al <a href="https://original.sevendays.nl/blog/drukheeldruk">Druk druk druk... Echt joh?</a> en <a href="https://original.sevendays.nl/blog/7-tips-voor-als-je-niet-kunt-slapen">7 tips voor als je niet kunt slapen</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/cas-visser">Cas </a>(17)? Laatst schreef hij ook al <a href="https://7dagen.netlify.app/blog/drukheeldruk">Druk druk druk... Echt joh?</a> en <a href="https://7dagen.netlify.app/blog/7-tips-voor-als-je-niet-kunt-slapen">7 tips voor als je niet kunt slapen</a>.</em></p>  

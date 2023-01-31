@@ -1,5 +1,5 @@
 ---
-id: afbec0eb4c5740cd8a397c5834b44fe8
+id: 1d21b33be16846c9b6311dd40218c18c
 type: nieuws
 layout: post
 title: "Enorme aardbeving in Lombok: dit is er gebeurd"
@@ -19,7 +19,7 @@ Zondagochtend (lokale tijd) werd het Indonesische eiland Lombok opgeschrikt door
         
   
   <div class="content">
-    <img alt="Aardbeving Lombok" title="Foto: ANP" height="1333" width="2000" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-58706281.jpg">  </div>
+    <img alt="Aardbeving Lombok" title="Foto: ANP" height="1333" width="2000" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-58706281.jpg">  </div>
 
   
 </div>

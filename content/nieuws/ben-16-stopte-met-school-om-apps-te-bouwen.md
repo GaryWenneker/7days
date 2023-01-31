@@ -1,5 +1,5 @@
 ---
-id: 05043ca717b9438dbd254e93ac8501f3
+id: dbd7b9b0426f4453a237e74c54b8813c
 type: nieuws
 layout: post
 title: "Ben (16) stopte met school om apps te bouwen"
@@ -37,4 +37,4 @@ Een jaar geleden de ging de Australische Ben Pasternak (16) nog naar school en w
 <iframe allowfullscreen="" class="media-vimeo-player" frameborder="0" height="360" src="//player.vimeo.com/video/162753618?color=" title="Introducing Flogg" width="640">Video van Introducing Flogg</iframe><p><br><strong>Ondernemer</strong><br>Voor een app-ontwikkelaar weet Ben weinig van programmeercode. ‘Ik ken alleen de basis. Het gaat erom een idee te hebben en samen te werken met iemand die kan coderen.’ Ben is meer een ondernemer, altijd al geweest.</p>
 <p>‘Toen ik twaalf of dertien was, kocht ik iPhone-hoesjes voor twee dollar per stuk en verkocht ik ze voor twintig.’ Niet zo verwonderlijk dus dat het idee van Flogg, een verbastering van het Engelse <em>flog</em> (verkopen), van hem komt. Zelf heeft hij er een Apple Watch en MacBook op staan.</p>
 <p><strong>Alternatief voor App Store</strong><br>Exacte cijfers over het aantal leden kan Ben niet geven, maar ‘elke paar seconden komt er een nieuwe aanmelding bij’. ‘Het is heel cool om wakker te worden en te zien dat er nieuwe dingen op staan.’ Ben hoopt dat Flogg uitgroeit tot een platform als Snapchat of Instagram. ‘Uiteindelijk zou ik wel een eigen winkel willen creëren, in plaats van apps voor de App Store.’</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement</a> op de krant! </em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement</a> op de krant! </em></p>  

@@ -1,5 +1,5 @@
 ---
-id: a74c0e9c58da49a5b31789ac10a754e0
+id: 51ef808474ff4ad88c9e596b45dcc346
 type: nieuws
 layout: post
 title: "Groente, fruit en uh... schoolspullen"
@@ -20,5 +20,5 @@ Kocht jij je schoolspullen altijd bij V&amp;D en weet je niet waar je terecht mo
 <p>De supermarkt werkt samen met V&amp;D Concepthouse van drie ondernemers, zij namen vorig jaar alle merkrechten van het failliete warenhuis over. Eén van hen is Ronald van Zetten. Hij zag op Twitter dat de Schoolcampus vorig jaar werd gemist. 'We hebben meer winkels, dus een groter bereik. Nu moet dus blijken of het echt gemist werd', zegt hij tegen het ANP.</p>
 <p>Van Zetten hoopt dat de verkoop van de schoolspullen, net als bij de V&amp;D, ook bij de Albert Heijn veel omzet zal opleveren. Het is niet bekend of het om een eenmalige samenwerking gaat.</p>
 <p> </p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>
 <p> </p>  

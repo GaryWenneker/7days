@@ -1,5 +1,5 @@
 ---
-id: a869fc27304a493fb6db5ebe86f0148f
+id: 5d717b06393849269733c1e6e2fcf189
 type: post
 layout: post
 title: "Denk eens terug aan die druktoetsen"
@@ -20,4 +20,4 @@ De tijd van de klaptelefoons lijkt compleet vergeten en we stevenen met volle va
 <p>Mijn vader zat laatst al tegen het scherm van mijn laptop te tikken. Hij had net een nieuwe iPhone, dus opeens moest alles binnen een duimdruk gebeurd zijn. Het bestaan van een muis leek hij compleet te zijn vergeten, de ergernis was van zijn gezicht af te lezen. Mijn computer deed het niet, was zijn conclusie. </p>
 <p><strong>Dan lachen we erom</strong><br>We willen vooruitgang, dus komt er vooruitgang. En wat komt hierna? Projecteerbare toetsenborden, hologrammen, gedachtentypen? De iPhone zal ongetwijfeld vergaan als een luttele herinnering aan een prehistorisch bestaan. Die ongemakkelijke tussenfase tussen drukknoppen en, nou ja, de toekomst. Het is een tussentijdperk, dat touchscreentijdperk.</p>
 <p>Ik hoop dat mijn kinderen me later uit mogen leggen hoe ik een 3D-telefoon moet opnemen. Dan laat ik ze met liefde de mijn dan fossiele Samsung Galaxy-tablet zien en roep ik: 'In míjn tijd…'</p>
-<p><i>Meer lezen van <a href="https://original.sevendays.nl/users/rosemarie-van-der-tol" target="_blank">Rosemarie </a>(18)? Laatst schreef ze ook al <a href="https://original.sevendays.nl/blog/de-7-bruggerdilemmas-die-iedereen-heeft-meegemaakt" target="_blank">De zeven bruggerdilemma's die iedereen heeft meegemaakt</a> en <a href="https://original.sevendays.nl/blog/het-zijn-maar-examens" target="_blank">Het zijn maar examens</a>. </i></p>  
+<p><i>Meer lezen van <a href="https://7dagen.netlify.app/users/rosemarie-van-der-tol" target="_blank">Rosemarie </a>(18)? Laatst schreef ze ook al <a href="https://7dagen.netlify.app/blog/de-7-bruggerdilemmas-die-iedereen-heeft-meegemaakt" target="_blank">De zeven bruggerdilemma's die iedereen heeft meegemaakt</a> en <a href="https://7dagen.netlify.app/blog/het-zijn-maar-examens" target="_blank">Het zijn maar examens</a>. </i></p>  

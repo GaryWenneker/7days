@@ -1,5 +1,5 @@
 ---
-id: 9f80d124dfbe4f659367c1570e3683ad
+id: 5d1a5b33d817436a8f89fd2e6bd855a6
 type: nieuws
 layout: post
 title: "3 vragen over misdaadjournalist Bas van Hout "

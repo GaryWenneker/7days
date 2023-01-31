@@ -1,5 +1,5 @@
 ---
-id: 4f175d9169884b539a2a756759091ede
+id: bb8e2160be4c42bf8b57f29d2e27b77f
 type: nieuws
 layout: post
 title: "Betalen voor het ov met je schoen, het kan in Berlijn"

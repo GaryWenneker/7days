@@ -1,5 +1,5 @@
 ---
-id: 3ab752b4610b4a21bc6d762096b4834d
+id: 6c3206683013443198cc3378a5b049fe
 type: nieuws
 layout: post
 title: "Dit zijn de winnaars van de Young Impact Celebration"
@@ -22,7 +22,7 @@ De Young Impact Awards zijn in het leven geroepen voor jongeren, die in actie ko
         
   
   <div class="content">
-    <img height="3456" width="5184" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Floris%20en%20Kevin1.JPG" alt="">  </div>
+    <img height="3456" width="5184" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Floris%20en%20Kevin1.JPG" alt="">  </div>
 
   
 </div>
@@ -42,7 +42,7 @@ De Young Impact Awards zijn in het leven geroepen voor jongeren, die in actie ko
         
   
   <div class="content">
-    <img height="3456" width="5184" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Winnaar%20Bas2.JPG" alt="">  </div>
+    <img height="3456" width="5184" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Winnaar%20Bas2.JPG" alt="">  </div>
 
   
 </div>

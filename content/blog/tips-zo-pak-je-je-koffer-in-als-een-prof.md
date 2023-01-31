@@ -1,5 +1,5 @@
 ---
-id: e30236a1a1304539b196384a641d15b7
+id: 90aea857cf064379bab4093ca25b68d5
 type: post
 layout: post
 title: "Tips: Zo pak je je koffer in als een prof"
@@ -29,4 +29,4 @@ Op vakantie gaan is hartstikke leuk, maar het inpakken van je spullen vooraf is 
 <p>Neem plastic zakken mee! Je kunt er een gebruiken voor je vuile was, de andere om je extra paar schoenen mee te nemen en een tasje voor overig afval is ook wel handig. Een boterhamzakje voor om je tandenborstel is ook wel handig.</p>
 <h3><strong>Dingen die je echt niet mag vergeten</strong></h3>
 <p>- Deodorant<br>- Oordopjes (en gedownloade muziek op je telefoon)<br>- Zonnebril<br>- Zonnebrand<br>- Telefoonoplader<br>- Een petje (tegen een zonnesteek)<br>- Oordoppen (handig wanneer je vrienden snurken)<br>- Contant geld (voor openbare wc's, marktkraampjes, etc.)</p>
-<p><em>De 17-jarige Lucas heeft een creatieve geest en houdt van schrijven, toneelspelen en tekenen. Hij zit in 6-vwo, maar van hard blokken moet hij niks hebben. Saaie schooldagen houdt hij manhaftig vol met het idee dat hij later een topberoep krijgt; hij weet alleen nog niet wat. </em><em><a href="https://original.sevendays.nl/users/lucas-versteeg">Lees meer blogs van Lucas.</a></em></p>  
+<p><em>De 17-jarige Lucas heeft een creatieve geest en houdt van schrijven, toneelspelen en tekenen. Hij zit in 6-vwo, maar van hard blokken moet hij niks hebben. Saaie schooldagen houdt hij manhaftig vol met het idee dat hij later een topberoep krijgt; hij weet alleen nog niet wat. </em><em><a href="https://7dagen.netlify.app/users/lucas-versteeg">Lees meer blogs van Lucas.</a></em></p>  

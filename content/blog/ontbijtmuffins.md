@@ -1,5 +1,5 @@
 ---
-id: cb5dfe5c765c4f9cade1f2038fe95aa5
+id: 9e17e4d362bb4354b097bf8d51d16c5a
 type: post
 layout: post
 title: "Ontbijtmuffins"
@@ -18,7 +18,7 @@ Een paar jaar geleden had havermout het ultieme geitenwollensokkenimago (goed wo
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/muffinsingredienten.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/muffinsingredienten.jpeg" alt="">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ Een paar jaar geleden had havermout het ultieme geitenwollensokkenimago (goed wo
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/muffinsstap2_0.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/muffinsstap2_0.jpeg" alt="">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ Een paar jaar geleden had havermout het ultieme geitenwollensokkenimago (goed wo
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/muffinsstap3.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/muffinsstap3.jpeg" alt="">  </div>
 
   
 </div>
@@ -45,7 +45,7 @@ Een paar jaar geleden had havermout het ultieme geitenwollensokkenimago (goed wo
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/muffinsstap4.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/muffinsstap4.jpeg" alt="">  </div>
 
   
 </div>
@@ -54,7 +54,7 @@ Een paar jaar geleden had havermout het ultieme geitenwollensokkenimago (goed wo
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/muffinsstap5.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/muffinsstap5.jpeg" alt="">  </div>
 
   
 </div>

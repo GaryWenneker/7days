@@ -1,5 +1,5 @@
 ---
-id: 8ef4dc76cc9a49918e59786141d87fda
+id: f718efdca6d74c19b0fca02896e93b96
 type: post
 layout: post
 title: "Als je Trijntje een Fyra is"
@@ -20,7 +20,7 @@ Ben ik even blij dat Trijntje Oosterhuis uitgeschakeld is. Eindelijk zal dat ell
         
   
   <div class="content">
-    <img height="422" width="540" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/tumblr_noma4pJ1qh1uqnf70o8_540.png" alt="">  </div>
+    <img height="422" width="540" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/tumblr_noma4pJ1qh1uqnf70o8_540.png" alt="">  </div>
 
   
 </div>
@@ -31,7 +31,7 @@ Ben ik even blij dat Trijntje Oosterhuis uitgeschakeld is. Eindelijk zal dat ell
         
   
   <div class="content">
-    <img height="119" width="316" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202015-05-20%20om%2020.39.01.png" alt="">  </div>
+    <img height="119" width="316" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202015-05-20%20om%2020.39.01.png" alt="">  </div>
 
   
 </div>
@@ -41,7 +41,7 @@ Ben ik even blij dat Trijntje Oosterhuis uitgeschakeld is. Eindelijk zal dat ell
         
   
   <div class="content">
-    <img height="125" width="324" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202015-05-20%20om%2020.39.12.png" alt="">  </div>
+    <img height="125" width="324" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202015-05-20%20om%2020.39.12.png" alt="">  </div>
 
   
 </div>
@@ -51,7 +51,7 @@ Ben ik even blij dat Trijntje Oosterhuis uitgeschakeld is. Eindelijk zal dat ell
         
   
   <div class="content">
-    <img height="104" width="317" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202015-05-20%20om%2020.37.21.png" alt="">  </div>
+    <img height="104" width="317" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202015-05-20%20om%2020.37.21.png" alt="">  </div>
 
   
 </div>
@@ -61,7 +61,7 @@ Ben ik even blij dat Trijntje Oosterhuis uitgeschakeld is. Eindelijk zal dat ell
         
   
   <div class="content">
-    <img height="102" width="317" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202015-05-20%20om%2020.39.30.png" alt="">  </div>
+    <img height="102" width="317" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202015-05-20%20om%2020.39.30.png" alt="">  </div>
 
   
 </div>
@@ -71,7 +71,7 @@ Ben ik even blij dat Trijntje Oosterhuis uitgeschakeld is. Eindelijk zal dat ell
         
   
   <div class="content">
-    <img height="140" width="323" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202015-05-20%20om%2020.39.23.png" alt="">  </div>
+    <img height="140" width="323" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202015-05-20%20om%2020.39.23.png" alt="">  </div>
 
   
 </div>

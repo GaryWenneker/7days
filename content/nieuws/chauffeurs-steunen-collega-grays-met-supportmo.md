@@ -1,5 +1,5 @@
 ---
-id: e9238531e320461fa4c9a7c748b94a23
+id: e65a46910eac404895a704018570e8e5
 type: nieuws
 layout: post
 title: "Chauffeurs steunen collega Grays met #supportmo"
@@ -13,7 +13,7 @@ seo:
 ---
 De Noord-Ierse chauffeur van de vrachtwagen waarin 39 Chinese migranten zaten die zijn overleden, moet beter behandeld worden. Dat vinden zijn collega's. Zij steunen hem met #supportmo en #standingwithmo.    
 
-    <p>De 25-jarige chauffeur Mo werd vastgehouden voor de dood van de migranten. Zijn volledige naam en foto waren deze week overal te lezen en te zien. En dat gaat veel te ver, vinden zijn collega's. Het onderzoek loopt nog en het is nog niet duidelijk of hij wist dat er mensen in zijn vrachtwagen zaten, vinden zij. Daarom steunen ze hem massaal op Twitter met #supportmo en #standingwithmo. Het voertuig kwam uit Bulgarije en kwam via een ferry van België naar Groot-Brittannië. <a href="https://original.sevendays.nl/nieuws/4-vragen-over-de-vrachtwagen-lichamen-engeland">Hier </a>lees je er meer over.</p>
+    <p>De 25-jarige chauffeur Mo werd vastgehouden voor de dood van de migranten. Zijn volledige naam en foto waren deze week overal te lezen en te zien. En dat gaat veel te ver, vinden zijn collega's. Het onderzoek loopt nog en het is nog niet duidelijk of hij wist dat er mensen in zijn vrachtwagen zaten, vinden zij. Daarom steunen ze hem massaal op Twitter met #supportmo en #standingwithmo. Het voertuig kwam uit Bulgarije en kwam via een ferry van België naar Groot-Brittannië. <a href="https://7dagen.netlify.app/nieuws/4-vragen-over-de-vrachtwagen-lichamen-engeland">Hier </a>lees je er meer over.</p>
 <h3>Petitie</h3>
 <p>De chauffeurs begonnen ook nog een petitie: die moet zorgen dat zij beter beschermd moeten worden. Het gebeurt namelijk vaker dat migranten in een vrachtwagen klimmen en voor de chauffeurs is dat een enorm probleem. Vaak stappen de migranten in de haven van de Franse stad Calais op om vanaf daar mee te rijden naar Groot-Brittannië.</p>
 <p>Volgens de <a href="https://nos.nl/artikel/2307536-supportmo-truckers-betuigen-steun-aan-gearresteerde-vrachtwagenchauffeur-grays.html">NOS</a> zijn veel Nederlandse chauffeurs daarom gestopt met het vervoer naar Groot-Brittannië.  'Als je stopt, breken ze je wagen af, ze zijn wanhopig. Maar als je doorrijdt, loop je het risico dat ze onder je truck komen. Ik ken chauffeurs die dat is overkomen en die nu thuis zitten, in de ziektewet', vertelt een Nederlandse chauffeur. Meer dan 6500 mensen plaatsten al hun handtekening. </p>

@@ -1,5 +1,5 @@
 ---
-id: 56879ca084ca4c35be70cd68d65b41ed
+id: 36057ca5cefd4c5989b82c1fa06c735e
 type: nieuws
 layout: post
 title: "De Wilders-rechtszaak voor beginners"
@@ -42,4 +42,4 @@ Is Geert Wilders te ver gegaan met zijn uitspraken over 'minder, minder' Marokka
 <p>De PVV-leider komt zelf niet naar de rechtbank, want hij vindt dat hij daar niet thuis hoort. Een discussie over de uitspraken moet volgens hem in de Tweede Kamer gevoerd worden, want hij is tenslotte politicus. Wel schreef hij eerder al op Twitter dat het ‘onzinaanklachten’ zijn. Wilders heeft ook gezegd dat hij niet van plan is om zijn woorden terug te nemen of voortaan voorzichtiger te zijn.</p>
 <h3>7. Is het de eerste keer dat Wilders voor de rechter staat?</h3>
 <p>Nee, in 2010/2011 liep er ook al een zaak wegens haat zaaien en discriminatie. Na veel opschudding, waarbij de rechters zelfs moesten worden vervangen, werd hij uiteindelijk vrijgesproken.</p>
-<p><em>Wat is dat eigenlijk voor een club, die PVV? Laatst hebben we de belangrijkste PVV-gebeurtenissen van de afgelopen tien jaar <a href="https://original.sevendays.nl/nieuws/10-jaar-pvv-gefeliciteerd-geert">voor je op een rij gezet</a>. Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Wat is dat eigenlijk voor een club, die PVV? Laatst hebben we de belangrijkste PVV-gebeurtenissen van de afgelopen tien jaar <a href="https://7dagen.netlify.app/nieuws/10-jaar-pvv-gefeliciteerd-geert">voor je op een rij gezet</a>. Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

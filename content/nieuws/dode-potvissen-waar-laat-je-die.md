@@ -1,5 +1,5 @@
 ---
-id: 7ed7bba9e3cd4d92b02f60b8eddabb15
+id: 8e0c071236214b5d821d7615e592b82a
 type: nieuws
 layout: post
 title: "Dode potvissen. Waar laat je die?"
@@ -18,7 +18,7 @@ Daar liggen ze dan. Vijf dode potvissen op een Texels strand. En nu? We vragen h
         
   
   <div class="content">
-    <img title="De potvissen op het strand bij Texel  Foto ANP" height="1861" width="3760" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-35665423.jpg" alt="">  </div>
+    <img title="De potvissen op het strand bij Texel  Foto ANP" height="1861" width="3760" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-35665423.jpg" alt="">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ Daar liggen ze dan. Vijf dode potvissen op een Texels strand. En nu? We vragen h
         
   
   <div class="content">
-    <img title="Geïnteresseerden bekijken de potvissen  Foto ANP" height="2832" width="4848" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-35665182.jpg" alt="">  </div>
+    <img title="Geïnteresseerden bekijken de potvissen  Foto ANP" height="2832" width="4848" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-35665182.jpg" alt="">  </div>
 
   
 </div>
@@ -37,7 +37,7 @@ Daar liggen ze dan. Vijf dode potvissen op een Texels strand. En nu? We vragen h
         
   
   <div class="content">
-    <img title="Deze potvis werd in 2013 van Terschelling naar Harlingen gesleept  Foto ANP" height="2747" width="4134" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-24170086.jpg" alt="">  </div>
+    <img title="Deze potvis werd in 2013 van Terschelling naar Harlingen gesleept  Foto ANP" height="2747" width="4134" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-24170086.jpg" alt="">  </div>
 
   
 </div>

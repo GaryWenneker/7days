@@ -1,5 +1,5 @@
 ---
-id: 843788bb41e9431083ab32f90f0011fa
+id: 5ebbc3a605d74d168f016ecf6879a781
 type: nieuws
 layout: post
 title: "Daklozen worden helden in Manchester"
@@ -70,9 +70,9 @@ Helden, zo worden daklozen Chris Parker en Steve (foto boven) uit Manchester gen
         
   
   <div class="content">
-    <img title="Foto: GoFundMe" height="533" width="800" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/7D%20Steve%20dakloos.jpg" alt="">  </div>
+    <img title="Foto: GoFundMe" height="533" width="800" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/7D%20Steve%20dakloos.jpg" alt="">  </div>
 
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

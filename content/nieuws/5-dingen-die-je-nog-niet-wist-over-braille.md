@@ -1,5 +1,5 @@
 ---
-id: f145650a172742098d5b3ec6b6a9daf9
+id: 7925aeb27f8f4ad9a85c3454557b277e
 type: nieuws
 layout: post
 title: "5 dingen die je nog niet wist over braille"
@@ -28,7 +28,7 @@ Het is vandaag Wereld Braille Dag. Dé dag waarop het puntjesschrift voor blinde
         
   
   <div class="content">
-    <img alt="Giphy" height="281" width="500" style="font-size: 13.008000373840332px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/giphy_69.gif">  </div>
+    <img alt="Giphy" height="281" width="500" style="font-size: 13.008000373840332px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/giphy_69.gif">  </div>
 
   
 </div>

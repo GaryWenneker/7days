@@ -1,5 +1,5 @@
 ---
-id: f2a9f707d8fd4dd78546b3f273c2c9d3
+id: 2993e00f50704e8f98d2a01a38bd1e3a
 type: post
 layout: post
 title: "Lijden door het scheiden"
@@ -21,7 +21,7 @@ Het was alsof mijn leven in één klap uit elkaar werd gerukt. 'Papa en mama gaa
         
   
   <div class="content">
-    <img alt="Flickr - Tony Guyton" title="Flickr - Tony Guyton" height="850" width="1050" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/scheiding.png">  </div>
+    <img alt="Flickr - Tony Guyton" title="Flickr - Tony Guyton" height="850" width="1050" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/scheiding.png">  </div>
 
   
 </div>
@@ -31,4 +31,4 @@ Het was alsof mijn leven in één klap uit elkaar werd gerukt. 'Papa en mama gaa
 <p>Dat een huwelijk anders is gelopen, kan iedereen overkomen, maar dat moet rustig verteld worden en niet worden getoond met een durende vete. Dat shockerende beeld staat nog steeds in mijn geheugen gebeiteld.</p>
 <p><strong>Eerst ook bang</strong><br>Op gebeurtenissen waarbij mijn beide ouders komen, zoals uitvoeringen of diploma-uitreikingen, ben ik soms ook nog een klein beetje bang voor ruzie. Wie begroet ik als eerste? Als ik in de ruimte bij mijn ene ouder ben, probeer ik de ander te ontlopen. Maar waarom? Het zijn mijn ouders, dus ik zou niet zo raar moeten doen.</p>
 <p>Nu weet ik dat de communicatie wat beter is en dat ze na jaren geen ruzie meer zullen maken. Hoop ik. Maar alsjeblieft: kinderen moeten niet de dupe worden van een (v)echtscheiding. En denk al helemaal niet dat een kind er met een paar maanden of jaren wel overheen is.</p>
-<p><em>Onderste foto: <a href="Flickr.com">Flickr</a> - Tony Guiton. </em><i>Smaakt dit blog naar meer? <a href="https://original.sevendays.nl/blogs">Klikkerdeklik</a>.</i></p>  
+<p><em>Onderste foto: <a href="Flickr.com">Flickr</a> - Tony Guiton. </em><i>Smaakt dit blog naar meer? <a href="https://7dagen.netlify.app/blogs">Klikkerdeklik</a>.</i></p>  

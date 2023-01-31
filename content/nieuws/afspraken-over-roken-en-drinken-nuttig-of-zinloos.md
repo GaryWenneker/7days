@@ -1,5 +1,5 @@
 ---
-id: c92ec9a150014c3bbc35cd729a448da0
+id: bd3b6799c6f04aed94362c3007a05809
 type: nieuws
 layout: post
 title: "Afspraken over roken en drinken: nuttig of zinloos?"
@@ -25,9 +25,9 @@ Jaa-haa, roken en drinken zijn slecht voor je. Dat weten we nou wel. Is het nou 
         
   
   <div class="content">
-    <img alt="roken" title="Foto: Pexels.com" height="1365" width="2048" style="width: 900px; height: 600px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/smoking.jpeg">  </div>
+    <img alt="roken" title="Foto: Pexels.com" height="1365" width="2048" style="width: 900px; height: 600px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/smoking.jpeg">  </div>
 
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

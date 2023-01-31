@@ -1,5 +1,5 @@
 ---
-id: 02c24f079e594dec9c66a4b8b5758379
+id: bb3af6b533ca4db998d889363e3ca716
 type: post
 layout: post
 title: "De pakjesparadox: vieze plaatjes helpen niet"
@@ -20,4 +20,4 @@ Enge foto's van lelijke ziektes op tabakverpakkingen: in sommige landen zijn 
 <p>Waarom wordt er niet geprobeerd de rokers te overtuigen vanuit een positieve benadering? Ik denk dat bijvoorbeeld een tekst van een ex-roker als 'Ik heb drie maanden lang het geld dat ik gewoonlijk uitgeef aan sigaretten opzij gezet en nu kan ik op vakantie naar Mallorca' een stuk motiverender is dan een tekst als 'als je nu niet stopt ga je dood'. </p>
 <p><strong>Niet goedpraten</strong><br>Ik wil roken absoluut niet goedpraten. Ik heb er ook een ontzettende hekel aan als ik in een klein bushokje sta te wachten omdat de bus zoals altijd te laat is en er naast me iemand een sigaret op steekt.</p>
 <p>Roken is dan wel slecht voor het mileu, slecht voor je gezondheid en slecht voor mijn humeur, maar vieze plaatjes zijn simpelweg niet de oplossing.</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/cas-visser">Cas</a> (17)? Laatst schreef hij ook al <a href="https://original.sevendays.nl/blog/7-dingen-die-ik-heb-geleerd-van-vakkenvullen">7 dingen die ik geleerd heb van vakkenvullen</a> en <a href="https://original.sevendays.nl/blog/aan-mijn-domme-leraar">Aan mijn domme leraar</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/cas-visser">Cas</a> (17)? Laatst schreef hij ook al <a href="https://7dagen.netlify.app/blog/7-dingen-die-ik-heb-geleerd-van-vakkenvullen">7 dingen die ik geleerd heb van vakkenvullen</a> en <a href="https://7dagen.netlify.app/blog/aan-mijn-domme-leraar">Aan mijn domme leraar</a>.</em></p>  

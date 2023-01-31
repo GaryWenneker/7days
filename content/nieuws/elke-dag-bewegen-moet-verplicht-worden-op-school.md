@@ -1,5 +1,5 @@
 ---
-id: c111a85173ce4049a7ee84efcc4f254d
+id: 54f510e9d170479ea4b2cb6182df292b
 type: nieuws
 layout: post
 title: "'Elke dag bewegen moet verplicht worden op school'"

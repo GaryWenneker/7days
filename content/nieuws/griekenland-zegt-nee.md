@@ -1,5 +1,5 @@
 ---
-id: e9d5d511f6274770b70d3516d7f05593
+id: 7c23627be2044542b84fb97332b6d11f
 type: nieuws
 layout: post
 title: "Griekenland zegt NEE"
@@ -22,7 +22,7 @@ De meeste Grieken hebben luid en duidelijk NEE gezegd in het referendum dat z
         
   
   <div class="content">
-    <img title="&#039;Ik stop ermee&#039;, deelde Varoufakis mee" height="1923" width="2856" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-33361310%20%281%29.jpg" alt="">  </div>
+    <img title="&#039;Ik stop ermee&#039;, deelde Varoufakis mee" height="1923" width="2856" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-33361310%20%281%29.jpg" alt="">  </div>
 
   
 </div>
@@ -31,4 +31,4 @@ De meeste Grieken hebben luid en duidelijk NEE gezegd in het referendum dat z
 <p><strong>…blijft Griekenland wel in de euro?</strong><br>Dat is ook nog onduidelijk. Ook als Griekenland helemaal blut raakt, blijft de euro voorlopig toch de officiële munt, simpelweg omdat er nooit iets geregeld is voor zo’n situatie. Eens in de euro, altijd in de euro, was destijds het idee bij de oprichting van de muntunie. Geen enkel land kan een ander land dwingen om de euro los te laten. Zelfs niet alle eurolanden samen. Een land kan eigenlijk alleen zelf besluiten uit de muntunie te stappen.</p>
 <p><strong>… gaat Griekenland nu echt blut?</strong><br>Vast niet meteen, maar de de andere eurolanden kunnen het Griekenland heel moeilijk gaan maken. Omdat alle leningen per direct stilgelegd worden, raken de euro’s in Griekenland simpelweg op. De overheid kan niks meer betalen want er is gewoon geen geld. Niet voor salarissen, uitkeringen en pensioenen, maar ook niet voor ziekenhuizen en scholen. Griekenland heeft dan bijna geen andere keuze dan om met een eigen munt opnieuw te beginnen. Digitale drachmes kunnen best heel snel worden ingevoerd, voor het drukken van biljetten is veel meer tijd nodig.</p>
 <p><strong>…kan Griekenland voorkomen dat de euro’s in het land opraken? </strong><br>Griekenland heeft een eigen eurobankbiljettenpers. Die machine mag van de Europese Centrale Bank (de baas over alle eurobiljetten) elk jaar een bepaalde hoeveelheid tientjes zelf drukken. Die toestemming zal na een failliet van Griekenland snel ingetrokken worden. Mocht Griekenland zich daar niks van aantrekken en gewoon de pers laten draaien, dan zou de ECB alle eurobiljetten van Griekse afkomst, herkenbaar aan een serienummer dat begint met de letter Y, ongeldig kunnen verklaren. Maar daarmee worden dan heel veel mensen gedupeerd omdat de biljetten dan al over heel Europa verspreid zijn geraakt.</p>
-<p><em>Hoe is Griekenland in al die problemen verzeild geraakt? Lees ons recept voor een <a href="https://original.sevendays.nl/nieuws/recept-voor-de-griekse-crisis">goeie Griekse crisis</a> en je snapt 't. En in <a href="https://original.sevendays.nl/griekenlandsoap">Griekenland: de soap</a> stellen we alle hoofdrolspelers aan je voor.</em></p>  
+<p><em>Hoe is Griekenland in al die problemen verzeild geraakt? Lees ons recept voor een <a href="https://7dagen.netlify.app/nieuws/recept-voor-de-griekse-crisis">goeie Griekse crisis</a> en je snapt 't. En in <a href="https://7dagen.netlify.app/griekenlandsoap">Griekenland: de soap</a> stellen we alle hoofdrolspelers aan je voor.</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: ea7c30eabf2f4dfab6536f37bb3329e7
+id: 9b1691b0921345f283c2092afd47d9a4
 type: post
 layout: post
 title: "Viva la Taylor"
@@ -19,7 +19,7 @@ Ze hielp een fan een deel van haar schulden afbetalen, ze nam een groep kinderen
         
   
   <div class="content">
-    <img height="52" width="400" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/taylor1.5.png" alt="">  </div>
+    <img height="52" width="400" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/taylor1.5.png" alt="">  </div>
 
   
 </div>
@@ -31,7 +31,7 @@ Ze hielp een fan een deel van haar schulden afbetalen, ze nam een groep kinderen
         
   
   <div class="content">
-    <img height="513" width="400" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/taylor2.jpeg" alt="">  </div>
+    <img height="513" width="400" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/taylor2.jpeg" alt="">  </div>
 
   
 </div>

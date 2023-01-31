@@ -1,5 +1,5 @@
 ---
-id: 30c3fed82ff3414188fd4e5f7871d11d
+id: 0614cf435b644f0c93aeee4c9404c594
 type: nieuws
 layout: post
 title: "Elke dag overlijden wereldwijd ruim 3000 tieners 'onnodig'"
@@ -21,4 +21,4 @@ Ongelukken in het verkeer, infecties en zelfmoord. Elke dag overlijden daar were
 <p>In het rapport worden ook de verschillen tussen jongens en meisjes vergeleken. Waar bij jongens verkeersongelukken doodsoorzaak nummer één is (vooral bij 15- tot en met 19-jarigen), overlijden de meeste meisjes aan infecties. Bij meisjes tot 15 jaar gaat het dan vaak om longonsteking en bij meisjes ouder dan 15 jaar gaat het vaak om zwangerschapscomplicaties.</p>
 <p>Naast de verschillen tussen jongens en meisjes, speelt de herkomst ook een grote rol. In Afrika bijvoorbeeld zijn ziekten als hiv en aids één van de belangrijkste doodsoorzaken bij jongeren. In Europa en Zuidoost-Azië komen veel tieners (vooral meisjes) om het leven door zelfmoord.</p>
 <p> </p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

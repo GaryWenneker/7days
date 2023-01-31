@@ -1,5 +1,5 @@
 ---
-id: fd3ba76d68d748e49d9bcf66a7e77c23
+id: 294578948c264b07a8f38397b05a6590
 type: nieuws
 layout: post
 title: "Britse premier May mag blijven"
@@ -22,7 +22,7 @@ Voor de Britse premier May was het woensdagavond erop of eronder. Haar eigen con
         
   
   <div class="content">
-    <img height="2492" width="3609" style="height: 387px; width: 560px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-67320156.jpg" alt="">  </div>
+    <img height="2492" width="3609" style="height: 387px; width: 560px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-67320156.jpg" alt="">  </div>
 
   
 </div>

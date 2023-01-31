@@ -1,5 +1,5 @@
 ---
-id: 512763b1ba8c40b0aee2212da724b195
+id: dff653e7fade4c249172443266a3b937
 type: post
 layout: post
 title: "Vlogger Coen (15) stelt zich voor"
@@ -27,4 +27,4 @@ Nieuw op Sevendays.nl: video's van onze huisvlogger Coen (15)! Elke maandag zie 
   
 </div>
 </div>
-<p><em>Meer weten over onze nieuwe 7Days-vlogger Coen? <a href="https://original.sevendays.nl/video-blogs/en-onze-7days-vlogger-geworden">Klik hier!</a></em></p>  
+<p><em>Meer weten over onze nieuwe 7Days-vlogger Coen? <a href="https://7dagen.netlify.app/video-blogs/en-onze-7days-vlogger-geworden">Klik hier!</a></em></p>  

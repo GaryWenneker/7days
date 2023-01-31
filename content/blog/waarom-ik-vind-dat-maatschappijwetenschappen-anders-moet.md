@@ -1,5 +1,5 @@
 ---
-id: a3ea6b1f9dbc4752a47e44c65a4d003f
+id: 73b5643d0ace41cc8601a5628f306993
 type: post
 layout: post
 title: "Waarom ik vind dat maatschappijwetenschappen anders moet"

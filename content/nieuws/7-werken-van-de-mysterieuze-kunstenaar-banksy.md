@@ -1,5 +1,5 @@
 ---
-id: e6638641fc244879b8f82e5bc9df9333
+id: 4b682ae00dbf4b119253a26794d2e06c
 type: nieuws
 layout: post
 title: "7 werken van de mysterieuze kunstenaar Banksy"
@@ -21,42 +21,42 @@ Is het een man? Is het een vrouw? Of een team? Wie de Britse kunstenaar Banksy p
         
   
   <div class="content">
-    <img alt="Foto: ANP" title="Foto: ANP" height="3989" width="6186" style="height: 516px; width: 800px;" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/ANP-403633626_0.jpg">  </div>
+    <img alt="Foto: ANP" title="Foto: ANP" height="3989" width="6186" style="height: 516px; width: 800px;" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/ANP-403633626_0.jpg">  </div>
 
   
 </div>
 </div>
 <h3>2. Arreslee of bankje?</h3>
-<p>Begin deze maand toverde de graffitikunstenaar een simpel bankje om in de <a href="https://original.sevendays.nl/nieuws-entertainment-video/banksy-tovert-bankje-om-kerstslee" target="_blank">slee van een kerstman.</a> Hij wilde daarmee aandacht vragen voor mensen die dakloos zijn.</p>
+<p>Begin deze maand toverde de graffitikunstenaar een simpel bankje om in de <a href="https://7dagen.netlify.app/nieuws-entertainment-video/banksy-tovert-bankje-om-kerstslee" target="_blank">slee van een kerstman.</a> Hij wilde daarmee aandacht vragen voor mensen die dakloos zijn.</p>
 <h3><div class="media media-element-container media-default"><div id="file-539338" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img alt="Foto: ANP" title="Foto: ANP" height="500" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-403136772_0.jpg">  </div>
+    <img alt="Foto: ANP" title="Foto: ANP" height="500" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-403136772_0.jpg">  </div>
 
   
 </div>
 </div></h3>
 <h3>3. Versnipperd</h3>
-<p>In oktober 2018 liet Banksy veel kunstkenners schrikken met een spectaculair en zelfvernietigend kunstwerk. Bezoekers van een veiling van Sotheby's keken toe terwijl een <a href="https://original.sevendays.nl/nieuws/banksy-wereldberoemd-%C3%A9n-onbekend" target="_blank">ingelijste afdruk van </a><em><a href="https://original.sevendays.nl/nieuws/banksy-wereldberoemd-%C3%A9n-onbekend">Meisje met ballon</a> </em>(een bekend werk van Banksy), vernield werd door een ingebouwde papierversnipperaar, meteen nadat het werd verkocht. Een anonieme koper had er 1,18 miljoen euro voor betaald. Waarschijnlijk maakte de kunstenaar dit werk omdat hij kritiek heeft op de hoge prijzen die in de kunstwereld worden betaald.</p>
+<p>In oktober 2018 liet Banksy veel kunstkenners schrikken met een spectaculair en zelfvernietigend kunstwerk. Bezoekers van een veiling van Sotheby's keken toe terwijl een <a href="https://7dagen.netlify.app/nieuws/banksy-wereldberoemd-%C3%A9n-onbekend" target="_blank">ingelijste afdruk van </a><em><a href="https://7dagen.netlify.app/nieuws/banksy-wereldberoemd-%C3%A9n-onbekend">Meisje met ballon</a> </em>(een bekend werk van Banksy), vernield werd door een ingebouwde papierversnipperaar, meteen nadat het werd verkocht. Een anonieme koper had er 1,18 miljoen euro voor betaald. Waarschijnlijk maakte de kunstenaar dit werk omdat hij kritiek heeft op de hoge prijzen die in de kunstwereld worden betaald.</p>
 <h3><div class="media media-element-container media-default"><div id="file-539341" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img alt="Foto: ANP" title="Foto: ANP" height="1485" width="2228" class="media-element file-default" data-delta="4" src="https://original.sevendays.nl/sites/default/files/ANP-363169340.jpg">  </div>
+    <img alt="Foto: ANP" title="Foto: ANP" height="1485" width="2228" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/ANP-363169340.jpg">  </div>
 
   
 </div>
 </div><br>4. Geen hakenkruis</h3>
-<p>In de zomer van 2018 ging Banksy los in Parijs. Daar doken in juni <a href="https://original.sevendays.nl/nieuws/nieuwe-banksy%E2%80%99s-opgedoken-Parijs" target="_blank">zeven kunstwerken</a> van de kunstenaar op. Een paar gaan over de manier waarop Europa met vluchtelingen omgaat. Zo schilderde hij een meisje dat over een blauw hakenkruis verft met een roze sjabloonpatroon. Dat werk maakte Banksy op een muur bij Porte de la Chapelle in het noorden van Parijs. Op die plek was een groot opvangcentrum voor migranten, maar dat is vorig jaar gesloten. Sindsdien zwerven zeker tweeduizend vluchtelingen, waaronder ook kinderen en tieners, door de Parijse straten. </p>
+<p>In de zomer van 2018 ging Banksy los in Parijs. Daar doken in juni <a href="https://7dagen.netlify.app/nieuws/nieuwe-banksy%E2%80%99s-opgedoken-Parijs" target="_blank">zeven kunstwerken</a> van de kunstenaar op. Een paar gaan over de manier waarop Europa met vluchtelingen omgaat. Zo schilderde hij een meisje dat over een blauw hakenkruis verft met een roze sjabloonpatroon. Dat werk maakte Banksy op een muur bij Porte de la Chapelle in het noorden van Parijs. Op die plek was een groot opvangcentrum voor migranten, maar dat is vorig jaar gesloten. Sindsdien zwerven zeker tweeduizend vluchtelingen, waaronder ook kinderen en tieners, door de Parijse straten. </p>
 <h3><div class="media media-element-container media-default"><div id="file-539342" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img alt="Foto: ANP" title="Foto: ANP" height="3874" width="5800" class="media-element file-default" data-delta="5" src="https://original.sevendays.nl/sites/default/files/ANP-58070915_0.jpg">  </div>
+    <img alt="Foto: ANP" title="Foto: ANP" height="3874" width="5800" class="media-element file-default" data-delta="5" src="https://7dagen.netlify.app/sites/default/files/ANP-58070915_0.jpg">  </div>
 
   
 </div>
@@ -67,7 +67,7 @@ Is het een man? Is het een vrouw? Of een team? Wie de Britse kunstenaar Banksy p
         
   
   <div class="content">
-    <img alt="Foto: ANP" title="Foto: ANP" height="3416" width="5120" class="media-element file-default" data-delta="6" src="https://original.sevendays.nl/sites/default/files/ANP-401474535.jpg">  </div>
+    <img alt="Foto: ANP" title="Foto: ANP" height="3416" width="5120" class="media-element file-default" data-delta="6" src="https://7dagen.netlify.app/sites/default/files/ANP-401474535.jpg">  </div>
 
   
 </div>
@@ -79,7 +79,7 @@ Is het een man? Is het een vrouw? Of een team? Wie de Britse kunstenaar Banksy p
         
   
   <div class="content">
-    <img alt="Foto: Flickr" title="Foto: Flickr" height="238" width="400" style="height: 476px; width: 800px;" class="media-element file-default" data-delta="7" src="https://original.sevendays.nl/sites/default/files/4588415054_2992f493a8_w.jpg">  </div>
+    <img alt="Foto: Flickr" title="Foto: Flickr" height="238" width="400" style="height: 476px; width: 800px;" class="media-element file-default" data-delta="7" src="https://7dagen.netlify.app/sites/default/files/4588415054_2992f493a8_w.jpg">  </div>
 
   
 </div>
@@ -90,7 +90,7 @@ Is het een man? Is het een vrouw? Of een team? Wie de Britse kunstenaar Banksy p
         
   
   <div class="content">
-    <img alt="Foto: ANP" title="Foto: ANP" height="3648" width="5472" class="media-element file-default" data-delta="8" src="https://original.sevendays.nl/sites/default/files/ANP-377925730.jpg">  </div>
+    <img alt="Foto: ANP" title="Foto: ANP" height="3648" width="5472" class="media-element file-default" data-delta="8" src="https://7dagen.netlify.app/sites/default/files/ANP-377925730.jpg">  </div>
 
   
 </div>

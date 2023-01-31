@@ -1,5 +1,5 @@
 ---
-id: 4a164390410e48d69d51d0bd0d9e70ad
+id: 3fbbf657d37a43c7ae59b34405e94564
 type: post
 layout: post
 title: "12 tips tegen extreme zomervakantieverveling"
@@ -21,7 +21,7 @@ Ga je deze zomer niet op vakantie? En heb je geen idee hoe je de weken totdat s
         
   
   <div class="content">
-    <img title="Foto: Instagram / inthemomentmag" height="718" width="1080" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/20213903_1864262197226346_8815471467970953216_n.jpg" alt="">  </div>
+    <img title="Foto: Instagram / inthemomentmag" height="718" width="1080" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/20213903_1864262197226346_8815471467970953216_n.jpg" alt="">  </div>
 
   
 </div>
@@ -37,7 +37,7 @@ Ga je deze zomer niet op vakantie? En heb je geen idee hoe je de weken totdat s
         
   
   <div class="content">
-    <img title="Foto: Pexels" height="532" width="800" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/pexels-photo-522810%20%281%29.jpeg" alt="">  </div>
+    <img title="Foto: Pexels" height="532" width="800" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/pexels-photo-522810%20%281%29.jpeg" alt="">  </div>
 
   
 </div>
@@ -45,4 +45,4 @@ Ga je deze zomer niet op vakantie? En heb je geen idee hoe je de weken totdat s
 <p><strong>10. Organiseer een spelletjesdag</strong><br>Nodig op een regenachtige dag wat vrienden uit en vraag ze om allemaal hun favoriete bordspel mee te nemen. Zoek op zolder ook eens naar een spel dat je al jaren niet meer gespeeld hebt, en zorg heel veel lekker eten. Gezelligheid gegarandeerd! </p>
 <p><strong>11. Reorganiseer je kledingkast</strong><br>Tijdens het opruimen - wat ongetwijfeld een hele dag duurt - kom je vast shirts, blousejes of schoenen tegen die te klein zijn of je eigenlijk nooit meer draagt. Gooi niet zomaar alles weg, maar verkoop wat nog gedragen kan worden online. Bijvoorbeeld via <a href="https://unitedwardrobe.com/" target="_blank">United Wardrobe.</a> Dan hou je ook nog wat geld aan over aan opruimen!</p>
 <p><strong>12. Kampeer in de achtertuin</strong><br>Ben je niet zo'n kampeerfan? Bedenk dan dat je altijd naar binnen kunt rennen als je de tent te benauwd vindt worden, of sleep een matras in de tent voor extra comfort. </p>
-<p><em>Gitte (20) is dol op de geur van papieren kranten. Haar droom: er zelf ook voor één schrijven. En haar stukken illustreren. Volgend jaar hoopt ze haar diploma Journalistiek te behalen en die droom waar te maken. Mocht dat niet lukken, dan is ze vastberaden haar eigen ontbijtrestaurantje te beginnen. Met een zelfverzonnen menu van roereitjes met ketchup, kommetjes met fruit, yoghurt en muesli en wentelteefjes. Laten dat nu net haar drie favoriete ontbijtjes zijn.  </em><a href="https://original.sevendays.nl/users/gitte-hessels"><em>Meer blogs van Gitte lees je hier</em></a><em>.</em></p>  
+<p><em>Gitte (20) is dol op de geur van papieren kranten. Haar droom: er zelf ook voor één schrijven. En haar stukken illustreren. Volgend jaar hoopt ze haar diploma Journalistiek te behalen en die droom waar te maken. Mocht dat niet lukken, dan is ze vastberaden haar eigen ontbijtrestaurantje te beginnen. Met een zelfverzonnen menu van roereitjes met ketchup, kommetjes met fruit, yoghurt en muesli en wentelteefjes. Laten dat nu net haar drie favoriete ontbijtjes zijn.  </em><a href="https://7dagen.netlify.app/users/gitte-hessels"><em>Meer blogs van Gitte lees je hier</em></a><em>.</em></p>  

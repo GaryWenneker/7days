@@ -1,5 +1,5 @@
 ---
-id: 04a51440426c4ea696892de43598dd03
+id: 7469d59809e54c5da3799af397cf3f9a
 type: nieuws
 layout: post
 title: "3 vragen over online privacy"

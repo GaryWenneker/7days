@@ -1,5 +1,5 @@
 ---
-id: 0c0d2d7822b74da8a52436f240d1dc91
+id: d7c29f74b95d452fb72110ec0b2d8f36
 type: post
 layout: post
 title: "5 cadeaus waar je moeder heel blij van wordt"
@@ -18,7 +18,7 @@ Reminder: zondag is het weer Moederdag! Dé dag van het jaar waarop je je moede
         
   
   <div class="content">
-    <img alt="moederdag tekening cadeau cadeautip" height="320" width="240" style="float: left; width: 240px; height: 320px; margin-left: 5px; margin-right: 5px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/moederdag.jpg">  </div>
+    <img alt="moederdag tekening cadeau cadeautip" height="320" width="240" style="float: left; width: 240px; height: 320px; margin-left: 5px; margin-right: 5px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/moederdag.jpg">  </div>
 
   
 </div>
@@ -31,11 +31,11 @@ Reminder: zondag is het weer Moederdag! Dé dag van het jaar waarop je je moede
         
   
   <div class="content">
-    <img alt="dvd-box dvd romcom liefde romantische komedie" height="240" width="320" style="float: left;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/IMG_0241%20%281%29_0.JPG">  </div>
+    <img alt="dvd-box dvd romcom liefde romantische komedie" height="240" width="320" style="float: left;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/IMG_0241%20%281%29_0.JPG">  </div>
 
   
 </div>
 </div>
 <p><strong>5. Ben je een last-minute cadeaukoper? Koop een dvd-box</strong><br>Oei oei, jij bent Moederdag helemaal vergeten! Geen paniek, niemand twijfelt aan de liefde die je voor je moeder voelt, maar je moet nu als een razende een cadeautje zien te fixen. Koop iets waar relatief weinig mensen in eerste instantie aan denken (iedereen gaat immers voor de chocolade of het boeketje) en waar je je moeder alsnog blij mee kunt maken. Wat dacht je bijvoorbeeld van een dvd-box met films als Mamma Mia, Letters to Juliet, Mother's Day en The Notebook? Daar zullen jij en je moeder ongetwijfeld bij kunnen wegzwijmelen!</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/ezra-vogt">Ezra</a> (15)? Laatst schreef hij ook al <a href="https://original.sevendays.nl/blog/het-vmbo-geen-afvoerputje">Het vmbo is geen afvoerputje</a> en <a href="https://original.sevendays.nl/blog/5-slimme-tips-om-nooit-meer-een-deadline-te-missen">5 slimme tips om nooit meer een deadline te missen</a>.</em></p>
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/ezra-vogt">Ezra</a> (15)? Laatst schreef hij ook al <a href="https://7dagen.netlify.app/blog/het-vmbo-geen-afvoerputje">Het vmbo is geen afvoerputje</a> en <a href="https://7dagen.netlify.app/blog/5-slimme-tips-om-nooit-meer-een-deadline-te-missen">5 slimme tips om nooit meer een deadline te missen</a>.</em></p>
 <p> </p>  

@@ -1,5 +1,5 @@
 ---
-id: e135cdc3d6df486f8bb7b73de112b67d
+id: 937d50016de74ba582e0e4672db26c6c
 type: nieuws
 layout: post
 title: "Coronavirus: Rutte kondigt nieuwe maatregelen aan"

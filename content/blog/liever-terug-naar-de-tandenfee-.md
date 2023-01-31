@@ -1,5 +1,5 @@
 ---
-id: bf285ed12dac4af69ab78c1894a66739
+id: f7c37042432645688877e04e722ac212
 type: post
 layout: post
 title: "Liever terug naar de tandenfee "
@@ -18,4 +18,4 @@ Met mijn handen klop ik zachtjes onder de tafel. ‘Hoor je dat?’, schreeuw ik
 <p>Net zoals elk kind geloofde ik in Sinterklaas. En in de tandenfee, die net zoals Sinterklaas een verzinsel blijkt te zijn. Het was allemaal een leugen. Maar wees eerlijk, wel een mooie leugen.</p>
 <p><strong>14 jaar</strong><br>Ik vind de oorlog erg interessant. Zo interessant dat mijn moeder mij verbiedt er nog boeken over te kopen: ik heb er al te veel en mijn zakgeld gaat er langzamerhand aan op. Gelukkig ontdek ik de kringloopwinkel, waar je vijftien tweedehands boeken voor de prijs van een kunt halen, en kan ik mijn fascinatie voor de oorlog op die manier voorzetten.<br><br>Ik kan niet bevatten hoe mensen zoveel kunnen vernielen en anderen zoveel pijn kunnen doen. Ik vind dat ik die boeken moét lezen, omdat ik zo een stukje van hun slechte leven kan pakken. Maar wat ik mij niet realiseer, is dat hun leven hetzelfde blijft en ik het mijne alleen maar onnodig negatiever<strong> </strong>maak.</p>
 <p><strong>17 jaar</strong><br>Ik leer steeds meer dingen en ontdek meer waarheden, maar wijk vaak af van wat het belangrijkste is: simpelweg gelukkig zijn. Soms is een leugentje voor eigen bestwil zo erg nog niet. Samen met mijn ouders en mijn zus zit ik aan de eettafel. ‘Alles weten maakt niet gelukkiger’, zegt mijn moeder wijs. ‘En jij als tandenfee en Sinterklaas weet dat als geen ander’, fluister ik.</p>
-<p><i>Meer blogs lezen van Lotte Rolleman (17)? Laatst schreef ze ook al <a href="https://original.sevendays.nl/blog/doe-eens-gek-kijk-geen-boekverfilming">Doe eens gek, kijk geen boekverfilming </a>en <a href="https://original.sevendays.nl/blog/de-scootermeisjes-van-tegenwoordig">De scootermeisjes van tegenwoordig</a>. </i></p>  
+<p><i>Meer blogs lezen van Lotte Rolleman (17)? Laatst schreef ze ook al <a href="https://7dagen.netlify.app/blog/doe-eens-gek-kijk-geen-boekverfilming">Doe eens gek, kijk geen boekverfilming </a>en <a href="https://7dagen.netlify.app/blog/de-scootermeisjes-van-tegenwoordig">De scootermeisjes van tegenwoordig</a>. </i></p>  

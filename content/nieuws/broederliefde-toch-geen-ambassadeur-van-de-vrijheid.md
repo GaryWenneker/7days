@@ -1,5 +1,5 @@
 ---
-id: 3ad7e5a613974e038a1bb02b840d3980
+id: 7bd712d76b8b43768af0b825e3ee6bcc
 type: nieuws
 layout: post
 title: "Broederliefde toch geen ambassadeur van de vrijheid"
@@ -20,7 +20,7 @@ Broederliefde is dit jaar tóch geen Ambassadeur van de Vrijheid op 5 mei. Dat h
         
   
   <div class="content">
-    <img alt="Broederliefde" title="Beeld: ANP Kippa" height="916" width="1620" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-49762506.jpg">  </div>
+    <img alt="Broederliefde" title="Beeld: ANP Kippa" height="916" width="1620" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-49762506.jpg">  </div>
 
   
 </div>
@@ -30,5 +30,5 @@ Broederliefde is dit jaar tóch geen Ambassadeur van de Vrijheid op 5 mei. Dat h
 <h3>Ongepast</h3>
 <p>Ondanks dat de video een jaar oud is vindt het comité het niet gepast om de Rotterdamse rappers nu tot Ambassadeur van de Vrijheid te benoemen. Dat laten ze in een <a href="http://www.3fm.nl/nieuws/detail/366662/Broederliefde-niet-langer-Ambassadeur-van-de-Vrijheid" target="_blank">persbericht</a> weten. Broederliefde respecteert deze keuze. De groep heeft vanwege het geplande ambassadeurschap reeds een bezoek gebracht aan concentratiekamp Auschwitz en ziet nu nóg meer in hoe kwetsend de uitspraken zijn.</p>
 <h3>PewDiePie</h3>
-<p>Het is niet de eerste keer dat een samenwerking stukloopt vanwege racistisch 'grappen'. Vorige maand wilde Disney niks meer met de <a href="https://original.sevendays.nl/nieuws/disney-stopt-samenwerking-met-pewdiepie" target="_blank">Zweedse YouTuber Felix Kjellberg te maken hebben </a>om gelijke redenen. Kjellberg, beter bekend als <em>PewDiepPie</em>, zette video's online met kwetsende grappen over Joden. Hij had een miljoenencontract met Disney en loopt nu veel inkomsten mis.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p>Het is niet de eerste keer dat een samenwerking stukloopt vanwege racistisch 'grappen'. Vorige maand wilde Disney niks meer met de <a href="https://7dagen.netlify.app/nieuws/disney-stopt-samenwerking-met-pewdiepie" target="_blank">Zweedse YouTuber Felix Kjellberg te maken hebben </a>om gelijke redenen. Kjellberg, beter bekend als <em>PewDiepPie</em>, zette video's online met kwetsende grappen over Joden. Hij had een miljoenencontract met Disney en loopt nu veel inkomsten mis.</p>
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

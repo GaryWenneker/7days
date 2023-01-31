@@ -1,5 +1,5 @@
 ---
-id: 819d200b4a8e48bda335e5db15488994
+id: 75be5f24c6774b14966433045e99e6fc
 type: nieuws
 layout: post
 title: "Eerste vaccinaties tegen meningokokken 'uitgedeeld'"

@@ -1,5 +1,5 @@
 ---
-id: 47ba23e994514cb098ac2602ec0ba943
+id: c6c5c12f73ba4102a89e5c78d2777d54
 type: nieuws
 layout: post
 title: "De 7 beruchtste voetbalrellen"
@@ -18,7 +18,7 @@ Aanhangers van Feyenoord maakten er vorige week een puinhoop van in Rome. Gevree
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/13_4.jpg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/13_4.jpg" alt="">  </div>
 
   
 </div>
@@ -28,7 +28,7 @@ Aanhangers van Feyenoord maakten er vorige week een puinhoop van in Rome. Gevree
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/14_4.jpg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/14_4.jpg" alt="">  </div>
 
   
 </div>
@@ -38,7 +38,7 @@ Aanhangers van Feyenoord maakten er vorige week een puinhoop van in Rome. Gevree
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/15_3.jpg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/15_3.jpg" alt="">  </div>
 
   
 </div>
@@ -48,7 +48,7 @@ Aanhangers van Feyenoord maakten er vorige week een puinhoop van in Rome. Gevree
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/16_3.jpg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/16_3.jpg" alt="">  </div>
 
   
 </div>
@@ -58,7 +58,7 @@ Aanhangers van Feyenoord maakten er vorige week een puinhoop van in Rome. Gevree
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/17_3.jpg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/17_3.jpg" alt="">  </div>
 
   
 </div>
@@ -68,7 +68,7 @@ Aanhangers van Feyenoord maakten er vorige week een puinhoop van in Rome. Gevree
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/18_3.jpg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/18_3.jpg" alt="">  </div>
 
   
 </div>
@@ -78,7 +78,7 @@ Aanhangers van Feyenoord maakten er vorige week een puinhoop van in Rome. Gevree
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/19_3.jpg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/19_3.jpg" alt="">  </div>
 
   
 </div>

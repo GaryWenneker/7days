@@ -1,5 +1,5 @@
 ---
-id: 6eda1421683744aeafc946a03547f894
+id: dc29c92d1cf34c8e9a37513fdd1b9591
 type: nieuws
 layout: post
 title: "Een soort ballet maar dan te paard"
@@ -19,7 +19,7 @@ Donderslagen, watervallen en liefdeskussen. Wie denkt er bij die woorden aan paa
         
   
   <div class="content">
-    <img height="772" width="1600" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/carrousel%202.jpg" alt="">  </div>
+    <img height="772" width="1600" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/carrousel%202.jpg" alt="">  </div>
 
   
 </div>

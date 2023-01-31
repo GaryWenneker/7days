@@ -1,5 +1,5 @@
 ---
-id: e0df29d9da11419f8e6ee51fe03a7489
+id: 8574e6f718c345969b60c27fc840b8d5
 type: nieuws
 layout: post
 title: "7 weetjes over de Oscars"
@@ -30,7 +30,7 @@ Filmmakers van over de hele wereld zitten zondag op het puntje van hun stoel. Da
         
   
   <div class="content">
-    <img alt="Foto: ANP" title="Foto: ANP" height="4480" width="6720" style="height: 467px; width: 700px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-356223291.jpg">  </div>
+    <img alt="Foto: ANP" title="Foto: ANP" height="4480" width="6720" style="height: 467px; width: 700px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-356223291.jpg">  </div>
 
   
 </div>

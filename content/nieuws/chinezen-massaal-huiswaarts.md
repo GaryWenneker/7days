@@ -1,5 +1,5 @@
 ---
-id: a04eb00bb8d64e1cacccab8d4d8562e8
+id: 0410e43dc7924f319d9a70f5d609c9dd
 type: nieuws
 layout: post
 title: "Chinezen massaal huiswaarts"
@@ -19,7 +19,7 @@ Het Chinese nieuwjaar staat dit jaar in het teken van het schaap. Het feest word
         
   
   <div class="content">
-    <img height="373" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/24.jpg" alt="">  </div>
+    <img height="373" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/24.jpg" alt="">  </div>
 
   
 </div>
@@ -29,7 +29,7 @@ Het Chinese nieuwjaar staat dit jaar in het teken van het schaap. Het feest word
         
   
   <div class="content">
-    <img height="395" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/25.jpg" alt="">  </div>
+    <img height="395" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/25.jpg" alt="">  </div>
 
   
 </div>
@@ -39,7 +39,7 @@ Het Chinese nieuwjaar staat dit jaar in het teken van het schaap. Het feest word
         
   
   <div class="content">
-    <img height="366" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/26.jpg" alt="">  </div>
+    <img height="366" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/26.jpg" alt="">  </div>
 
   
 </div>
@@ -49,7 +49,7 @@ Het Chinese nieuwjaar staat dit jaar in het teken van het schaap. Het feest word
         
   
   <div class="content">
-    <img height="374" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/27.jpg" alt="">  </div>
+    <img height="374" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/27.jpg" alt="">  </div>
 
   
 </div>

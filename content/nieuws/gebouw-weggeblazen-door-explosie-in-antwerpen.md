@@ -1,5 +1,5 @@
 ---
-id: 942d1f7409494b178732c0d35fc2a148
+id: aa00981740f84738bcc5cfd8d58d57e2
 type: nieuws
 layout: post
 title: "Gebouw weggeblazen door explosie in Antwerpen"
@@ -21,7 +21,7 @@ In Antwerpen is een gebouw volledig weggeblazen na een harde ontploffing. Onder 
         
   
   <div class="content">
-    <img alt="explosie" title="Foto:ANP" height="3280" width="4928" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/gg.jpg">  </div>
+    <img alt="explosie" title="Foto:ANP" height="3280" width="4928" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/gg.jpg">  </div>
 
   
 </div>

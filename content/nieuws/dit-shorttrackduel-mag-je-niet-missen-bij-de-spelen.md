@@ -1,5 +1,5 @@
 ---
-id: 6a35c5f9a53140289ed53b82d41c89e1
+id: 9ef00e2c76254e58b24642ab965c4a19
 type: nieuws
 layout: post
 title: "Dit shorttrackduel mag je niet missen bij de Spelen"
@@ -27,7 +27,7 @@ Wat kunnen we van de Nederlandse sporters verwachten op de Olympische Spelen in
         
   
   <div class="content">
-    <img alt="Fabienne Diniz" title="Fabienne Diniz" height="478" width="750" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Fabienne7days.PNG">  </div>
+    <img alt="Fabienne Diniz" title="Fabienne Diniz" height="478" width="750" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Fabienne7days.PNG">  </div>
 
   
 </div>

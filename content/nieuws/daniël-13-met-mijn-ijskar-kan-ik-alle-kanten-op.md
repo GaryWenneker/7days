@@ -1,5 +1,5 @@
 ---
-id: 10b861f1852e4acdb785313e28da7aac
+id: 9a907f2723544ecc97b7ba8f760f63d5
 type: nieuws
 layout: post
 title: "Daniël (13): 'Met mijn ijskar kan ik alle kanten op'"
@@ -20,7 +20,7 @@ Paar uurtjes vrij én mooi weer? Reken maar dat Daniël uit het Zuid-Hollandse P
         
   
   <div class="content">
-    <img alt="Daniël schept ijs  Foto Familie Mol" title="Daniël schept ijs  Foto Familie Mol" height="792" width="1195" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Daniel%20schept%20ijs%20Foto%20Familie%20Mol.jpg">  </div>
+    <img alt="Daniël schept ijs  Foto Familie Mol" title="Daniël schept ijs  Foto Familie Mol" height="792" width="1195" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Daniel%20schept%20ijs%20Foto%20Familie%20Mol.jpg">  </div>
 
   
 </div>

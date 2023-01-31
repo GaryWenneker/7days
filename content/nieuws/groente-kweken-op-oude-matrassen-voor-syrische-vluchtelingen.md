@@ -1,5 +1,5 @@
 ---
-id: bbb0d30abed5415aaca1f5fa1eb3a265
+id: cd61b17022f34052813fd4f11a5e229e
 type: nieuws
 layout: post
 title: "Groente kweken op oude matrassen voor Syrische vluchtelingen"
@@ -19,7 +19,7 @@ Vluchtelingenkamp Zaatari ligt midden in de woestijn van Jordanië. Het is er wa
         
   
   <div class="content">
-    <img height="423" width="752" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/mattress%20moment.png.jpg" alt="">  </div>
+    <img height="423" width="752" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/mattress%20moment.png.jpg" alt="">  </div>
 
   
 </div>
@@ -30,7 +30,7 @@ Vluchtelingenkamp Zaatari ligt midden in de woestijn van Jordanië. Het is er wa
         
   
   <div class="content">
-    <img height="423" width="752" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/IMG-20171002-WA0066.jpg" alt="">  </div>
+    <img height="423" width="752" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/IMG-20171002-WA0066.jpg" alt="">  </div>
 
   
 </div>

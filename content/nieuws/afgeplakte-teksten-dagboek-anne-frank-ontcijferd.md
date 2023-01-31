@@ -1,5 +1,5 @@
 ---
-id: 250990c1428c4aa3b6b62de37bfbef9b
+id: d99d0c793bd449f687300c9d39d552bc
 type: nieuws
 layout: post
 title: "Afgeplakte teksten dagboek Anne Frank ontcijferd"
@@ -13,7 +13,7 @@ seo:
 ---
 'Deze verknoeide blz. zal ik maar benutten om \"schunnige\" moppen op te schrijven', noteert Anne Frank op 28 september 1942 in haar dagboek.   
 
-    <p>De moppen en andere teksten op die pagina's zijn nu voor het eerst te lezen. De Anne Frank Stichting maakte ze vandaag openbaar. Het gaat om twee bladzijden die <a href="https://original.sevendays.nl/school-nieuws/dagboek-anne-frank-vandaag-75-jaar-oud" target="_blank">Anne Frank</a> waarschijnlijk zelf afplakte met bruin papier. Ze was toen dertien jaar.</p>
+    <p>De moppen en andere teksten op die pagina's zijn nu voor het eerst te lezen. De Anne Frank Stichting maakte ze vandaag openbaar. Het gaat om twee bladzijden die <a href="https://7dagen.netlify.app/school-nieuws/dagboek-anne-frank-vandaag-75-jaar-oud" target="_blank">Anne Frank</a> waarschijnlijk zelf afplakte met bruin papier. Ze was toen dertien jaar.</p>
 <h3>Moppen</h3>
 <p>Met behulp van digitale fotobewerkingstechniek lukte het onderzoekers om de afgeplakte tekst leesbaar te maken. Op de bladzijden staan onder meer moppen die Anne in haar eerste rood-geruite dagboekje schreef op 28 september 1942. Hieronder zie je eerst de afgeplakte pagina's. Daaronder staat de weer leesbare tekst met op de linkerpagina, vanaf het midden, de moppen.</p>
 <p><div class="media media-element-container media-default"><div id="file-533367" class="file file-image file-image-jpeg">
@@ -21,7 +21,7 @@ seo:
         
   
   <div class="content">
-    <img alt="Dagboek Anne Frank" title="Foto: Anne Frank Stichting" height="311" width="520" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/AFS_078-079_afgeplakt_0.JPG">  </div>
+    <img alt="Dagboek Anne Frank" title="Foto: Anne Frank Stichting" height="311" width="520" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/AFS_078-079_afgeplakt_0.JPG">  </div>
 
   
 </div>
@@ -31,7 +31,7 @@ seo:
         
   
   <div class="content">
-    <img alt="Dagboek Anne Frank" title="Beeld: Anne Frank Stichting" height="527" width="880" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Dagboek%20Anne%20Frank.png">  </div>
+    <img alt="Dagboek Anne Frank" title="Beeld: Anne Frank Stichting" height="527" width="880" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Dagboek%20Anne%20Frank.png">  </div>
 
   
 </div>

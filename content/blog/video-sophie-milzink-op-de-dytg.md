@@ -1,5 +1,5 @@
 ---
-id: 10c09c9295b1409892ce47d8734c8d6b
+id: e2b3b7a4822843178b97783993f10b1b
 type: post
 layout: post
 title: "Video: Sophie Milzink op de DYTG"
@@ -27,4 +27,4 @@ Natuurlijk was ze afgelopen weekend ook op de Dutch YouTube Gathering: YouTuber
   
 </div>
 </div>
-<p><em>Meer zien van de DYTG? Check ons <a href="https://original.sevendays.nl/dytg">Dossier DYTG</a> voor alle sfeerreportages en video-interviews. Deze week komt er elke dag om 16.00 uur een nieuwe online, dus blijf ons volgen. En vermaak je in de tussentijd ook met ons <a href="https://original.sevendays.nl/veed">Dossier VEED</a>!</em></p>  
+<p><em>Meer zien van de DYTG? Check ons <a href="https://7dagen.netlify.app/dytg">Dossier DYTG</a> voor alle sfeerreportages en video-interviews. Deze week komt er elke dag om 16.00 uur een nieuwe online, dus blijf ons volgen. En vermaak je in de tussentijd ook met ons <a href="https://7dagen.netlify.app/veed">Dossier VEED</a>!</em></p>  

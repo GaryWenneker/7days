@@ -1,5 +1,5 @@
 ---
-id: 637e0cb4e061449f9666c36e7ad9ae7a
+id: 284a4dbe11774b0a972719ac90a67a01
 type: nieuws
 layout: post
 title: "Dit moet je weten over het homohuwelijk"
@@ -19,7 +19,7 @@ seo:
         
   
   <div class="content">
-    <img title="Beeld: ANP" height="982" width="1836" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-996687.jpg" alt="">  </div>
+    <img title="Beeld: ANP" height="982" width="1836" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-996687.jpg" alt="">  </div>
 
   
 </div>
@@ -43,5 +43,5 @@ seo:
 </div>
 </div>
 <p><strong>5. Eigenlijk bestaat het 'homohuwelijk' niet</strong><br>We vieren nu wel dat het homohuwelijk vijftien jaar bestaat, maar eigenlijk slaat die term nergens op, stelt Jan Wolter Wabeke. Hij was een van de voorvechters van de wet. 'Nederland kent nu een universeel huwelijk', <a href="http://janwolterwabeke.nl/initiator-homohuwelijk/" target="_blank">stelt</a> hij. 'We spreken toch ook niet van een heterohuwelijk?'</p>
-<p><strong>6. Goed voorbeeld doet volgen</strong><br>Na Nederland hebben nog ruim twintig andere landen het huwelijk opengesteld voor homo's. Dat gaat de goede kant op, maar zelfs in landen waar het homohuwelijk al is ingevoerd, <a href="https://original.sevendays.nl/nieuws/homohuwelijk-over-de-hele-wereld" target="_blank">ontbreekt soms nog volledige acceptatie</a>. Er is nog een lange weg te gaan.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren belangrijk is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://original.sevendays.nl/abonnement">proefabonnement </a>op de krant!</em></p>  
+<p><strong>6. Goed voorbeeld doet volgen</strong><br>Na Nederland hebben nog ruim twintig andere landen het huwelijk opengesteld voor homo's. Dat gaat de goede kant op, maar zelfs in landen waar het homohuwelijk al is ingevoerd, <a href="https://7dagen.netlify.app/nieuws/homohuwelijk-over-de-hele-wereld" target="_blank">ontbreekt soms nog volledige acceptatie</a>. Er is nog een lange weg te gaan.</p>
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren belangrijk is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://7dagen.netlify.app/abonnement">proefabonnement </a>op de krant!</em></p>  

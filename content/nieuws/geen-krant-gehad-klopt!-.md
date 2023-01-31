@@ -1,5 +1,5 @@
 ---
-id: 7d1e502974c6484690b8c9340f25e760
+id: b58874ef483c4c75afcbabf4f3b8f375
 type: nieuws
 layout: post
 title: "Geen krant gehad? Klopt! "
@@ -13,4 +13,4 @@ seo:
 ---
 Plofte er vanochtend (18 augustus 2017) geen 7Days bij jou op de deurmat? Geen paniek! Dat klopt. Omdat het zomervakantie is, verschijnt er deze week géén krant.  
 
-    <p>Volgende week, vrijdag 25 augustus, wordt de krant gewoon weer bezorgd. Tot die tijd kun je natuurlijk elke dag op Sevendays.nl terecht. Ook houden we je via <a href="http://www.facebook.com/7daysnl">Facebook</a>, <a href="http://www.twitter.com/7daysnl">Twitter</a>, <a href="http://www.instagram.com/7daysnl">Instagram</a> en onze nieuwe <a href="https://original.sevendays.nl/whatsapp">WhatsApp-dienst</a> op de hoogte.</p>  
+    <p>Volgende week, vrijdag 25 augustus, wordt de krant gewoon weer bezorgd. Tot die tijd kun je natuurlijk elke dag op Sevendays.nl terecht. Ook houden we je via <a href="http://www.facebook.com/7daysnl">Facebook</a>, <a href="http://www.twitter.com/7daysnl">Twitter</a>, <a href="http://www.instagram.com/7daysnl">Instagram</a> en onze nieuwe <a href="https://7dagen.netlify.app/whatsapp">WhatsApp-dienst</a> op de hoogte.</p>  

@@ -1,5 +1,5 @@
 ---
-id: 1e1695e109464bcf84375b7cb81bb596
+id: 16b6951b485b45a2a271cce6e1d8db19
 type: post
 layout: post
 title: "Uren wachten op een YouTuber: is dat het waard?"
@@ -22,7 +22,7 @@ Nederlandse fans hebben doorgaans alles over voor hun idolen. Ze slaan hun gelie
         
   
   <div class="content">
-    <img alt="Dutch YouTube Gathering fans idolen YouTube vloggers" height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/DYTG3.jpg">  </div>
+    <img alt="Dutch YouTube Gathering fans idolen YouTube vloggers" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/DYTG3.jpg">  </div>
 
   
 </div>
@@ -37,9 +37,9 @@ Nederlandse fans hebben doorgaans alles over voor hun idolen. Ze slaan hun gelie
         
   
   <div class="content">
-    <img alt="Dutch YouTube Gathering fans idolen YouTube vloggers Furtjuh" height="850" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/DYTG2.jpg">  </div>
+    <img alt="Dutch YouTube Gathering fans idolen YouTube vloggers Furtjuh" height="850" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/DYTG2.jpg">  </div>
 
   
 </div>
 </div>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/niek-de-bruijn">Niek</a> (18)? Laatst schreef hij ook al <a href="https://original.sevendays.nl/blog/geen-oren-naar-oortjes">Geen oren naar oortjes</a> en <a href="https://original.sevendays.nl/blog/wie-de-hoed-past-trekt-m-aan">Wie de hoed past, trekt 'm aan</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/niek-de-bruijn">Niek</a> (18)? Laatst schreef hij ook al <a href="https://7dagen.netlify.app/blog/geen-oren-naar-oortjes">Geen oren naar oortjes</a> en <a href="https://7dagen.netlify.app/blog/wie-de-hoed-past-trekt-m-aan">Wie de hoed past, trekt 'm aan</a>.</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: 9e9c5e5ad6b74d11a7a1e39572974f5d
+id: 527b3d0359504a308d980541bc4c7b87
 type: post
 layout: post
 title: "De 7 computerspellen die iedereen vroeger speelde"
@@ -20,7 +20,7 @@ Toen ik op de basisschool zat, had ik na school nog uren tijd om me te vermaken 
         
   
   <div class="content">
-    <img height="744" width="1009" style="height: 590px; width: 800px;" class="media-element file-default" data-delta="7" src="https://original.sevendays.nl/sites/default/files/bubble_0.PNG" alt="">  </div>
+    <img height="744" width="1009" style="height: 590px; width: 800px;" class="media-element file-default" data-delta="7" src="https://7dagen.netlify.app/sites/default/files/bubble_0.PNG" alt="">  </div>
 
   
 </div>
@@ -46,7 +46,7 @@ Toen ik op de basisschool zat, had ik na school nog uren tijd om me te vermaken 
         
   
   <div class="content">
-    <img height="711" width="1116" style="height: 510px; width: 800px;" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/bubble%20trouble.PNG" alt="">  </div>
+    <img height="711" width="1116" style="height: 510px; width: 800px;" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/bubble%20trouble.PNG" alt="">  </div>
 
   
 </div>
@@ -57,7 +57,7 @@ Toen ik op de basisschool zat, had ik na school nog uren tijd om me te vermaken 
         
   
   <div class="content">
-    <img height="590" width="1197" style="height: 394px; width: 800px;" class="media-element file-default" data-delta="4" src="https://original.sevendays.nl/sites/default/files/vuurjongen%20watermeisje.PNG" alt="">  </div>
+    <img height="590" width="1197" style="height: 394px; width: 800px;" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/vuurjongen%20watermeisje.PNG" alt="">  </div>
 
   
 </div>
@@ -68,7 +68,7 @@ Toen ik op de basisschool zat, had ik na school nog uren tijd om me te vermaken 
         
   
   <div class="content">
-    <img height="763" width="1047" style="height: 583px; width: 800px;" class="media-element file-default" data-delta="5" src="https://original.sevendays.nl/sites/default/files/goudzoeker.PNG" alt="">  </div>
+    <img height="763" width="1047" style="height: 583px; width: 800px;" class="media-element file-default" data-delta="5" src="https://7dagen.netlify.app/sites/default/files/goudzoeker.PNG" alt="">  </div>
 
   
 </div>
@@ -79,7 +79,7 @@ Toen ik op de basisschool zat, had ik na school nog uren tijd om me te vermaken 
         
   
   <div class="content">
-    <img height="752" width="1063" style="height: 566px; width: 800px;" class="media-element file-default" data-delta="6" src="https://original.sevendays.nl/sites/default/files/sonic.PNG" alt="">  </div>
+    <img height="752" width="1063" style="height: 566px; width: 800px;" class="media-element file-default" data-delta="6" src="https://7dagen.netlify.app/sites/default/files/sonic.PNG" alt="">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: d4c24535a6034b13a4d9b3d6d21215ae
+id: 73a1339cd81c490891a31b16bd90e76e
 type: nieuws
 layout: post
 title: "Gevangen drugsbaron hamerde zich een weg naar buiten"
@@ -36,7 +36,7 @@ In juni is de beruchte drugsbaron El Chapo ontsnapt uit een zwaarbewaakte gevang
         
   
   <div class="content">
-    <img alt="Drugsbaron El Chapo ontsnapte uit een Mexicaanse gevangenis" title="Foto EPA" height="1357" width="2100" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/el%20chapo.jpg">  </div>
+    <img alt="Drugsbaron El Chapo ontsnapte uit een Mexicaanse gevangenis" title="Foto EPA" height="1357" width="2100" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/el%20chapo.jpg">  </div>
 
   
 </div>

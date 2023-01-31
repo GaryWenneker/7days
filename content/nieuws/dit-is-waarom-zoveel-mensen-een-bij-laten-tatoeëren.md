@@ -1,5 +1,5 @@
 ---
-id: cf75a91814a54975b53c245938bf43ff
+id: 0f1d980bc3cd4d309d91a8fa3f793eb2
 type: nieuws
 layout: post
 title: "Dit is waarom zoveel mensen een bij laten tatoeëren"
@@ -67,4 +67,4 @@ Het is erg druk bij de tattooshops in Manchester. Daar laten mensen namelijk mas
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de 7Days-krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de 7Days-krant!</em></p>  

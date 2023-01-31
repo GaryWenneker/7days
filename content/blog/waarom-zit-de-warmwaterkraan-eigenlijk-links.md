@@ -1,5 +1,5 @@
 ---
-id: 07b6060a43a64d72816c6e238249d9b6
+id: d091ac430bb648d1b9741b3fb22630ec
 type: post
 layout: post
 title: "Waarom zit de warmwaterkraan eigenlijk links?"
@@ -22,7 +22,7 @@ Al een minuut stond ik met mijn emmer te wachten op heet water. Dat duurde wel e
         
   
   <div class="content">
-    <a href="/files/kraan"><img height="124" width="220" class="media-element file-teaser" data-delta="2" src="https://original.sevendays.nl/sites/default/files/styles/medium/public/tap-1937219_1920.jpg?itok=bPKdEk0C" alt=""></a>  </div>
+    <a href="/files/kraan"><img height="124" width="220" class="media-element file-teaser" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/styles/medium/public/tap-1937219_1920.jpg?itok=bPKdEk0C" alt=""></a>  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: f8ace6f92ac2477fb0cf14f6b684fec6
+id: 73f83b5d5d584d25b92abb208ec0585c
 type: nieuws
 layout: post
 title: "De Britse verkiezingen in 4 selfies"
@@ -13,14 +13,14 @@ seo:
 ---
 Onze Britse buren gaan vandaag naar de stembus. Er zijn verkiezingen in het Verenigd Koninkrijk. Wie zijn eigenlijk de hoofdpersonen in deze politieke strijd? En wat staat er op het spel? 7Days legt het uit aan de hand van vier campagne-selfies.  
 
-    <p>De afgelopen weken waren de topmannen en –vrouwen uit de Britse politiek druk campagne aan het voeren. Ze trokken het hele land door, van badplaats tot plattelandsdorp. Ze schudden handen met Jan en alleman. Verdedigden hun standpunten tijdens debatten. En maakten aan de lopende band <a href="https://original.sevendays.nl/raar/broek-zakt-af-voor-britse-politicus">selfies</a> met (potentiële) kiezers. Alles om miljoenen Britse stemgerechtigden klaar te stomen voor vandaag: verkiezingsdag.</p>
+    <p>De afgelopen weken waren de topmannen en –vrouwen uit de Britse politiek druk campagne aan het voeren. Ze trokken het hele land door, van badplaats tot plattelandsdorp. Ze schudden handen met Jan en alleman. Verdedigden hun standpunten tijdens debatten. En maakten aan de lopende band <a href="https://7dagen.netlify.app/raar/broek-zakt-af-voor-britse-politicus">selfies</a> met (potentiële) kiezers. Alles om miljoenen Britse stemgerechtigden klaar te stomen voor vandaag: verkiezingsdag.</p>
 <p>Of in dit geval kun je beter zeggen: verkiezingendag. Er zijn 650 verkiezingen om precies te zijn. De Britten werken namelijk met een districtenstelsel. Het Verenigd Koninkrijk is verdeeld in 650 kiesdistricten. In ieder kiesdistrict gaat de parlementszetel naar degene met de meeste stemmen. Er zijn in het Britse Lagerhuis dus 650 zetels te verdelen. De verkiezingen van vandaag beloven spannend te worden, als we op de peilingen afgaan. Een nek-aan-nekrace tussen de huidige premier David Cameron met zijn Conservative Party en Ed Miliband met Labour. Wie zijn zij? En welke andere partijen spelen een rol in de Britse politiek?</p>
 <p><div class="media media-element-container media-default"><div id="file-3207" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img title="Cameron in Norton Sub Hamdon  Foto AFP" height="2576" width="3500" style="width: 850px; height: 626px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Cameron%20in%20Norton%20Sub%20Hamdon%20AFP.jpg" alt="">  </div>
+    <img title="Cameron in Norton Sub Hamdon  Foto AFP" height="2576" width="3500" style="width: 850px; height: 626px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Cameron%20in%20Norton%20Sub%20Hamdon%20AFP.jpg" alt="">  </div>
 
   
 </div>
@@ -31,7 +31,7 @@ Onze Britse buren gaan vandaag naar de stembus. Er zijn verkiezingen in het Vere
         
   
   <div class="content">
-    <img title="Miliband in Bury  Foto AFP" height="1736" width="2604" style="width: 850px; height: 567px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Miliband%20in%20Bury%20AFP.jpg" alt="">  </div>
+    <img title="Miliband in Bury  Foto AFP" height="1736" width="2604" style="width: 850px; height: 567px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Miliband%20in%20Bury%20AFP.jpg" alt="">  </div>
 
   
 </div>
@@ -42,7 +42,7 @@ Onze Britse buren gaan vandaag naar de stembus. Er zijn verkiezingen in het Vere
         
   
   <div class="content">
-    <img title="Clegg in Manchester  Foto AFP" height="2603" width="4045" style="width: 850px; height: 547px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Clegg%20in%20Manchester%20AFP.jpg" alt="">  </div>
+    <img title="Clegg in Manchester  Foto AFP" height="2603" width="4045" style="width: 850px; height: 547px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Clegg%20in%20Manchester%20AFP.jpg" alt="">  </div>
 
   
 </div>
@@ -53,7 +53,7 @@ Onze Britse buren gaan vandaag naar de stembus. Er zijn verkiezingen in het Vere
         
   
   <div class="content">
-    <img title="Farage in Aylesbury  Foto AFP" height="3360" width="5112" style="width: 850px; height: 559px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Farage%20in%20Aylesbury%20AFP.jpg" alt="">  </div>
+    <img title="Farage in Aylesbury  Foto AFP" height="3360" width="5112" style="width: 850px; height: 559px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Farage%20in%20Aylesbury%20AFP.jpg" alt="">  </div>
 
   
 </div>

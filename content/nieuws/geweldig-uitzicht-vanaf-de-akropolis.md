@@ -1,5 +1,5 @@
 ---
-id: 2bbc30f666ac4f6d9d2e6cc1fd48c389
+id: 285153e93b1b46f19b147620c5a3710f
 type: nieuws
 layout: post
 title: "'Geweldig uitzicht vanaf de Akropolis'"
@@ -19,7 +19,7 @@ Pim (17) uit Amsterdam is in Griekenland. Samen met tientallen medeleerlingen ga
         
   
   <div class="content">
-    <img alt="Griekenland" title="Foto: Pim" height="747" width="1328" style="width: 900px; height: 506px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/vrijdag1.jpg">  </div>
+    <img alt="Griekenland" title="Foto: Pim" height="747" width="1328" style="width: 900px; height: 506px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/vrijdag1.jpg">  </div>
 
   
 </div>
@@ -29,19 +29,19 @@ Pim (17) uit Amsterdam is in Griekenland. Samen met tientallen medeleerlingen ga
         
   
   <div class="content">
-    <img alt="Griekenland" title="Foto: Pim" height="747" width="1328" style="width: 900px; height: 506px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/vrijdag2.jpg">  </div>
+    <img alt="Griekenland" title="Foto: Pim" height="747" width="1328" style="width: 900px; height: 506px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/vrijdag2.jpg">  </div>
 
   
 </div>
 </div><em>Akropolis</em>
 <h3>Toneelstuk opvoeren</h3>
-<p>'Zaterdag begon met een bezoek aan de Agora, het sociale centrum van Athene. Daarna zijn we met de bus naar het kanaal van Korinthe gegaan, een spectaculair kanaal dat is gegraven om de scheepsvaart te optimaliseren. Egypte had er al één in de vorm van het Suez-kanaal en Griekenland bleef dus niet achter. Toen zijn we met de bus naar het Epidaurus gegaan, een stad die bekend staat om de heiligdommen van Asclepius. Dit theater is door de Grieken zo ontworpen dat je vanuit het midden van de cirkel met normale stem iedereen in het publiek kan bereiken. Twee van de organisatoren van de <a href="https://original.sevendays.nl/nieuws/we-hebben-geld-opgehaald-voor-vluchtelingen">sponsorloop</a>, Madelief en Saar, hebben hier een toneelstuk opgevoerd.'</p>
+<p>'Zaterdag begon met een bezoek aan de Agora, het sociale centrum van Athene. Daarna zijn we met de bus naar het kanaal van Korinthe gegaan, een spectaculair kanaal dat is gegraven om de scheepsvaart te optimaliseren. Egypte had er al één in de vorm van het Suez-kanaal en Griekenland bleef dus niet achter. Toen zijn we met de bus naar het Epidaurus gegaan, een stad die bekend staat om de heiligdommen van Asclepius. Dit theater is door de Grieken zo ontworpen dat je vanuit het midden van de cirkel met normale stem iedereen in het publiek kan bereiken. Twee van de organisatoren van de <a href="https://7dagen.netlify.app/nieuws/we-hebben-geld-opgehaald-voor-vluchtelingen">sponsorloop</a>, Madelief en Saar, hebben hier een toneelstuk opgevoerd.'</p>
 <p><div class="media media-element-container media-default"><div id="file-533139" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img alt="kanaal van korinthië" title="Foto: Pim" height="533" width="897" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/zaterdag.jpg">  </div>
+    <img alt="kanaal van korinthië" title="Foto: Pim" height="533" width="897" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/zaterdag.jpg">  </div>
 
   
 </div>
@@ -51,7 +51,7 @@ Pim (17) uit Amsterdam is in Griekenland. Samen met tientallen medeleerlingen ga
         
   
   <div class="content">
-    <img alt="Griekenland" title="Foto: Pim" height="747" width="1328" style="font-size: 13.008px; width: 900px; height: 506px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/zaterdag2_0.jpg">  </div>
+    <img alt="Griekenland" title="Foto: Pim" height="747" width="1328" style="font-size: 13.008px; width: 900px; height: 506px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/zaterdag2_0.jpg">  </div>
 
   
 </div>
@@ -63,7 +63,7 @@ Pim (17) uit Amsterdam is in Griekenland. Samen met tientallen medeleerlingen ga
         
   
   <div class="content">
-    <img alt="Navplion" title="Foto: Pim" height="634" width="746" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/zaterdag1_1.jpg">  </div>
+    <img alt="Navplion" title="Foto: Pim" height="634" width="746" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/zaterdag1_1.jpg">  </div>
 
   
 </div>
@@ -73,7 +73,7 @@ Pim (17) uit Amsterdam is in Griekenland. Samen met tientallen medeleerlingen ga
         
   
   <div class="content">
-    <img alt="cadeaus vluchtelingen" title="Foto: Pim" height="565" width="743" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/vrijdag3%20%282%29_0.jpg">  </div>
+    <img alt="cadeaus vluchtelingen" title="Foto: Pim" height="565" width="743" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/vrijdag3%20%282%29_0.jpg">  </div>
 
   
 </div>
@@ -85,7 +85,7 @@ Pim (17) uit Amsterdam is in Griekenland. Samen met tientallen medeleerlingen ga
         
   
   <div class="content">
-    <img alt="Griekenland" title="Foto: Pim" height="900" width="1600" style="width: 900px; height: 506px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/zondag1.jpg">  </div>
+    <img alt="Griekenland" title="Foto: Pim" height="900" width="1600" style="width: 900px; height: 506px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/zondag1.jpg">  </div>
 
   
 </div>
@@ -95,7 +95,7 @@ Pim (17) uit Amsterdam is in Griekenland. Samen met tientallen medeleerlingen ga
         
   
   <div class="content">
-    <img alt="Griekenland" title="Foto: Pim" height="900" width="1600" style="width: 900px; height: 506px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/zondag2.jpg">  </div>
+    <img alt="Griekenland" title="Foto: Pim" height="900" width="1600" style="width: 900px; height: 506px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/zondag2.jpg">  </div>
 
   
 </div>
@@ -105,7 +105,7 @@ Pim (17) uit Amsterdam is in Griekenland. Samen met tientallen medeleerlingen ga
         
   
   <div class="content">
-    <img alt="Griekenland" title="Foto: Pim" height="900" width="1600" style="width: 900px; height: 506px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/zondag3_0.jpg">  </div>
+    <img alt="Griekenland" title="Foto: Pim" height="900" width="1600" style="width: 900px; height: 506px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/zondag3_0.jpg">  </div>
 
   
 </div>
@@ -115,9 +115,9 @@ Pim (17) uit Amsterdam is in Griekenland. Samen met tientallen medeleerlingen ga
         
   
   <div class="content">
-    <img alt="graftombe" title="Foto: Pim" height="533" width="898" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/zondag4_1.jpg">  </div>
+    <img alt="graftombe" title="Foto: Pim" height="533" width="898" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/zondag4_1.jpg">  </div>
 
   
 </div>
 </div><em>Een graftombe bij de burcht van Mycene</em>
-<p><strong>Meer van Pim:</strong><br>- Deel 1: <a href="https://original.sevendays.nl/nieuws/we-hebben-geld-opgehaald-voor-vluchtelingen">'We hebben geld opgehaald voor vluchtelingen.'</a></p>  
+<p><strong>Meer van Pim:</strong><br>- Deel 1: <a href="https://7dagen.netlify.app/nieuws/we-hebben-geld-opgehaald-voor-vluchtelingen">'We hebben geld opgehaald voor vluchtelingen.'</a></p>  

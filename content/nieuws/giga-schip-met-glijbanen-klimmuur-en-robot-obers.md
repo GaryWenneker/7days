@@ -1,5 +1,5 @@
 ---
-id: 281778c97ea14e76998b2e856351a0c4
+id: 794e6852574d47b9be3925537004001d
 type: nieuws
 layout: post
 title: "Giga-schip met glijbanen, klimmuur en robot-obers"
@@ -20,7 +20,7 @@ Het is gloednieuw, extreem luxe en voorzien van heel veel nieuwe snufjes. Het a
         
   
   <div class="content">
-    <img height="566" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/1463476033_sbw-hn-0426.jpg" alt="">  </div>
+    <img height="566" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/1463476033_sbw-hn-0426.jpg" alt="">  </div>
 
   
 </div>
@@ -48,7 +48,7 @@ Het is gloednieuw, extreem luxe en voorzien van heel veel nieuwe snufjes. Het a
         
   
   <div class="content">
-    <img height="478" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/1463351473_harmony-cutaway_0.jpg" alt="">  </div>
+    <img height="478" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/1463351473_harmony-cutaway_0.jpg" alt="">  </div>
 
   
 </div>
@@ -59,7 +59,7 @@ Het is gloednieuw, extreem luxe en voorzien van heel veel nieuwe snufjes. Het a
         
   
   <div class="content">
-    <img height="899" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/1437058073_Launchpad-Overhead.jpg" alt="">  </div>
+    <img height="899" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/1437058073_Launchpad-Overhead.jpg" alt="">  </div>
 
   
 </div>
@@ -80,4 +80,4 @@ Het is gloednieuw, extreem luxe en voorzien van heel veel nieuwe snufjes. Het a
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

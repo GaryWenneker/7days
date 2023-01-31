@@ -1,5 +1,5 @@
 ---
-id: aed761f01f8a4cbe92f372a7d4432986
+id: 4a72d9bd565345afa197411b825a9d71
 type: nieuws
 layout: post
 title: "Doodnormaal in Tokio: een egeltjescafé"
@@ -103,4 +103,4 @@ Altijd al met een egeltje willen knuffelen? In het nieuwe egelcafé Harry in Tok
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws waar jij als jongere iets mee kunt? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement</a> op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws waar jij als jongere iets mee kunt? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement</a> op de krant!</em></p>  

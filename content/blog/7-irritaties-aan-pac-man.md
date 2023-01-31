@@ -1,5 +1,5 @@
 ---
-id: fc35ee6ff0dd45e895bc88b7107b60b1
+id: 8f9de5c6efa04de2951463475993e974
 type: post
 layout: post
 title: "7 irritaties aan Pac-Man"
@@ -22,7 +22,7 @@ Weinig spelletjes zijn zo verslavend als Pac-Man. Iedereen voelt zich weleens h
         
   
   <div class="content">
-    <img alt="PacMan: irritaties alom!" title="Beeld: Giphy" height="280" width="500" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/giphy_7.gif">  </div>
+    <img alt="PacMan: irritaties alom!" title="Beeld: Giphy" height="280" width="500" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/giphy_7.gif">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ Weinig spelletjes zijn zo verslavend als Pac-Man. Iedereen voelt zich weleens h
         
   
   <div class="content">
-    <img alt="PacMan: irritaties alom!" title="Beeld: Giphy" height="248" width="500" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/giphy%20%281%29_3.gif">  </div>
+    <img alt="PacMan: irritaties alom!" title="Beeld: Giphy" height="248" width="500" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/giphy%20%281%29_3.gif">  </div>
 
   
 </div>
@@ -50,7 +50,7 @@ Weinig spelletjes zijn zo verslavend als Pac-Man. Iedereen voelt zich weleens h
         
   
   <div class="content">
-    <img alt="PacMan: irritaties alom!" title="Beeld: Giphy" height="351" width="260" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/giphy%20%282%29_3.gif">  </div>
+    <img alt="PacMan: irritaties alom!" title="Beeld: Giphy" height="351" width="260" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/giphy%20%282%29_3.gif">  </div>
 
   
 </div>
@@ -58,7 +58,7 @@ Weinig spelletjes zijn zo verslavend als Pac-Man. Iedereen voelt zich weleens h
 <h3>7. Overig voedsel</h3>
 <p>Spookjes die je insluiten zijn gemeen, maar ook zeker spookjes die rond jou voedsel hangen. Op deze manier kun je nooit bij je voedsel komen - dan zou je ze recht in de armen vliegen. Als die spookjes even niet zo rond jou voedsel spoken was het allemaal een stuk makkelijker geweest. Maar nee, helaas luisteren de spookjes niet naar wat jij wilt. Stiekem best een rotspel, niet?</p>
 <div class="kader">
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p>Lees ook <a href="https://original.sevendays.nl/users/dominique-westerveld">de blogs die Dominique (15) eerder schreef</a></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p>Lees ook <a href="https://7dagen.netlify.app/users/dominique-westerveld">de blogs die Dominique (15) eerder schreef</a></p>
 </div>
   

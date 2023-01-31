@@ -1,5 +1,5 @@
 ---
-id: 61d057241c364256b99e2f5c937c5cce
+id: 6e53d151d9a2444d8aa2fd749e40494a
 type: nieuws
 layout: post
 title: "Bloedmooie bloedmaan"
@@ -19,7 +19,7 @@ Ja hoor, daar was-ie dan vannacht. De rode mega-maan. Lag jij gewoon lekker te s
         
   
   <div class="content">
-    <img title="Foto AFP" height="1754" width="7000" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-34360843.jpg" alt="">  </div>
+    <img title="Foto AFP" height="1754" width="7000" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-34360843.jpg" alt="">  </div>
 
   
 </div>
@@ -29,7 +29,7 @@ Ja hoor, daar was-ie dan vannacht. De rode mega-maan. Lag jij gewoon lekker te s
         
   
   <div class="content">
-    <img title="Foto EPA" height="2918" width="4096" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-34360331.jpg" alt="">  </div>
+    <img title="Foto EPA" height="2918" width="4096" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-34360331.jpg" alt="">  </div>
 
   
 </div>
@@ -39,7 +39,7 @@ Ja hoor, daar was-ie dan vannacht. De rode mega-maan. Lag jij gewoon lekker te s
         
   
   <div class="content">
-    <img title="Fot AFP" height="1691" width="2309" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-34360936_0.jpg" alt="">  </div>
+    <img title="Fot AFP" height="1691" width="2309" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-34360936_0.jpg" alt="">  </div>
 
   
 </div>
@@ -49,7 +49,7 @@ Ja hoor, daar was-ie dan vannacht. De rode mega-maan. Lag jij gewoon lekker te s
         
   
   <div class="content">
-    <img title="Foto EPA" height="3072" width="1978" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-34360361.jpg" alt="">  </div>
+    <img title="Foto EPA" height="3072" width="1978" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-34360361.jpg" alt="">  </div>
 
   
 </div>
@@ -59,9 +59,9 @@ Ja hoor, daar was-ie dan vannacht. De rode mega-maan. Lag jij gewoon lekker te s
         
   
   <div class="content">
-    <img title="Foto EPA" height="2732" width="4096" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-34360026.jpg" alt="">  </div>
+    <img title="Foto EPA" height="2732" width="4096" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-34360026.jpg" alt="">  </div>
 
   
 </div>
 </div><em>Hangend tussen twee spitsen van de kathedraal van Keulen, Duitsland.</em>
-<p><em>Wil je meer fotogalerijen bekijken? Op <a href="https://original.sevendays.nl/inbeeld">Sevendays.nl/inbeeld</a> vind je ons hele archief.</em></p>  
+<p><em>Wil je meer fotogalerijen bekijken? Op <a href="https://7dagen.netlify.app/inbeeld">Sevendays.nl/inbeeld</a> vind je ons hele archief.</em></p>  

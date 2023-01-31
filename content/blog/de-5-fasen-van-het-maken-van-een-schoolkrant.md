@@ -1,5 +1,5 @@
 ---
-id: 0ca7c3c8f3ba4aeeb8c1b8527433a828
+id: f681ae9e84f94fa584d6ce1326e37aaa
 type: post
 layout: post
 title: "De 5 fasen van het maken van een schoolkrant"
@@ -21,7 +21,7 @@ Als je gek bent op schrijven en net als ik graag de touwtjes in handen hebt, is 
         
   
   <div class="content">
-    <img alt="een overleg bij de schoolkrant" height="566" width="850" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/nynke.jpg">  </div>
+    <img alt="een overleg bij de schoolkrant" height="566" width="850" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/nynke.jpg">  </div>
 
   
 </div>
@@ -33,11 +33,11 @@ Als je gek bent op schrijven en net als ik graag de touwtjes in handen hebt, is 
         
   
   <div class="content">
-    <img alt="het edit programma voor de schoolkrant" title="Zo&#039;n priegelig programmaatje waar je slapeloze nachten van krijgt" height="982" width="1512" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Screenshot%202016-04-18%2020.04.01.png">  </div>
+    <img alt="het edit programma voor de schoolkrant" title="Zo&#039;n priegelig programmaatje waar je slapeloze nachten van krijgt" height="982" width="1512" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Screenshot%202016-04-18%2020.04.01.png">  </div>
 
   
 </div>
 </div>
 <p><strong>Fase 5: Lanceren die krant!</strong><br>En dan is het tijd voor het ware spektakel: de krant uitdelen! Altijd een hele happening op onze school. De hele redactie in kostuum (natúúrlijk overeenkomend met het thema van de krant), Céline Dion en K3 op de gettoblaster en dan maar door de lokalen stormen en de krantjes door de lucht smijten. Gegarandeerd dat iedereen meteen aan het lezen slaat. </p>
 <p>Het zal er op elke school wel iets anders (en hopelijk iets gestructureerder) aan toe gaan, maar ik vind het hele productieproces minstens zo leuk als het eindresultaat.</p>
-<p><em>Je kunt Rosemaries schoolkrant <a href="http://www.wpkeesboeke.nl/images/wp/KEES/KEES-4.pdf" target="_blank">hier</a> in zijn geheel bekijken. Meer van haar lezen? Laatst schreef ze ook al <a href="https://original.sevendays.nl/blog/het-zijn-maar-examens" target="_blank">Het zijn maar examens</a> en <a href="https://original.sevendays.nl/blog/nederland-door-de-ogen-van-een-buitenlander" target="_blank">Door de ogen van een buitenlander</a>. </em></p>  
+<p><em>Je kunt Rosemaries schoolkrant <a href="http://www.wpkeesboeke.nl/images/wp/KEES/KEES-4.pdf" target="_blank">hier</a> in zijn geheel bekijken. Meer van haar lezen? Laatst schreef ze ook al <a href="https://7dagen.netlify.app/blog/het-zijn-maar-examens" target="_blank">Het zijn maar examens</a> en <a href="https://7dagen.netlify.app/blog/nederland-door-de-ogen-van-een-buitenlander" target="_blank">Door de ogen van een buitenlander</a>. </em></p>  

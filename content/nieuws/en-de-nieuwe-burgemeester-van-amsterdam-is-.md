@@ -1,5 +1,5 @@
 ---
-id: fdd81637f4df47078878117893fa7c1e
+id: cc48a1052a7444b59a31c265aa5ec5d1
 type: nieuws
 layout: post
 title: "En de nieuwe burgemeester van Amsterdam is ..."

@@ -1,5 +1,5 @@
 ---
-id: 8e833433b7f74e3fbdb57b47dd0ea374
+id: 617d61db731d421e8e7939f4352b3517
 type: nieuws
 layout: post
 title: "Flinke ophef om verandering straatnaam"
@@ -13,7 +13,7 @@ seo:
 ---
 Een man in Zaanstad was het beu in 2016. Continu werden er homograppen over zijn straat de Hobo gemaakt. Hij begon een handtekeningenactie en met succes: Hobo werd Piccolo. Maar die \"hobofobe\" actie wordt nu weer teruggedraaid.  
 
-    <p>Na de verandering van Hobo naar Piccolo kreeg het Bureau Discriminatiezaken een hoop klachten binnen. De verandering zou beledigend zijn voor homo's. De organisatie stapte naar de gemeente en die gaf toe dat de naam niet veranderd had mogen worden. De plaatselijke D66 diende op <a href="https://original.sevendays.nl/nieuws-identiteit-lifestyle/coming-out-day-saar-geboren-als-jongen">Coming Out Day</a> een motie in om de naam weer terug te veranderen. Die werd aangenomen en Piccolo wordt weer Hobo.</p>
+    <p>Na de verandering van Hobo naar Piccolo kreeg het Bureau Discriminatiezaken een hoop klachten binnen. De verandering zou beledigend zijn voor homo's. De organisatie stapte naar de gemeente en die gaf toe dat de naam niet veranderd had mogen worden. De plaatselijke D66 diende op <a href="https://7dagen.netlify.app/nieuws-identiteit-lifestyle/coming-out-day-saar-geboren-als-jongen">Coming Out Day</a> een motie in om de naam weer terug te veranderen. Die werd aangenomen en Piccolo wordt weer Hobo.</p>
 <p><div class="media media-element-container media-default"><div id="file-534918" class="file file-document file-text-oembed">
 
         <h2 class="element-invisible"><a href="/files/d66zaanstad-1539342870">D66Zaanstad 1539342870</a></h2>
@@ -37,7 +37,7 @@ Een man in Zaanstad was het beu in 2016. Continu werden er homograppen over zijn
         
   
   <div class="content">
-    <img alt="Hobo" title="Foto: Pixabay" height="1080" width="1920" style="height: 338px; width: 600px;" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/hobo_0.jpg">  </div>
+    <img alt="Hobo" title="Foto: Pixabay" height="1080" width="1920" style="height: 338px; width: 600px;" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/hobo_0.jpg">  </div>
 
   
 </div>

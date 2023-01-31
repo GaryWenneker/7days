@@ -1,5 +1,5 @@
 ---
-id: 5efb58c84c704a67aed167c756c43fc6
+id: 5e119a412d8049c1a69de86ed5478fa4
 type: post
 layout: post
 title: "Ik mis die Maan-Roos-Vis-momentjes"
@@ -20,7 +20,7 @@ Met waterige oogjes kan ik foto's bekijken waar ik, als klein opdondertje, kwij
         
   
   <div class="content">
-    <img title="in bad" height="640" width="480" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/20160213_151608.jpg" alt="">  </div>
+    <img title="in bad" height="640" width="480" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/20160213_151608.jpg" alt="">  </div>
 
   
 </div>
@@ -30,4 +30,4 @@ Met waterige oogjes kan ik foto's bekijken waar ik, als klein opdondertje, kwij
 <p>Vorige week; kuchend naar school door de stromende regen. Met een gezicht dat griezelig overeenkomt met de hagelbui waar ik doorheen moet fietsen.</p>
 <p><strong>Multitaskend de dagen door</strong><br>Terwijl ik dit schrijf, ben ik even heftig aan het multitasken. Onbeschaamd kwijlend kijk ik naar de lugubere serie Misfits, schrijf ik deze column en slurp ik aan mijn latte macchiato.</p>
 <p>Klinkt heel volwassen toch? Maar ach, wat verlang ik soms terug naar die onvolwassen tijd. Wat zou ik soms graag feestmutsjes knutselen, blokfluit spelen en tikkertje doen! Dat was pas echt multitasken.</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/ezra-vogt">Ezra</a> (16)? Laatst schreef hij ook al <a href="https://original.sevendays.nl/blog/dat-kapsel-kan-echt-niet-meer-donald">Dat kapsel kan echt niet meer, Donald</a> en <a href="https://original.sevendays.nl/blog/hoe-ga-je-om-met-een-ernstig-zieke-klasgenoot">Hoe ga je om met een ernstig zieke klasgenoot?</a></em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/ezra-vogt">Ezra</a> (16)? Laatst schreef hij ook al <a href="https://7dagen.netlify.app/blog/dat-kapsel-kan-echt-niet-meer-donald">Dat kapsel kan echt niet meer, Donald</a> en <a href="https://7dagen.netlify.app/blog/hoe-ga-je-om-met-een-ernstig-zieke-klasgenoot">Hoe ga je om met een ernstig zieke klasgenoot?</a></em></p>  

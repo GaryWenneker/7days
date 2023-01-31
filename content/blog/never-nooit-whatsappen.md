@@ -1,5 +1,5 @@
 ---
-id: b220e5a436f64790ac9b9ff479ccad5a
+id: 5b8026eefa1f43a6a46085c9d4b54271
 type: post
 layout: post
 title: "Never nooit Whatsappen"
@@ -20,7 +20,7 @@ Tegenwoordig is je telefoon checken het eerste wat je doet als je wakker wordt. 
         
   
   <div class="content">
-    <a href="/files/thijs"><img height="220" width="147" style="float: left;" class="media-element file-teaser" src="https://original.sevendays.nl/sites/default/files/styles/medium/public/unnamed.jpg?itok=uNbRzeTQ" alt=""></a>  </div>
+    <a href="/files/thijs"><img height="220" width="147" style="float: left;" class="media-element file-teaser" src="https://7dagen.netlify.app/sites/default/files/styles/medium/public/unnamed.jpg?itok=uNbRzeTQ" alt=""></a>  </div>
 
   
 </div>

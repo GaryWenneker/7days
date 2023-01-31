@@ -1,5 +1,5 @@
 ---
-id: ad29ce8a136b4fe6aa43eacb6a3b2d88
+id: 90d558c1882944c6b3ee1dc429c39d60
 type: nieuws
 layout: post
 title: "Drie doden bij een schietpartij in Californië"
@@ -18,4 +18,4 @@ In Californië zijn bij een schietpartij op een basisschool drie doden gevallen.
 <p>De politie gaat vooralsnog uit van een incident in de relationele sfeer. Dit omdat de 53-jarige dader en de lerares getrouwd waren. Het stel zou onlangs uit elkaar zijn gegaan. De man heeft een strafblad waarop huiselijk geweld en wapenbezit staan vermeld. </p>
 <h3>San Bernardino</h3>
 <p>De schietpartij was in San Bernardino, op een school waar kinderen zitten met een stoornis of handicap. De stad kwam al eerder in het nieuws door een terroristische aanslag, in december 2015. Toen vielen twee terroristen een zorgcentrum binnen waarbij veertien mensen om het leven kwamen.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant 7Days!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant 7Days!</em></p>  

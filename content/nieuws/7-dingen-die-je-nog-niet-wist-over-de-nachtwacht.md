@@ -1,5 +1,5 @@
 ---
-id: 00edb644bac84aafbac482e9ff881b80
+id: a5d9c3dcfd534d41b3529cf45be7df87
 type: nieuws
 layout: post
 title: "7 dingen die je nog niet wist over De Nachtwacht"
@@ -23,7 +23,7 @@ Eeuwenoud en een beetje versleten: De Nachtwacht. Het beroemde schilderij van Re
         
   
   <div class="content">
-    <img alt="ANP" title="Foto: ANP" height="3158" width="4670" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-32650802_0.jpg">  </div>
+    <img alt="ANP" title="Foto: ANP" height="3158" width="4670" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-32650802_0.jpg">  </div>
 
   
 </div>

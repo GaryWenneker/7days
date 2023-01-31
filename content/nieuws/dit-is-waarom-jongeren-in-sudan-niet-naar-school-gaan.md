@@ -1,5 +1,5 @@
 ---
-id: 8021895bb11b41cab7be731e096f8130
+id: ba02703dfa18494e8109a184b450cf9b
 type: nieuws
 layout: post
 title: "Dit is waarom jongeren in Sudan niet naar school gaan"
@@ -20,7 +20,7 @@ Jongeren in Sudan krijgen even geen les. Vanwege de onrust in het land, heeft de
         
   
   <div class="content">
-    <img alt="ANP" title="ANP " height="2592" width="3888" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-75425242_0.jpg">  </div>
+    <img alt="ANP" title="ANP " height="2592" width="3888" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-75425242_0.jpg">  </div>
 
   
 </div>
@@ -32,7 +32,7 @@ Jongeren in Sudan krijgen even geen les. Vanwege de onrust in het land, heeft de
         
   
   <div class="content">
-    <img alt="ANP" title="ANP " height="2253" width="3379" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/ANP-75932118_2.jpg">  </div>
+    <img alt="ANP" title="ANP " height="2253" width="3379" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/ANP-75932118_2.jpg">  </div>
 
   
 </div>

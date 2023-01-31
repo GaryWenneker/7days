@@ -1,5 +1,5 @@
 ---
-id: 1cc256326fa14203990129c3e3623154
+id: dbfa7ccdc3bc4d218b1cbfd6bf72905a
 type: post
 layout: post
 title: "Geen zakje chips, maar gebakken lucht"
@@ -20,7 +20,7 @@ Hartstikke lekker, zo’n klein zakje chips. Handig ook, want dan eet je niet me
         
   
   <div class="content">
-    <img height="3864" width="5152" style="font-size: 13.008px; line-height: 20.0063px; height: 300px; width: 400px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/DSC00135.JPG" alt="">  </div>
+    <img height="3864" width="5152" style="font-size: 13.008px; line-height: 20.0063px; height: 300px; width: 400px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/DSC00135.JPG" alt="">  </div>
 
   
 </div>
@@ -31,7 +31,7 @@ Hartstikke lekker, zo’n klein zakje chips. Handig ook, want dan eet je niet me
         
   
   <div class="content">
-    <img height="3864" width="5152" style="width: 400px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/DSC00137_0.JPG" alt="">  </div>
+    <img height="3864" width="5152" style="width: 400px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/DSC00137_0.JPG" alt="">  </div>
 
   
 </div>
@@ -42,11 +42,11 @@ Hartstikke lekker, zo’n klein zakje chips. Handig ook, want dan eet je niet me
         
   
   <div class="content">
-    <img height="3864" width="5152" style="width: 400px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/DSC00142.JPG" alt="">  </div>
+    <img height="3864" width="5152" style="width: 400px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/DSC00142.JPG" alt="">  </div>
 
   
 </div>
 </div>
 <p>De chips is nog altijd lekker hoor, maar Lay's heeft volgens mij duidelijk een fout gemaakt bij het maken van deze verpakkingen. Het is niet alleen erg zonde van al het plastic, het is ook een heftige gewaarwording voor nietsvermoedende kinderen die nog in Sinterklaas geloven, denken dat de wereld nog een groot feest is en niet voorbereid zijn op deze bedriegerij. Al zullen kinderen het misschien niet opmerken. </p>
 <p>Als ik de klantenservice van Lay's met mijn deze gebakken lucht confronteer, kom ik met de reactie daarop niet veel verder: 'Dit zorgt voor een beschermende laag rondom de chips, om breuk zoveel mogelijk te voorkomen.' Wat is er mis met meer gebroken chipjes, als je daar méér voor in de plaats krijgt?<br><br>Ik ga terug naar de winkel (party in de supermarkt) en koop een mediumzak naturelchips van Lays. Omgerekend (dus min de lucht) precies genoeg voor één persoon.  </p>
-<p><strong>Meer blogs van Lucas lezen? <a href="https://original.sevendays.nl/users/lucas-versteeg">Hier</a> vind je zijn hele archief.</strong></p>  
+<p><strong>Meer blogs van Lucas lezen? <a href="https://7dagen.netlify.app/users/lucas-versteeg">Hier</a> vind je zijn hele archief.</strong></p>  

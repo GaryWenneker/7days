@@ -1,5 +1,5 @@
 ---
-id: 2b27db2ab3f34f14a6089dbc28cb1768
+id: b623c54da86c4fda84e30a97deb643b4
 type: nieuws
 layout: post
 title: " Geld verdienen met YouTube wordt lastiger"
@@ -13,7 +13,7 @@ seo:
 ---
 Geld verdienen met vloggen wordt lastiger. YouTube heeft namelijk de regels rondom advertenties en inkomsten verscherpt. Ze willen zo voorkomen dat ongepaste video's advertenties krijgen.  
 
-    <p>YouTube scherpt de regels aan na het gedoe rondom YouTuber <a href="https://www.instagram.com/loganpaul/" target="_blank">Logan Paul</a>. De vlogger plaatste <a href="https://original.sevendays.nl/nieuws/deel-1-wat-mag-je-wel-en-niet-doen-een-vlog">een video</a> op zijn kanaal waarin hij filmt in een zelfmoordbos. Veel adverteerders vonden dit erg ongepast. Met de nieuwe regels wil YouTube dus voorkomen dat dit soort video’s advertenties krijgen. </p>
+    <p>YouTube scherpt de regels aan na het gedoe rondom YouTuber <a href="https://www.instagram.com/loganpaul/" target="_blank">Logan Paul</a>. De vlogger plaatste <a href="https://7dagen.netlify.app/nieuws/deel-1-wat-mag-je-wel-en-niet-doen-een-vlog">een video</a> op zijn kanaal waarin hij filmt in een zelfmoordbos. Veel adverteerders vonden dit erg ongepast. Met de nieuwe regels wil YouTube dus voorkomen dat dit soort video’s advertenties krijgen. </p>
 <h3>20 februari</h3>
 <p>Kanalen die geld willen verdienen met hun video’s moeten voortaan minstens duizend abonnees hebben. Ook moeten de video’s in de laatste twaalf maanden minstens vierduizend uur zijn bekeken. Is dat niet het geval? Dan krijg je van YouTube geen inkomsten uit de advertenties. YouTubers die nu al grote kanalen hebben moeten op 20 februari aan de eisen voldoen. </p>
 <h3>Effect</h3>

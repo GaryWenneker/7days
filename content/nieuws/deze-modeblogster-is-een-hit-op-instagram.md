@@ -1,5 +1,5 @@
 ---
-id: c40450578e41482f8802ce8c3c9c6272
+id: 17e834b9aa9049e0b8f9bca324598aad
 type: nieuws
 layout: post
 title: "Deze modeblogster is een hit op Instagram"
@@ -85,4 +85,4 @@ De godin van de eeuwige, bevroren jeugd. Zo wordt modeblogster Lure Hsu uit Tai
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><em><a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, </em><em>download onze</em><em> </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op 7Days!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><em><a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, </em><em>download onze</em><em> </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op 7Days!</em></p>  

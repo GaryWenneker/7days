@@ -1,5 +1,5 @@
 ---
-id: 0eef6326f1be4a76bb500e0b5b45af2c
+id: c56f567428704a96b6ad9a730758a93b
 type: nieuws
 layout: post
 title: "Bevrijdingsdag: Nederland is niet in een dag bevrijd"
@@ -22,7 +22,7 @@ Elk jaar vieren we op Bevrijdingsdag dat Nederland op 5 mei 1945 werd bevrijd va
         
   
   <div class="content">
-    <img title="Beeld: ANP" height="464" width="979" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202016-05-04%20om%2015.37.13.png" alt="">  </div>
+    <img title="Beeld: ANP" height="464" width="979" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202016-05-04%20om%2015.37.13.png" alt="">  </div>
 
   
 </div>
@@ -56,7 +56,7 @@ Elk jaar vieren we op Bevrijdingsdag dat Nederland op 5 mei 1945 werd bevrijd va
         
   
   <div class="content">
-    <img height="537" width="1038" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202016-05-04%20om%2015.43.05.png" alt="">  </div>
+    <img height="537" width="1038" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202016-05-04%20om%2015.43.05.png" alt="">  </div>
 
   
 </div>
@@ -72,7 +72,7 @@ Elk jaar vieren we op Bevrijdingsdag dat Nederland op 5 mei 1945 werd bevrijd va
         
   
   <div class="content">
-    <img height="547" width="1025" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202016-05-04%20om%2015.35.59.png" alt="">  </div>
+    <img height="547" width="1025" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202016-05-04%20om%2015.35.59.png" alt="">  </div>
 
   
 </div>

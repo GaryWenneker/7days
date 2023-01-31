@@ -1,5 +1,5 @@
 ---
-id: 7f72665c17b84406ab58d81f5e96ca88
+id: f631c2bc6c224e65800407aa12ad246d
 type: nieuws
 layout: post
 title: "Eindelijk: er is een Brexit-deal!"

@@ -1,5 +1,5 @@
 ---
-id: 7fa485fc223e49648589248e6ed78b3e
+id: e8581f8348654441b34d4bd850e2ee69
 type: post
 layout: post
 title: "Maak je niet druk om je eerste keer"
@@ -20,4 +20,4 @@ Je eerste keer, daar gaat iedereen anders mee om. Misschien kun je niet wachten,
 <p>De eerste keer dat je probeerde te lopen, viel je waarschijnlijk vol op je bek. Net als de eerste keer dat je probeerde te fietsen zonder zijwieltjes. Zo ga je waarschijnlijk ook vol op je bek als je voor het eerst probeert te zoenen (zeker als je dat 'op je bek gaan' daarbij iets te letterlijk neemt). </p>
 <p><strong>Zo leer je het</strong><br>Of het nou gaat over zoenen, seks of het koken van macaroni: de eerste keer is moeilijk en ongemakkelijk. En waarschijnlijk ga je op je bek. Maar dat is eigenlijk ook de enige manier om het te leren. Door iets fout te doen, weet je de volgende keer hoe het anders moet. En naarmate je iets wat vaker doet, word je er vanzelf beter in. </p>
 <p>Hecht dus vooral niet te veel waarde aan je eerste keer. Zodra je een tweede keer hebt gehad, ben je die eerste toch alweer vergeten. </p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/cas-visser">Cas </a>(17)? Laatst schreef hij ook al <a href="https://original.sevendays.nl/blog/het-gemeenste-jurylid-ooit-simon-cowell-wel-zo-gemeen">Is Simon Cowell wel zo gemeen?</a> en <a href="https://original.sevendays.nl/blog/speciaal-voor-non-koks-twee-verrassend-eenvoudige-recepten">Speciaal voor non-koks: twee verrassend eenvoudige recepten</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/cas-visser">Cas </a>(17)? Laatst schreef hij ook al <a href="https://7dagen.netlify.app/blog/het-gemeenste-jurylid-ooit-simon-cowell-wel-zo-gemeen">Is Simon Cowell wel zo gemeen?</a> en <a href="https://7dagen.netlify.app/blog/speciaal-voor-non-koks-twee-verrassend-eenvoudige-recepten">Speciaal voor non-koks: twee verrassend eenvoudige recepten</a>.</em></p>  

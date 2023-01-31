@@ -1,5 +1,5 @@
 ---
-id: b13661d3cae648e5943f64bca1aabf37
+id: 0b3a6eb214af44c2b60edb87f685c735
 type: nieuws
 layout: post
 title: "Examenstunt zorgt voor sluiting school in Amstelveen "
@@ -18,4 +18,4 @@ In je examenjaar de school één dag op zijn kop zetten tijdens de examenstunt. 
 <p>Ook huurde de school beveiligers met honden in om de leerlingen op afstand te houden. Dat hield een grote rel tegen, maar toch kwam er een groep jongeren naar school. Enkele van hen hadden eieren en vuurwerk bij zich. Een scholier werd opgepakt nadat hij een handhaver zou hebben bespuugd. Het is nog niet duidelijk of de jongeren die kwamen om vuurwerk af te steken ook vervolgd zullen worden. </p>
 <h3>Uit de hand</h3>
 <p>Het is niet de eerste keer dat een examenstunt uit de hand dreigt te lopen. In 2017 besmeurden leerlingen van het IJburg College lokalen met meel en eieren, waarna de politie werd gebeld. Een jaar eerder, in 2016, besloten leerlingen van het De Rietlanden met bivakmutsen op een rookbom in de school te gooien. Ook deze stunt zorgde voor veel onrust bij de leerlingen en de schoolleiding. </p>
-<p>Wil je meer uit de hand gelopen examenstunts lezen? Lees dan: <a href="https://original.sevendays.nl/nieuws-entertainment-lifestyle/7-totaal-uit-de-hand-gelopen-examenstunts">7 uit de hand gelopen examenstunts</a>.</p>  
+<p>Wil je meer uit de hand gelopen examenstunts lezen? Lees dan: <a href="https://7dagen.netlify.app/nieuws-entertainment-lifestyle/7-totaal-uit-de-hand-gelopen-examenstunts">7 uit de hand gelopen examenstunts</a>.</p>  

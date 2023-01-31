@@ -1,5 +1,5 @@
 ---
-id: 99d7a4b87b0748448433f877e73b7c56
+id: 47fc12cb09f34a8283615b4cfa31501c
 type: nieuws
 layout: post
 title: "Dit is het verhaal van Syriëganger Laura Hansen"
@@ -34,7 +34,7 @@ Werd ze ontvoerd naar IS-gebied, of ging ze er bewust heen? Dat is de vraag in d
         
   
   <div class="content">
-    <img alt="IS-geweld" title="Beeld: AFP" height="500" width="850" style="font-size: 13.008px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-28620361_1_1.jpg">  </div>
+    <img alt="IS-geweld" title="Beeld: AFP" height="500" width="850" style="font-size: 13.008px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-28620361_1_1.jpg">  </div>
 
   
 </div>
@@ -48,7 +48,7 @@ Werd ze ontvoerd naar IS-gebied, of ging ze er bewust heen? Dat is de vraag in d
         
   
   <div class="content">
-    <img alt="IS-geweld" title="Beeld: AFP" height="783" width="1347" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/is%20%281%29.jpg">  </div>
+    <img alt="IS-geweld" title="Beeld: AFP" height="783" width="1347" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/is%20%281%29.jpg">  </div>
 
   
 </div>
@@ -58,8 +58,8 @@ Werd ze ontvoerd naar IS-gebied, of ging ze er bewust heen? Dat is de vraag in d
 <h3>Veel vragen, weinig antwoorden</h3>
 <p>In oktober begint het proces tegen Laura. Dan moet de rechter een oordeel vellen: is Laura echt ontvoerd? Is ze uit liefde meegegaan naar Syrië, of uit angst? En als ze wel bewust naar IS-gebied is afgereisd, heeft ze daar ook bijgedragen aan terroristische misdrijven? Een grote, ingewikkelde zaak, waarbij het de vraag is of de antwoorden ooit allemaal boven water komen.</p>
 <div class="kader">
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p>Vond je dit interessant? Lees dan ook eens<a href="https://original.sevendays.nl/nieuws/wanneer-iets-terrorisme-niet" target="_blank"> Wanneer is iets terrorisme of niet?</a> en <a href="https://original.sevendays.nl/nieuws/wat-dodelijker-terrorisme-bliksem-grasmaaiers" target="_blank">Wat is dodelijker: terrorisme, bliksem of grasmaaiers?</a></p>
-<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://original.sevendays.nl/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp, </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p>Vond je dit interessant? Lees dan ook eens<a href="https://7dagen.netlify.app/nieuws/wanneer-iets-terrorisme-niet" target="_blank"> Wanneer is iets terrorisme of niet?</a> en <a href="https://7dagen.netlify.app/nieuws/wat-dodelijker-terrorisme-bliksem-grasmaaiers" target="_blank">Wat is dodelijker: terrorisme, bliksem of grasmaaiers?</a></p>
+<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://7dagen.netlify.app/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp, </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
 </div>
   

@@ -1,5 +1,5 @@
 ---
-id: 605214439eee46e2a12a24a20b6b933e
+id: 12832ff9df6542469451b1ca1f1ed5a1
 type: nieuws
 layout: post
 title: "7 weetjes over liefde in andere landen"

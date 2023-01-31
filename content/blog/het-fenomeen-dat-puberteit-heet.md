@@ -1,5 +1,5 @@
 ---
-id: 9b76ffe8907141ed8de541527bf2f4a1
+id: 9f56ab9679444b8e98e4566dec389b0e
 type: post
 layout: post
 title: "Het fenomeen dat puberteit heet"
@@ -20,7 +20,7 @@ seo:
         
   
   <div class="content">
-    <img title="Foto Merel" height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Puberbrief%20Merel%201.jpg" alt="">  </div>
+    <img title="Foto Merel" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Puberbrief%20Merel%201.jpg" alt="">  </div>
 
   
 </div>
@@ -30,7 +30,7 @@ seo:
         
   
   <div class="content">
-    <img title="Foto Merel" height="700" width="850" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Puberbrief%20Merel%202.jpg" alt="">  </div>
+    <img title="Foto Merel" height="700" width="850" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Puberbrief%20Merel%202.jpg" alt="">  </div>
 
   
 </div>

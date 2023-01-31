@@ -1,0 +1,22 @@
+---
+id: f02e6596a15043e493e1d2753ffafc22
+type: nieuws
+layout: post
+title: "Kris en Lisanne: het verhaal rond?"
+permalink: /nieuws/kris-en-lisanne-het-verhaal-rond/
+date: 2022-05-11T19:16:41.067Z
+author: 7biA1WiYB
+excerpt: "Wat is er gebeurd met de in Panama verdwenen Kris (21) en Lisanne (22)? Die vraag houdt de familie van de twee vermiste meisjes sinds hun verdwijning bezig. Opsporingsdiensten gingen alle mogelijke scenario's af voordat er gisteren een antwoord werd geformuleerd: de vriendinnen zijn waarschijnlijk gevallen tijdens een wandeling. We zetten de verschillende verhalen én de conclusie voor je op een rij.  "
+seo:
+  description: "Kris en Lisanne: het verhaal rond?"
+  title: "Kris en Lisanne: het verhaal rond?"
+---
+Wat is er gebeurd met de in Panama verdwenen Kris (21) en Lisanne (22)? Die vraag houdt de familie van de twee vermiste meisjes sinds hun verdwijning bezig. Opsporingsdiensten gingen alle mogelijke scenario's af voordat er gisteren een antwoord werd geformuleerd: de vriendinnen zijn waarschijnlijk gevallen tijdens een wandeling. We zetten de verschillende verhalen én de conclusie voor je op een rij.  
+
+    <p><strong>Verdwaald?</strong><br>Kris Kremers en Lisanne Froon worden op 1 april 2014 voor het laatst gezien door de eigenares van het pension waar ze logeren. De twee gaan een wandeling maken in de jungle bij de Panamese plaats Boquete. Ze keren nooit terug. Op 4 april wordt een grote zoekactie georganiseerd. Alle routes die de meisjes hadden kunnen nemen worden uitgekamd, maar het is vanwege het weer en het dichtbegroeide gebied niet makkelijk zoeken. Er wordt voorlopig vanuit gegaan dat de twee verdwaald zijn. </p>
+<p><strong>Ontvoerd?</strong><br>Maar al snel doen wilde verhalen de ronde. Op 8 juni schrijft het AD zelfs dat de studentes mogelijk slachtoffer zijn geworden van orgaanhandelaren. In dit artikel, waarvoor de krant zich later excuseert, wordt gesuggereerd dat de vrouwen zouden zijn ingestapt bij een neptaxi. Ze zouden zijn omgebracht zodat handelaren hun organen konden verkopen. Zéér onwaarschijnlijk, blijkt later, maar heel Nederland is in de ban van het gruwelijke nieuws. Zeker als op 14 juni een rugtas met twee telefoons en botresten worden gevonden op zo'n 8 uur lopen van Boquete. </p>
+<p>Dat de meisjes slachtoffer zijn geworden van een misdrijf, lijkt zeker. In een verdwaling gelooft niemand meer. 'Dat is uitgesloten,' zegt privé-rechercheur Dick Steffens tegen De Volkskrant op 4 oktober. Uit de telefoongegevens van de meisjes, die hij heeft onderzocht, blijkt dat de meisjes tot 5 april verschillende keren geprobeerd hebben te bellen. Ook later zijn de telefoons nog gebruikt, maar dan zonder simcodes: wellicht door misdadigers die de codes niet kenden. Er staan ook foto's op de telefoons, van een donkere begroeide wand. Zijn de meisjes ontvoerd?</p>
+<p>Op 19 juni worden er nog meer lichamelijke resten gevonden. Al gauw wordt duidelijk dat ze van Lisanne zijn. Ook Kris' resten worden geïdentificeerd. De familie van Kris reist af naar Panama om de wandeling te reconstrueren. Ze geloven niet dat de meisjes zomaar verdwaald zijn. 'Daarvoor zijn er teveel onbeantwoorde vragen,' zegt de vader van Kris tegen EenVandaag. </p>
+<p><strong>Gevallen!</strong><br>In januari 2015 vertrekt een speciaal team naar Panama om voor de laatste keer onderzoek te doen naar de verdwenen meisjes. Er zitten forensisch specialisten bij, maar ook een criminoloog en een DNA-deskundige. Zij lopen de wandeling zelf en concluderen dat een 'noodlottig ongeval' de meest logische verklaring is voor de verdwijning van de meisjes. </p>
+<p>'Het gebied (...) leent zich eenvoudigweg niet voor verdwalen,' zegt de onderzoeksleider tegen de NOS. Ook een misdrijf lijkt na uitgebreid onderzoek heel onwaarschijnlijk. Het moet dus bijna wel een ongeluk zijn geweest, laat de familie in een persbericht weten.<br>Kortom:<br>Het open einde van het verhaal lijkt te zijn ingevuld: Kris en Lisanne glijden op 1 april uit op een van de zeer steile hellingen van het Pianista-gebied. Eenmaal beneden is het onmogelijk weer terug te klimmen. Hun telefoons hebben geen bereik, maar de foto's die de meisjes maken lijken van de rivierbedding te zijn die daar later onderzocht wordt. De rivier bij deze bedding stroomt naar het gebied waar hun overblijfselen worden gevonden.</p>
+<p>Hoe verdrietig deze afloop ook is, de familie heeft laten weten opgelucht te zijn dat er nu een 'mogelijke en plausibele' verklaring is. Eindelijk een antwoord! </p>  

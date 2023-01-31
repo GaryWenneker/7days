@@ -1,5 +1,5 @@
 ---
-id: 0781d8a28e49494a9645559c3384b618
+id: c3c34df0234640f689388938c4776d54
 type: post
 layout: post
 title: "Tijd voor een (kli)maatje minder"
@@ -23,6 +23,6 @@ Aan je schoenmaat kun je weinig doen. Maar wat je wél kunt veranderen is je e
 <h3>Tips voor een maatje minder</h3>
 <p>Om ervoor te zorgen dat de aarde niet <em>game over </em>is over honderd jaar, moeten we hard aan de slag. Gelukkig kun je zelf een hoop dingen doen. Minder of geen vlees eten, niet met het vliegtuig reizen en kort douchen ken je inmiddels vast wel. Maar met deze drie nieuwe tips verklein je jouw ecologische voetafdruk makkelijk en schuiven we Earth Overshoot Day een stukje vooruit. Doe je mee?</p>
 <ul><li>Koop je jeans bewust. Het kost zo’n 10.000 liter water om één spijkerbroek te produceren. Da’s net zoveel als 200 dagen 6 minuten lang douchen. Én er komt evenveel CO₂ vrij als bij 150 kilometer autorijden. <a href="https://www.voordewereldvanmorgen.nl/duurzame-blogs/5x-duurzaam-denim" target="_blank">Hier </a>vind je een aantal Nederlandse jeansmerken die hun jeans op een minder vervuilende manier produceren.</li>
-<li>Probeer zo <a href="https://original.sevendays.nl/lifestyle/zo-ga-je-voor-zero-waste" target="_blank"><em>zero waste </em></a>mogelijk te leven. Dit betekent dat je geen afval overhoudt na het gebruik. Ik kies bijvoorbeeld voor verpakkingsvrije groentes, shampoobars en – heel simpel – een herbruikbare waterfles.</li>
+<li>Probeer zo <a href="https://7dagen.netlify.app/lifestyle/zo-ga-je-voor-zero-waste" target="_blank"><em>zero waste </em></a>mogelijk te leven. Dit betekent dat je geen afval overhoudt na het gebruik. Ik kies bijvoorbeeld voor verpakkingsvrije groentes, shampoobars en – heel simpel – een herbruikbare waterfles.</li>
 <li>Haal alle stekkers uit het stopcontact als je ze niet gebruikt. Het is misschien makkelijk om ze lekker te laten zitten, maar ook als er geen apparaat is aangesloten, gaat er stroom verloren: hartstikke zonde!</li>
 </ul>  

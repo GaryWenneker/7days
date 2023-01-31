@@ -1,5 +1,5 @@
 ---
-id: a0c35a7aa985490c88b11eb1c52dbe42
+id: 16a14ef6b26242b089ef4ef7bbe30629
 type: nieuws
 layout: post
 title: "Charly (17) voorlopig uit Spaanse gevangenis"
@@ -13,7 +13,7 @@ seo:
 ---
 De Nederlandse scholier Charly die van aanranding van twee meisjes wordt verdacht, wordt vanmiddag voorlopig vrijgelaten, dat schrijft de NOS.  
 
-    <p>De zeventienjarige <a href="https://original.sevendays.nl/nieuws/mag-charly-17-de-spaanse-cel-verlaten" target="_blank">Charly </a>zit sinds augustus vorig jaar in een gesloten jeugdgevangenis in Spanje. Hij wordt beschuldigd van het misbruik van twee Britse meisjes van 12 en 14 jaar.</p>
+    <p>De zeventienjarige <a href="https://7dagen.netlify.app/nieuws/mag-charly-17-de-spaanse-cel-verlaten" target="_blank">Charly </a>zit sinds augustus vorig jaar in een gesloten jeugdgevangenis in Spanje. Hij wordt beschuldigd van het misbruik van twee Britse meisjes van 12 en 14 jaar.</p>
 <h3>Voorlopige vrijheid</h3>
 <p>Tegen Charly is door justitie vier jaar cel en een jaar ondertoezichtstelling geëist. De rechter stemde volgens de <em>NOS </em>in met de eis van de advocaten van Charly: tijdens het strafproces afgelopen week vroegen ze om voorlopige invrijheidstelling van de scholier.</p>
 <h3>Uitspraak</h3>

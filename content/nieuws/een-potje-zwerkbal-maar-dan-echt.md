@@ -1,5 +1,5 @@
 ---
-id: 8a3f783ad68f43c084bc8eb60ee37725
+id: c32962660b614f1ea58e23521d550f66
 type: nieuws
 layout: post
 title: "Een potje zwerkbal, maar dan echt"
@@ -35,7 +35,7 @@ Welke Harry Potter-fan droomt er niet van? Een potje zwerkbal, zoals het hoort. 
         
   
   <div class="content">
-    <img height="627" width="997" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/hpfb.png" alt="">  </div>
+    <img height="627" width="997" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/hpfb.png" alt="">  </div>
 
   
 </div>

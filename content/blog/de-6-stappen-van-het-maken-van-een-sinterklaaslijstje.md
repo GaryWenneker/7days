@@ -1,5 +1,5 @@
 ---
-id: bb379bef6945413e9a3b43b169f44c4b
+id: 5613612fc3ef458e998fce936405bc71
 type: post
 layout: post
 title: "De 6 stappen van het maken van een sinterklaaslijstje"
@@ -25,4 +25,4 @@ Ieder jaar is het weer zover: het gevreesde verlanglijstje dat voor die lieve go
 <p>Na weken zoeken vind je op het nippertje het ideale cadeau: een fantastisch boek, een leuke trui of een nieuwe gadget. Hopelijk kan de Sint er nog wat mee.</p>
 <h3>Stap 6: Toch die geitenwollensokken krijgen</h3>
 <p>Schijnbaar was er een storing op Bol.com, werd de boekhandel vlak voor Sints neus gesloten en was alleen nog de geitenwollensokkenwinkel open. Ach, in ieder geval warme voeten de komende wintermaanden. Net als vorig jaar.</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/jeanine-krist">Jeanine </a>(15)? Laatst schreef ze ook <a href="https://original.sevendays.nl/blog/voorspelbare-avonturen-het-hondenpark">Voorspelbare avonturen in het hondenpark</a> en <a href="https://original.sevendays.nl/blog/waar-eindigt-een-passie-en-begint-een-obsessie">Waar eindigt een passie en begint een obsessie?</a></em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/jeanine-krist">Jeanine </a>(15)? Laatst schreef ze ook <a href="https://7dagen.netlify.app/blog/voorspelbare-avonturen-het-hondenpark">Voorspelbare avonturen in het hondenpark</a> en <a href="https://7dagen.netlify.app/blog/waar-eindigt-een-passie-en-begint-een-obsessie">Waar eindigt een passie en begint een obsessie?</a></em></p>  

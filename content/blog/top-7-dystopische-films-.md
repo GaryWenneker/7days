@@ -1,5 +1,5 @@
 ---
-id: 87b650d101f64ca0a602378353237716
+id: 3ebd35e750dc460ab171d890f3bc2db6
 type: post
 layout: post
 title: "Top 7 dystopische films "
@@ -104,7 +104,7 @@ Deze maand kwam alweer de derde film in de Divergent Series uit. In Allegiant
   
 </div>
 </div>
-<p><strong>7. Mad Max</strong> (1979, IMDb: 7,0)<br>De eerste film, dat zich afspeelde in een dystopisch Australië vol bendes en een gebrek aan olie, was misschien niet zo'n succes. Het vervolg<em> The Road Warrior</em> uit 1981 des te meer. Vorig jaar kwam dan eindelijk nog een vervolg: <em><a href="https://original.sevendays.nl/recensies/film/leander-kijkt-mad-max-fury-road">Fury Road</a>. </em>Een ongelofelijk goede film die terecht met zes Oscars is bekroond. Vol keiharde actie, zinderende muziek en vette stunts. Een van de beste actiefilms aller tijden, als je het mij vraagt.</p>
+<p><strong>7. Mad Max</strong> (1979, IMDb: 7,0)<br>De eerste film, dat zich afspeelde in een dystopisch Australië vol bendes en een gebrek aan olie, was misschien niet zo'n succes. Het vervolg<em> The Road Warrior</em> uit 1981 des te meer. Vorig jaar kwam dan eindelijk nog een vervolg: <em><a href="https://7dagen.netlify.app/recensies/film/leander-kijkt-mad-max-fury-road">Fury Road</a>. </em>Een ongelofelijk goede film die terecht met zes Oscars is bekroond. Vol keiharde actie, zinderende muziek en vette stunts. Een van de beste actiefilms aller tijden, als je het mij vraagt.</p>
 <p><div class="media media-element-container media-default"><div id="file-14448" class="file file-video file-video-youtube">
 
         <h2 class="element-invisible"><a href="/files/mad-max-fury-road-official-trailer-2-2015-tom-hardy-charlize-theron-movie-hd">Mad Max: Fury Road Official Trailer #2 (2015) - Tom Hardy, Charlize Theron Movie HD</a></h2>

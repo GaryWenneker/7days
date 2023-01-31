@@ -1,5 +1,5 @@
 ---
-id: c824ecc0479b41f18a0f957685e8e70e
+id: 0b3527f220e146f99f7724d85dae4ed6
 type: nieuws
 layout: post
 title: "9.456 jongeren één klik verwijderd van cybercrime"
@@ -21,7 +21,7 @@ De politie heeft de afgelopen dagen 9.456 Nederlandse jongeren laten zien hoe wa
 <p>De video’s die voor de campagne waren gemaakt werden de afgelopen dagen 500.000 keer bekeken. Uiteindelijk klikten 9.456 jongeren door op de links die hen een stapje dichter bij cybercrime brachten. 38 procent van hen gaf aan niet te weten dat het strafbaar was. Ruim de helft zei het gedrag te veranderen na het zien van de video en 57 procent gaf aan dat de boodschap hen aan het denken heeft gezet.</p>
 <h3>Lol</h3>
 <p>Uit onderzoek van Safer Internet Centre Nederland bleek vorig jaar dat een derde van de jongeren van 16 en 17 jaar weleens een cyberdelict heeft gepleegd: bijvoorbeeld hacken of je online als iemand anders voordoen. Vaak was het puur voor de lol, maar ernstiger was het als het ging om het ontfutselen van vertrouwelijke gegevens of bedreigingen van mensen. </p>
-<p>Uit hetzelfde <a href="https://original.sevendays.nl/nieuws/dvd-stelen-erger-dan-illegaal-downloaden" target="_blank">onderzoek</a> bleek dat jongeren inbreken in iemands huis erger vinden dan inbreken in iemands computer. Dat lijkt voor hen onschuldiger, maar beide handelingen zijn strafbaar én kunnen grote gevolgen hebben.</p>
+<p>Uit hetzelfde <a href="https://7dagen.netlify.app/nieuws/dvd-stelen-erger-dan-illegaal-downloaden" target="_blank">onderzoek</a> bleek dat jongeren inbreken in iemands huis erger vinden dan inbreken in iemands computer. Dat lijkt voor hen onschuldiger, maar beide handelingen zijn strafbaar én kunnen grote gevolgen hebben.</p>
 <h3>Lokfietsen</h3>
 <p>Het is voor het eerst dat de politie zich met een campagne over cybercrime richt op potentiële daders. Politiewoordvoerder Suzanne Rijnaars-van de Graaf legt uit dat de methode in deze campagne niet te vergelijken is met bijvoorbeeld het neerzetten van 'lokfietsen' om fietsendieven op te sporen. 'Dit is triggeren, niet lokken. Iemand die een lokfiets meeneemt pleegt werkelijk een strafbaar feit, maar bij deze campagne kon dat niet. We confronteerden jongeren ermee dat wat ze mogelijk van plan waren strafbaar is.'</p>
 <p><em>Heb je nog vragen over dit onderwerp die je de politie wilt stellen? Donderdagavond 14 februari van 19.00 tot 19.45 uur kun je er live over chatten op <a href="https://www.instagram.com/p/Bt0ex8cBMTm/" target="_blank">Instagram</a>. De video van de campagne kun je</em><em> hier bekijken</em>: <div class="media media-element-container media-default"><div id="file-536194" class="file file-video file-video-youtube">

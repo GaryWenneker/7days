@@ -1,5 +1,5 @@
 ---
-id: d2d7cc588ce24ae0a5232151b60121c0
+id: 3cc28ee838604f10816c7d754a72a422
 type: nieuws
 layout: post
 title: "Dit gaat er gebeuren in 2020"
@@ -18,7 +18,7 @@ Een kersvers jaar ligt voor ons. Wat kunnen we ervan verwachten? En nee, we zijn
         
   
   <div class="content">
-    <img alt="Foto Shutterstock" title="Foto Shutterstock" height="873" width="1319" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Britse%20vlag%20shutterstock.png">  </div>
+    <img alt="Foto Shutterstock" title="Foto Shutterstock" height="873" width="1319" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Britse%20vlag%20shutterstock.png">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ Een kersvers jaar ligt voor ons. Wat kunnen we ervan verwachten? En nee, we zijn
         
   
   <div class="content">
-    <img alt="Foto ANP" title="Foto ANP" height="3442" width="4706" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-373462316.jpg">  </div>
+    <img alt="Foto ANP" title="Foto ANP" height="3442" width="4706" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-373462316.jpg">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ Een kersvers jaar ligt voor ons. Wat kunnen we ervan verwachten? En nee, we zijn
         
   
   <div class="content">
-    <img alt="Foto ANP" title="Foto ANP" height="2604" width="3500" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/ANP-374426050.jpg">  </div>
+    <img alt="Foto ANP" title="Foto ANP" height="2604" width="3500" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/ANP-374426050.jpg">  </div>
 
   
 </div>
@@ -45,7 +45,7 @@ Een kersvers jaar ligt voor ons. Wat kunnen we ervan verwachten? En nee, we zijn
         
   
   <div class="content">
-    <img alt="Foto NASA" title="Foto NASA" height="1406" width="2500" class="media-element file-default" data-delta="4" src="https://original.sevendays.nl/sites/default/files/foto%20NASA%20-%20PIA14839.jpg">  </div>
+    <img alt="Foto NASA" title="Foto NASA" height="1406" width="2500" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/foto%20NASA%20-%20PIA14839.jpg">  </div>
 
   
 </div>
@@ -54,7 +54,7 @@ Een kersvers jaar ligt voor ons. Wat kunnen we ervan verwachten? En nee, we zijn
         
   
   <div class="content">
-    <img alt="Foto AFP" title="Foto AFP" height="1054" width="1670" class="media-element file-default" data-delta="5" src="https://original.sevendays.nl/sites/default/files/AFP-371177299.jpg">  </div>
+    <img alt="Foto AFP" title="Foto AFP" height="1054" width="1670" class="media-element file-default" data-delta="5" src="https://7dagen.netlify.app/sites/default/files/AFP-371177299.jpg">  </div>
 
   
 </div>
@@ -63,7 +63,7 @@ Een kersvers jaar ligt voor ons. Wat kunnen we ervan verwachten? En nee, we zijn
         
   
   <div class="content">
-    <img alt="Foto AFP" title="Foto AFP" height="2000" width="3000" class="media-element file-default" data-delta="6" src="https://original.sevendays.nl/sites/default/files/AFP-345360479.jpg">  </div>
+    <img alt="Foto AFP" title="Foto AFP" height="2000" width="3000" class="media-element file-default" data-delta="6" src="https://7dagen.netlify.app/sites/default/files/AFP-345360479.jpg">  </div>
 
   
 </div>
@@ -72,7 +72,7 @@ Een kersvers jaar ligt voor ons. Wat kunnen we ervan verwachten? En nee, we zijn
         
   
   <div class="content">
-    <img alt="Foto AFP" title="Foto AFP" height="1919" width="2879" class="media-element file-default" data-delta="7" src="https://original.sevendays.nl/sites/default/files/AFP-373844693.jpg">  </div>
+    <img alt="Foto AFP" title="Foto AFP" height="1919" width="2879" class="media-element file-default" data-delta="7" src="https://7dagen.netlify.app/sites/default/files/AFP-373844693.jpg">  </div>
 
   
 </div>
@@ -81,7 +81,7 @@ Een kersvers jaar ligt voor ons. Wat kunnen we ervan verwachten? En nee, we zijn
         
   
   <div class="content">
-    <img alt="Foto Shutterstock" title="Foto Shutterstock" height="879" width="1315" class="media-element file-default" data-delta="8" src="https://original.sevendays.nl/sites/default/files/eclips%20shutterstock.png">  </div>
+    <img alt="Foto Shutterstock" title="Foto Shutterstock" height="879" width="1315" class="media-element file-default" data-delta="8" src="https://7dagen.netlify.app/sites/default/files/eclips%20shutterstock.png">  </div>
 
   
 </div>

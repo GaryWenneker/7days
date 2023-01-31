@@ -1,5 +1,5 @@
 ---
-id: 4d33f070c8644701bda1c470d0b91d65
+id: 3a1de05595f541409f9eb5e9e8f5c918
 type: post
 layout: post
 title: "De meest gestelde vragen aan een tweeling"
@@ -18,4 +18,4 @@ Tweelingen zijn bijzonder, vreemd en misschien zelfs een tikje raar. Hoe ze hetz
 <p>Wel heb ik het gelijk door als ze zich beledigd, schuldig, bang of onzeker voelt. Maar dat kunnen beste vriendinnen wellicht ook bij elkaar hebben, dat krijg je als je dagelijks bij elkaar bent.<br> <br><strong>4. 'Zijn jullie eeneiig of twee-eiig?'</strong><br>En tenslotte het laatste grote vraagteken: zijn we eeneiig of twee-eiig?  Bij de meeste tweelingen is dit wel duidelijk: je hebt een jongen en een meisje (die zijn dan sowieso twee-eiig), of twee meisjes/jongens die verschillend zijn of juist exact op elkaar lijken.</p>
 <p>Bij mijn zus en mij is dit net ietsje anders. Wij weten het niet. Dus moeten we bij elke gelegenheid waarbij het woord ‘tweeling’ valt, naast elkaar gaan staan om vijf minuten lang het spelletje ‘zoek de verschillen’ te spelen. Je zou denken dat wij ondertussen wel antwoord op deze vraag hebben, maar iedereen zegt iets anders.</p>
 <p><strong>Onbeantwoorde vragen</strong><br>Tweeling zijn is bijzonder: zoveel bij elkaar zijn en de ander missen als je even alleen bent. En hoewel sommige vragen misschien beantwoord zijn, blijven veel dingen een raadsel. Zelfs voor ons als tweeling zelf. Maar misschien maakt dat het tweeling-zijn zo leuk.</p>
-<p><em>Meer lezen van blogger Lotte (17)? Laatst schreef ze ook al <a href="https://original.sevendays.nl/blog/liefde-voor-langer-dan-%C3%A9%C3%A9n-dag">Liefde voor (langer dan) één dag</a>.</em></p>  
+<p><em>Meer lezen van blogger Lotte (17)? Laatst schreef ze ook al <a href="https://7dagen.netlify.app/blog/liefde-voor-langer-dan-%C3%A9%C3%A9n-dag">Liefde voor (langer dan) één dag</a>.</em></p>  

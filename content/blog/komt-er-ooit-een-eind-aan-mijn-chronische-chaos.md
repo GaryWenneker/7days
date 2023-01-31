@@ -1,5 +1,5 @@
 ---
-id: 08afe4a6a16c4f87b03afe6dc459cc77
+id: 1266b3319da4493596b1b604951520dc
 type: post
 layout: post
 title: "Komt er ooit een eind aan mijn chronische chaos?"
@@ -21,7 +21,7 @@ Een wekker die te laat afgaat is één ding, maar er vervolgens doorheen slapen 
         
   
   <div class="content">
-    <img height="2848" width="4272" style="height: 467px; width: 700px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/IMG_2150.JPG" alt="">  </div>
+    <img height="2848" width="4272" style="height: 467px; width: 700px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/IMG_2150.JPG" alt="">  </div>
 
   
 </div>
@@ -30,4 +30,4 @@ Een wekker die te laat afgaat is één ding, maar er vervolgens doorheen slapen 
 <p>De bergen in mijn slaapkamer worden nu ook bergen in de woonkamer. Daarmee is mijn persoonlijke probleem bevorderd tot een gezinsprobleem. Binnen de kortste keren was ook mijn moeder van alles kwijt. Zo ontstonden de eerste irritaties. 'Kunnen we ook nog zitten op deze bank of is dit het nieuwe opberghok?'</p>
 <p><strong>Geen oplossing</strong><br>Een doeltreffende oplossing voor mijn probleem en dat van de rest van het gezin, heb ik nog steeds niet gevonden. Misschien moeten we gezinstherapie maar eens overwegen. Is die er ook voor extreme chaoten? Naast dat het chronisch-chaoot-zijn overdraagbaar is op anderen, heb ik ondervonden dat je er in sommige gevallen niet veel aan kunt veranderen.</p>
 <p>Eens een chaoot, altijd een chaoot, zullen we maar zeggen. Er rest ons niks anders dan het accepteren van deze kwaal. En de volgende keer maar heel hard om onszelf lachen als we onze fietssleutel weer eens kwijt zijn.</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/sanne-leferink">Sanne</a> (18)? Laatst schreef ze ook al <a href="https://original.sevendays.nl/blog/de-4-grootste-vooroordelen-over-filosofie">De 4 grootste vooroordelen over filosofie</a> en <a href="https://original.sevendays.nl/blog/waarom-uit-de-kast-komen-onzin">Waarom uit de kast komen onzin is</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/sanne-leferink">Sanne</a> (18)? Laatst schreef ze ook al <a href="https://7dagen.netlify.app/blog/de-4-grootste-vooroordelen-over-filosofie">De 4 grootste vooroordelen over filosofie</a> en <a href="https://7dagen.netlify.app/blog/waarom-uit-de-kast-komen-onzin">Waarom uit de kast komen onzin is</a>.</em></p>  

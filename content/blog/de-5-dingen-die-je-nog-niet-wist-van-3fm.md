@@ -1,5 +1,5 @@
 ---
-id: b0d5f9cf955049ccbe7736a20c9b981c
+id: 1f741e852f38405487aab99228288d1a
 type: post
 layout: post
 title: "De 5 dingen die je (nog) niet wist van 3FM"
@@ -18,4 +18,4 @@ seo:
 <p><strong>4. Lenigheid in de studio is een must</strong><br>Ik ben niet enorm lang, maar ik ben nou ook bepaald geen onderdeurtje. Toch moest ik voordat het gesprek met Giel van start ging, een strategisch plan opstellen om de kruk in de studio op te komen. Die is megahoog, namelijk! Er hangen zes camera's in de studio en ik hoop dat daarop niet te zien was hoe ik de eerste paar vragen steeds weer met één bil van die kruk afglijd.. </p>
 <p><strong>5. De zon komt op</strong><br>Als je meewerkt aan het radioprogramma van Giel kun je tijdens je werkdag de zon zien opkomen, mede doordat er ontzettend veel ramen in de studio zitten. Ikzelf was misschien net te laat, maar volgens mij heeft Giel prachtig uitzicht tijdens z'n show. Logisch dat je ochtendhumeur erdoor verbleekt.</p>
 <p><iframe frameborder="0" height="360" scrolling="no" src="//media-service.vara.nl/player.php?id=355756" width="850"></iframe></p>
-<p><em>Benieuwd naar de zangkwaliteiten van <a href="https://original.sevendays.nl/users/laura-schouten">Laura</a> (18)? Luister <a href="http://www.3fm.nl/video/all/show/81078">hier</a> naar haar nummer. Wil je meer blogs van Laura lezen? Laatst schreef ze ook al <a href="https://original.sevendays.nl/blog/geen-tijd-om-te-lezen">Geen tijd om te lezen</a> en <a href="https://original.sevendays.nl/blog/ieuw-iemand-naast-je-de-trein">Ieuw, iemand naast je in de trein</a>!</em></p>  
+<p><em>Benieuwd naar de zangkwaliteiten van <a href="https://7dagen.netlify.app/users/laura-schouten">Laura</a> (18)? Luister <a href="http://www.3fm.nl/video/all/show/81078">hier</a> naar haar nummer. Wil je meer blogs van Laura lezen? Laatst schreef ze ook al <a href="https://7dagen.netlify.app/blog/geen-tijd-om-te-lezen">Geen tijd om te lezen</a> en <a href="https://7dagen.netlify.app/blog/ieuw-iemand-naast-je-de-trein">Ieuw, iemand naast je in de trein</a>!</em></p>  

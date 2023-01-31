@@ -1,5 +1,5 @@
 ---
-id: 72fa5889a5614728960daa071c8bf422
+id: 7ed05683bc314f21bdbac882c90c25fa
 type: nieuws
 layout: post
 title: "De opvallendste Grammy-momenten"
@@ -18,7 +18,7 @@ In Los Angeles kwamen zondag de grote namen uit de muziekwereld bij elkaar voor 
         
   
   <div class="content">
-    <img height="372" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/50.jpg" alt="">  </div>
+    <img height="372" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/50.jpg" alt="">  </div>
 
   
 </div>
@@ -28,7 +28,7 @@ In Los Angeles kwamen zondag de grote namen uit de muziekwereld bij elkaar voor 
         
   
   <div class="content">
-    <img height="800" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/51.jpg" alt="">  </div>
+    <img height="800" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/51.jpg" alt="">  </div>
 
   
 </div>
@@ -37,7 +37,7 @@ In Los Angeles kwamen zondag de grote namen uit de muziekwereld bij elkaar voor 
         
   
   <div class="content">
-    <img height="433" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/52.jpg" alt="">  </div>
+    <img height="433" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/52.jpg" alt="">  </div>
 
   
 </div>
@@ -47,7 +47,7 @@ In Los Angeles kwamen zondag de grote namen uit de muziekwereld bij elkaar voor 
         
   
   <div class="content">
-    <img height="395" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/53.jpg" alt="">  </div>
+    <img height="395" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/53.jpg" alt="">  </div>
 
   
 </div>
@@ -57,7 +57,7 @@ In Los Angeles kwamen zondag de grote namen uit de muziekwereld bij elkaar voor 
         
   
   <div class="content">
-    <img height="941" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/54.jpg" alt="">  </div>
+    <img height="941" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/54.jpg" alt="">  </div>
 
   
 </div>

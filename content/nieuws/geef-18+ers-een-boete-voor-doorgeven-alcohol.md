@@ -1,5 +1,5 @@
 ---
-id: 69a4eacb612b4032b74740f3d1459dd2
+id: c0491949548e44e48c0d3190aaed9a3b
 type: nieuws
 layout: post
 title: "'Geef 18+'ers een boete voor doorgeven alcohol'"
@@ -21,7 +21,7 @@ Wie onder de achttien is, mag geen alcohol drinken. Maar een meerderjarige vrien
         
   
   <div class="content">
-    <img alt="alcohol" title="Foto: ANP" height="590" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-18619788.jpg">  </div>
+    <img alt="alcohol" title="Foto: ANP" height="590" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-18619788.jpg">  </div>
 
   
 </div>
@@ -30,4 +30,4 @@ Wie onder de achttien is, mag geen alcohol drinken. Maar een meerderjarige vrien
 <h3>Twijfel bij politici</h3>
 <p>Als het aan de KHN ligt, krijgt ook de 'doorsluizer', de achttienplusser die een drankje bestelt en doorgeeft aan de achttienminner, een boete. De club van alcoholcontroleurs <a href="http://www.ad.nl/economie/controleurs-geef-ook-bierhulp-boete~a94aec24/">pleitte </a>eerder al voor zo'n doorgeefboete. Maar of die er echt komt? Dat is nog maar de vraag.  Kamerleden van de VVD, PvdA en het CDA staan niet meteen te juichen bij het idee, zeggen ze in <em>De Telegraaf</em>. </p>
 <p>Maar let op: PvdA'er Marith Volp gaat wél staatssecretaris Martin van Rijn (Volksgezondheid) vragen of hij wil onderzoeken of zo'n doorgeefboete in het buitenland al bestaat en of het kan werken. Het idee is dus niet compleet van tafel...</p>
-<p><em>Altijd op de hoogte blijven van artikelen die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van artikelen die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: 565304f6fd744de3829b982f1d0d2dee
+id: 2258f20b8a1942afb7af93658dd16c84
 type: post
 layout: post
 title: "De 7 fases van het zoeken naar een bijbaantje"
@@ -22,7 +22,7 @@ Je hebt de dagen afgeteld tot de zomervakantie en nu is het bijna zover. Dat wor
         
   
   <div class="content">
-    <img height="2848" width="2744" style="width: 578px; height: 600px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/IMG_2344b_1.png" alt="">  </div>
+    <img height="2848" width="2744" style="width: 578px; height: 600px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/IMG_2344b_1.png" alt="">  </div>
 
   
 </div>

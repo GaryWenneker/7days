@@ -1,5 +1,5 @@
 ---
-id: b0ae778eafdd4974ba6a95761d0ead9f
+id: 3763c69a4fa2472b9e7045606c476efe
 type: nieuws
 layout: post
 title: "Afzettingsproces tegen Trump gaat door"
@@ -22,7 +22,7 @@ Spannende tijden in de VS. President Trump wordt impeached. Dat heeft een meerde
         
   
   <div class="content">
-    <img height="1154" width="1731" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-403470824.jpg" alt="">  </div>
+    <img height="1154" width="1731" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-403470824.jpg" alt="">  </div>
 
   
 </div>

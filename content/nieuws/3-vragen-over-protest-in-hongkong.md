@@ -1,5 +1,5 @@
 ---
-id: 5f584561cf634c99ab06d1f791bffe87
+id: bf43cee721144ee2a43c0941e73431ac
 type: nieuws
 layout: post
 title: "3 vragen over protest in Hongkong"
@@ -23,7 +23,7 @@ In Hongkong wordt flink gedemonstreerd tegen een nieuwe wet waarmee mensen makke
         
   
   <div class="content">
-    <img alt="protest hongkong" title="Foto: ANP" height="4007" width="5708" style="height: 632px; width: 900px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-74515406.jpg">  </div>
+    <img alt="protest hongkong" title="Foto: ANP" height="4007" width="5708" style="height: 632px; width: 900px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-74515406.jpg">  </div>
 
   
 </div>

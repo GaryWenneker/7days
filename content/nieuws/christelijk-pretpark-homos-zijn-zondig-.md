@@ -1,5 +1,5 @@
 ---
-id: 437ae37010204f49b228c1ed264cb419
+id: 064a584b8ffe473988192cf4c5c81ef5
 type: nieuws
 layout: post
 title: "Christelijk pretpark: homo's zijn zondig "
@@ -19,7 +19,7 @@ In de Amerikaanse staat Kentucky wordt momenteel de laatste hand gelegd aan een 
         
   
   <div class="content">
-    <a href="/files/769571641926402777672741192njpg-0"><img height="220" width="191" style="margin-left: 5px; margin-right: 5px; float: left;" class="media-element file-teaser" src="https://original.sevendays.nl/sites/default/files/styles/medium/public/76957_164192640277767_2741192_n_0.jpg?itok=d_v9T0XO" alt=""></a>  </div>
+    <a href="/files/769571641926402777672741192njpg-0"><img height="220" width="191" style="margin-left: 5px; margin-right: 5px; float: left;" class="media-element file-teaser" src="https://7dagen.netlify.app/sites/default/files/styles/medium/public/76957_164192640277767_2741192_n_0.jpg?itok=d_v9T0XO" alt=""></a>  </div>
 
   
 </div>
@@ -30,7 +30,7 @@ In de Amerikaanse staat Kentucky wordt momenteel de laatste hand gelegd aan een 
         
   
   <div class="content">
-    <img height="427" width="640" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/teaserbox_13586428.jpg" alt="">  </div>
+    <img height="427" width="640" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/teaserbox_13586428.jpg" alt="">  </div>
 
   
 </div>
@@ -41,7 +41,7 @@ In de Amerikaanse staat Kentucky wordt momenteel de laatste hand gelegd aan een 
         
   
   <div class="content">
-    <img height="347" width="509" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/AU-billboard.jpg" alt="">  </div>
+    <img height="347" width="509" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/AU-billboard.jpg" alt="">  </div>
 
   
 </div>
@@ -52,7 +52,7 @@ In de Amerikaanse staat Kentucky wordt momenteel de laatste hand gelegd aan een 
         
   
   <div class="content">
-    <img height="259" width="600" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/AIG-Billboard.jpg" alt="">  </div>
+    <img height="259" width="600" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/AIG-Billboard.jpg" alt="">  </div>
 
   
 </div>
@@ -63,7 +63,7 @@ In de Amerikaanse staat Kentucky wordt momenteel de laatste hand gelegd aan een 
         
   
   <div class="content">
-    <img height="324" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ark-encounter-park-map-screenshot_0.jpg" alt="">  </div>
+    <img height="324" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ark-encounter-park-map-screenshot_0.jpg" alt="">  </div>
 
   
 </div>
@@ -83,4 +83,4 @@ In de Amerikaanse staat Kentucky wordt momenteel de laatste hand gelegd aan een 
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

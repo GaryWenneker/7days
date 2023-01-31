@@ -1,5 +1,5 @@
 ---
-id: f395b69485f94d4ca26c359db661c87f
+id: 4b42b9ae37e24f23a00d78c039d31deb
 type: nieuws
 layout: post
 title: "'1 op 3 vluchtelingen is onder de 18 jaar'"
@@ -19,12 +19,12 @@ Wie denkt dat het vluchtelingenprobleem voorbij is, heeft het mis. Nog altijd zi
         
   
   <div class="content">
-    <img title="Beeld: AFP" height="2206" width="3578" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-45797729.jpg" alt="">  </div>
+    <img title="Beeld: AFP" height="2206" width="3578" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-45797729.jpg" alt="">  </div>
 
   
 </div>
 </div>
-<p><strong>Oudste zoon eerst</strong><br>In sommige gevallen komen de minderjarige vluchtelingen alleen aan, omdat volwassenen de gevaarlijke <a href="https://original.sevendays.nl/nieuws/%E2%80%98bij-elke-golf-kan-het-misgaan%E2%80%99" target="_blank">boottocht</a> naar Europa niet overleven. Maar vaker sturen ouders bewust hun kinderen alleen op pad. Hun oudste puberzoon moet in Europa gaan werken en geld verdienen. Met dat geld kan uiteindelijk ook de rest van de familie vluchten.</p>
+<p><strong>Oudste zoon eerst</strong><br>In sommige gevallen komen de minderjarige vluchtelingen alleen aan, omdat volwassenen de gevaarlijke <a href="https://7dagen.netlify.app/nieuws/%E2%80%98bij-elke-golf-kan-het-misgaan%E2%80%99" target="_blank">boottocht</a> naar Europa niet overleven. Maar vaker sturen ouders bewust hun kinderen alleen op pad. Hun oudste puberzoon moet in Europa gaan werken en geld verdienen. Met dat geld kan uiteindelijk ook de rest van de familie vluchten.</p>
 <p>Volgens Save the Children is het een zorgwekkende trend. Zij zouden al vaak kinderen van nog geen negen jaar hebben opgevangen. Vorig jaar raakten er naar schatting zo'n tienduizend alleenstaande kinderen vermist in Europa.</p>
-<p><strong>Toestroom </strong><br>Ondanks de <a href="https://original.sevendays.nl/nieuws/de-vluchtelingendeal-voor-beginners" target="_blank">vluchtelingendeal</a>, die EU met Turkije sloot, blijft de toestroom van vluchtelingen onverminderd groot. Kinderen die hun land ontvluchten, in hoop op een betere toekomst, hebben het vaak zwaar. Sommigen wonen in gammele tentenkampen en veel minderjarigen kunnen niet naar school. Sommige vluchtelingenkinderen zouden zelfs aan het werk moeten in <a href="https://original.sevendays.nl/nieuws/de-vluchtelingendeal-voor-beginners" target="_blank">fabrieken</a>. De hoop op een betere toekomst lijkt dan nog ver weg.</p>
-<p><em>Waarom zijn al die miljoenen mensen ook alweer op de vlucht geslagen? Dat lees je <a href="https://original.sevendays.nl/zozathetmetsyri%C3%AB">hier</a>. Wil je alle vluchtelingen-uitleg op een rijtje? Lees ons <a href="https://original.sevendays.nl/dossier-vluchtelingen">dossier vluchtelingen</a>.</em></p>  
+<p><strong>Toestroom </strong><br>Ondanks de <a href="https://7dagen.netlify.app/nieuws/de-vluchtelingendeal-voor-beginners" target="_blank">vluchtelingendeal</a>, die EU met Turkije sloot, blijft de toestroom van vluchtelingen onverminderd groot. Kinderen die hun land ontvluchten, in hoop op een betere toekomst, hebben het vaak zwaar. Sommigen wonen in gammele tentenkampen en veel minderjarigen kunnen niet naar school. Sommige vluchtelingenkinderen zouden zelfs aan het werk moeten in <a href="https://7dagen.netlify.app/nieuws/de-vluchtelingendeal-voor-beginners" target="_blank">fabrieken</a>. De hoop op een betere toekomst lijkt dan nog ver weg.</p>
+<p><em>Waarom zijn al die miljoenen mensen ook alweer op de vlucht geslagen? Dat lees je <a href="https://7dagen.netlify.app/zozathetmetsyri%C3%AB">hier</a>. Wil je alle vluchtelingen-uitleg op een rijtje? Lees ons <a href="https://7dagen.netlify.app/dossier-vluchtelingen">dossier vluchtelingen</a>.</em></p>  

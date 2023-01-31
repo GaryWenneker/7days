@@ -1,5 +1,5 @@
 ---
-id: d19ed6d234b44e3b8d8b12a3522c0660
+id: 2f0f0961e7284a5589317b0556eb7bc3
 type: nieuws
 layout: post
 title: "Aardbevingen en vulkaanuitbarsting in Japan"
@@ -21,7 +21,7 @@ Noodlot na noodlot treft Japan deze week. Het zuidelijke eiland Kyushu werd af
         
   
   <div class="content">
-    <img alt="japan aardbeving vulkaanuitbarsting" title="Foto: AFP" height="566" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/japan%207.jpg">  </div>
+    <img alt="japan aardbeving vulkaanuitbarsting" title="Foto: AFP" height="566" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/japan%207.jpg">  </div>
 
   
 </div>
@@ -31,7 +31,7 @@ Noodlot na noodlot treft Japan deze week. Het zuidelijke eiland Kyushu werd af
         
   
   <div class="content">
-    <img alt="japan aardbeving vulkaanuitbarsting" title="Foto: AFP" height="591" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/japan%202.jpg">  </div>
+    <img alt="japan aardbeving vulkaanuitbarsting" title="Foto: AFP" height="591" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/japan%202.jpg">  </div>
 
   
 </div>
@@ -43,7 +43,7 @@ Noodlot na noodlot treft Japan deze week. Het zuidelijke eiland Kyushu werd af
         
   
   <div class="content">
-    <img alt="japan aardbeving vulkaanuitbarsting" title="Foto: AFP" height="617" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/japan%203.jpg">  </div>
+    <img alt="japan aardbeving vulkaanuitbarsting" title="Foto: AFP" height="617" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/japan%203.jpg">  </div>
 
   
 </div>
@@ -53,7 +53,7 @@ Noodlot na noodlot treft Japan deze week. Het zuidelijke eiland Kyushu werd af
         
   
   <div class="content">
-    <img alt="japan aardbeving vulkaanuitbarsting" title="Foto: AFP" height="566" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/japan%205.jpg">  </div>
+    <img alt="japan aardbeving vulkaanuitbarsting" title="Foto: AFP" height="566" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/japan%205.jpg">  </div>
 
   
 </div>
@@ -65,7 +65,7 @@ Noodlot na noodlot treft Japan deze week. Het zuidelijke eiland Kyushu werd af
         
   
   <div class="content">
-    <img alt="japan aardbeving vulkaanuitbarsting" title="Foto: AFP" height="564" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/japan%208.jpg">  </div>
+    <img alt="japan aardbeving vulkaanuitbarsting" title="Foto: AFP" height="564" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/japan%208.jpg">  </div>
 
   
 </div>
@@ -77,7 +77,7 @@ Noodlot na noodlot treft Japan deze week. Het zuidelijke eiland Kyushu werd af
         
   
   <div class="content">
-    <img alt="japan aardbeving vulkaanuitbarsting" title="Foto: AFP" height="551" width="850" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/japan%204.jpg">  </div>
+    <img alt="japan aardbeving vulkaanuitbarsting" title="Foto: AFP" height="551" width="850" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/japan%204.jpg">  </div>
 
   
 </div>
@@ -87,9 +87,9 @@ Noodlot na noodlot treft Japan deze week. Het zuidelijke eiland Kyushu werd af
         
   
   <div class="content">
-    <img alt="japan aardbeving vulkaanuitbarsting" title="Foto: AFP" height="559" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/japan%206.jpg">  </div>
+    <img alt="japan aardbeving vulkaanuitbarsting" title="Foto: AFP" height="559" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/japan%206.jpg">  </div>
 
   
 </div>
 </div>
-<p><em>Meer nieuws volgen aan de hand van foto's? Op <a href="https://original.sevendays.nl/inbeeld">Sevendays.nl/inbeeld</a> vind je al onze nieuwsfotogalerijen. </em></p>  
+<p><em>Meer nieuws volgen aan de hand van foto's? Op <a href="https://7dagen.netlify.app/inbeeld">Sevendays.nl/inbeeld</a> vind je al onze nieuwsfotogalerijen. </em></p>  

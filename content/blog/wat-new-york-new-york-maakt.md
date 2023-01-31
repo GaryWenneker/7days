@@ -1,5 +1,5 @@
 ---
-id: 8dcd01cf1f3347e9a584431da65b8f24
+id: 16e08bedf2da40e1a64dec2be6034635
 type: post
 layout: post
 title: "Wat New York New York maakt"
@@ -23,7 +23,7 @@ The city that never sleeps... De nachten vóór mijn vertrek naar New York afgel
         
   
   <div class="content">
-    <a href="/files/cimg5516jpg-0"><img height="165" width="220" style="font-size: 13.008px; line-height: 20.0063px; float: left;" class="media-element file-teaser" src="https://original.sevendays.nl/sites/default/files/styles/medium/public/CIMG5516_0.JPG?itok=XlOyyANw" alt=""></a>  </div>
+    <a href="/files/cimg5516jpg-0"><img height="165" width="220" style="font-size: 13.008px; line-height: 20.0063px; float: left;" class="media-element file-teaser" src="https://7dagen.netlify.app/sites/default/files/styles/medium/public/CIMG5516_0.JPG?itok=XlOyyANw" alt=""></a>  </div>
 
   
 </div>
@@ -35,7 +35,7 @@ The city that never sleeps... De nachten vóór mijn vertrek naar New York afgel
         
   
   <div class="content">
-    <a href="/files/cimg5629jpg"><img height="165" width="220" style="width: 220px; height: 165px; float: left;" class="media-element file-teaser" src="https://original.sevendays.nl/sites/default/files/styles/medium/public/CIMG5629.JPG?itok=M7IdUsO3" alt=""></a>  </div>
+    <a href="/files/cimg5629jpg"><img height="165" width="220" style="width: 220px; height: 165px; float: left;" class="media-element file-teaser" src="https://7dagen.netlify.app/sites/default/files/styles/medium/public/CIMG5629.JPG?itok=M7IdUsO3" alt=""></a>  </div>
 
   
 </div>

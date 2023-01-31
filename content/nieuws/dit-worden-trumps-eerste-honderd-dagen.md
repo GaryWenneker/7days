@@ -1,5 +1,5 @@
 ---
-id: 9bd6abd1f97c43249bd472cc0ee8559f
+id: 726ea7a5a05f44ac8db721ba0f829e8b
 type: nieuws
 layout: post
 title: "Dit worden Trumps eerste honderd dagen"
@@ -39,4 +39,4 @@ seo:
 <p>Opvallend is dat Trump een aantal grote campagnepunten <em>niet </em>noemt. Bijvoorbeeld het bouwen van de beruchte muur tussen de VS en Mexico. Iets dat op zijn site overigens met stip boven aan zijn <a href="https://www.donaldjtrump.com/policies/immigration" target="_blank">to do-lijst</a> staat. ‘Beginnen op dag één’, staat er nog bij.</p>
 <p>Ook zegt Trump niets over de vervolging van Hillary Clinton om haar e-mailschandaal, waarmee hij zijn kiezers opruide. Zelfs het schrappen of afbouwen van Obamacare komt niet voorbij. Ook deportatie van illegale immigranten (iets wat ook op dag één zou moet gebeuren volgens zijn site), het verbeteren van Amerikaanse wegen en bruggen, investeren in onderwijs, uit klimaatakkoorden stappen of het weren van mensen uit moslimlanden wordt niet genoemd.</p>
 <p>Dat betekent niet dat Trump niet verder wil met die plannen, maar ze staan in ieder geval niet in de planning voor zijn eerste honderd dagen als president.</p>
-<p><em>Altijd op de hoogte blijven van artikelen die voor jongeren interessant zijn? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van artikelen die voor jongeren interessant zijn? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

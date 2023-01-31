@@ -1,5 +1,5 @@
 ---
-id: d7e0152c472a4553a0f755bc6e22d54f
+id: 8ddcb524650c4b1c873391fb41b53fc4
 type: nieuws
 layout: post
 title: "Boete voor sms van 'Mum'"
@@ -20,7 +20,7 @@ Het Britse festival Parklife is op de vingers getikt. Afgelopen jaar verstuurde 
         
   
   <div class="content">
-    <img height="448" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/45.png" alt="">  </div>
+    <img height="448" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/45.png" alt="">  </div>
 
   
 </div>
@@ -34,7 +34,7 @@ Het Britse festival Parklife is op de vingers getikt. Afgelopen jaar verstuurde 
         
   
   <div class="content">
-    <img height="439" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/46.png" alt="">  </div>
+    <img height="439" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/46.png" alt="">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: 9ce976ae8e8d4570a3db91e219f6afe8
+id: b8fab8f6c3ba4dddb341ff2b825fff3d
 type: nieuws
 layout: post
 title: "Efteling verkozen tot beste park van Nederland én België"
@@ -20,7 +20,7 @@ Hoera, de Efteling heeft (weer) prijzen gewonnen! Bij de jaarlijkse uitreiking v
         
   
   <div class="content">
-    <img alt="symbolica efteling" title="Foto: ANP" height="3775" width="5663" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-52126140.jpg">  </div>
+    <img alt="symbolica efteling" title="Foto: ANP" height="3775" width="5663" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-52126140.jpg">  </div>
 
   
 </div>

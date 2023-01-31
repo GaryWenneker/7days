@@ -1,5 +1,5 @@
 ---
-id: f7e889fa138f4fe0b88a648d1fc9cf30
+id: e6590912fc0841f28ed373740d2dbf42
 type: post
 layout: post
 title: "Waarom je nóóit op je crush moet afstappen"
@@ -22,4 +22,4 @@ Stel: je vindt iemand leuk. Dat kan de beste overkomen en is op zichzelf nog n
 <p>3. Stel dat alle bovennatuurlijke krachten van deze wereld het zó met je te doen hebben, dat je een <em>positief antwoord </em>krijgt. Nou, dan zijn de rapen al helemaal gaar! Je kunt het alleen nog maar fout doen! Alle volgende cruciale stappen in het proces zijn van zo'n belang dat je door paniekaanvallen en hartkloppingen totaal de weg kwijt raakt. Gevolg: <em>absolute chaos met ernstige ongelukken ten gevolg. </em></p>
 <p>4. Alle hoop is toch tevergeefs, hij/zij is namelijk gewoon niet in je geïnteresseerd. Anders had hij/zij zélf natuurlijk iets ondernomen: mensen zijn nou eenmaal niet onzeker, gevoelig of menselijk. En ze kampen al helemaal niet met dezelfde twijfels en onzekerheden als jij. Niks aan te doen!</p>
 <p><strong>Alles kan kapot</strong><br>Goed, er is natuurlijk een minuscule mogelijkheid dat het ondernemen van actie goed uitpakt. Voor die ene lezer die met deze onwaarschijnlijkheid getroffen is, heb ik nog een laatste tip: heb vooral niet te veel zelfvertrouwen, alles kan tenslotte kapot!</p>
-<p><em>Meer blogs lezen van Merel (16)? Laatst schreef ze ook over <a href="https://original.sevendays.nl/blog/menselijke-gebreken-niezen-van-chocola">menselijke gebreken </a>en haar escapades met <a href="https://original.sevendays.nl/blog/het-openbaar-vervoer-en-ik-de-soap">het openbaar vervoer</a>. En even voor de duidelijkheid: bovenstaand blog is uiteraard volledig sarcastisch bedoeld.</em></p>  
+<p><em>Meer blogs lezen van Merel (16)? Laatst schreef ze ook over <a href="https://7dagen.netlify.app/blog/menselijke-gebreken-niezen-van-chocola">menselijke gebreken </a>en haar escapades met <a href="https://7dagen.netlify.app/blog/het-openbaar-vervoer-en-ik-de-soap">het openbaar vervoer</a>. En even voor de duidelijkheid: bovenstaand blog is uiteraard volledig sarcastisch bedoeld.</em></p>  

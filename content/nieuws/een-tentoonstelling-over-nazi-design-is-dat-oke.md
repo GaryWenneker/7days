@@ -1,5 +1,5 @@
 ---
-id: 4f5fa609a3e7479abf123c873ef42dbe
+id: fad4e8d7552f4654aa956ce9a2e15d08
 type: nieuws
 layout: post
 title: "Een tentoonstelling over nazi-design: is dat oke?"
@@ -19,7 +19,7 @@ Vlaggen met hakenkruizen, een dressoir van Hitler en pamfletten met ‘wetenscha
         
   
   <div class="content">
-    <img alt="Julia" title="Julia" height="334" width="356" style="font-size: 1.231em; height: 141px; width: 150px; float: left; margin: 5px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Julia%202.jpg">  </div>
+    <img alt="Julia" title="Julia" height="334" width="356" style="font-size: 1.231em; height: 141px; width: 150px; float: left; margin: 5px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Julia%202.jpg">  </div>
 
   
 </div>
@@ -30,7 +30,7 @@ Vlaggen met hakenkruizen, een dressoir van Hitler en pamfletten met ‘wetenscha
         
   
   <div class="content">
-    <img alt="Jaron" title="Jaron" height="557" width="474" style="font-weight: bold; font-size: 1.231em; height: 176px; width: 150px; float: left; margin: 5px;" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/Jari.jpeg">  </div>
+    <img alt="Jaron" title="Jaron" height="557" width="474" style="font-weight: bold; font-size: 1.231em; height: 176px; width: 150px; float: left; margin: 5px;" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/Jari.jpeg">  </div>
 
   
 </div>

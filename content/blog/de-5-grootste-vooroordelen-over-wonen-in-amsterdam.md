@@ -1,5 +1,5 @@
 ---
-id: dd125f77628841d181d0ffff86b700b2
+id: ff4b9c88cccc478a8ad735c597513bf1
 type: post
 layout: post
 title: "De 5 grootste vooroordelen over wonen in Amsterdam"
@@ -20,7 +20,7 @@ seo:
         
   
   <div class="content">
-    <img height="600" width="800" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/P1080141.jpg" alt="">  </div>
+    <img height="600" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/P1080141.jpg" alt="">  </div>
 
   
 </div>
@@ -28,4 +28,4 @@ seo:
 <p><strong>3. 'Als Nederlandse toerist moet je Engels kunnen spreken om iets te bestellen of te vragen': niet waar</strong><br>Toen ik dit hoorde moest ik een beetje lachen, maar het gebeurt inderdaad wel eens dat er bij een toeristische attractie voornamelijk rekening wordt gehouden met buitenlanders. Vaak gaat het personeel er eerst vanuit dat niemand Nederlands spreekt. Maar als je vervolgens Nederlands terugpraat, blijkt dat ze meestal beide talen spreken.</p>
 <p><strong>4. '</strong><strong>Fietsen in de stad is onmogelijk en gevaarlijk': een beetje waar</strong><br>Het grootste probleem is dat fietsen nou eenmaal de makkelijkste manier is om je door Amsterdam te bewegen. Hierdoor fietst bijna iedereen, óók de mensen die het nauwelijks kunnen. En daar komen de trams, de auto’s, de Segways en de scooters nog eens bij. Maar als je rechts blijft rijden en grote groepen toeristen op gele fietsen weet te ontwijken, is het best te doen.</p>
 <p><strong>5. '</strong><strong>Iedereen maakt grenzeloos gebruik van drugs' niet waar</strong><br>Hier staat Amsterdam wereldwijd wel om bekend, maar in werkelijkheid valt het erg mee. Natuurlijk zijn er coffeeshops en worden er veel drugs verkocht, maar niet iedereen die Amsterdam woont doet hier aan mee. Meestal zijn het enkel toeristen. Daarbij is cannabis in heel Nederland toegestaan, dus verschilt het eigenlijk niet heel veel met de rest van Nederland.</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/sophia-van-lil">Sophia</a> (15)? Laatst schreef ze ook al <a href="https://original.sevendays.nl/blog/de-5-vervelendste-buren-die-iedereen-kent">De 5 vervelendste buren die iedereen kent</a> en <a href="https://original.sevendays.nl/blog/pleur-een-pronkstuk">Pleur, een pronkstuk?</a></em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/sophia-van-lil">Sophia</a> (15)? Laatst schreef ze ook al <a href="https://7dagen.netlify.app/blog/de-5-vervelendste-buren-die-iedereen-kent">De 5 vervelendste buren die iedereen kent</a> en <a href="https://7dagen.netlify.app/blog/pleur-een-pronkstuk">Pleur, een pronkstuk?</a></em></p>  

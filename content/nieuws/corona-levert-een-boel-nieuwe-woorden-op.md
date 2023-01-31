@@ -1,5 +1,5 @@
 ---
-id: ae470ae1738f4401a832161376e8ef22
+id: ac03d6cf75294758ad28551b699eb1c9
 type: nieuws
 layout: post
 title: "Corona levert een boel nieuwe woorden op"

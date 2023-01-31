@@ -1,5 +1,5 @@
 ---
-id: 1af9b2d1550c4df6aa6dee519dcb6778
+id: c9f2de9da1ff4fdeb1fd9ec5ae2b2495
 type: nieuws
 layout: post
 title: "De Etna is aan het verschuiven"

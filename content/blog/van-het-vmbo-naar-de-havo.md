@@ -1,5 +1,5 @@
 ---
-id: 7bccc6e9c970437a8e83ae11d486f677
+id: ddc3c4f5d1a6449db170466e29e4b99e
 type: post
 layout: post
 title: "Van het vmbo naar de havo"
@@ -21,4 +21,4 @@ Met een optimistisch gevoel ga ik naar het mentorgesprek. Achten en negens stral
 <h3>De havo gehaald</h3>
 <p>Aan alle leraren die zeiden 'dat moet je niet doen' wil ik toch even laten weten dat ik mijn havo-diploma heb gehaald. En hoewel het een grote stap was, het was haalbaar. Samen met vier andere vmbo'ers, zonder extra jaren, hebben vier van de vier het toch maar mooi gehaald. En wat waren wij blij en trots toen we dit nieuws vorige week te horen kregen!</p>
 <p>​Ik schrijf dit voor jou, leeftijdsgenoot, die volgend jaar of in de toekomst ook erover denkt om de havo te gaan doen. Laat je niet tegenhouden, al helemaal niet door leraren, en ga ervoor. Want ik weet zeker, dat jij met enige motivatie en doorzettingsvermogen, uiteindelijk ook jouw havodiploma zult halen.</p>
-<p><em>Lotte verzamelt om onverklaarbare reden haar hele leven al schildpaddenbeeldjes. En boeken over de Tweede Wereldoorlog, maar die leest ze eigenlijk nooit. Droomt er al sinds haar elfde van om schrijfster te worden. </em><a href="https://original.sevendays.nl/users/lotte-rolleman"><em>Lees meer blogs van Lotte</em></a><em>.</em></p>  
+<p><em>Lotte verzamelt om onverklaarbare reden haar hele leven al schildpaddenbeeldjes. En boeken over de Tweede Wereldoorlog, maar die leest ze eigenlijk nooit. Droomt er al sinds haar elfde van om schrijfster te worden. </em><a href="https://7dagen.netlify.app/users/lotte-rolleman"><em>Lees meer blogs van Lotte</em></a><em>.</em></p>  

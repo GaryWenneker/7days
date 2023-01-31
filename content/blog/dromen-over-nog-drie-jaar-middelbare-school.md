@@ -1,5 +1,5 @@
 ---
-id: b2cfd49fc9c641e8a59f7018f714fdb0
+id: 49da4dc328a54ba29929bf9fa65b976c
 type: post
 layout: post
 title: "Dromen over nog drie jaar middelbare school"
@@ -20,4 +20,4 @@ Midden in de laatste proefwerkweek was ik op een feestje. Een feestje omdat iema
 <p><strong>Enige zorg</strong><br>Maar op dat feestje realiseerde ik me dat ik eigenlijk blij moet zijn dat ik pas in de derde zit en mijn enige zorg dat vergeten huiswerk is.</p>
 <p>Want tegen de tijd dat dat diploma in zicht komt, moet je plotseling zogenaamde toekomstplannen maken, moet je weten wat je later wilt worden, welke studie je daarvoor nodig hebt en welke universiteit of hogeschool daarvoor het beste is.</p>
 <p><b>Geef me toch maar school</b><br>Kortom, wel even iets erger dan een extra uurtje op school zitten voor je vergeten huiswerk. Voor één dag was ik daarom wel blij dat ik voorlopig nog lekker op de middelbare school zit. Dat ik voorlopig nog niet hoef na te denken over later, dat ik de toekomst nog even kan laten voor wat-ie is en dat ik nu nog even kan genieten van het feit dat een 'huiswerk vergeten'-aantekening mijn grootste zorg is.</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/jeanine-krist">Jeanine</a> (15)? Laatst schreef ze ook <a href="https://original.sevendays.nl/blog/de-verdwijn-estafette-van-mijn-spullen">De verdwijn-estafette van mijn spullen</a> en <a href="https://original.sevendays.nl/blog/een-zes-zo-slecht-nog-niet">Een zes is zo slecht nog niet</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/jeanine-krist">Jeanine</a> (15)? Laatst schreef ze ook <a href="https://7dagen.netlify.app/blog/de-verdwijn-estafette-van-mijn-spullen">De verdwijn-estafette van mijn spullen</a> en <a href="https://7dagen.netlify.app/blog/een-zes-zo-slecht-nog-niet">Een zes is zo slecht nog niet</a>.</em></p>  

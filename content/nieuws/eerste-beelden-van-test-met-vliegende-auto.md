@@ -1,5 +1,5 @@
 ---
-id: df55a294292c4a9bba9ceb364618cda5
+id: 8e990bdb44364306a11836188d764723
 type: nieuws
 layout: post
 title: "Eerste beelden van test met vliegende auto"
@@ -34,7 +34,7 @@ Vliegtuigbouwer Boeing heeft deze week een eerste testvlucht uitgevoerd met een
         
   
   <div class="content">
-    <img alt="Kitty Hawk" title="Foto: ANP" height="4900" width="7087" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-57744936.jpg">  </div>
+    <img alt="Kitty Hawk" title="Foto: ANP" height="4900" width="7087" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-57744936.jpg">  </div>
 
   
 </div>

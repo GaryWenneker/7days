@@ -1,5 +1,5 @@
 ---
-id: 80dec47d75ac4223ac5f7582803ed69f
+id: 9d75c6198f3b4c5cb4b8f5fd3f673c57
 type: nieuws
 layout: post
 title: "Foto's: Greta (16) met boot onderweg naar New York"
@@ -21,7 +21,7 @@ Niet vliegen, maar zeilen! Greta Thunberg (16) is met een boot onderweg naar New
         
   
   <div class="content">
-    <img alt="AFP" title="Foto: AFP" height="3712" width="5568" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-77105289.jpg">  </div>
+    <img alt="AFP" title="Foto: AFP" height="3712" width="5568" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-77105289.jpg">  </div>
 
   
 </div>
@@ -31,7 +31,7 @@ Niet vliegen, maar zeilen! Greta Thunberg (16) is met een boot onderweg naar New
         
   
   <div class="content">
-    <img alt="AFP" title="Foto: AFP" height="3712" width="5568" style="font-size: 13.008px;" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-77105151.jpg">  </div>
+    <img alt="AFP" title="Foto: AFP" height="3712" width="5568" style="font-size: 13.008px;" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-77105151.jpg">  </div>
 
   
 </div>
@@ -41,7 +41,7 @@ Niet vliegen, maar zeilen! Greta Thunberg (16) is met een boot onderweg naar New
         
   
   <div class="content">
-    <img alt="AFP" title="Foto: AFP" height="3712" width="5568" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/ANP-77105172.jpg">  </div>
+    <img alt="AFP" title="Foto: AFP" height="3712" width="5568" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/ANP-77105172.jpg">  </div>
 
   
 </div>

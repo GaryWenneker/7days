@@ -1,5 +1,5 @@
 ---
-id: 4cad99dfbc084f45af4798a8a377d84b
+id: c5ea40da77e843cabb432887da04b97c
 type: post
 layout: post
 title: "De 5 fases waar elke katteneigenaar doorheen gaat"
@@ -24,4 +24,4 @@ Het begon allemaal als een leuk sprookje: een kat hebben. Maar twee levensgrote 
 <p><strong>5. De 'Jij mag hem ook wel hebben'-fase</strong></p>
 <p>Vrienden die langskomen zijn meteen dol op het beest, terwijl je zelf wel beter weet. Ze raken niet uitgepraat over het feit dat ze dit schepsel nog nooit eerder hebben gezien en je kat krijgt een minifotoshoot voor Facebook. Zelf zit je er aan te denken om je kat gratis mee te geven. Anders zullen ze nooit weten wat je allemaal doormaakt.</p>
 <p>Sprookjes zullen altijd goed eindigen, zo ook deze. Al zullen mijn handen voor eeuwig gedoemd zijn door de littekens.</p>
-<p><em>Meer lezen van Maaike(16)? Laatst schreef ze <a href="https://original.sevendays.nl/blog/de-5-voordelen-van-gescheiden-ouders-hebben">De 5 voordelen van gescheiden ouders hebben</a>  en <a href="https://original.sevendays.nl/blog/verslaafd-aan-een-hels-apparaat">Verslaafd aan een hels apparaat</a>.</em></p>  
+<p><em>Meer lezen van Maaike(16)? Laatst schreef ze <a href="https://7dagen.netlify.app/blog/de-5-voordelen-van-gescheiden-ouders-hebben">De 5 voordelen van gescheiden ouders hebben</a>  en <a href="https://7dagen.netlify.app/blog/verslaafd-aan-een-hels-apparaat">Verslaafd aan een hels apparaat</a>.</em></p>  

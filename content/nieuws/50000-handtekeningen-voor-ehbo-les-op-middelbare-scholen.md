@@ -1,5 +1,5 @@
 ---
-id: 2ebb395d8fc745009660b7fd15b23b2b
+id: 2312b8bec265431299d83e44a7a395a9
 type: nieuws
 layout: post
 title: "50.000 handtekeningen voor EHBO-les op middelbare scholen"

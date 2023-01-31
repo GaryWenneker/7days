@@ -1,5 +1,5 @@
 ---
-id: 949118b4291a41d2a8f9243c4d7cb562
+id: e07e0c3f8b0645c282ed193a032e317d
 type: post
 layout: post
 title: "De 5 grootste vooroordelen over het mbo"
@@ -24,4 +24,4 @@ Toen ik deze zomer van de havo naar het mbo switchte, vlogen de kritiek én de v
 <p><strong>5. 'Met een mbo-diploma kun je je toekomst wel vergeten': echt niet waar</strong><br>De grootste onzin die er bestaat. Alleen al op mijn opleiding vertellen docenten breeduit over leerlingen die na hun opleiding naar Hillywood (Hilversum) zijn gegaan en daar nu een dijk van een carrière hebben. Zelf ken ik iemand die een fulltime baan bij Radio 1 heeft overgehouden aan zijn stage in het derde jaar. </p>
 <p>Kortom: alle indianenverhalen ten spijt, het mbo is zo slecht nog niet. Overweeg je de overstap te maken omdat je huidige schooltype niet bij je past, dan kan ik het je van harte aanraden. Al was het alleen maar vanwege de feestjes.</p>
 <p><em>Foto: ANP. De leerlingen op bovenstaande afbeelding hebben niets te maken met de inhoud van dit artikel.</em></p>
-<p><em>Wil je meer blogs lezen van <a href="sevendays.nl/users/ivo-pasveer">Ivo</a> (17)? Laatst schreef hij ook al <a href="https://original.sevendays.nl/blog/7-tips-om-je-kamer-op-te-ruimen">7 tips om je kamer op te ruimen</a> en <a href="https://original.sevendays.nl/blog/de-dolksteek-die-cum-laude-heet">De dolksteek die cum laude heet</a>.</em></p>  
+<p><em>Wil je meer blogs lezen van <a href="sevendays.nl/users/ivo-pasveer">Ivo</a> (17)? Laatst schreef hij ook al <a href="https://7dagen.netlify.app/blog/7-tips-om-je-kamer-op-te-ruimen">7 tips om je kamer op te ruimen</a> en <a href="https://7dagen.netlify.app/blog/de-dolksteek-die-cum-laude-heet">De dolksteek die cum laude heet</a>.</em></p>  

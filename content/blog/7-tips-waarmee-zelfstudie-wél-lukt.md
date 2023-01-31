@@ -1,5 +1,5 @@
 ---
-id: b5a34ee966914ac58811b9fdcdacd362
+id: 10b525632a1842d499a05605eda9a4cf
 type: post
 layout: post
 title: "7 tips waarmee zelfstudie wél lukt"

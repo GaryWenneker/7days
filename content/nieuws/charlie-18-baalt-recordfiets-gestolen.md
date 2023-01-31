@@ -1,5 +1,5 @@
 ---
-id: 45a1f05274334b22acc530b09ebb6cfe
+id: 87f88068da27474daec218169319ee98
 type: nieuws
 layout: post
 title: "Charlie (18) baalt: recordfiets gestolen"
@@ -29,7 +29,7 @@ Hij geloofde het eerst niet, de Britse Charlie Condell. Maar het was toch echt w
         
   
   <div class="content">
-    <img alt="Dit was Charlies geliefde fiets" title="Dit was Charlies geliefde fiets" height="464" width="520" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/charlies%20fiets.png">  </div>
+    <img alt="Dit was Charlies geliefde fiets" title="Dit was Charlies geliefde fiets" height="464" width="520" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/charlies%20fiets.png">  </div>
 
   
 </div>

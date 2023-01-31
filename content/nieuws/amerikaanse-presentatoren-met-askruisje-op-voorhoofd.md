@@ -1,5 +1,5 @@
 ---
-id: 73dcaae6ea2745af91625dae1d53dadd
+id: 89f659da20dd4e379ab249ac08ff2026
 type: nieuws
 layout: post
 title: "Amerikaanse presentatoren met askruisje op voorhoofd"
@@ -16,7 +16,7 @@ In een aantal Amerikaanse televisieprogramma's hadden presentatoren of gasten 
     <h3>1. Wat is een askruisje?</h3>
 <p>In de katholieke kerk krijgen gelovigen van de priester op Aswoensdag (de woensdag na Carnaval) een kruisje van as op hun voorhoofd. Op deze dag begint de katholieke vastentijd, die duurt tot Pasen. Het kruisje is een symbool voor een tekst uit de bijbel: 'Want gij zijt stof en tot stof zult gij wederkeren.' Deze woorden zouden mensen aan hun sterfelijkheid herinneren.</p>
 <h3>2. Wat zeiden presentatoren over hun askruisje?</h3>
-<p>CNN-presentator Chris Cuomo was ermee te zien terwijl hij onder andere sprak over de getuigenis van president Trumps vroegere advocaat <a href="https://original.sevendays.nl/nieuws/trump-de-knel-door-beschuldigingen" target="_blank">Michael Cohen</a>. Hij gaf op Twitter deze uitleg: 'Het ritueel is een herinnering. Dat is alles. Wees gewoon goed voor anderen. Hou van genade zoals Franciscus zegt. Ik faal elke dag.' Hij grapte ook dat 'het as de aandacht afleidt van zijn neus.' <div class="media media-element-container media-default"><div id="file-536442" class="file file-document file-text-oembed">
+<p>CNN-presentator Chris Cuomo was ermee te zien terwijl hij onder andere sprak over de getuigenis van president Trumps vroegere advocaat <a href="https://7dagen.netlify.app/nieuws/trump-de-knel-door-beschuldigingen" target="_blank">Michael Cohen</a>. Hij gaf op Twitter deze uitleg: 'Het ritueel is een herinnering. Dat is alles. Wees gewoon goed voor anderen. Hou van genade zoals Franciscus zegt. Ik faal elke dag.' Hij grapte ook dat 'het as de aandacht afleidt van zijn neus.' <div class="media media-element-container media-default"><div id="file-536442" class="file file-document file-text-oembed">
 
         <h2 class="element-invisible"><a href="/files/christopher-c-cuomo-1551968197">Christopher C. Cuomo 1551968197</a></h2>
     

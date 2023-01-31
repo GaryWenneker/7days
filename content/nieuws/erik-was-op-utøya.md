@@ -1,5 +1,5 @@
 ---
-id: db82ff3c13a6439c9bb2e926245f05fa
+id: ac57b33a52db4364b209da07edad8913
 type: nieuws
 layout: post
 title: "Erik was op Utøya"
@@ -18,7 +18,7 @@ Erik Kursetgjerde (18) was in de zomer van 2011 op het politieke jeugdkamp op he
         
   
   <div class="content">
-    <img title="Erik Kursetgjerde " height="500" width="389" style="float: left; width: 198px; height: 255px; margin-left: 5px; margin-right: 5px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/erik2.png" alt="">  </div>
+    <img title="Erik Kursetgjerde " height="500" width="389" style="float: left; width: 198px; height: 255px; margin-left: 5px; margin-right: 5px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/erik2.png" alt="">  </div>
 
   
 </div>
@@ -30,11 +30,11 @@ Erik Kursetgjerde (18) was in de zomer van 2011 op het politieke jeugdkamp op he
         
   
   <div class="content">
-    <img alt="Utøya overlevenden Anders Breivik" title="Overlevenden van de aanslag op Otøya troosten elkaar  Foto EPA" height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/utoya%201.jpg">  </div>
+    <img alt="Utøya overlevenden Anders Breivik" title="Overlevenden van de aanslag op Otøya troosten elkaar  Foto EPA" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/utoya%201.jpg">  </div>
 
   
 </div>
 </div><br><strong>Agent</strong><br>‘Opeens begon het schieten weer. Vlakbij. Toen zagen we een agent. We dachten dat de politie was gekomen. De agent zei dat we naar hem toe moesten komen. We dachten dat we veilig waren. Gered. Maar we hadden het mis. De agent begon op ons te schieten. Om mij heen vielen mensen op de grond. Misschien wel twintig. Sommigen vielen in de zee.'
 <p>'Ik rende weg met een paar anderen. Hij volgde ons. Mensen sprongen in het water en begonnen te zwemmen. Ik ook. Ik kwam tot het midden van de fjord. Ik kreeg kramp in mijn benen. Ik kon niet meer. Toen zag ik bootjes aankomen. Mensen trokken me op een bootje. Zij hebben me gered.’</p>
 <p>Denkt Erik dat Noorwegen verandert na de aanslagen? ‘Er is nog meer saamhorigheid. Dat is het antwoord op zoveel haat.’</p>
-<p><em>Dader Anders Breivik werd kort na de aanslagen gearresteerd en kreeg een celstraf van minstens 21 jaar. Maar daar is hij het niet mee eens: hij vindt zijn straf onmenselijk. Hoe dat zit, lees je <a href="https://original.sevendays.nl/nieuws/vindt-de-rechter-breiviks-celstraf-ook-onmenselijk">hier</a>.</em></p>  
+<p><em>Dader Anders Breivik werd kort na de aanslagen gearresteerd en kreeg een celstraf van minstens 21 jaar. Maar daar is hij het niet mee eens: hij vindt zijn straf onmenselijk. Hoe dat zit, lees je <a href="https://7dagen.netlify.app/nieuws/vindt-de-rechter-breiviks-celstraf-ook-onmenselijk">hier</a>.</em></p>  

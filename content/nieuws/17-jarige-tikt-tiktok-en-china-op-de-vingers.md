@@ -1,5 +1,5 @@
 ---
-id: fd5220a6457048e28182a6763c4d4f8e
+id: bfa69e4eed484a979323e2dba4b57c05
 type: nieuws
 layout: post
 title: "17-jarige tikt TikTok (en China) op de vingers"

@@ -1,5 +1,5 @@
 ---
-id: b23317302a5f4a8aa0734000aa60e016
+id: bb2e8accf67b4f1aae2e1db55dd3a8bb
 type: post
 layout: post
 title: "Ralf, waar ben je gebleven? "
@@ -35,4 +35,4 @@ seo:
   
 </div>
 </div>
-<p>De 18-jarige Lucas heeft een creatieve geest en houdt van schrijven, toneelspelen en tekenen. Ook bezoekt hij héél graag musicals. Hij is eerstejaarsstudent Journalistiek en wil later bij de televisie gaan werken. <em><a href="https://original.sevendays.nl/users/lucas-versteeg">Lees meer blogs van Lucas.</a></em></p>  
+<p>De 18-jarige Lucas heeft een creatieve geest en houdt van schrijven, toneelspelen en tekenen. Ook bezoekt hij héél graag musicals. Hij is eerstejaarsstudent Journalistiek en wil later bij de televisie gaan werken. <em><a href="https://7dagen.netlify.app/users/lucas-versteeg">Lees meer blogs van Lucas.</a></em></p>  

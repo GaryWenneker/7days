@@ -1,5 +1,5 @@
 ---
-id: 3f184cba8b144a82bf7b611614d99b7a
+id: 9d1ee7cbbc7d412b8faf7c324bc1ffc2
 type: nieuws
 layout: post
 title: "In China bepaalt de overheid je gametijd"

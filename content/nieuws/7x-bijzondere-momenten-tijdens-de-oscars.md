@@ -1,5 +1,5 @@
 ---
-id: a9196b628597487789b3f2bbfe71d04c
+id: 5f1a2443c3a542b793bb1bd45f9518cd
 type: nieuws
 layout: post
 title: "7x bijzondere momenten tijdens de Oscars"
@@ -20,13 +20,13 @@ Het regende gisteravond weer gouden beeldjes tijdens de jaarlijkse Oscars. De fi
         
   
   <div class="content">
-    <img alt="anp" title="anp " height="3112" width="4668" class="media-element file-default" data-delta="9" src="https://original.sevendays.nl/sites/default/files/ANP-70564072.jpg">  </div>
+    <img alt="anp" title="anp " height="3112" width="4668" class="media-element file-default" data-delta="9" src="https://7dagen.netlify.app/sites/default/files/ANP-70564072.jpg">  </div>
 
   
 </div>
 </div>
 <h3>2. Meer diversiteit</h3>
-<p>In 2016 ontstond er onder de hashtag <a href="https://original.sevendays.nl/blog/de-oscars-2016-7-momenten">#OscarsSoWhite</a> ophef na de bekendmaking van de Oscar-nominaties: er zou te weinig diversiteit onder de genomineerden zijn. Gisterenavond, drie jaar later, lijkt de campagne gewerkt te hebben. Er was meer diversiteit onder de winnaars en acteur Mahershala Ali won, na Denzel Washington, als tweede zwarte acteur een tweede Oscar. Ook waren er nog nooit zoveel vrouwelijke winnaars, maar liefst vijftien vrouwen gingen met een award naar huis.</p>
+<p>In 2016 ontstond er onder de hashtag <a href="https://7dagen.netlify.app/blog/de-oscars-2016-7-momenten">#OscarsSoWhite</a> ophef na de bekendmaking van de Oscar-nominaties: er zou te weinig diversiteit onder de genomineerden zijn. Gisterenavond, drie jaar later, lijkt de campagne gewerkt te hebben. Er was meer diversiteit onder de winnaars en acteur Mahershala Ali won, na Denzel Washington, als tweede zwarte acteur een tweede Oscar. Ook waren er nog nooit zoveel vrouwelijke winnaars, maar liefst vijftien vrouwen gingen met een award naar huis.</p>
 <p><div class="media media-element-container media-default"><div id="file-536281" class="file file-document file-text-oembed">
 
         <h2 class="element-invisible"><a href="/files/thefemmephenom-1551086371">thefemmephenom 1551086371</a></h2>
@@ -48,7 +48,7 @@ Het regende gisteravond weer gouden beeldjes tijdens de jaarlijkse Oscars. De fi
         
   
   <div class="content">
-    <img alt="Foto: ANP" title="Kevin Hart" height="2400" width="3600" class="media-element file-default" data-delta="4" src="https://original.sevendays.nl/sites/default/files/ANP-41671118.jpg">  </div>
+    <img alt="Foto: ANP" title="Kevin Hart" height="2400" width="3600" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/ANP-41671118.jpg">  </div>
 
   
 </div>
@@ -60,7 +60,7 @@ Het regende gisteravond weer gouden beeldjes tijdens de jaarlijkse Oscars. De fi
         
   
   <div class="content">
-    <img alt="afp" title="afp" height="1195" width="1791" class="media-element file-default" data-delta="5" src="https://original.sevendays.nl/sites/default/files/ANP-70554278.jpg">  </div>
+    <img alt="afp" title="afp" height="1195" width="1791" class="media-element file-default" data-delta="5" src="https://7dagen.netlify.app/sites/default/files/ANP-70554278.jpg">  </div>
 
   
 </div>
@@ -72,7 +72,7 @@ Het regende gisteravond weer gouden beeldjes tijdens de jaarlijkse Oscars. De fi
         
   
   <div class="content">
-    <img alt="afp" title="afp" height="2214" width="3322" class="media-element file-default" data-delta="6" src="https://original.sevendays.nl/sites/default/files/ANP-70554744.jpg">  </div>
+    <img alt="afp" title="afp" height="2214" width="3322" class="media-element file-default" data-delta="6" src="https://7dagen.netlify.app/sites/default/files/ANP-70554744.jpg">  </div>
 
   
 </div>
@@ -84,7 +84,7 @@ Het regende gisteravond weer gouden beeldjes tijdens de jaarlijkse Oscars. De fi
         
   
   <div class="content">
-    <img alt="anp" title="anp" height="1606" width="2408" class="media-element file-default" data-delta="7" src="https://original.sevendays.nl/sites/default/files/ANP-70568718.jpg">  </div>
+    <img alt="anp" title="anp" height="1606" width="2408" class="media-element file-default" data-delta="7" src="https://7dagen.netlify.app/sites/default/files/ANP-70568718.jpg">  </div>
 
   
 </div>
@@ -96,7 +96,7 @@ Het regende gisteravond weer gouden beeldjes tijdens de jaarlijkse Oscars. De fi
         
   
   <div class="content">
-    <img alt="anp" title="anp " height="1683" width="2487" class="media-element file-default" data-delta="8" src="https://original.sevendays.nl/sites/default/files/ANP-70567259.jpg">  </div>
+    <img alt="anp" title="anp " height="1683" width="2487" class="media-element file-default" data-delta="8" src="https://7dagen.netlify.app/sites/default/files/ANP-70567259.jpg">  </div>
 
   
 </div>

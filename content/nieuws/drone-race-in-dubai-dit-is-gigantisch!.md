@@ -1,5 +1,5 @@
 ---
-id: b5d8affb8b5946a69de4054eab482a95
+id: cbef4e8ef0ed42acbc0da5ef6c4a579a
 type: nieuws
 layout: post
 title: "Drone-race in Dubai: 'Dit is gigantisch!'"
@@ -32,4 +32,4 @@ Terwijl in Nederland zeearenden worden ingezet om drones uit de lucht te halen, 
 <p><strong>Hoe gaat de kwalificatie voor een toernooi als dit?</strong><br>'Er waren twee manieren: een officieel georganiseerde <em>qualifier</em> bijwonen of een video insturen die voldoet aan allerlei eisen, zoals het voorstellen van het team en het uitvoeren van bepaalde manoeuvres. Wij kozen voor de tweede optie, omdat de dichtstbijzijnde qualifier in Duitsland was. Tijdens een event in Rijswijk hebben we een track gebouwd dat voldeed aan alle eisen en onze kwalificatievideo gefilmd.'</p>
 <p><strong>Wat zijn jullie kansen voor de finale vandaag?</strong><br><strong>'</strong>Het niveau ligt zoals verwacht hoog, maar we zien niet veel problemen. Iedereen in de finale maakt kans. We zijn erg tevreden over hoe de vorige rondes zijn verlopen. Op de eerste dag moesten we een zo snel mogelijke tijd neerzetten, de tweede dag draaide om vijf rondes afmaken in een zo snel mogelijke tijd. Doordat we hier een wat zwaardere camera moeten gebruiken, was dat eerst even wennen, maar iedereen heeft die handicap.'</p>
 <p><strong>Voor de winnaar ligt bijna 225.000 euro aan prijzengeld klaar. Wat zouden jullie daar mee doen, mochten jullie winnen?<br>'</strong>Het is misschien een cliché, maar de hele ervaring om dit mee te maken, is al een prijs. We hebben al onderling afgesproken hoe we het geld gaan verdelen, mochten we in de prijzen vallen. Een deel gaat sowieso naar de teampot om nieuw materiaal te kopen. Voor de rest wordt het natuurlijk tijd voor een feestje!'</p>
-<p><em>Altijd op de hoogte blijven van nieuws en tips waar je als jongere iets mee kunt? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis nieuwsapp</a> of neem een proefabonnement op de <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">papieren 7Days</a>!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws en tips waar je als jongere iets mee kunt? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis nieuwsapp</a> of neem een proefabonnement op de <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">papieren 7Days</a>!</em></p>  

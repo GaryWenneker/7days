@@ -1,5 +1,5 @@
 ---
-id: 021ac64264b849c8bcf2021fc4a2e5bd
+id: 634c54f8ceea4e39be9945e3a59b3be4
 type: post
 layout: post
 title: "Pickwick slaat de plank mis"
@@ -19,4 +19,4 @@ Toen ik op een ochtend met een nog niet-wakker hoofd een theezakje openscheur
 <p><b>Levensvragen</b><br>Echt, ik ben nog nooit iemand tegengekomen die af en toe een bewust levensoverdenkmomentje heeft en daarbij gaat mijmeren over het bestaan met een kopje thee. Dat is trouwens niet vreemd, aangezien zulke ontzettend levensenthousiaste personen waarschijnlijk moeilijk te vinden zijn. </p>
 <p>En wanneer je deze labeltjes nodig hebt om een gesprek met iemand aan te kunnen gaan, geloof me, dan gaat het antwoord op de vraag "ben je een katten of hondenmens?" jullie relatie niet zodanig verbeteren dat de mogelijkheid voor een fatsoenlijke conversatie zonder hulpmiddelen bestaat.</p>
 <p>Waarschijnlijk ligt een deel van mijn afgrijzen ook een beetje aan vrees. Want het kan toch niet zo zijn dat jonge meisjes niet meer worden gehoord door hun telefoonverslaafde moeders, waardoor we ooit écht theelabelvragen nodig gaan hebben om in staat te zijn een goed gesprek te voeren? Laten we proberen dat voor te zijn, dan kan Pickwick weer gewone labeltjes drukken en hoeven Henk en Bart geen jasmijnbloesemthee meer te drinken. </p>
-<p><em>Meer blogs lezen van Evelien (14)? Laatst schreef ze ook <a href="https://original.sevendays.nl/blog/de-7-fases-van-carnaval" target="_blank">De 7 fases van carnaval </a>en <a href="https://original.sevendays.nl/blog/vals-venijn-op-een-volwassen-vrouwenforum" target="_blank">Vals venijn op een volwassen vrouwenforum</a>.</em></p>  
+<p><em>Meer blogs lezen van Evelien (14)? Laatst schreef ze ook <a href="https://7dagen.netlify.app/blog/de-7-fases-van-carnaval" target="_blank">De 7 fases van carnaval </a>en <a href="https://7dagen.netlify.app/blog/vals-venijn-op-een-volwassen-vrouwenforum" target="_blank">Vals venijn op een volwassen vrouwenforum</a>.</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: 82f6baf1d29b492cb2ac4ade9fc7efc9
+id: 526d7bace82a400d9b06542dfbdc7f25
 type: nieuws
 layout: post
 title: "In Beeld: heftige aardbeving treft Mexico"
@@ -19,7 +19,7 @@ Mexico is vannacht opgeschrikt door een zware aardbeving. Het epicentrum van de 
         
   
   <div class="content">
-    <img title="Foto: AFP" height="3078" width="4962" style="width: 850px; height: 527px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/AFP%20Mexico%20lucht%20ANP-53325183.jpg" alt="">  </div>
+    <img title="Foto: AFP" height="3078" width="4962" style="width: 850px; height: 527px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/AFP%20Mexico%20lucht%20ANP-53325183.jpg" alt="">  </div>
 
   
 </div>
@@ -31,7 +31,7 @@ Mexico is vannacht opgeschrikt door een zware aardbeving. Het epicentrum van de 
         
   
   <div class="content">
-    <img title="Foto: AFP" height="1575" width="2800" style="width: 850px; height: 478px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/AFP%20Mexico%20nacht%20ANP-53326689.jpg" alt="">  </div>
+    <img title="Foto: AFP" height="1575" width="2800" style="width: 850px; height: 478px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/AFP%20Mexico%20nacht%20ANP-53326689.jpg" alt="">  </div>
 
   
 </div>
@@ -43,7 +43,7 @@ Mexico is vannacht opgeschrikt door een zware aardbeving. Het epicentrum van de 
         
   
   <div class="content">
-    <img title="Foto: AFP" height="3712" width="5568" style="width: 850px; height: 567px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/AFP%20Mexico%20zoeken%20ANP-53321116.jpg" alt="">  </div>
+    <img title="Foto: AFP" height="3712" width="5568" style="width: 850px; height: 567px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/AFP%20Mexico%20zoeken%20ANP-53321116.jpg" alt="">  </div>
 
   
 </div>
@@ -55,7 +55,7 @@ Mexico is vannacht opgeschrikt door een zware aardbeving. Het epicentrum van de 
         
   
   <div class="content">
-    <img title="Foto: AFP" height="3712" width="5568" style="width: 850px; height: 567px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/AFP%20Mexico%20Vuist%20ANP-53324722.jpg" alt="">  </div>
+    <img title="Foto: AFP" height="3712" width="5568" style="width: 850px; height: 567px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/AFP%20Mexico%20Vuist%20ANP-53324722.jpg" alt="">  </div>
 
   
 </div>
@@ -67,7 +67,7 @@ Mexico is vannacht opgeschrikt door een zware aardbeving. Het epicentrum van de 
         
   
   <div class="content">
-    <img title="Foto: AFP" height="3280" width="4928" style="width: 850px; height: 566px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/AFP%20Mexico%20Silencio%20ANP-53324910.jpg" alt="">  </div>
+    <img title="Foto: AFP" height="3280" width="4928" style="width: 850px; height: 566px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/AFP%20Mexico%20Silencio%20ANP-53324910.jpg" alt="">  </div>
 
   
 </div>
@@ -75,8 +75,8 @@ Mexico is vannacht opgeschrikt door een zware aardbeving. Het epicentrum van de 
 <h3><em>Silencio</em></h3>
 <p>En als de opgestoken vuist geen effect heeft, dan proberen de hulpverleners het met een bordje: <em>silencio</em>. Stilte. De Mexicaanse president Enrique Peña Nieto heeft de rampplek inmiddels al bezocht.</p>
 <div class="kader">
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p>Vond je dit interessant? Lees dan ook eens<a href="https://original.sevendays.nl/lifestyle/fenna-17-van-hoefwijzer-over-het-succes-van-paardentubers" target="_blank"> </a><a href="https://original.sevendays.nl/nieuws/de-zeven-droogste-plekken-op-aarde">De zeven droogste plekken op aarde</a> of <a href="https://original.sevendays.nl/archief/filmpje-kunst-van-aardbeving">Filmpje: kunst van aardbeving</a>.</p>
-<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://original.sevendays.nl/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp</a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">,</em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://original.sevendays.nl/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"> </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p>Vond je dit interessant? Lees dan ook eens<a href="https://7dagen.netlify.app/lifestyle/fenna-17-van-hoefwijzer-over-het-succes-van-paardentubers" target="_blank"> </a><a href="https://7dagen.netlify.app/nieuws/de-zeven-droogste-plekken-op-aarde">De zeven droogste plekken op aarde</a> of <a href="https://7dagen.netlify.app/archief/filmpje-kunst-van-aardbeving">Filmpje: kunst van aardbeving</a>.</p>
+<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://7dagen.netlify.app/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp</a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">,</em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://7dagen.netlify.app/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"> </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
 </div>
   

@@ -1,5 +1,5 @@
 ---
-id: f41b54cdd30a49b7b3598038d32c790a
+id: 64a928db581a4f5f999a8fec84f2f5e0
 type: nieuws
 layout: post
 title: "Corona: het laatste nieuws in 7 leesminuten"
@@ -18,7 +18,7 @@ Het nieuws over corona buitelt over elkaar heen, zo snel gaan de ontwikkelingen.
         
   
   <div class="content">
-    <img alt="Bij een tolweg in Wuhan wordt de temperatuur van automobilisten gecheckt  Foto EPA" title="Bij een tolweg in Wuhan wordt de temperatuur van automobilisten gecheckt  Foto EPA" height="4480" width="6720" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-405051501.jpg">  </div>
+    <img alt="Bij een tolweg in Wuhan wordt de temperatuur van automobilisten gecheckt  Foto EPA" title="Bij een tolweg in Wuhan wordt de temperatuur van automobilisten gecheckt  Foto EPA" height="4480" width="6720" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-405051501.jpg">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ Het nieuws over corona buitelt over elkaar heen, zo snel gaan de ontwikkelingen.
         
   
   <div class="content">
-    <img alt="Deze passagier mocht vandaag van de Diamond Princess af  Foto EPA" title="Deze passagier mocht vandaag van de Diamond Princess af  Foto EPA" height="1966" width="2949" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-406875670.jpg">  </div>
+    <img alt="Deze passagier mocht vandaag van de Diamond Princess af  Foto EPA" title="Deze passagier mocht vandaag van de Diamond Princess af  Foto EPA" height="1966" width="2949" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-406875670.jpg">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: 757a1c5e02324a4e9f116424b864e425
+id: 824600edb02541bf9bd5d3943263de87
 type: nieuws
 layout: post
 title: "Dorp vecht tegen zelfmoordgolf"
@@ -38,7 +38,7 @@ In het Canadese Attawapiskat is de noodtoestand uitgeroepen. In een half jaar ti
         
   
   <div class="content">
-    <img title="twitter" height="375" width="289" style="width: 289px; height: 375px; float: right;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/chief.JPG" alt="">  </div>
+    <img title="twitter" height="375" width="289" style="width: 289px; height: 375px; float: right;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/chief.JPG" alt="">  </div>
 
   
 </div>
@@ -49,11 +49,11 @@ In het Canadese Attawapiskat is de noodtoestand uitgeroepen. In een half jaar ti
         
   
   <div class="content">
-    <img height="742" width="860" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/zelfmoorddorpactieplan.jpg" alt="">  </div>
+    <img height="742" width="860" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/zelfmoorddorpactieplan.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <p>De Canadese regering beloofde deze week te zullen luisteren naar de ideeën van de jongeren.</p>
-<p><em>Ook de welvarende Amerikaanse stad Palo Alto heeft te maken met een opvallende zelfmoordgolf onder jongeren. Meer daarover kun je <a href="https://original.sevendays.nl/nieuws/onderzoek-naar-stad-vol-tienerzelfmoorden">hier</a> lezen. </em></p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren belangrijk is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://original.sevendays.nl/abonnement">proefabonnement </a>op de krant! </em></p>  
+<p><em>Ook de welvarende Amerikaanse stad Palo Alto heeft te maken met een opvallende zelfmoordgolf onder jongeren. Meer daarover kun je <a href="https://7dagen.netlify.app/nieuws/onderzoek-naar-stad-vol-tienerzelfmoorden">hier</a> lezen. </em></p>
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren belangrijk is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://7dagen.netlify.app/abonnement">proefabonnement </a>op de krant! </em></p>  

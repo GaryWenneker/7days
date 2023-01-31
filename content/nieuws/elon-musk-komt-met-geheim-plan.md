@@ -1,5 +1,5 @@
 ---
-id: c4e7e5b706db4511ad8081cf27c46d70
+id: 834a9c457e4d42df89d2e678cf1fcbe1
 type: nieuws
 layout: post
 title: "Elon Musk komt met 'geheim plan'"
@@ -19,7 +19,7 @@ Alles maar dan ook álles aan Elon Musk (45) straalt energie, onrust en ambitie 
         
   
   <div class="content">
-    <img title="ANP" height="623" width="800" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/spacex.jpg" alt="">  </div>
+    <img title="ANP" height="623" width="800" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/spacex.jpg" alt="">  </div>
 
   
 </div>
@@ -29,7 +29,7 @@ Alles maar dan ook álles aan Elon Musk (45) straalt energie, onrust en ambitie 
         
   
   <div class="content">
-    <img alt="Elon Musk" title="twitter" height="314" width="616" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/musk_0.JPG">  </div>
+    <img alt="Elon Musk" title="twitter" height="314" width="616" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/musk_0.JPG">  </div>
 
   
 </div>
@@ -39,7 +39,7 @@ Alles maar dan ook álles aan Elon Musk (45) straalt energie, onrust en ambitie 
         
   
   <div class="content">
-    <img title="ANP" height="408" width="800" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/elon%20musk.jpg" alt="">  </div>
+    <img title="ANP" height="408" width="800" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/elon%20musk.jpg" alt="">  </div>
 
   
 </div>
@@ -50,9 +50,9 @@ Alles maar dan ook álles aan Elon Musk (45) straalt energie, onrust en ambitie 
         
   
   <div class="content">
-    <img title="Flos Vingerhoets" height="1272" width="1450" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ElonMusk.jpg" alt="">  </div>
+    <img title="Flos Vingerhoets" height="1272" width="1450" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ElonMusk.jpg" alt="">  </div>
 
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van artikelen die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van artikelen die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

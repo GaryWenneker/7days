@@ -1,5 +1,5 @@
 ---
-id: 793c0d4c42f64879874e465ab1e2e0fa
+id: dcad88a78fb24395a8b491ba98602f2f
 type: post
 layout: post
 title: "Eindelijk: ik mag rijles! "
@@ -19,7 +19,7 @@ Naar school, naar het zwembad en naar de bibliotheek: waar ik ook naartoe fiets,
 <p>Ik heb de ervaringsdeskundigen om me heen, dus vraag mijn klasgenoten naar hun rijschool om te weten welke wordt aangeraden. De uitslag van mijn ‘enquête’: iedereen is eigenlijk wel tevreden over zijn of haar rijschool. En bijna iedereen heeft een andere. Dat er talloze in mijn omgeving zijn, blijkt ook als ik op internet zoek. Ik zie door de auto’s… eh, de bomen, het bos niet meer!</p>
 <h4><strong>Wachtlijst en proefles</strong></h4>
 <p>Na lang wikken en wegen maak ik een keus. Bij deze rijschool heb ik een goed gevoel. Ik stuur een mailtje, maar krijg een dag later te horen dat er een wachtlijst van twee maanden is…</p>
-<p>Het zoekproces begint dus weer opnieuw. Ik vraag verder, zoek door en mail weer. Inmiddels nadert de dag waarop ik zestien en een half word. Ik sta eigenlijk nooit stil bij dit soort verjaardagen, maar – <a href="https://original.sevendays.nl/blog/sweet-sixteen%E2%80%A6-en-dan">in tegenstelling tot bij mijn <em>sweet sixteen</em></a> – verandert er dit keer wel iets: ik mag leren autorijden!</p>
+<p>Het zoekproces begint dus weer opnieuw. Ik vraag verder, zoek door en mail weer. Inmiddels nadert de dag waarop ik zestien en een half word. Ik sta eigenlijk nooit stil bij dit soort verjaardagen, maar – <a href="https://7dagen.netlify.app/blog/sweet-sixteen%E2%80%A6-en-dan">in tegenstelling tot bij mijn <em>sweet sixteen</em></a> – verandert er dit keer wel iets: ik mag leren autorijden!</p>
 <h4><strong>Het kan beginnen!</strong></h4>
 <p>En dan word ik, op de ochtend van mijn halve verjaardag, teruggebeld door de rijschool die ik had gemaild. De datum voor een proefles staat genoteerd in mijn agenda!</p>
 <p>Ik ben heel benieuwd hoe het zal zijn en heb er veel zin in, maar vind het ook spannend. Zijn mijn verwachtingen niet te hoog?</p>

@@ -1,5 +1,5 @@
 ---
-id: 67005384c392409bacd4f9757ff9cb1b
+id: f3d230beb2bd42fb806ebcf4851aa7b1
 type: nieuws
 layout: post
 title: "Dit schreef kleine Wilders (10) in de schoolkrant"
@@ -19,7 +19,7 @@ Geert Wilders was op zijn tiende al druk met politiek bezig, zo blijkt uit zijn 
         
   
   <div class="content">
-    <img height="545" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/wildersolie.jpg" alt="">  </div>
+    <img height="545" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/wildersolie.jpg" alt="">  </div>
 
   
 </div>
@@ -30,11 +30,11 @@ Geert Wilders was op zijn tiende al druk met politiek bezig, zo blijkt uit zijn 
         
   
   <div class="content">
-    <img height="301" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/wildersgp.jpg" alt="">  </div>
+    <img height="301" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/wildersgp.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <p>In het artikel dat deze week in <em>Vrij Nederland</em> staat, vertelt een jeugdvriend van Wilders dat Geert op de middelbare school een enorme alto was. ‘Hij had een verward kapsel, droeg altijd een leren broek en een leren jas met zo'n schuine rits.’</p>
 <p>Een andere jeugdvriendje vertelt anoniem ‘dat hij een ‘rotzak’ was die altijd vals speelde met voetbal en bordspelletjes’.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

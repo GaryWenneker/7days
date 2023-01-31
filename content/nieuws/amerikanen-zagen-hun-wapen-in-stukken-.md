@@ -1,5 +1,5 @@
 ---
-id: 9a7b7ea27de34245903aa4d2d124da17
+id: 7b08a4c6620c429aa1e8375b2e4f875a
 type: nieuws
 layout: post
 title: "Amerikanen zagen hun wapen in stukken "
@@ -13,11 +13,11 @@ seo:
 ---
 Veel mensen in de Verenigde Staten maken hun wapen kapot. Foto's en video's daarvan plaatsen ze op social media met #OneLess. Ze willen een statement maken na de schietpartij in Florida.  
 
-    <p>Na de <a href="https://original.sevendays.nl/nieuws/amerikaanse-protesten-tegen-vuurwapens">schietpartij</a> op een school in Florida, waarbij een 19-jarige jongen zeventien mensen doodschoot, is de discussie over de wapenwet weer volop aan de gang. De leerlingen van de school zijn woedend. Op de politiek en op president Trump, omdat die weigeren om de vuurwapenwet aan te passen.</p>
+    <p>Na de <a href="https://7dagen.netlify.app/nieuws/amerikaanse-protesten-tegen-vuurwapens">schietpartij</a> op een school in Florida, waarbij een 19-jarige jongen zeventien mensen doodschoot, is de discussie over de wapenwet weer volop aan de gang. De leerlingen van de school zijn woedend. Op de politiek en op president Trump, omdat die weigeren om de vuurwapenwet aan te passen.</p>
 <h3>Discussie</h3>
 <p>Zo'n 47 procent van de Amerikanen heeft een vuurwapen, maar veel mensen willen dat het moeilijker wordt om aan wapens te komen. Dat is nu namelijk vrij makkelijk. Andere Amerikanen vinden dat ze het recht hebben om zichzelf te beschermen als dat nodig is. Dat staat ook in de grondwet. President Trump gaf aan dat hij het wapengeweld op scholen wil aanpakken. Mensen moeten volgens hem beter gecontroleerd worden als ze een wapen willen aanschaffen. Ook denkt hij erover om leraren te bewapenen. 'Een leraar met een wapen kan een aanval snel beëindigen', zei hij in een <a href="https://nos.nl/video/2218749-een-leraar-met-een-wapen-kan-een-aanval-snel-beeindigen.html" target="_blank">gesprek</a> met slachtoffers en nabestaanden van schietpartijen. </p>
 <h3>Een minder</h3>
-<p>Maandag <a href="https://original.sevendays.nl/nieuws/amerikaanse-protesten-tegen-vuurwapens">lagen tientallen studenten al doodstil op de grond</a> bij het Witte Huis in Washington, om de slachtoffers te symboliseren. Op social media verschijnen nu ook veel video's met #OneLess. Scott Pappalardo uit New York begon met het doomidden zagen van zijn wapen. 'Mensen zeggen altijd: Er zijn zoveel wapens in omloop. Nou, nu is er een minder', vertelt hij. Het filmpje is al honderdduizenden keren bekeken.<br><div class="media media-element-container media-default"><div id="file-532495" class="file file-video file-video-youtube">
+<p>Maandag <a href="https://7dagen.netlify.app/nieuws/amerikaanse-protesten-tegen-vuurwapens">lagen tientallen studenten al doodstil op de grond</a> bij het Witte Huis in Washington, om de slachtoffers te symboliseren. Op social media verschijnen nu ook veel video's met #OneLess. Scott Pappalardo uit New York begon met het doomidden zagen van zijn wapen. 'Mensen zeggen altijd: Er zijn zoveel wapens in omloop. Nou, nu is er een minder', vertelt hij. Het filmpje is al honderdduizenden keren bekeken.<br><div class="media media-element-container media-default"><div id="file-532495" class="file file-video file-video-youtube">
 
         <h2 class="element-invisible"><a href="/files/gun-owner-destroys-rifle-after-florida-shooting-%E2%80%98now-there%E2%80%99s-one-less%E2%80%99">Gun owner destroys rifle after Florida shooting: ‘Now there’s one less’</a></h2>
     

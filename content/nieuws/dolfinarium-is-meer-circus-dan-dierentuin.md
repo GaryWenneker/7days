@@ -1,5 +1,5 @@
 ---
-id: c7b4d69f4c194ce7aa16f86bd38cd363
+id: 1cc7ac2258694ed68597b873ae4457a9
 type: nieuws
 layout: post
 title: "'Dolfinarium is meer circus dan dierentuin'"
@@ -20,7 +20,7 @@ Wie wel eens in het Dolfinarium is geweest, weet hoe slim en speels dolfijnen ku
         
   
   <div class="content">
-    <img title="Beeld: Uitzending Gemist" height="289" width="921" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/dolfinarium_0.png" alt="">  </div>
+    <img title="Beeld: Uitzending Gemist" height="289" width="921" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/dolfinarium_0.png" alt="">  </div>
 
   
 </div>
@@ -33,7 +33,7 @@ Wie wel eens in het Dolfinarium is geweest, weet hoe slim en speels dolfijnen ku
         
   
   <div class="content">
-    <img title="Beeld: ANP" height="572" width="1377" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-20222824.jpg" alt="">  </div>
+    <img title="Beeld: ANP" height="572" width="1377" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-20222824.jpg" alt="">  </div>
 
   
 </div>

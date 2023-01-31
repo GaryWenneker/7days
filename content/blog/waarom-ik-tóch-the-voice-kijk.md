@@ -1,5 +1,5 @@
 ---
-id: a6dd01885afe4239a068bbbc9a1fbbae
+id: d8a6475526f341249713ccb9442424c4
 type: post
 layout: post
 title: "Waarom ik tóch The Voice kijk"
@@ -22,7 +22,7 @@ Talentenjachten: alleen bij het woord al hoor je me zuchten. Melige juryleden, h
         
   
   <div class="content">
-    <img alt="the voice of holland" title="Foto: ANP" height="567" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-14673328.jpg">  </div>
+    <img alt="the voice of holland" title="Foto: ANP" height="567" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-14673328.jpg">  </div>
 
   
 </div>
@@ -33,4 +33,4 @@ Talentenjachten: alleen bij het woord al hoor je me zuchten. Melige juryleden, h
 <h3>The Voice of Waddinxveen</h3>
 <p>De naam doet het trouwens ook goed. De kans is groot dat een amateur-zangshow in een willekeurige plaats in Nederland, Waddinxveen bijvoorbeeld, eerder een succes wordt als het The Voice of Waddinxveen heet dan iets droogs als Zangshow Waddinxveen.</p>
 <p>Al zijn talentenjachten misschien niet de intellectueelste en perspectief-verbredendste programma’s, toch zal ik op menig vrijdagavond trouw de deelnemers van <em>The Voice</em> vanaf de bank aanmoedigen. Uiteindelijk wint de gezelligheid het van de kriebels.</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/marloes-ijlst" target="_blank">Marloes </a>(16)? Laatst schreef ze ook <a href="https://original.sevendays.nl/blog/de-7-beste-memes-van-afgelopen-jaar">De 7 beste memes van afgelopen jaar</a> en <a href="https://original.sevendays.nl/blog/die-gezond-eten-hype-wel-zo-gezond" target="_blank">Is die gezond-eten-hype wel zo gezond?</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/marloes-ijlst" target="_blank">Marloes </a>(16)? Laatst schreef ze ook <a href="https://7dagen.netlify.app/blog/de-7-beste-memes-van-afgelopen-jaar">De 7 beste memes van afgelopen jaar</a> en <a href="https://7dagen.netlify.app/blog/die-gezond-eten-hype-wel-zo-gezond" target="_blank">Is die gezond-eten-hype wel zo gezond?</a>.</em></p>  

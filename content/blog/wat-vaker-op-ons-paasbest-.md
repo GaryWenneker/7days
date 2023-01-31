@@ -1,5 +1,5 @@
 ---
-id: 70244a6b362e4ef5bb63495e0a4c7e1b
+id: 751ee68f771049a2bed975a983e07c01
 type: post
 layout: post
 title: "Wat vaker op ons paasbest "
@@ -23,4 +23,4 @@ De zoete geur van net gebakken croissantjes kwamen me in mijn slaapkamer tegemoe
 <h3>Gele kuikens</h3>
 <p>Daarom stel ik voor dat we wat vaker aan het paasontbijt denken. Laat de gele kuikentjes wat vaker oppiepen in je gedachten, tussen al dat zware nieuws en stress in. Want het effect dat een paasontbijt op ons heeft, dat verdienen we vaker dan slechts een keer per jaar!</p>
 <p> </p>
-<p><em>Sophia (16) zit in de vierde van het gymnasium en is een echte overdrijfgeit die het liefst in superlatieven spreekt. Ze wordt vrolijk van rijpe avocado's en heeft een grote collectie cactussen. De combinatie bril, Harry-Potter-trui, koffie en boeken maakt haar tot de optimale nerd. Je kunt haar elke nacht wakker maken voor een stuk baklava. <a href="https://original.sevendays.nl/users/sophia-van-lil">Hier lees je meer blogs van haar.</a> </em></p>  
+<p><em>Sophia (16) zit in de vierde van het gymnasium en is een echte overdrijfgeit die het liefst in superlatieven spreekt. Ze wordt vrolijk van rijpe avocado's en heeft een grote collectie cactussen. De combinatie bril, Harry-Potter-trui, koffie en boeken maakt haar tot de optimale nerd. Je kunt haar elke nacht wakker maken voor een stuk baklava. <a href="https://7dagen.netlify.app/users/sophia-van-lil">Hier lees je meer blogs van haar.</a> </em></p>  

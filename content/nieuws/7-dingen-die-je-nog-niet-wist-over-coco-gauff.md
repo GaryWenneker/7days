@@ -1,5 +1,5 @@
 ---
-id: 10afb0551036492ca7c2e33d15dccbb1
+id: f10a778d0c294c5e82a63692182d573d
 type: nieuws
 layout: post
 title: "7 dingen die je nog niet wist over Coco Gauff"
@@ -24,7 +24,7 @@ Coco Gauff (15) tenniste al op meerdere grand slam-toernooien. De talentvolle sp
         
   
   <div class="content">
-    <img alt="Foto: EPA" title="Foto: EPA" height="2388" width="3582" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-404862900.jpg">  </div>
+    <img alt="Foto: EPA" title="Foto: EPA" height="2388" width="3582" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-404862900.jpg">  </div>
 
   
 </div>

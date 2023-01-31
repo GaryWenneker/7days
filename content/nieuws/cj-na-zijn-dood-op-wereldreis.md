@@ -1,5 +1,5 @@
 ---
-id: 2b7aa6bea6db4d11ba425c36b59d8c3c
+id: a1cdd5e9b7a74539bb05f93c4212b2dd
 type: nieuws
 layout: post
 title: "CJ na zijn dood op wereldreis"
@@ -20,7 +20,7 @@ seo:
         
   
   <div class="content">
-    <img height="420" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/TinaCJ.jpg" alt="">  </div>
+    <img height="420" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/TinaCJ.jpg" alt="">  </div>
 
   
 </div>
@@ -32,7 +32,7 @@ seo:
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/AbbieCJ.jpg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/AbbieCJ.jpg" alt="">  </div>
 
   
 </div>

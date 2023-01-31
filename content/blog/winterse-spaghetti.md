@@ -1,5 +1,5 @@
 ---
-id: 5ab4f642d56b48e4987c8ad81095f2ff
+id: 9f180c56c07a4d56aa3d557f86fb5c76
 type: post
 layout: post
 title: "Winterse spaghetti"
@@ -18,7 +18,7 @@ Als je iets op tafel wil zetten wat supersnel klaar maar toch lekker smaakt, is 
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/winterse%20spag%20ingredienten.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/winterse%20spag%20ingredienten.jpeg" alt="">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ Als je iets op tafel wil zetten wat supersnel klaar maar toch lekker smaakt, is 
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/winterse%20spag%20stap2_0.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/winterse%20spag%20stap2_0.jpeg" alt="">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ Als je iets op tafel wil zetten wat supersnel klaar maar toch lekker smaakt, is 
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/winterse%20spag%20stap3.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/winterse%20spag%20stap3.jpeg" alt="">  </div>
 
   
 </div>
@@ -45,8 +45,8 @@ Als je iets op tafel wil zetten wat supersnel klaar maar toch lekker smaakt, is 
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/winterse%20spag%20stap5.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/winterse%20spag%20stap5.jpeg" alt="">  </div>
 
   
 </div>
-</div><br><br><strong>Voor als je het nét een beetje anders wilt doen:</strong><br>- Niet zo’n fan van champignons? Vervang die dan door zongedroogde tomaatjes en de walnoten door pijnboompitjes. Een echt winterse spaghetti is het dan niet meer te noemen, maar het is wél heel lekker.<br>-  Wil je er nog een extra smaak bij? Strooi dan wat rucola of basilicum over de pasta heen.<br><br><em>Krijg je ook zo'n knorrende maag van deze kookrubriek? Laat je dan ook inspireren door <a href="https://original.sevendays.nl/artikel/192350#.VOr8j0Ld7dk">dit</a> en <a href="https://original.sevendays.nl/artikel/192406#.VOr8qELd7dl">dit</a> recept van Maaike.</em>  
+</div><br><br><strong>Voor als je het nét een beetje anders wilt doen:</strong><br>- Niet zo’n fan van champignons? Vervang die dan door zongedroogde tomaatjes en de walnoten door pijnboompitjes. Een echt winterse spaghetti is het dan niet meer te noemen, maar het is wél heel lekker.<br>-  Wil je er nog een extra smaak bij? Strooi dan wat rucola of basilicum over de pasta heen.<br><br><em>Krijg je ook zo'n knorrende maag van deze kookrubriek? Laat je dan ook inspireren door <a href="https://7dagen.netlify.app/artikel/192350#.VOr8j0Ld7dk">dit</a> en <a href="https://7dagen.netlify.app/artikel/192406#.VOr8qELd7dl">dit</a> recept van Maaike.</em>  

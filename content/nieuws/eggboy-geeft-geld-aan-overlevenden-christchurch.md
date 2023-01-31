@@ -1,5 +1,5 @@
 ---
-id: e6468e6d44a2435abf64f4c4b260e098
+id: eeee44bb767a4c5785ee36e22b97b70e
 type: nieuws
 layout: post
 title: "Eggboy geeft geld aan overlevenden Christchurch"
@@ -13,13 +13,13 @@ seo:
 ---
 Weet je nog van Eggboy? De Australische jongen bekogelde in maart een senator met een ei omdat die de slachtoffers van een aanslag had beledigd. Daarna stroomden de donaties voor Eggboy binnen. Maar hij geeft alles weg. Drie keer raden aan wie.   
 
-    <p>Eggboy ging in maart viral. De zeventienjarige Australische jongen, die eigenlijk Will Connolly heet, plette een ei op het hoofd van de Australische senator Fraser Anning. De ultra-rechtse senator had de woede van Will en vele anderen gewekt met een tweet. Daarin zei Anning dat de vlak daarvoor gepleegde <a href="https://original.sevendays.nl/nieuws/aanslagen-nieuw-zeeland-50-slachtoffers">aanslagen op moskeeën</a> in het Nieuw-Zeelandse Christcurch te danken waren aan het migratiebeleid. <br><br>Toen Anning daarna in Melbourne een toespraak kwam houden, was Will daar ook. Hij luisterde even toe, haalde toen het ei tevoorschijn en krakte het in stukjes op het hoofd van de senator. Die gaf Will daarna een harde klap.</p>
+    <p>Eggboy ging in maart viral. De zeventienjarige Australische jongen, die eigenlijk Will Connolly heet, plette een ei op het hoofd van de Australische senator Fraser Anning. De ultra-rechtse senator had de woede van Will en vele anderen gewekt met een tweet. Daarin zei Anning dat de vlak daarvoor gepleegde <a href="https://7dagen.netlify.app/nieuws/aanslagen-nieuw-zeeland-50-slachtoffers">aanslagen op moskeeën</a> in het Nieuw-Zeelandse Christcurch te danken waren aan het migratiebeleid. <br><br>Toen Anning daarna in Melbourne een toespraak kwam houden, was Will daar ook. Hij luisterde even toe, haalde toen het ei tevoorschijn en krakte het in stukjes op het hoofd van de senator. Die gaf Will daarna een harde klap.</p>
 <h3><div class="media media-element-container media-default"><div id="file-537345" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img alt="Studenten in het Australische Hahndorf protesteerden in april tegen de komst van senator Anning  Foto EPA" title="Studenten in het Australische Hahndorf protesteerden in april tegen de komst van senator Anning  Foto EPA" height="2748" width="4114" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-71843455.jpg">  </div>
+    <img alt="Studenten in het Australische Hahndorf protesteerden in april tegen de komst van senator Anning  Foto EPA" title="Studenten in het Australische Hahndorf protesteerden in april tegen de komst van senator Anning  Foto EPA" height="2748" width="4114" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-71843455.jpg">  </div>
 
   
 </div>

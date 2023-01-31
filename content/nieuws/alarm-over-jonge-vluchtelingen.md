@@ -1,5 +1,5 @@
 ---
-id: 5e798504fd9f4bc48b549285416ec0e7
+id: cece189c38d944e6822630b42d022752
 type: nieuws
 layout: post
 title: "Alarm over jonge vluchtelingen"
@@ -19,7 +19,7 @@ De jongeren en kinderen die op dit moment naar Europa vluchten hebben het enorm 
         
   
   <div class="content">
-    <img title="ANP" height="547" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/vluchtelingen_0.jpg" alt="">  </div>
+    <img title="ANP" height="547" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/vluchtelingen_0.jpg" alt="">  </div>
 
   
 </div>

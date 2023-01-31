@@ -1,5 +1,5 @@
 ---
-id: d25fe6a519c54937b7669176a7c03ba5
+id: ddbb4cf68d2f418b9d2895122c11e47d
 type: post
 layout: post
 title: "4x uitgebreide tosti ontbijtjes"
@@ -20,7 +20,7 @@ Hoera! Het is weekend en dat betekent maar één ding: uitslapen. En als je tege
         
   
   <div class="content">
-    <img height="1128" width="1600" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/001_1.png" alt="">  </div>
+    <img height="1128" width="1600" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/001_1.png" alt="">  </div>
 
   
 </div>
@@ -31,7 +31,7 @@ Hoera! Het is weekend en dat betekent maar één ding: uitslapen. En als je tege
         
   
   <div class="content">
-    <img height="1128" width="1600" style="color: rgb(0, 0, 0); font-family: &#039;Lucida Grande&#039;, &#039;Lucida Sans Unicode&#039;, sans-serif; font-size: 13.008000373840332px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/000_0.png" alt="">  </div>
+    <img height="1128" width="1600" style="color: rgb(0, 0, 0); font-family: &#039;Lucida Grande&#039;, &#039;Lucida Sans Unicode&#039;, sans-serif; font-size: 13.008000373840332px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/000_0.png" alt="">  </div>
 
   
 </div>
@@ -42,7 +42,7 @@ Hoera! Het is weekend en dat betekent maar één ding: uitslapen. En als je tege
         
   
   <div class="content">
-    <img height="1128" width="1600" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/002_1.png" alt="">  </div>
+    <img height="1128" width="1600" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/002_1.png" alt="">  </div>
 
   
 </div>
@@ -53,7 +53,7 @@ Hoera! Het is weekend en dat betekent maar één ding: uitslapen. En als je tege
         
   
   <div class="content">
-    <img height="1128" width="1600" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/003_1.png" alt="">  </div>
+    <img height="1128" width="1600" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/003_1.png" alt="">  </div>
 
   
 </div>

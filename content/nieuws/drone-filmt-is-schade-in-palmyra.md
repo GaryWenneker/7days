@@ -1,5 +1,5 @@
 ---
-id: 78988d04896f465382c65fc5e882a884
+id: 430537e6192f45dfb2edcfaebd981d6f
 type: nieuws
 layout: post
 title: "Drone filmt IS-schade in Palmyra"
@@ -35,12 +35,12 @@ Een Russische drone heeft gefilmd hoe Palmyra in Syrië er nu bij ligt. De anti
         
   
   <div class="content">
-    <img height="850" width="656" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/kleinANP-43406961.jpg" alt="">  </div>
+    <img height="850" width="656" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/kleinANP-43406961.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <p>Rusland, een vriend van Syrië, heeft de Syrische president Assad al aangeboden om te helpen bij het restaureren van Palmyra. Veel andere landen zijn daar niet blij mee, omdat zij niet alleen tegen IS maar ook tegen de Syrische president Assad zijn. Elke vorm van hulp aan hem of zijn regime wordt dus met argusogen bekeken. </p>
 <p><strong>Kan dit gerepareerd worden?</strong><br>Werelderfgoedorganisatie UNESCO heeft al laten weten dat er eerst maar eens goed onderzoek gedaan moet worden naar de staat van de bouwwerken. ‘Wij gaan niets herstellen wat tot stof is vergaan’, verklaarde Annie Sartre-Fauriat, de UNESCO-expert op het gebied van Syrië, afgelopen weekend al. </p>
-<p>Restaureren is volgens haar sowieso niet aan de orde <a href="https://original.sevendays.nl/zozithetinsyrie">zolang er in Syrië nog onverminderd een oorlog aan de gang is</a>. ‘Ik denk dat er andere prioriteiten zijn voordat we ruïnes gaan herstellen.'</p>
+<p>Restaureren is volgens haar sowieso niet aan de orde <a href="https://7dagen.netlify.app/zozithetinsyrie">zolang er in Syrië nog onverminderd een oorlog aan de gang is</a>. ‘Ik denk dat er andere prioriteiten zijn voordat we ruïnes gaan herstellen.'</p>
 <p><em>In de papieren 7Days lees je deze week meer over wat IS heeft teweeggebracht in Palmyra. Heb je nog geen abonnement? Maak dan nu met ons <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">kennis</a>!</em></p>  

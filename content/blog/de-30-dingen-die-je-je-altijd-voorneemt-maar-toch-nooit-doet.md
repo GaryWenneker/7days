@@ -1,5 +1,5 @@
 ---
-id: ecefbc39036d4391b832887d4af4e555
+id: e86a16b0bc724f449d10693fec30ee1a
 type: post
 layout: post
 title: "De 30 dingen die je je altijd voorneemt, maar toch nooit doet"
@@ -47,5 +47,5 @@ Zo halverwege het jaar zijn de meeste goede voornemens vergeten of verdrongen. 
 <p>29. Meer risico’s nemen en uit je comfortzone stappen.</p>
 <p>30. Geen smoesjes meer verzinnen voor het uitstellen van al bovenstaand.</p>
 <p>Zelf nog toevoegingen? Laat ze achter in de reacties!</p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/sophia-van-lil">Sophia </a>(15)? Eerder schreef ze ook al <a href="https://original.sevendays.nl/blog/smachtend-naar-een-tandpasta-smile">Smachtend naar een tandpasta-smile</a> en <a href="https://original.sevendays.nl/blog/voorstander-15-van-voorlezen">Voorstander (15) van lezen</a>.</em></p>
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/sophia-van-lil">Sophia </a>(15)? Eerder schreef ze ook al <a href="https://7dagen.netlify.app/blog/smachtend-naar-een-tandpasta-smile">Smachtend naar een tandpasta-smile</a> en <a href="https://7dagen.netlify.app/blog/voorstander-15-van-voorlezen">Voorstander (15) van lezen</a>.</em></p>
 <p><em>Foto: <a href="https://www.flickr.com/photos/dietjay/3140774470/in/photolist-5MxhPY-3ajbKq-35Y3Ag-4kfrVp-pvVkZ8-56LiCp-qsu5dr-qb78p5-6rKQSM-cZ9t71-adNxoo-qbfc88-9aAjtA-bGrAED-qsEqex-X1tJM-aaobg4-CRyc2-eoNqV-qJFZHN-6mDagf-6qpVKH-6mtHpb-7vmfyw-rFzPXf-3aeEVF-6KJngn-rp8kTA-qJUfcT-7oi7Zx-5eCBDS-ebESfT-dT5Zsh-cveUeS-69HEiE-6FQyCH-8GG7bu-8Fx7bR-8BL3R-4bCcwg-bnEQfi-5BkknH-qb7brL-iGMYe-62uYLb-kqi8-cFPeQ-bnkPWV-9xCkSf-7wJua5">Flickr.com/Jay Light</a>, GIF'jes </em><a href="http://giphy.com/gifs/glee-rachel-berry-eye-roll-8WkfbGvXTeBJC">via GIPHY</a></p>  

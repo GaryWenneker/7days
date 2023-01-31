@@ -1,5 +1,5 @@
 ---
-id: 0c570ce82fc949978e6fcee27a58faf7
+id: 92b1beffb5d2413a802ffa6da18307eb
 type: nieuws
 layout: post
 title: "Bevrijdingsdag: wat ga jij doen?"
@@ -19,7 +19,7 @@ Lekker vrij op 5 mei? In het hele land wordt morgen van alles georganiseerd om e
         
   
   <div class="content">
-    <img alt="Lil&#039; Kleine op Bevrijdingsfestival 2016 in Haarlem" title="Foto ANP" height="391" width="800" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-45485615%20klein.jpg">  </div>
+    <img alt="Lil&#039; Kleine op Bevrijdingsfestival 2016 in Haarlem" title="Foto ANP" height="391" width="800" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-45485615%20klein.jpg">  </div>
 
   
 </div>
@@ -33,7 +33,7 @@ Lekker vrij op 5 mei? In het hele land wordt morgen van alles georganiseerd om e
         
   
   <div class="content">
-    <img alt="vrijmarkt Koningsdag en op Bevrijdingsdag, 5 mei" title="Foto ANP" height="533" width="800" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-50893270klein.jpg">  </div>
+    <img alt="vrijmarkt Koningsdag en op Bevrijdingsdag, 5 mei" title="Foto ANP" height="533" width="800" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-50893270klein.jpg">  </div>
 
   
 </div>
@@ -44,7 +44,7 @@ Lekker vrij op 5 mei? In het hele land wordt morgen van alles georganiseerd om e
         
   
   <div class="content">
-    <img alt="Kermis op Bevrijdingsdag" title="Foto ANP" height="521" width="800" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-50899229klein.jpg">  </div>
+    <img alt="Kermis op Bevrijdingsdag" title="Foto ANP" height="521" width="800" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-50899229klein.jpg">  </div>
 
   
 </div>
@@ -55,9 +55,9 @@ Lekker vrij op 5 mei? In het hele land wordt morgen van alles georganiseerd om e
         
   
   <div class="content">
-    <img alt="5 mei concert Bevrijdings aan de Amstel in Amsterdam" title="Foto ANP" height="477" width="800" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-45487640klein.jpg">  </div>
+    <img alt="5 mei concert Bevrijdings aan de Amstel in Amsterdam" title="Foto ANP" height="477" width="800" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-45487640klein.jpg">  </div>
 
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

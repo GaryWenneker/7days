@@ -1,5 +1,5 @@
 ---
-id: 17f9632445484cb7bd0a18019758d722
+id: e505145ba6ff4dffac54936e68253931
 type: nieuws
 layout: post
 title: "Grote glimmers geveild"
@@ -13,12 +13,12 @@ seo:
 ---
 De grootste diamant die ooit geveild is, heeft een nieuwe eigenaar. Deze heeft er gisteren 28 miljoen euro voor neergeteld. Wie het sieraad kocht wil het veilinghuis in Genève niet zeggen.  
 
-    <p><a href="https://original.sevendays.nl/nieuws/mega-zeldzame-diamant-goed-voor-miljoenen-euros" target="_blank">De diamant</a> werd vorig jaar februari in Angola gevonden. Een juwelier in New York kocht de ruwe steen. Hij maakte er een ketting van met smaragden, witgoud en andere diamantjes. De ruwe diamant sleep hij tot een glimmer van 33 gram. Hij is kleurloos en er zit geen enkel vlekje in. Dat maakt de steen nog kostbaarder. De juwelier veilde de ketting om reclame te maken voor zijn nieuwe winkel.<br><div class="media media-element-container media-default"><div id="file-419976" class="file file-image file-image-jpeg">
+    <p><a href="https://7dagen.netlify.app/nieuws/mega-zeldzame-diamant-goed-voor-miljoenen-euros" target="_blank">De diamant</a> werd vorig jaar februari in Angola gevonden. Een juwelier in New York kocht de ruwe steen. Hij maakte er een ketting van met smaragden, witgoud en andere diamantjes. De ruwe diamant sleep hij tot een glimmer van 33 gram. Hij is kleurloos en er zit geen enkel vlekje in. Dat maakt de steen nog kostbaarder. De juwelier veilde de ketting om reclame te maken voor zijn nieuwe winkel.<br><div class="media media-element-container media-default"><div id="file-419976" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img alt="Dure ketting" title="Foto AFP" height="3374" width="5060" style="width: 850px; height: 567px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Ketting%20ANP-54107548.jpg">  </div>
+    <img alt="Dure ketting" title="Foto AFP" height="3374" width="5060" style="width: 850px; height: 567px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Ketting%20ANP-54107548.jpg">  </div>
 
   
 </div>
@@ -31,12 +31,12 @@ De grootste diamant die ooit geveild is, heeft een nieuwe eigenaar. Deze heeft e
         
   
   <div class="content">
-    <img alt="Blue Moon" title="Foto AFP" height="3600" width="2969" style="width: 850px; height: 1031px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Blue%20moon%20ANP-34825786.jpg">  </div>
+    <img alt="Blue Moon" title="Foto AFP" height="3600" width="2969" style="width: 850px; height: 1031px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Blue%20moon%20ANP-34825786.jpg">  </div>
 
   
 </div>
 </div>
 
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p>Vond je dit interessant? Lees dan ook eens<a href="https://original.sevendays.nl/lifestyle/fenna-17-van-hoefwijzer-over-het-succes-van-paardentubers" target="_blank"> </a><a href="https://original.sevendays.nl/lifestyle/regenbuien-van-methaan-helium-en-diamanten">Regenbuien van methaan, helium en diamanten</a> of <a href="https://original.sevendays.nl/nieuws-raar/%E2%80%98moeilijke%E2%80%99-diamant-t%C3%B3ch-verkocht">Moeilijke diamant toch verkocht</a>.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em><a href="https://original.sevendays.nl/whatsapp">WhatsApp</a></em><em>,</em><em><a href="https://original.sevendays.nl/whatsapp"> </a></em><em><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em>neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p>Vond je dit interessant? Lees dan ook eens<a href="https://7dagen.netlify.app/lifestyle/fenna-17-van-hoefwijzer-over-het-succes-van-paardentubers" target="_blank"> </a><a href="https://7dagen.netlify.app/lifestyle/regenbuien-van-methaan-helium-en-diamanten">Regenbuien van methaan, helium en diamanten</a> of <a href="https://7dagen.netlify.app/nieuws-raar/%E2%80%98moeilijke%E2%80%99-diamant-t%C3%B3ch-verkocht">Moeilijke diamant toch verkocht</a>.</p>
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em><a href="https://7dagen.netlify.app/whatsapp">WhatsApp</a></em><em>,</em><em><a href="https://7dagen.netlify.app/whatsapp"> </a></em><em><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em>neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: 88e448016cc44b16af3dfc00c576c568
+id: 091255acc42249b9a4806b1a504414d9
 type: post
 layout: post
 title: "Gun je huisdier ook eens wat vrijheid"
@@ -19,4 +19,4 @@ We waren rustig aan het eten, toen mijn moeder opeens een verhaal begon over een
 <h3><strong>Blije koeien na de winter</strong></h3>
 <p>Eigenlijk moeten alle dieren gewoon volledige vrijheid krijgen, want het is helemaal niks om opgesloten te zitten. Ze hebben misschien dan wel geen manieren, maar het zijn geen misdadigers. Alle diersoorten zijn ooit wel eens wild geweest, dus kunnen ze prima overleven. Daarnaast zijn dieren ook veel blijer als ze vrij en buiten zijn. Denk maar eens aan de beelden van die boerderijdieren die na de winter weer naar buiten gaan. Ze springen door het weiland!</p>
 <p>Waar wacht je nu nog op? Open de kooi van je viervoeter, tweevoeter of vleugelaar en geef hem/haar vrijheid! Zorg er alleen wel voor dat je huisdier kan overleven als je hem/haar vrijlaat. Want als je huisdier uiteindelijk in een asiel belandt in een nóg kleiner hok, da's ook weer niet de bedoeling. </p>
-<p><em>Meer blogs lezen van Thijs (15)? Laatst schreef hij ook <a href="https://original.sevendays.nl/blog/7-majestueuze-minecraft-bouwwerken">7 majestueuze Minecraft-bouwwerken</a> en <a href="https://original.sevendays.nl/blog/waarom-scouting-m%C3%A9%C3%A9r-dan-losse-eindjes-aan-elkaar-knopen">Waarom scouting méér is dan losse eindjes aan elkaar knopen</a>. </em></p>  
+<p><em>Meer blogs lezen van Thijs (15)? Laatst schreef hij ook <a href="https://7dagen.netlify.app/blog/7-majestueuze-minecraft-bouwwerken">7 majestueuze Minecraft-bouwwerken</a> en <a href="https://7dagen.netlify.app/blog/waarom-scouting-m%C3%A9%C3%A9r-dan-losse-eindjes-aan-elkaar-knopen">Waarom scouting méér is dan losse eindjes aan elkaar knopen</a>. </em></p>  

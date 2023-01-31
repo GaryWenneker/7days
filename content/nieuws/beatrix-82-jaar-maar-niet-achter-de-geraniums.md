@@ -1,5 +1,5 @@
 ---
-id: b6619ecbb1184e9783cb8074f2a59dad
+id: 43d77216b48c4d058c88409a6710d82f
 type: nieuws
 layout: post
 title: "Beatrix: 82 jaar, maar niet achter de geraniums"
@@ -22,7 +22,7 @@ Hoera, prinses Beatrix is jarig! De moeder van Willem-Alexander blaast vandaag 8
         
   
   <div class="content">
-    <img alt="ANP - prinses Beatrix" title="Foto: ANP" height="921" width="1495" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-318908757.jpg">  </div>
+    <img alt="ANP - prinses Beatrix" title="Foto: ANP" height="921" width="1495" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-318908757.jpg">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ Hoera, prinses Beatrix is jarig! De moeder van Willem-Alexander blaast vandaag 8
         
   
   <div class="content">
-    <img alt="ANP - prinses Beatrix" title="Foto: ANP" height="927" width="1429" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-403294663.jpg">  </div>
+    <img alt="ANP - prinses Beatrix" title="Foto: ANP" height="927" width="1429" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-403294663.jpg">  </div>
 
   
 </div>
@@ -48,7 +48,7 @@ Hoera, prinses Beatrix is jarig! De moeder van Willem-Alexander blaast vandaag 8
         
   
   <div class="content">
-    <img alt="ANP - prinses Beatrix" title="Foto: ANP" height="923" width="1383" style="width: 900px; height: 601px;" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/ANP-370570594.jpg">  </div>
+    <img alt="ANP - prinses Beatrix" title="Foto: ANP" height="923" width="1383" style="width: 900px; height: 601px;" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/ANP-370570594.jpg">  </div>
 
   
 </div>

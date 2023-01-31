@@ -1,5 +1,5 @@
 ---
-id: d941245cfaf74fcbae6346df2ed94cbc
+id: 79cc2cee4fc3404ba42935a454c77c69
 type: nieuws
 layout: post
 title: "Adieu Notre-Dame"
@@ -18,7 +18,7 @@ De Fransen zijn droevig wakker geworden vanmorgen. In de trieste wetenschap dat 
         
   
   <div class="content">
-    <img alt="Mensen kijken geschrokken toe  Foto EPA" title="Mensen kijken geschrokken toe  Foto EPA" height="3648" width="5472" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/EPA-71912976.jpg">  </div>
+    <img alt="Mensen kijken geschrokken toe  Foto EPA" title="Mensen kijken geschrokken toe  Foto EPA" height="3648" width="5472" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/EPA-71912976.jpg">  </div>
 
   
 </div>
@@ -28,7 +28,7 @@ De Fransen zijn droevig wakker geworden vanmorgen. In de trieste wetenschap dat 
         
   
   <div class="content">
-    <img alt="De brand gezien vanaf de oever van de Seine  Foto EPA" title="De brand gezien vanaf de oever van de Seine  Foto EPA" height="4480" width="6720" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/EPA-71913005.jpg">  </div>
+    <img alt="De brand gezien vanaf de oever van de Seine  Foto EPA" title="De brand gezien vanaf de oever van de Seine  Foto EPA" height="4480" width="6720" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/EPA-71913005.jpg">  </div>
 
   
 </div>
@@ -37,7 +37,7 @@ De Fransen zijn droevig wakker geworden vanmorgen. In de trieste wetenschap dat 
         
   
   <div class="content">
-    <img alt="De brandweer inspecteert de schade  Foto EPA" title="De brandweer inspecteert de schade  Foto EPA" height="3648" width="5472" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/EPA-71916786.jpg">  </div>
+    <img alt="De brandweer inspecteert de schade  Foto EPA" title="De brandweer inspecteert de schade  Foto EPA" height="3648" width="5472" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/EPA-71916786.jpg">  </div>
 
   
 </div>

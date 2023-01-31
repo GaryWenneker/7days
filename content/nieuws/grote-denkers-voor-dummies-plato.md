@@ -1,5 +1,5 @@
 ---
-id: dd6a2a98cb3e4937b2519f08c55bb96d
+id: a06f6c6325674875b1fceb93a04596c2
 type: nieuws
 layout: post
 title: "Grote Denkers voor Dummies: Plato"
@@ -13,7 +13,7 @@ seo:
 ---
 Denken tot je hersens kraken en je hoofd van wijsheid uit elkaar spat. Deze week mag het, want het is de Week van de Klassieken. Een mooie reden om de grootste denkers aller tijden eens op een rijtje te zetten. Een intellectuele discussie met ze aangaan kan helaas niet meer, want ze zijn allemaal al dood. De denker van vandaag: Plato (ongeveer 427 v. chr. - 347 v. chr.)  
 
-    <p>De Griekse Plato is een van de bekendste, meest gelezen en bestudeerde filosofen ter wereld. Hij was de leerling van <a href="https://original.sevendays.nl/nieuws/grote-denkers-voor-dummies-socrates">Socrates</a> en die is dan ook de hoofdpersoon in veel van Plato's werken.</p>
+    <p>De Griekse Plato is een van de bekendste, meest gelezen en bestudeerde filosofen ter wereld. Hij was de leerling van <a href="https://7dagen.netlify.app/nieuws/grote-denkers-voor-dummies-socrates">Socrates</a> en die is dan ook de hoofdpersoon in veel van Plato's werken.</p>
 <h3>Deftig</h3>
 <p>Plato kwam uit een deftige Atheense familie en kreeg als kind al veel les in spraakkunst, muziek, gymnastiek en filosofie. Plato schrijft onder meer over de beste manier om een staat in te richten, over opvoeding en onderwijs en de grenzen van onze kennis. Er is eigenlijk niet zo gek veel waar Plato niet over heeft geschreven. Soms zegt men wel eens dat alle filosofen na Plato niets anders hebben gedaan dan voetnoten zetten bij wat Plato heeft geschreven.</p>
 <h3>Het leven een Grot</h3>

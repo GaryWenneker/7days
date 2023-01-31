@@ -1,5 +1,5 @@
 ---
-id: ef91e2728fef4bdbb9efe6af0744c0ee
+id: b63fde6fa2a2494983a8d0cc8328a974
 type: post
 layout: post
 title: "Verslaafd aan een hels apparaat"
@@ -21,11 +21,11 @@ Het was een verslaving die ik jarenlang had, maar die ik pas een paar maanden ge
 <p>Mijn verslaving wordt alsmaar erger en om me heen zie ik dat ik niet de enige ben die zeer gehecht is aan het ding. Mijn leraar Duits heeft ondertussen een nieuwe naam bedacht voor de telefoons: 'het helse apparaat', noemt-ie elk exemplaar. En het is strikt verboden om dit helse apparaat tevoorschijn te halen in de klas.</p>
 <p>Van familie en vrienden krijg ik opmerkingen naar mijn hoofd geslingerd als 'ga toch eens van die telefoon af'. En na jaren van ontkenning krijg ik het eindelijk ook zelf door: Ik ben zwáár verslaafd en mijn leraar Duits leraar heeft al jarenlang gelijk. Het is inderdaad was een hels ding.</p>
 <div class="kader">
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p>Lees ook:<a href="https://original.sevendays.nl/lifestyle/9-tips-om-af-te-kicken-van-je-smartphone">9 tips om af te kicken van je smartphone</a></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p>Lees ook:<a href="https://7dagen.netlify.app/lifestyle/9-tips-om-af-te-kicken-van-je-smartphone">9 tips om af te kicken van je smartphone</a></p>
 </div>
 <h3><strong>Aan alles komt een einde</strong></h3>
 <p>Na jaren van 'mijn telefoon en ik tegen de wereld' besluit ik na lang twijfelen dat het tijd is voor een pauze. Het lukt me om mijn telefoon een tijdje weg te leggen en sindsdien zie ik opeens dingen die ik nooit eerder heb gezien. Zoals mensen die 'hoi' tegen je zeggen op de fiets of de mensen om je heen die meteen achter hun telefoon wegduiken.</p>
 <p>Nu, weken later, lukt het me zelfs om naar dingen toe te gaan zonder mijn telefoon ook maar aan te raken. Ik kan eindelijk zeggen dat ik na jaren van mijn verslaving af ben.</p>
-<p><em>Wil je meer lezen van <a href="https://original.sevendays.nl/users/maaike-wiersma">Maaike</a> (16)? Laatst schreef ze ook <a href="/node/9189">De grootste ergernissen tijdens Sint Maarten</a> en <a href="/node/9279">De vier fases van je fietstochten naar school</a>.</em></p>
+<p><em>Wil je meer lezen van <a href="https://7dagen.netlify.app/users/maaike-wiersma">Maaike</a> (16)? Laatst schreef ze ook <a href="/node/9189">De grootste ergernissen tijdens Sint Maarten</a> en <a href="/node/9279">De vier fases van je fietstochten naar school</a>.</em></p>
   

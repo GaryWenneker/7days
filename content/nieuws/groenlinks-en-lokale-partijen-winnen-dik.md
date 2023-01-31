@@ -1,5 +1,5 @@
 ---
-id: 73fc4fd35aa64fbd9c45d77262cdee6d
+id: 559df40dd3ac47e4a18195bd867561fa
 type: nieuws
 layout: post
 title: "GroenLinks en lokale partijen winnen dik"
@@ -25,7 +25,7 @@ De lokale partijen hebben een monsterzege geboekt bij de gemeenteraadsverkiezing
         
   
   <div class="content">
-    <img height="535" width="627" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Uitslag-Scholierenverkiezingen-2018.jpg" alt="">  </div>
+    <img height="535" width="627" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Uitslag-Scholierenverkiezingen-2018.jpg" alt="">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: d0e1ef31ace14897b05ce13549a8ff7d
+id: 3378388eb33a401dbad253607ca4cfc5
 type: nieuws
 layout: post
 title: "Bloedige president begint meteen goed"
@@ -20,7 +20,7 @@ De kersverse president van de Filipijnen, Rodrigo Duterte (71), is meteen pittig
         
   
   <div class="content">
-    <img height="569" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-45602952.jpg" alt="">  </div>
+    <img height="569" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-45602952.jpg" alt="">  </div>
 
   
 </div>
@@ -30,4 +30,4 @@ De kersverse president van de Filipijnen, Rodrigo Duterte (71), is meteen pittig
 <p>‘We moeten geen gevangenissen bouwen, maar mortuaria. Binnen zes maanden zal de misdaad uit de Filipijnen verdwenen zijn’, zo beloofde hij. ‘Mijn presidentschap zal bloedig zijn.’</p>
 <p><strong>’Paus is een hufter’</strong><br>Duterte doet wel vaker stevige uitspraken. Net als Trump lijkt hij praktisch alles te kunnen zeggen zonder daar door kiezers op afgerekend te worden. Zo noemde Duterte paus Franciscus een hufter, omdat hij bij een bezoek aan hoofdstad Manilla een verkeersinfarct had veroorzaakt. </p>
 <p>Eerder grapte hij nog dat hij het jammer vond dat hij niet vooraan had gestaan toen een vrouwelijke Australische missionaris tijdens een gevangenisopstand werd verkracht. Ondanks deze uitspraken kreeg Duterte 30% van de stemmen en liet hij zijn tegenstanders ver achter zich.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

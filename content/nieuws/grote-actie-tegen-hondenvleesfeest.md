@@ -1,5 +1,5 @@
 ---
-id: 8f59f2ad48ff4ac091b7c943fc749437
+id: 3d83a833a633417c82a292c5d4102068
 type: nieuws
 layout: post
 title: "Grote actie tegen hondenvleesfeest"
@@ -18,7 +18,7 @@ Gruwel jij bij de gedachte aan een hapje geroosterde hond? Daarin sta je niet al
         
   
   <div class="content">
-    <img title="Een hondenvleeskraampje in Yulin in 2015  Foto AFP" height="538" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/AFP-33133922dog%20meat0klein.jpg" alt="">  </div>
+    <img title="Een hondenvleeskraampje in Yulin in 2015  Foto AFP" height="538" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/AFP-33133922dog%20meat0klein.jpg" alt="">  </div>
 
   
 </div>
@@ -27,9 +27,9 @@ Gruwel jij bij de gedachte aan een hapje geroosterde hond? Daarin sta je niet al
         
   
   <div class="content">
-    <img title="Anti-Yulin-protest eind vorige week in Beijing  Foto AFP" height="3203" width="4857" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/AFP-46074466.jpg" alt="">  </div>
+    <img title="Anti-Yulin-protest eind vorige week in Beijing  Foto AFP" height="3203" width="4857" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/AFP-46074466.jpg" alt="">  </div>
 
   
 </div>
 </div><br><strong>Afschaffen dan!</strong><br>Graag. Maar bij zo'n eeuwenoude en diep ingebakken traditie is dat vaak lastig voor elkaar te krijgen. Gelukkig sluiten steeds meer internationale organisaties zich aan bij de campagne van <em>Humane Society</em>. En ook in China zelf zijn er steeds meer mensen die vinden dat Yulin moet stoppen. Zeker nu Chinese rolmodellen zoals popster Chen Kun en actrices Yang Mi en Fan Bingbing de actie steunen. Er zijn nu maar liefst 11 miljoen handtekeningen opgehaald. Die zijn eind vorige week in Beijing overhandigd aan een vertegenwoordiger van de stad Yulin. Buiten stonden activisten met posters van honden en de tekst: 'Ik ben niet jouw diner.' Waarschijnlijk zal het festival dit jaar gewoon doorgaan. Maar één ding is zeker: het protest ertegen zal alleen maar sterker worden. Tot uiteindelijk de dag komt dat het hondenvleesfeest definitief verboden wordt.
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

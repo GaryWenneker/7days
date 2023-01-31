@@ -1,5 +1,5 @@
 ---
-id: 0679d36985d545659403ba74ff65deed
+id: f7f5f03d3f3c4f5b924b1dbadb57ffa2
 type: nieuws
 layout: post
 title: "In beeld: Rellen om komst asielzoekerscentrum"
@@ -19,7 +19,7 @@ Woensdagavond braken er rellen uit bij het gemeentehuis van Geldermalsen. Daar v
         
   
   <div class="content">
-    <img title="Foto: ANP" height="566" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/1_12.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="566" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/1_12.jpg" alt="">  </div>
 
   
 </div>
@@ -31,7 +31,7 @@ Woensdagavond braken er rellen uit bij het gemeentehuis van Geldermalsen. Daar v
         
   
   <div class="content">
-    <img title="Foto: ANP" height="500" width="750" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/2_11.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="500" width="750" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/2_11.jpg" alt="">  </div>
 
   
 </div>
@@ -41,7 +41,7 @@ Woensdagavond braken er rellen uit bij het gemeentehuis van Geldermalsen. Daar v
         
   
   <div class="content">
-    <img title="Foto: ANP" height="500" width="750" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/3_9.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="500" width="750" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/3_9.jpg" alt="">  </div>
 
   
 </div>
@@ -52,7 +52,7 @@ Woensdagavond braken er rellen uit bij het gemeentehuis van Geldermalsen. Daar v
         
   
   <div class="content">
-    <img title="Foto: ANP" height="520" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/4_4.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="520" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/4_4.jpg" alt="">  </div>
 
   
 </div>
@@ -62,7 +62,7 @@ Woensdagavond braken er rellen uit bij het gemeentehuis van Geldermalsen. Daar v
         
   
   <div class="content">
-    <img title="Foto: ANP" height="517" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/5_10.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="517" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/5_10.jpg" alt="">  </div>
 
   
 </div>
@@ -73,8 +73,8 @@ Woensdagavond braken er rellen uit bij het gemeentehuis van Geldermalsen. Daar v
         
   
   <div class="content">
-    <img height="80" width="80" style="float: left;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/In%20Beeld2_3.png" alt="">  </div>
+    <img height="80" width="80" style="float: left;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/In%20Beeld2_3.png" alt="">  </div>
 
   
 </div>
-</div><em>Meer nieuwsfoto's bekijken? Op <a href="https://original.sevendays.nl/inbeeld">Sevendays.nl/inbeeld</a> staan al onze fotogalerijen op een rijtje. Al het nieuws over de vluchtelingenstroom (en de onrust die daardoor is ontstaan) vind je in ons <a href="https://original.sevendays.nl/dossier-vluchtelingen">dossier vluchtelingen</a>. </em>  
+</div><em>Meer nieuwsfoto's bekijken? Op <a href="https://7dagen.netlify.app/inbeeld">Sevendays.nl/inbeeld</a> staan al onze fotogalerijen op een rijtje. Al het nieuws over de vluchtelingenstroom (en de onrust die daardoor is ontstaan) vind je in ons <a href="https://7dagen.netlify.app/dossier-vluchtelingen">dossier vluchtelingen</a>. </em>  

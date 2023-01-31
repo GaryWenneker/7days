@@ -1,5 +1,5 @@
 ---
-id: 0cd656c577964328b7027c5ecf0f12e8
+id: d1dd4af667fe45af85b498eb3e0732ee
 type: nieuws
 layout: post
 title: "Ahed (17) uit gevangenis na mishandelen van militairen"
@@ -13,7 +13,7 @@ seo:
 ---
 Na een paar maanden gevangenis, is de Palestijnse Ahed Tamimi (17) weer vrij. Het meisje ging vorig jaar de wereld over nadat ze twee Israëlische militairen had mishandeld.  
 
-    <p>In maart dit jaar kreeg Ahed <a href="https://original.sevendays.nl/nieuws/ahed-tamimi-17-kind-van-de-bezetting">een gevangenisstraf van acht maanden</a>, maar afgelopen weekend kwam ze vervroegd vrij. Drie vragen (en antwoorden) over dit activistische meisje.</p>
+    <p>In maart dit jaar kreeg Ahed <a href="https://7dagen.netlify.app/nieuws/ahed-tamimi-17-kind-van-de-bezetting">een gevangenisstraf van acht maanden</a>, maar afgelopen weekend kwam ze vervroegd vrij. Drie vragen (en antwoorden) over dit activistische meisje.</p>
 <h3>1. Wie is Ahed Tamimi eigenlijk?</h3>
 <p>Ahed is een 17-jarig meisje en woont in Nabi Saleh. Dit dorp op de Westelijke Jordaanoever staat bekend om zijn wekelijkse protesten tegen de Israëlische bezetters. Ze is er al van kleins af aan bij betrokken en steekt haar woede over wat haar volk wordt aangedaan niet onder stoelen of banken. Op een foto uit 2012 is te zien hoe ze stampvoetend tegen een militair schreeuwt. Drie jaar later bijt ze een Israëlische militair in zijn hand als die haar broer wil arresteren omdat hij stenen zou hebben gegooid.</p>
 <h3>2. Waarom moest ze de gevangenis in?</h3>

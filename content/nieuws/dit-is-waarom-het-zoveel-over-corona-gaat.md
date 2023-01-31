@@ -1,5 +1,5 @@
 ---
-id: cb216d3a2e254066a1aca1a7051b2ca0
+id: 70d49fe918ee46a0a3540f2ce5149476
 type: nieuws
 layout: post
 title: "Dit is waarom het zoveel over corona gaat"

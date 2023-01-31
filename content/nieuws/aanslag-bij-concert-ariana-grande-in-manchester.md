@@ -1,5 +1,5 @@
 ---
-id: ac8f88a2c9e5494b8f0eaf9b8df422e8
+id: f3b3575629ef4ac594ea03bdf5154112
 type: nieuws
 layout: post
 title: "Aanslag bij concert Ariana Grande in Manchester"
@@ -46,11 +46,11 @@ Afschuwelijk nieuws uit de Britse stad Manchester. Vlak na een groot concert van
 </div>
 <p>13:59u - Islamitische Staat heeft in een video laten weten dat zij verantwoordelijk zijn voor de aanslag.</p>
 <p>13:15u - Er is door de politie een 23-jarige man gearresteerd. Dat melden Britse media. Wat zijn precieze rol was bij de aanslag is nog niet bekend. </p>
-<p>12:38u - <a href="https://original.sevendays.nl/nieuws/britse-premier-identiteit-dader-aanslag-manchester-bekend">De identiteit van de aanslagpleger in Manchester</a> is bij de politie bekend. Dat maakte de Britse premier Theresa May bekend tijdens een persconferentie. De man had een identiteitsbewijs op zak. Wie hij is, wordt alleen (nog) niet naar buiten gebracht. </p>
-<p>'De politie en de veiligheidsdiensten werken hard om in beeld te krijgen wat er precies gebeurd is', vertelde eerder op de dag May in een korte verklaring. Verder vertelt ze dat de zelfmoordterrorist een geïmproviseerd explosief af liet gaan bij de uitgang van de Manchester Arena waar op dat moment net het concert van Ariana Grande ten einde liep. Het lijkt erop dat zowel over de tijd als de plek goed is nagedacht. Het was de bedoeling om zoveel mogelijk schade te creëren. May noemt <a href="https://original.sevendays.nl/nieuws/aanslag-bij-concert-ariana-grande-manchester">de aanslag</a> 'afschuwelijk, ziekelijk laf'.</p>
+<p>12:38u - <a href="https://7dagen.netlify.app/nieuws/britse-premier-identiteit-dader-aanslag-manchester-bekend">De identiteit van de aanslagpleger in Manchester</a> is bij de politie bekend. Dat maakte de Britse premier Theresa May bekend tijdens een persconferentie. De man had een identiteitsbewijs op zak. Wie hij is, wordt alleen (nog) niet naar buiten gebracht. </p>
+<p>'De politie en de veiligheidsdiensten werken hard om in beeld te krijgen wat er precies gebeurd is', vertelde eerder op de dag May in een korte verklaring. Verder vertelt ze dat de zelfmoordterrorist een geïmproviseerd explosief af liet gaan bij de uitgang van de Manchester Arena waar op dat moment net het concert van Ariana Grande ten einde liep. Het lijkt erop dat zowel over de tijd als de plek goed is nagedacht. Het was de bedoeling om zoveel mogelijk schade te creëren. May noemt <a href="https://7dagen.netlify.app/nieuws/aanslag-bij-concert-ariana-grande-manchester">de aanslag</a> 'afschuwelijk, ziekelijk laf'.</p>
 <p>08:41u - De aanslag gebeurde tijdens een concert van Ariana Grande. Daar waren vooral kinderen en tieners aanwezig. Bijna aan het eind van het concert hoorden de bezoekers een harde knal. Hierdoor ontstond paniek en chaos waardoor mensen elkaar kwijtraakten. Veel ouders en kinderen hebben elkaar nog steeds niet gevonden. </p>
 <h3>Volle concertzaal</h3>
 <p>De politie gaat ervan uit dat dit het werk is van één persoon. Dat liet de politiechef van Manchester dinsdagochtend weten. Volgens de politie liet de dader een explosief ontploffen vlak buiten de volle concertzaal. Daarbij kwam de dader zelf ook om het leven, meldt het ANP. </p>
 <h3>Gebroken</h3>
 <p>Het Nederlandse ministerie van Buitenlandse Zaken liet weten dat onder de slachtoffers geen Nederlanders zijn. Grande zelf raakte niet gewond, maar liet op Twitter weten gebroken te zijn. De aanslag is niet opgeëist. </p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

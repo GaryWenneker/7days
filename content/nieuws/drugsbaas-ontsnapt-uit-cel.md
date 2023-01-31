@@ -1,5 +1,5 @@
 ---
-id: f542b9bf53a44b2bbd064c986babd0d7
+id: 9d1dd004fb8e4639a9784abc17e415d6
 type: nieuws
 layout: post
 title: "Drugsbaas ontsnapt uit cel"
@@ -20,7 +20,7 @@ Hij is de beroemdste en beruchtste drugsbaas van Mexico: Joaquin ‘El Chapo�
         
   
   <div class="content">
-    <img title="ANP" height="1357" width="2100" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-33437580.jpg" alt="">  </div>
+    <img title="ANP" height="1357" width="2100" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-33437580.jpg" alt="">  </div>
 
   
 </div>
@@ -31,7 +31,7 @@ Hij is de beroemdste en beruchtste drugsbaas van Mexico: Joaquin ‘El Chapo�
         
   
   <div class="content">
-    <img title="ANP" height="3280" width="4928" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-33430604.jpg" alt="">  </div>
+    <img title="ANP" height="3280" width="4928" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-33430604.jpg" alt="">  </div>
 
   
 </div>
@@ -42,7 +42,7 @@ Hij is de beroemdste en beruchtste drugsbaas van Mexico: Joaquin ‘El Chapo�
         
   
   <div class="content">
-    <img title="ANP" height="1559" width="2624" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-33432802.jpg" alt="">  </div>
+    <img title="ANP" height="1559" width="2624" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-33432802.jpg" alt="">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: e76b70f9702a43578fa6af7b66843ea9
+id: 7dfb15ef1bc7425b810e765d87656743
 type: nieuws
 layout: post
 title: "Corona in Nederland: Moeten we ons zorgen maken?"
@@ -14,7 +14,7 @@ seo:
 Nederland sluit aan in de rij van landen waar het coronavirus is aangetroffen. Een man uit Loon op Zand en een vrouw uit Diemen zijn besmet geraakt na een bezoek aan Italië. Daardoor wordt er nóg meer en nog angstiger over het virus gepraat dan al werd gedaan. Is dat terecht? Moeten we ons zorgen maken? Zes vragen en antwoorden.  
 
     <h3>Wat weten we over de besmettingen?</h3>
-<p>De twee patiënten waren allebei op vakantie in het Noord-Italiaanse Lombardije. In dat gebied zijn veel mensen <a href="https://original.sevendays.nl/nieuws/komt-corona-onze-kant-op">besmet </a>met het virus. De twee werden getest, door met een wattenstaafje slijm uit de keel en neus af te nemen. De 56-jarige man zit nu in een geïsoleerde kamer in een ziekenhuis in Tilburg. Volgens de GGD gaat het naar omstandigheden goed met hem. De vrouw uit Diemen is niet zo ziek dat ze naar het ziekenhuis moet, dus zij zit thuis in isolatie. Dat er in beide gevallen een connectie is met de Italiaanse uitbraak is positief. Dat betekent dat er geen onzekerheid is over waar de man besmet is geraakt.</p>
+<p>De twee patiënten waren allebei op vakantie in het Noord-Italiaanse Lombardije. In dat gebied zijn veel mensen <a href="https://7dagen.netlify.app/nieuws/komt-corona-onze-kant-op">besmet </a>met het virus. De twee werden getest, door met een wattenstaafje slijm uit de keel en neus af te nemen. De 56-jarige man zit nu in een geïsoleerde kamer in een ziekenhuis in Tilburg. Volgens de GGD gaat het naar omstandigheden goed met hem. De vrouw uit Diemen is niet zo ziek dat ze naar het ziekenhuis moet, dus zij zit thuis in isolatie. Dat er in beide gevallen een connectie is met de Italiaanse uitbraak is positief. Dat betekent dat er geen onzekerheid is over waar de man besmet is geraakt.</p>
 <h3>Wat wordt er gedaan om verdere verspreiding te voorkomen?</h3>
 <p>De GGD is bezig met het controleren van alle mensen waar de twee patiënten de afgelopen tijd mee in contact zijn geweest. Dat kunnen vrienden, collega's, familieleden en kennissen zijn. Sommige mensen die een groot risico lopen worden onderzocht, maar dat zal niet bij iedereen gebeuren. Mensen die één van de twee patiënten bijvoorbeeld kort in het openbaar vervoer zijn tegengekomen kunnen niet besmet zijn geraakt. Er is namelijk vrij direct contact nodig om het virus over te dragen.</p>
 <h3>Hoe raakt iemand besmet? </h3>

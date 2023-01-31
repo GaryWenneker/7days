@@ -1,5 +1,5 @@
 ---
-id: 5fe1a4cdfcba4e248edca94069c629ef
+id: 92669119953e424bab99bc41ddb5c5e4
 type: nieuws
 layout: post
 title: "De nieuwe beste vriend van Trump: Rodrigo Duterte"
@@ -19,7 +19,7 @@ President Trump is op bezoek in Azië. Maandag had hij een ontmoeting met zijn F
         
   
   <div class="content">
-    <img height="1320" width="1980" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-54171768.jpg" alt="">  </div>
+    <img height="1320" width="1980" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-54171768.jpg" alt="">  </div>
 
   
 </div>
@@ -30,7 +30,7 @@ President Trump is op bezoek in Azië. Maandag had hij een ontmoeting met zijn F
         
   
   <div class="content">
-    <img height="3840" width="5460" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-54062014.jpg" alt="">  </div>
+    <img height="3840" width="5460" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-54062014.jpg" alt="">  </div>
 
   
 </div>
@@ -39,6 +39,6 @@ President Trump is op bezoek in Azië. Maandag had hij een ontmoeting met zijn F
 <p>Duterte houdt wel van pittige uitspraken. Vorig jaar noemde hij de Amerikaanse president Obama nog een hoerenzoon omdat die kritiek had op de gang van zaken in de Filipijnen. Obama zegde vervolgens een officiële ontmoeting met zijn ambtsgenoot af. Daarna zei Duterte dat hij het allemaal niet zo kwaad bedoeld had.</p>
 <p><strong>Bloedig</strong></p>
 <p>Volgens mensenrechtenorganisaties bestrijdt Duterte de misdaad vooral door huurmoordenaars hun gang te laten gaan. Ook kruimeldieven en straatkinderen zouden daarbij zijn vermoord. Tijdens zijn verkiezingscampagne zei hij ook al dat hij het doden van criminelen op zich een prima idee vindt. ‘We moeten geen gevangenissen bouwen, maar mortuaria. Mijn presidentschap zal bloedig zijn’, zo beloofde hij. En die belofte komt hij dus na. </p>
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"><em> Vond je dit interessant? Lees dan ook eens:<a href="https://original.sevendays.nl/lifestyle/fenna-17-van-hoefwijzer-over-het-succes-van-paardentubers" target="_blank"> </a><a href="https://original.sevendays.nl/nieuws-entertainment/e%C3%A9n-jaar-trump-de-vijf-gekste-uitspraken">Een jaar Trump: De vijf gekste uitspraken</a> of <a href="https://original.sevendays.nl/nieuws/dit-de-takenlijst-van-trump">Dit is de takenlijst van Trump</a>.</em></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"><em> Vond je dit interessant? Lees dan ook eens:<a href="https://7dagen.netlify.app/lifestyle/fenna-17-van-hoefwijzer-over-het-succes-van-paardentubers" target="_blank"> </a><a href="https://7dagen.netlify.app/nieuws-entertainment/e%C3%A9n-jaar-trump-de-vijf-gekste-uitspraken">Een jaar Trump: De vijf gekste uitspraken</a> of <a href="https://7dagen.netlify.app/nieuws/dit-de-takenlijst-van-trump">Dit is de takenlijst van Trump</a>.</em></p>
 
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em><a href="https://original.sevendays.nl/whatsapp">WhatsApp</a></em><em>,</em><em><a href="https://original.sevendays.nl/whatsapp"> </a></em><em><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em>neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em><a href="https://7dagen.netlify.app/whatsapp">WhatsApp</a></em><em>,</em><em><a href="https://7dagen.netlify.app/whatsapp"> </a></em><em><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em>neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

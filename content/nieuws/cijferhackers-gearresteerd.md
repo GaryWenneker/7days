@@ -1,5 +1,5 @@
 ---
-id: 071454c614c043d693204bb054e6f408
+id: 28e3003d93294d49ad216df4cdafebb2
 type: nieuws
 layout: post
 title: "Cijferhackers gearresteerd"
@@ -18,4 +18,4 @@ Om goeie cijfers te halen, moet je gewoon hard leren. Zo simpel is het. Toch dac
 <p>Om hun sporen te wissen, pasten de tieners ook nog her en der wat cijfers van willekeurige andere leerlingen aan. In totaal zouden de jongens geknoeid hebben met maar liefst 120 cijfers.</p>
 <p><strong>Papier</strong><br>Hoogstwaarschijnlijk dachten ze ermee weg te komen. Maar dan hadden ze niet gerekend op hun oplettende docenten. De meeste leraren op San Dimas High School blijken er ook nog papieren cijferlijsten op na te houden. En zij sloegen alarm toen die verschilden met het online systeem. De school schakelde de politie in en na wat speurwerk kwamen zij uit bij de twee scoreknoeiers. ‘Heel erg teleurstellend dat een paar leerlingen van onze school hiertoe in staat zijn’, zei schooldirecteur Rapkin tegen de plaatselijke nieuwswebsite <a href="http://www.dailybulletin.com/general-news/20150605/san-dimas-teens-held-after-grade-changes-are-discovered">Daily Bulletin</a>.</p>
 <p>De website van de school is even gesloten tot hij weer goed beveiligd is. En de jongens? Die worden verdacht van het inbreken op de schoolcomputer en het frauderen van gegevens. Welke straf de jongens daarvoor kunnen verwachten is nog niet bekend. Zeker is wel dat deze cijferprutsklus hen een dikke min heeft opgeleverd.</p>
-<p><em>Op de hoogte blijven van al het onderwijsnieuws? <a href="https://original.sevendays.nl/onderwijsnieuws">Hier</a> vind je ons overzicht van al het schoolnieuws op onze site.</em></p>  
+<p><em>Op de hoogte blijven van al het onderwijsnieuws? <a href="https://7dagen.netlify.app/onderwijsnieuws">Hier</a> vind je ons overzicht van al het schoolnieuws op onze site.</em></p>  

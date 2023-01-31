@@ -1,5 +1,5 @@
 ---
-id: 505a6b8abc8843a0a6319d1343f0a37b
+id: 01e2ec47dc35499686855ef33447c631
 type: post
 layout: post
 title: "Facebookjunkie probeert af te kicken"
@@ -18,7 +18,7 @@ seo:
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/fb2.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/fb2.jpeg" alt="">  </div>
 
   
 </div>

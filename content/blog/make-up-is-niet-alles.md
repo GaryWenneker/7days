@@ -1,5 +1,5 @@
 ---
-id: c309bd851b5243d98f0a1876bcf3b1d3
+id: dd279f3fa32a47b68ed452657739b3db
 type: post
 layout: post
 title: "Make-up is niet alles"
@@ -21,7 +21,7 @@ Het is iets wat we allemaal dagelijks doen: in de spiegel kijken. Sommigen met e
 <h3>​Imperfectie</h3>
 <p>Misschien moet ik blij zijn met het feit dat we in een tijd leven waarin er de mogelijkheid is om dat te verbeteren. Maar dat ben ik niet. Omdat je van alles aan jezelf kúnt verbeteren wordt dit ook van je verwacht en voel je misschien de druk om dit ook te gaan doen. Om honderden euro's uit te geven aan cosmetica of zelfs aan operaties. Terwijl je altijd tegen imperfecties aan blijft lopen.</p>
 <p>Soms verlang ik gewoon naar groep 8. Naar het naïeve moment dat we dachten dat mascara het enige was waarmee wij onze gezichten zouden versieren.</p>
-<p><em>Lotte verzamelt om onverklaarbare reden haar hele leven al schildpaddenbeeldjes. En boeken over de Tweede Wereldoorlog, maar die leest ze eigenlijk nooit. Droomt er al sinds haar elfde van om schrijfster te worden. </em><a href="https://original.sevendays.nl/users/lotte-rolleman"><em>Lees meer blogs van Lotte</em></a><em>.</em></p>
+<p><em>Lotte verzamelt om onverklaarbare reden haar hele leven al schildpaddenbeeldjes. En boeken over de Tweede Wereldoorlog, maar die leest ze eigenlijk nooit. Droomt er al sinds haar elfde van om schrijfster te worden. </em><a href="https://7dagen.netlify.app/users/lotte-rolleman"><em>Lees meer blogs van Lotte</em></a><em>.</em></p>
 <p> </p>
 <p> </p>
 <p> </p>

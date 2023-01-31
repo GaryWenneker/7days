@@ -1,5 +1,5 @@
 ---
-id: ed035a13356041bdab9b74cfb92eccb3
+id: 040d6ecd3f274dea8a3dbc2f7e5c39ed
 type: nieuws
 layout: post
 title: "Boer redt vosjes uit buik dode moeder"
@@ -20,7 +20,7 @@ Het leven van de vosjes Ginger, Biscuit, Big Tip en Little Tip begon een beetje 
         
   
   <div class="content">
-    <img height="430" width="575" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/IMG_2281.jpeg" alt="">  </div>
+    <img height="430" width="575" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/IMG_2281.jpeg" alt="">  </div>
 
   
 </div>
@@ -32,7 +32,7 @@ Het leven van de vosjes Ginger, Biscuit, Big Tip en Little Tip begon een beetje 
         
   
   <div class="content">
-    <img height="575" width="431" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/IMG_2582.jpeg" alt="">  </div>
+    <img height="575" width="431" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/IMG_2582.jpeg" alt="">  </div>
 
   
 </div>
@@ -44,7 +44,7 @@ Het leven van de vosjes Ginger, Biscuit, Big Tip en Little Tip begon een beetje 
         
   
   <div class="content">
-    <img height="575" width="575" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/Jean%20and%20Chris%20-%20Non%20exclusive-1.jpg" alt="">  </div>
+    <img height="575" width="575" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/Jean%20and%20Chris%20-%20Non%20exclusive-1.jpg" alt="">  </div>
 
   
 </div>
@@ -55,7 +55,7 @@ Het leven van de vosjes Ginger, Biscuit, Big Tip en Little Tip begon een beetje 
         
   
   <div class="content">
-    <img height="575" width="575" class="media-element file-default" data-delta="4" src="https://original.sevendays.nl/sites/default/files/Fox%206%20-%20Non%20exclusive-1.jpg" alt="">  </div>
+    <img height="575" width="575" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/Fox%206%20-%20Non%20exclusive-1.jpg" alt="">  </div>
 
   
 </div>

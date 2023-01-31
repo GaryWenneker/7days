@@ -1,5 +1,5 @@
 ---
-id: 5d3aa6c109ce42e28b460e771ddb74bc
+id: d58a31f271f748129661ad9d71084c5e
 type: nieuws
 layout: post
 title: "De Europese Unie voor beginners"
@@ -20,12 +20,12 @@ De Europese Unie viert vandaag een feestje! Precies zestig jaar geleden werd het
         
   
   <div class="content">
-    <img title="Beeld: ANP" height="618" width="1256" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/eu-eeg.jpg" alt="">  </div>
+    <img title="Beeld: ANP" height="618" width="1256" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/eu-eeg.jpg" alt="">  </div>
 
   
 </div>
 </div><i>Al deze oude, kalende mannen hebben de Europese Economische Gemeenschap (EEG) opgericht. Hoera!</i>
-<p>Al snel ontdekten de landen dat samenwerken voordelig was én zorgde voor teamspirit. Kolen en staal waren niet meer het enige waarover de landen afspraken maakten. In 1957 werd daarom het Verdrag van Rome getekend. Daarmee werd de Europese Economische Gemeenschap opgericht. Steeds meer landen wilden bij de club. Sinds 1992 spreken we van de Europese Unie. De club heeft in 2010 zelfs de Nobelprijs voor de Vrede <a href="https://original.sevendays.nl/nieuws/nobelprijs-voor-de-eu" target="_blank">gewonnen</a>!</p>
+<p>Al snel ontdekten de landen dat samenwerken voordelig was én zorgde voor teamspirit. Kolen en staal waren niet meer het enige waarover de landen afspraken maakten. In 1957 werd daarom het Verdrag van Rome getekend. Daarmee werd de Europese Economische Gemeenschap opgericht. Steeds meer landen wilden bij de club. Sinds 1992 spreken we van de Europese Unie. De club heeft in 2010 zelfs de Nobelprijs voor de Vrede <a href="https://7dagen.netlify.app/nieuws/nobelprijs-voor-de-eu" target="_blank">gewonnen</a>!</p>
 <h3><strong>Hier bemoeit de EU zich allemaal mee</strong></h3>
 <p>Elk land binnen de EU heeft natuurlijk een eigen regering, die zelf regels en wetten maakt. De EU doet dat ook, maar dan vooral voor ‘grensoverschrijdende problemen’. Zij stellen bijvoorbeeld regels op voor Europese boeren, bepalen hoeveel vis er gevangen mag worden, hoeveel vieze lucht fabrieken mogen uitstoten en zorgen voor goede wegen en spoorlijnen. </p>
 <p>De EU speelt ook in het dagelijks leven een grote rol. De shampoo die je gebruikt, de cornflakes die je eet en de auto van je ouders: ze zijn allemaal onderworpen aan strenge EU-regels. Dankzij de EU bel je nu voordelig in het buitenland en hebben we snel internet (oké, én een downloadverbod: de EU heeft besloten dat illegaal downloaden écht niet mag).</p>
@@ -34,7 +34,7 @@ De Europese Unie viert vandaag een feestje! Precies zestig jaar geleden werd het
         
   
   <div class="content">
-    <img height="534" width="1046" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/eu-1.jpg" alt="">  </div>
+    <img height="534" width="1046" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/eu-1.jpg" alt="">  </div>
 
   
 </div>
@@ -51,7 +51,7 @@ De Europese Unie viert vandaag een feestje! Precies zestig jaar geleden werd het
         
   
   <div class="content">
-    <img title="Beeld: ANP" height="577" width="1097" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/eu-5.jpg" alt="">  </div>
+    <img title="Beeld: ANP" height="577" width="1097" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/eu-5.jpg" alt="">  </div>
 
   
 </div>
@@ -67,7 +67,7 @@ De Europese Unie viert vandaag een feestje! Precies zestig jaar geleden werd het
         
   
   <div class="content">
-    <img title="Beeld: ANP" height="774" width="1636" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/eu-6.jpg" alt="">  </div>
+    <img title="Beeld: ANP" height="774" width="1636" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/eu-6.jpg" alt="">  </div>
 
   
 </div>
@@ -81,7 +81,7 @@ De Europese Unie viert vandaag een feestje! Precies zestig jaar geleden werd het
         
   
   <div class="content">
-    <img title="Beeld: ANP" height="684" width="1384" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/eu-2.jpg" alt="">  </div>
+    <img title="Beeld: ANP" height="684" width="1384" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/eu-2.jpg" alt="">  </div>
 
   
 </div>
@@ -89,4 +89,4 @@ De Europese Unie viert vandaag een feestje! Precies zestig jaar geleden werd het
 <h3><strong>'Mogen wij uit de EU?'</strong></h3>
 <p>In Nederland mopperen we alleen op de EU, maar in Groot-Brittannië hebben ze serieus actie ondernomen. Vorig jaar mochten de Britten daarover stemmen bij een referendum. De uitkomst: een Brexit, graag! Daarmee is Groot-Brittannië het eerste land dat ooit het EU-clubje verlaat.</p>
 <p>Het lidmaatschap opzeggen, dat is nog een hele klus. En bovendien: het is nog nooit eerder gedaan. Sommige mensen vrezen dat de Brexit slecht uit gaat pakken, vooral voor bedrijven: de gunstige EU-handelsafspraken vervallen dan. Het zou de EU voorgoed kunnen veranderen. Wie weet volgen nog meer landen en stroomt de club langzaam leeg.</p>
-<p><em>Hoeveel weet jij al over de Europese Unie?<a href="https://original.sevendays.nl/quiz/quiz-wat-weet-jij-van-de-eu" target="_blank"> Maak de grote EU-quiz hier!</a></em></p>  
+<p><em>Hoeveel weet jij al over de Europese Unie?<a href="https://7dagen.netlify.app/quiz/quiz-wat-weet-jij-van-de-eu" target="_blank"> Maak de grote EU-quiz hier!</a></em></p>  

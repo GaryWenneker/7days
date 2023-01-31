@@ -1,5 +1,5 @@
 ---
-id: 6530a36b10de4a97bec96d69ac77ebf3
+id: 59b9964ed0b540da92604fba64a3094a
 type: nieuws
 layout: post
 title: "2016: Het Jaar van het Boek"

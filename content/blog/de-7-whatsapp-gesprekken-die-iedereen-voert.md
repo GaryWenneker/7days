@@ -1,5 +1,5 @@
 ---
-id: 9e1d26cc3dec4f4f99f49e50143b36ba
+id: 1037441acde34fb0a603b7b25f640286
 type: post
 layout: post
 title: "De 7 WhatsApp-gesprekken die iedereen voert"
@@ -19,18 +19,18 @@ seo:
         
   
   <div class="content">
-    <img height="519" width="353" style="font-size: 13.0080003738403px; line-height: 20.0063056945801px; width: 250px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Knipseldsagfd.PNG" alt="">  </div>
+    <img height="519" width="353" style="font-size: 13.0080003738403px; line-height: 20.0063056945801px; width: 250px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Knipseldsagfd.PNG" alt="">  </div>
 
   
 </div>
 </div>
-<p><strong>2. Het leve-de-emoji's-gesprek </strong><br>Emoji's kunnen best handig of leuk zijn, maar ze zijn <a href="https://original.sevendays.nl/lifestyle/tijd-om-die-emoji-te-omarmen">vast niet bedacht ter volledige vervanging van letters</a>. Na een lange dag leren kun je soms geen letter meer zien, dus lijken smileys ineens aantrekkelijker dan woorden. Dit kan leiden tot een leve-de-emoji's-gesprek:</p>
+<p><strong>2. Het leve-de-emoji's-gesprek </strong><br>Emoji's kunnen best handig of leuk zijn, maar ze zijn <a href="https://7dagen.netlify.app/lifestyle/tijd-om-die-emoji-te-omarmen">vast niet bedacht ter volledige vervanging van letters</a>. Na een lange dag leren kun je soms geen letter meer zien, dus lijken smileys ineens aantrekkelijker dan woorden. Dit kan leiden tot een leve-de-emoji's-gesprek:</p>
 <p><div class="media media-element-container media-default"><div id="file-6033" class="file file-image file-image-png">
 
         
   
   <div class="content">
-    <img height="277" width="320" style="height: 216px; width: 250px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/emojiconversatie.PNG" alt="">  </div>
+    <img height="277" width="320" style="height: 216px; width: 250px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/emojiconversatie.PNG" alt="">  </div>
 
   
 </div>
@@ -41,7 +41,7 @@ seo:
         
   
   <div class="content">
-    <img height="577" width="389" style="height: 371px; width: 250px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/misc.PNG" alt="">  </div>
+    <img height="577" width="389" style="height: 371px; width: 250px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/misc.PNG" alt="">  </div>
 
   
 </div>
@@ -52,7 +52,7 @@ seo:
         
   
   <div class="content">
-    <img height="511" width="352" style="height: 363px; width: 250px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/groepschasoodsodgfdzgrfes.png" alt="">  </div>
+    <img height="511" width="352" style="height: 363px; width: 250px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/groepschasoodsodgfdzgrfes.png" alt="">  </div>
 
   
 </div>
@@ -63,7 +63,7 @@ seo:
         
   
   <div class="content">
-    <img height="397" width="319" style="height: 311px; width: 250px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/dicusddie%20sgdrtgrd.PNG" alt="">  </div>
+    <img height="397" width="319" style="height: 311px; width: 250px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/dicusddie%20sgdrtgrd.PNG" alt="">  </div>
 
   
 </div>
@@ -74,7 +74,7 @@ seo:
         
   
   <div class="content">
-    <img height="472" width="316" style="height: 373px; width: 250px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/hw%20screenshot.PNG" alt="">  </div>
+    <img height="472" width="316" style="height: 373px; width: 250px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/hw%20screenshot.PNG" alt="">  </div>
 
   
 </div>
@@ -85,10 +85,10 @@ seo:
         
   
   <div class="content">
-    <img height="183" width="321" style="height: 143px; width: 250px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/oduers.PNG" alt="">  </div>
+    <img height="183" width="321" style="height: 143px; width: 250px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/oduers.PNG" alt="">  </div>
 
   
 </div>
 </div>
 <p>Kan jij nog meer WhatsApp-gesprekken opnoemen? OF HEB JE HET TE DRUK MET APPEN? </p>
-<p><em>Wil je meer blogs lezen van <a href="https://original.sevendays.nl/users/lucas-versteeg">Lucas</a> (16)? Laatst schreef hij ook al  <a href="https://original.sevendays.nl/blog/mijn-doritosgrot">Mijn Doritos-grot </a>en <a href="https://original.sevendays.nl/blog/mijn-schijtstrijd">Mijn schijtstrijd</a>.</em></p>  
+<p><em>Wil je meer blogs lezen van <a href="https://7dagen.netlify.app/users/lucas-versteeg">Lucas</a> (16)? Laatst schreef hij ook al  <a href="https://7dagen.netlify.app/blog/mijn-doritosgrot">Mijn Doritos-grot </a>en <a href="https://7dagen.netlify.app/blog/mijn-schijtstrijd">Mijn schijtstrijd</a>.</em></p>  

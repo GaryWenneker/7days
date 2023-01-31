@@ -1,5 +1,5 @@
 ---
-id: 7a21eb30cf8f4eadac19051b8de00a54
+id: ffba421638484f55bbba3965b84eff4a
 type: nieuws
 layout: post
 title: "Google voorspelt je toekomst"
@@ -18,4 +18,4 @@ Welk beroep krijg je later? Hoe oud ga je worden worden? En hoeveel kinderen ga 
 <p><iframe frameborder="0" height="650" scrolling="no" src="http://betagoogle.com/" width="850"></iframe></p>
 <p>Oké? Antwoord gekregen? En net zo teleurgesteld als wij?</p>
 <p>Die hele Google Fortunetelling-site is dus hartstikke fake. Het is de Google-manier om gebruikers te vertellen over de vluchtelingencrisis. Welke vraag je ook stelt, het antwoord is altijd hetzelfde: jouw toekomst is misschien onzeker maar vluchtelingen weten helemáál niet wat hun toekomst gaat brengen. En natuurlijk kun je door door te klikken geld doneren.</p>
-<p><em>Altijd op de hoogte blijven van het laatste nieuws? Meld je aan voor onze <a href="http://ww.sevendays.nl/whatsapp">WhatsApp-dienst</a> of neem een <a href="https://original.sevendays.nl/proefabonnement">proefabonnement </a>op 7Days.</em></p>  
+<p><em>Altijd op de hoogte blijven van het laatste nieuws? Meld je aan voor onze <a href="http://ww.sevendays.nl/whatsapp">WhatsApp-dienst</a> of neem een <a href="https://7dagen.netlify.app/proefabonnement">proefabonnement </a>op 7Days.</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: 4901438987784189ab04a54224d48ef7
+id: 31198a8ed12c44608a205163360ab8ed
 type: nieuws
 layout: post
 title: "'Deze scheepswrakken vertellen een mooi verhaal'"
@@ -18,7 +18,7 @@ Bij het kleine Griekse eiland Fourni zijn tientallen antieke scheepswrakken gevo
         
   
   <div class="content">
-    <img height="960" width="957" style="font-size: 13.008px; width: 250px; height: 251px; float: right;" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/Peter-Campbell.jpg" alt="">  </div>
+    <img height="960" width="957" style="font-size: 13.008px; width: 250px; height: 251px; float: right;" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/Peter-Campbell.jpg" alt="">  </div>
 
   
 </div>
@@ -28,7 +28,7 @@ Bij het kleine Griekse eiland Fourni zijn tientallen antieke scheepswrakken gevo
         
   
   <div class="content">
-    <img alt="Foto RPM Nautical Foundation" title="Foto RPM Nautical Foundation" height="1000" width="1500" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/578ca9dd6521b.jpg">  </div>
+    <img alt="Foto RPM Nautical Foundation" title="Foto RPM Nautical Foundation" height="1000" width="1500" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/578ca9dd6521b.jpg">  </div>
 
   
 </div>
@@ -39,7 +39,7 @@ Bij het kleine Griekse eiland Fourni zijn tientallen antieke scheepswrakken gevo
         
   
   <div class="content">
-    <img alt="Conservatoren onderzoeken een paar van de amforen  Foto RPM Nautical Foundation" title="Conservatoren onderzoeken een paar van de amforen  Foto RPM Nautical Foundation" height="1365" width="2048" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/rpm_1027-fourni-conservators.jpg">  </div>
+    <img alt="Conservatoren onderzoeken een paar van de amforen  Foto RPM Nautical Foundation" title="Conservatoren onderzoeken een paar van de amforen  Foto RPM Nautical Foundation" height="1365" width="2048" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/rpm_1027-fourni-conservators.jpg">  </div>
 
   
 </div>

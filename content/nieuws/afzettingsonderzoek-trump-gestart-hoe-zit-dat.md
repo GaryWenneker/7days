@@ -1,5 +1,5 @@
 ---
-id: 67e8cdd611a44e6c989b980b1ae540d1
+id: f3a756d6e66b4588b5e4954174e60a63
 type: nieuws
 layout: post
 title: "Afzettingsonderzoek Trump gestart: hoe zit dat?"

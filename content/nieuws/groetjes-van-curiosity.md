@@ -1,5 +1,5 @@
 ---
-id: fce8dc7a74864ffa8cc35dfbbe78c682
+id: 08e767971ab94837ba99aaa806f4f7a7
 type: nieuws
 layout: post
 title: "Groetjes van Curiosity"
@@ -18,7 +18,7 @@ seo:
         
   
   <div class="content">
-    <img alt="Selfie van Curiosity Foto NASA" title="Selfie van Curiosity Foto NASA" height="478" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-33834022-klein.jpg">  </div>
+    <img alt="Selfie van Curiosity Foto NASA" title="Selfie van Curiosity Foto NASA" height="478" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-33834022-klein.jpg">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ seo:
         
   
   <div class="content">
-    <img alt="Mars Curiosity" title="Mars Curiosity Foto NASA" height="759" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/pia21045-klein.jpg">  </div>
+    <img alt="Mars Curiosity" title="Mars Curiosity Foto NASA" height="759" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/pia21045-klein.jpg">  </div>
 
   
 </div>
@@ -36,10 +36,10 @@ seo:
         
   
   <div class="content">
-    <img alt="Mars Curiosity" title="Mars Curiosity Foto NASA" height="759" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/pia21042-klein.jpg">  </div>
+    <img alt="Mars Curiosity" title="Mars Curiosity Foto NASA" height="759" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/pia21042-klein.jpg">  </div>
 
   
 </div>
 </div><br><strong>Rotsformaties</strong><br>Afgelopen donderdag stuurde hij weer een serie nieuwe kleurenkiekjes van Mars naar NASA. Van het terrein rond de zogeheten Mount Sharp. Daar sprongen de wetenschappers een gat van in de lucht. De beelden zijn zo gedetailleerd dat onderzoekers nu heel goed kunnen bestuderen hoe het landschap op de planeet zich gevormd heeft. En het grappige is: de planeet mag dan 230 miljoen kilometer verderop in de ruimte zweven, het landschap ziet er verrassend aards uit. De rotsformaties op Mars lijken regelrecht uit een Amerikaans woestijngebied te komen!
 <p>Nieuwsgierig naar meer? Je kunt het rovertje volgen op <a href="https://twitter.com/marscuriosity">Twitter</a>.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

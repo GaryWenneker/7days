@@ -1,5 +1,5 @@
 ---
-id: e573db5f2b244a2283efc553d8bb3208
+id: 17024074e03a44729c41b5a5780cf448
 type: nieuws
 layout: post
 title: "Goud voor Kjeld Nuis op olympisch koningsnummer"
@@ -23,7 +23,7 @@ Het houdt maar niet op met de medailles voor Nederland. Schaatser Kjeld Nuis was
         
   
   <div class="content">
-    <img alt="ANP" title="Foto: ANP" height="2682" width="4500" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-55790854.jpg">  </div>
+    <img alt="ANP" title="Foto: ANP" height="2682" width="4500" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-55790854.jpg">  </div>
 
   
 </div>

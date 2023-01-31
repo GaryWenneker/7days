@@ -1,5 +1,5 @@
 ---
-id: 38c86a27852246238621424b0f536b11
+id: 20127d4605bc4f288aa7a847669eeb7b
 type: nieuws
 layout: post
 title: "Duurste foto ooit verkocht"
@@ -18,7 +18,7 @@ Voor 5,2 miljoen euro kun je honderd dagen in de duurste hotelkamer ter wereld s
         
   
   <div class="content">
-    <img height="372" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/40.png" alt="">  </div>
+    <img height="372" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/40.png" alt="">  </div>
 
   
 </div>

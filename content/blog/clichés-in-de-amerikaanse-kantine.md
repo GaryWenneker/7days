@@ -1,5 +1,5 @@
 ---
-id: 169f3f214577439eb227ddae87820976
+id: edfb6f6e16d64af6b5296806a5568297
 type: post
 layout: post
 title: "Cliché's in de Amerikaanse kantine"
@@ -13,7 +13,7 @@ seo:
 ---
 Dat de schoolbel een verlossing is, weten we allemaal. Maar hier in Amerika, op het typische Murray High, is het meer een startsein. Ik wil namelijk koste wat het kost op tijd zijn voor de lunchervaring van mijn leven.   
 
-    <p><em>Elke twee weken blogde Rosemarie op Sevendays.nl over haar highschool-halfjaar in Salt Lake City. Al haar blogs kun je <a href="https://original.sevendays.nl/highschoolhalfjaar">hier</a> teruglezen.</em></p>
+    <p><em>Elke twee weken blogde Rosemarie op Sevendays.nl over haar highschool-halfjaar in Salt Lake City. Al haar blogs kun je <a href="https://7dagen.netlify.app/highschoolhalfjaar">hier</a> teruglezen.</em></p>
 <p>Mijn dagelijks leven is ontzettend veranderd sinds ik mijn Nederlandse middelbare school omgeruild heb voor een rasechte high school. Ik heb mijn ijzeren ros verruild voor de auto van mijn zestienjarige gastzusje en terwijl ik mijn bagel naar binnen werk, toeteren we woedend naar schoolbussen die op onze parkeerplek staan. </p>
 <p><strong>Sociale rangorde</strong><br>Als ik de school binnenloop, hoor ik de jazzband oefenen en snel draai ik de juiste code in mijn locker om bij mijn boeken te komen. Net op tijd ren ik lokaal 307 binnen en neem ik plaats in mijn eenpersoons stoel/tafelcombinatie. Precies zoals in de films. Maar het allermooiste, meest fantastische moment van de dag moet nog komen. Het is tijd voor lunch.</p>
 <p>Ik vlieg langs de drie verdiepingen die de school telt en eindig op de begane grond, waar de enorme kantine zich bevindt. Het is overweldigend: die typische ronde tafels met verschillende stereotypen jongeren eraan – die bestaan echt! 'Mijn' tafel, ofwel die van mijn vriendengroep, staat tussen die van de Asians, die mangastrips lezen en in een vreemde taal met elkaar communiceren, en die van de voetbalspelers. Soccer, welteverstaan. Geen American Football. Die gozers zitten dichtbij de cheerleaders, op een verhoging. De sociale ladder heeft hier letterlijk meerdere treden. </p>
@@ -22,7 +22,7 @@ Dat de schoolbel een verlossing is, weten we allemaal. Maar hier in Amerika, op 
         
   
   <div class="content">
-    <img height="354" width="560" style="width: 800px; height: 506px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/schoolkantine2.jpeg" alt="">  </div>
+    <img height="354" width="560" style="width: 800px; height: 506px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/schoolkantine2.jpeg" alt="">  </div>
 
   
 </div>
@@ -33,7 +33,7 @@ Dat de schoolbel een verlossing is, weten we allemaal. Maar hier in Amerika, op 
         
   
   <div class="content">
-    <img height="354" width="560" style="width: 800px; height: 506px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/schoolkantine3.jpeg" alt="">  </div>
+    <img height="354" width="560" style="width: 800px; height: 506px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/schoolkantine3.jpeg" alt="">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: 7ec6972c01e44c888228775fb7bea20a
+id: f35bae0b168542648a16c9233463398d
 type: post
 layout: post
 title: "Waarom dingen ook leuk zijn als je er niet goed in bent"
@@ -22,7 +22,7 @@ Als er een docent langs mijn tafeltje loopt, sla ik altijd snel mijn schrift dic
         
   
   <div class="content">
-    <a href="/files/img20190315115637-mediumjpg"><img alt="schrift, tekenen" height="220" width="152" style="width: 350px; height: 506px; float: left;" class="media-element file-teaser" data-delta="1" src="https://original.sevendays.nl/sites/default/files/styles/medium/public/IMG_20190315_115637%20%28Medium%29.jpg?itok=HNDfKr3j"></a>  </div>
+    <a href="/files/img20190315115637-mediumjpg"><img alt="schrift, tekenen" height="220" width="152" style="width: 350px; height: 506px; float: left;" class="media-element file-teaser" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/styles/medium/public/IMG_20190315_115637%20%28Medium%29.jpg?itok=HNDfKr3j"></a>  </div>
 
   
 </div>

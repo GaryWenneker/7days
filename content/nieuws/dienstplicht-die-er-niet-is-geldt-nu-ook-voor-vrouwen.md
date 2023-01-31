@@ -1,5 +1,5 @@
 ---
-id: 7a7ffa390f7a45cca5d8c096edd01e6e
+id: d7d18a161abb4a78bcb7beabbb2394a8
 type: nieuws
 layout: post
 title: "Dienstplicht (die er niet is) geldt nu ook voor vrouwen"
@@ -15,7 +15,7 @@ Meisjes die volgend jaar 17 worden, kunnen net als jongens een brief van defensi
 
     <p>Valt de brief straks bij jou op de mat? Dan hoef je er niet van te schrikken, want het is vooral symbolisch om aan te geven dat mannen en vrouwen gelijk zijn. Er verandert niks. Voor meisjes en vrouwen die nu al ouder zijn, geldt deze nieuwe wet niet. Zij vallen nog onder de oude wet, waarin staat dat alleen mannen dienstplichtig zijn. </p>
 <h3>Niemand wordt opgeroepen</h3>
-<p>De dienstplicht is nooit afgeschaft, maar vanaf 1996 worden dienstplichtingen niet meer opgeroepen om het leger in te gaan. De regering vond toen dat we beter af zijn met een beroepsleger. 'Daarin kun je veel meer investeren en ook andere missies uitvoeren dan met een dienstplichtig leger', <a href="https://original.sevendays.nl/lifestyle/wat-je-moet-weten-over-dienstplicht-voor-meisjes">vertelde</a> woordvoerder van Defensie Klaas Meijer vorig jaar aan <em>7Days</em>.</p>
+<p>De dienstplicht is nooit afgeschaft, maar vanaf 1996 worden dienstplichtingen niet meer opgeroepen om het leger in te gaan. De regering vond toen dat we beter af zijn met een beroepsleger. 'Daarin kun je veel meer investeren en ook andere missies uitvoeren dan met een dienstplichtig leger', <a href="https://7dagen.netlify.app/lifestyle/wat-je-moet-weten-over-dienstplicht-voor-meisjes">vertelde</a> woordvoerder van Defensie Klaas Meijer vorig jaar aan <em>7Days</em>.</p>
 <h3>Veranderingen</h3>
 <p>Toch wordt de dienstplicht niet officieel afgeschaft. 'We weten niet waar we over twintig jaar zijn', vertelde Meijer. 'Stel dat het nodig is dan kan een toekomstige regering de opkomstplicht weer invoeren. Al ligt dat niet voor de hand en is die kans heel klein. Vroeger was er sprake van grote gevechten tussen grote legers en waren er zoveel mogelijk militairen nodig, nu komt de dreiging uit andere hoeken zoals IS en cyberdreiging. Om op die nieuwe dreigingen sneller te kunnen reageren proberen we nu meer jonge mensen aan te trekken die naast hun studie of werk parttime voor Defensie willen werken als reserve-militair.'</p>
 <h3>Ook voor vrouwen</h3>

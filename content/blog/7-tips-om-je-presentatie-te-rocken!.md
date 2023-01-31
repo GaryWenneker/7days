@@ -1,5 +1,5 @@
 ---
-id: 36fa372de9eb4f7c82965331e118de9b
+id: 754ca26be5394618824156a8b053eaa5
 type: post
 layout: post
 title: "7 tips om je presentatie te rocken!"
@@ -22,4 +22,4 @@ We moeten er allemaal ooit mee dealen: de Gevreesde Presentatie. Of het nou over
 <p>5. <strong>Time je presentatie!</strong> Dit bespaart je aftrekpunten of een onhandige 'Eh, ja, dit was het eigenlijk...' als je nog drie minuten moest spreken. Tijdens het schrijven van je presentatie is <a href="http://www.debatrix.com/nl/overtuigen/tools/calculator-hoelang-duurt-jouw-speech/" target="_blank">Speechcalculator</a> heel handig om in te schatten hoeveel je nog moet, maar dubbelcheck het zeker ook zelf nog even met een stopwatch.</p>
 <p>6. <strong>Wees interactief.</strong> Grote plus bij leraren! Betrek je klasgenoten door een quiz of enquête aan het einde of door (simpele) vragen te stellen gedurende je presentatie. Alleen maar voordelen, want je behoudt de aandacht van je toehoorders, voelt je minder alleen in je presentatie, creëert een informelere sfeer én showt die docent even dat je dat ook al kunt, 'interactief presenteren'.</p>
 <p>7. De belangrijkste tip: <strong>heb zelfvertrouwen!</strong> Je kan het! Een toeschouwer kijkt veel liever naar iemand die sterk in zijn schoenen staat en plezier lijkt te hebben in wat-ie doet, dan naar een nerveuze zenuwpees. En: als je zeker van jezelf bent, wordt presenteren stukken leuker. En dat is natuurlijk niet onbelangrijk.</p>
-<p><em>Ga je bijna naar de brugklas? Onze pagina <a href="https://original.sevendays.nl/brugklas">Sevendays.nl/brugklas</a> staat bomvol slimme tips, interessant brugklasnieuws en grappige blogs die je klaarstomen voor de middelbare school. En misschien heb je ook wel iets aan onze speciale krant <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/actiesmetderden/brugklasvoorbeginners">Brugklas voor Beginners</a>! </em></p>  
+<p><em>Ga je bijna naar de brugklas? Onze pagina <a href="https://7dagen.netlify.app/brugklas">Sevendays.nl/brugklas</a> staat bomvol slimme tips, interessant brugklasnieuws en grappige blogs die je klaarstomen voor de middelbare school. En misschien heb je ook wel iets aan onze speciale krant <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/actiesmetderden/brugklasvoorbeginners">Brugklas voor Beginners</a>! </em></p>  

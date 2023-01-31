@@ -1,5 +1,5 @@
 ---
-id: 919537722b014837afed6e8cf7b5b3d7
+id: b12506e4355f4a47a3ef36d75e671484
 type: nieuws
 layout: post
 title: "Aantal comazuipers in ziekenhuis in 2016 gedaald"
@@ -21,4 +21,4 @@ De stijgende trend in comazuipen lijkt voorbij. In 2016 werden er 'slechts' 791 
 <p>Van de comazuipers dronk 45% bij anderen thuis, 24,4 dronk op straat en 8,4% bij hun ouders thuis. De meesten kregen de drank via vrienden, 66.9%, uit de horeca, 12%, of thuis, 9%.</p>
 <h3>Strengere ouders</h3>
 <p>Van der Lely is erg blij met de dalende trend in comazuipen: ‘Sinds 2012 geven steeds minder ouders toestemming om alcohol te drinken. Steeds meer zijn zich bewust van de risico’s van alcoholgebruik voor bijvoorbeeld de hersenontwikkeling van hun kinderen.’</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant 7Days!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant 7Days!</em></p>  

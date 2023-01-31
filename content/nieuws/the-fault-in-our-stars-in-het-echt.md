@@ -1,5 +1,5 @@
 ---
-id: a838e7f8b4b4441e9fe890cbf45f774e
+id: e94ed319a3ca4e9a9f860d8e22419c93
 type: nieuws
 layout: post
 title: "The Fault in our Stars in het echt"
@@ -20,7 +20,7 @@ Hun liefdesverhaal klinkt als een filmscenario. Sterker nog: het lijkt precies o
         
   
   <div class="content">
-    <img height="398" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/274F5A8400000578-3026842-image-a-1_1428274010128_0.jpg" alt="">  </div>
+    <img height="398" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/274F5A8400000578-3026842-image-a-1_1428274010128_0.jpg" alt="">  </div>
 
   
 </div>

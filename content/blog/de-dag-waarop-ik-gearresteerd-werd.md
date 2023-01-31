@@ -1,5 +1,5 @@
 ---
-id: f8afde41aed64360857bdb7df844fb6d
+id: 5715363b885a44b880acbe2c8f102378
 type: post
 layout: post
 title: "De dag waarop ik gearresteerd werd"
@@ -23,4 +23,4 @@ Misschien heb jij wel eens vuurwerk afgestoken voordat dat officieel mocht. Is d
 <p><strong>'Mijn zoon heeft WAT gedaan?'</strong><br>Ze beginnen nog harder te lachen als ze bij hun favoriete gedeelte van de klus komen: ze mogen onze ouders bellen om te vertellen dat we gearresteerd zijn.</p>
 <p>Ik kan mijn moeder door de telefoon heen horen schreeuwen: <em>'mijn zoon heeft WAT gedaan?'  </em>Hoewel ik al knap zenuwachtig ben vanwege de agenten, is het onder ogen komen van mijn moeder toch wel een van de meest angstaanjagende dingen die ik in mijn leven heb moeten doen. Ik ben nog nooit zo langzaam naar huis gefietst.<br><br><strong>Poep scheppen</strong><br>Kort krijg ik een taakstraf toegewezen. Aangezien al het vuurwerk al opgeruimd is door de gemeentedienst, word ik naar een plaatselijke boerderij gestuurd om klusjes te doen.</p>
 <p>Ik kan je vertellen dat de mix van poep scheppen in de stallen en een donderpreek van je ouders heel erg karaktervormend is. Ik ben sindsdien nooit meer opgepakt.</p>
-<p><i>Smaakt dit blog naar meer? <a href="https://original.sevendays.nl/blogs">Klikkerdeklik</a>.</i></p>  
+<p><i>Smaakt dit blog naar meer? <a href="https://7dagen.netlify.app/blogs">Klikkerdeklik</a>.</i></p>  

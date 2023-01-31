@@ -1,5 +1,5 @@
 ---
-id: 2f350462c7b64c0984c76d4b29bfa7d8
+id: 5b6802a1471a471ea56b77a9f4aa43cb
 type: nieuws
 layout: post
 title: "Drie vragen over het klimaatakkoord"
@@ -14,7 +14,7 @@ seo:
 Het heeft bijna drieënhalf jaar geduurd, maar vandaag is het zover. Nederland presenteert zijn langverwachte Klimaatakkoord. Drie vragen (en antwoorden) over dit akkoord.  
 
     <h3>1. Wat is het Klimaatakkoord?</h3>
-<p>In 2015 sloten bijna tweehonderd landen in Parijs het zogenoemde <a href="https://original.sevendays.nl/nieuws/historisch-klimaatakkoord-195-landen-stemmen" target="_blank">Klimaatakkoord</a>: een pakket van afspraken tussen landen, bedrijven en organisaties over het verminderen van CO2-uitstoot in de wereld. De rijke landen helpen hierbij de arme landen door geld beschikbaar te stellen. Ook Nederland zit in het Klimaatakkoord en heeft toegezegd om in 2030 49% minder broeikasgassen uit te stoten.</p>
+<p>In 2015 sloten bijna tweehonderd landen in Parijs het zogenoemde <a href="https://7dagen.netlify.app/nieuws/historisch-klimaatakkoord-195-landen-stemmen" target="_blank">Klimaatakkoord</a>: een pakket van afspraken tussen landen, bedrijven en organisaties over het verminderen van CO2-uitstoot in de wereld. De rijke landen helpen hierbij de arme landen door geld beschikbaar te stellen. Ook Nederland zit in het Klimaatakkoord en heeft toegezegd om in 2030 49% minder broeikasgassen uit te stoten.</p>
 <h3>2. Wat is het doel van het Klimaatakkoord?</h3>
 <p>In het akkoord is afgesproken dat de aarde niet meer dan twee graden mag opwarmen. Dit willen de landen bereiken door de uitstoot van broeikasgassen te verminderen. Deze broeikasgassen zorgen voor klimaatverandering en zijn daardoor slecht voor zowel de natuur als de mens. Het belangrijkste broeikasgas is CO2 en dus wil Nederland vooral de uitstoot van dit gas verminderen. Deze samenwerking tussen landen en bedrijven is belangrijk om de klimaatverandering in de wereld tegen te houden. </p>
 <h3>3. Hoe gaat Nederland dat doen?</h3>

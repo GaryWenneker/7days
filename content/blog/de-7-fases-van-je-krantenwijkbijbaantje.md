@@ -1,5 +1,5 @@
 ---
-id: ef6b078b43074816972559bcbf3eea85
+id: c95087c755cd474c88d5adf9755b7559
 type: post
 layout: post
 title: "De 7 fases van je krantenwijkbijbaantje"
@@ -26,5 +26,5 @@ Het begint als de perfecte uitdaging, maar eindigt in een mislukte start van je 
 <ol><li value="6"><strong>De kerst-als-hoogtepunt-fase</strong></li>
 </ol><p>Het hoogtepunt van je bezorgbijbaantje valt rond de feestdagen, als je geld verdient door iedereen namens de lokale krant een fijne kerst te wensen. Je rammelende zakken geven je een tevreden gevoel. Dit geld dat je in één klap verdient, compenseert al het leed een beetje.</p>
 <ol><li value="7"><strong>De op-zoek-naar-iets-nieuws-fase </strong></li>
-</ol><p>Toch is het punt waarop je ontslag neemt onvermijdelijk. Je hebt het lang genoeg volgehouden en inmiddels ben je oud genoeg om een ander bijbaantje te zoeken. Hoewel je je had voorgenomen om nooit meer te werken, wil je toch weer geld verdienen. Bij de supermarkt bijvoorbeeld? Nu weet je nog niet dat het daar <a href="https://original.sevendays.nl/blog/de-7-fases-van-je-supermarkt-bijbaantje">hetzelfde liedje zal zijn</a>…</p>
-<p><em>Meer blogs lezen van Femke (15)? Laatst schreef ze ook <a href="https://original.sevendays.nl/blog/de-5-fases-van-het-maken-van-een-keuze">De 7 fases van het maken van een keuze</a> en <a href="https://original.sevendays.nl/blog/getest-kun-je-een-week-zonder-nieuws">Getest: kun je een week zonder nieuws?</a>.</em></p>  
+</ol><p>Toch is het punt waarop je ontslag neemt onvermijdelijk. Je hebt het lang genoeg volgehouden en inmiddels ben je oud genoeg om een ander bijbaantje te zoeken. Hoewel je je had voorgenomen om nooit meer te werken, wil je toch weer geld verdienen. Bij de supermarkt bijvoorbeeld? Nu weet je nog niet dat het daar <a href="https://7dagen.netlify.app/blog/de-7-fases-van-je-supermarkt-bijbaantje">hetzelfde liedje zal zijn</a>…</p>
+<p><em>Meer blogs lezen van Femke (15)? Laatst schreef ze ook <a href="https://7dagen.netlify.app/blog/de-5-fases-van-het-maken-van-een-keuze">De 7 fases van het maken van een keuze</a> en <a href="https://7dagen.netlify.app/blog/getest-kun-je-een-week-zonder-nieuws">Getest: kun je een week zonder nieuws?</a>.</em></p>  

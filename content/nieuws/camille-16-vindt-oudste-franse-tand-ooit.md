@@ -1,5 +1,5 @@
 ---
-id: f71536ff595446e782f07e4989bfa21f
+id: 4bdae377942d4270b184e35ccc4191f2
 type: nieuws
 layout: post
 title: "Camille (16) vindt oudste Franse tand ooit"
@@ -18,7 +18,7 @@ Terwijl haar leeftijdsgenoten op het strand liggen luieren, steekt de Franse Cam
         
   
   <div class="content">
-    <img title="Foto EPA" height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Camille%20vindt%20tand%20850%202.jpg" alt="">  </div>
+    <img title="Foto EPA" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Camille%20vindt%20tand%20850%202.jpg" alt="">  </div>
 
   
 </div>

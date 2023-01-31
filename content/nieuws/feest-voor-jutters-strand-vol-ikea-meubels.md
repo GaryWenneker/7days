@@ -1,5 +1,5 @@
 ---
-id: 73c82e3915ff4649b3444cf1337d149d
+id: 9a4147925a364032a30ea5c6ef5af75e
 type: nieuws
 layout: post
 title: "Feest voor jutters: strand vol Ikea-meubels"
@@ -24,7 +24,7 @@ Op Terschelling en Vlieland zijn mensen vandaag massaal aan het jutten geslagen.
         
   
   <div class="content">
-    <img height="576" width="1024" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/WhatsApp%20Image%202019-01-02%20at%2010.36.35.jpeg" alt="">  </div>
+    <img height="576" width="1024" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/WhatsApp%20Image%202019-01-02%20at%2010.36.35.jpeg" alt="">  </div>
 
   
 </div>
@@ -34,7 +34,7 @@ Op Terschelling en Vlieland zijn mensen vandaag massaal aan het jutten geslagen.
         
   
   <div class="content">
-    <img height="576" width="1024" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/IMG_8823.jpg" alt="">  </div>
+    <img height="576" width="1024" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/IMG_8823.jpg" alt="">  </div>
 
   
 </div>
@@ -44,7 +44,7 @@ Op Terschelling en Vlieland zijn mensen vandaag massaal aan het jutten geslagen.
         
   
   <div class="content">
-    <img height="576" width="1013" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/flatscreen.jpg" alt="">  </div>
+    <img height="576" width="1013" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/flatscreen.jpg" alt="">  </div>
 
   
 </div>

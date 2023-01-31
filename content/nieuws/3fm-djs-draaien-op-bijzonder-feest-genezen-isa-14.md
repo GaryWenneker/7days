@@ -1,5 +1,5 @@
 ---
-id: 32a22410020c457eb169559bbdaaded9
+id: 7809045a5f224aeda42fbb39c418f6a0
 type: nieuws
 layout: post
 title: "3FM-dj’s draaien op bijzonder feest genezen Isa (14)"
@@ -20,7 +20,7 @@ De politie is je beste vriend. Dat geldt in ieder geval voor Isa (14) uit Leiden
         
   
   <div class="content">
-    <img alt="Isa met haar zussen en wijkagent Eric van Dommelen" height="638" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Isa%20zussen%20en%20wijkagent.jpg">  </div>
+    <img alt="Isa met haar zussen en wijkagent Eric van Dommelen" height="638" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Isa%20zussen%20en%20wijkagent.jpg">  </div>
 
   
 </div>
@@ -30,11 +30,11 @@ De politie is je beste vriend. Dat geldt in ieder geval voor Isa (14) uit Leiden
         
   
   <div class="content">
-    <img alt="Isa met haar ouders en zussen" height="463" width="664" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Isa%20met%20familie.jpg">  </div>
+    <img alt="Isa met haar ouders en zussen" height="463" width="664" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Isa%20met%20familie.jpg">  </div>
 
   
 </div>
 </div><em>Het hele gezin op het gemaskerde bal.</em><br><br><strong>Professioneel</strong><br>‘Het was heel gaaf om ze te ontmoeten. Het was voor mij wel een cadeau dat ze er waren. Ze draaiden muziek die wij hadden opgegeven.'
 <p>'Je merkte aan hoe ze draaiden en de liedjes van in elkaar lieten overgaan wel dat ze professioneel zijn. En aan het contact met de gasten, dat ze bij sommige nummers vertelden wat die voor ons betekenden.’<br><br><strong>I’m a Survivor</strong><br>‘Ik heb ook een paar nummers aangevraagd, zoals <em>Single Ladies</em>, <em>I’m a Survivor</em> en <em>You Raise Me Up</em>. Die hielpen me toen ik ziek was, doordat ik erop kon dansen of juist over dingen kon nadenken.’</p>
 <p>Aan het einde van de avond kreeg Isa koorts. Nu ligt ze met griep thuis. Toch kijkt ze terug op een mooi feest. ‘Dit was echt groter dan andere verjaardagen.’</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren relevant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis nieuwsapp </a>of neem een <a href="https://original.sevendays.nl/abonnement">proefabonnement</a> op de krant.</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren relevant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis nieuwsapp </a>of neem een <a href="https://7dagen.netlify.app/abonnement">proefabonnement</a> op de krant.</em></p>  

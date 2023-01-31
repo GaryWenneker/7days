@@ -1,5 +1,5 @@
 ---
-id: 570c0f092f75451c8cfa6ab98610d9c8
+id: 417896fcbb344d078a382d019c7107d1
 type: post
 layout: post
 title: "Lieve wiskunde..."
@@ -20,4 +20,4 @@ Na lang zwoegen voor mijn wiskundeproefwerk, heb ik het gehad met dat vak. Ik he
 <p>Wiskunde, los in het vervolg je eigen problemen maar op.</p>
 <p>Met (niet zo) vriendelijke groet,</p>
 <p>Sanne</p>
-<p><em>Sanne is een grote Engeland-fan (15) die historische gebouwen en verhalen geweldig vindt, maar tijdens haar les geschiedenis wel in slaap kan vallen. 'Toch maar goed dat ik de bètavakken heb gekozen.' Wil het allerliefst later schrijfster worden. Maar medisch onderzoeker lijkt haar ook wel wat. </em><a href="https://original.sevendays.nl/users/sanne-van-der-sterren"><em>Lees meer blogs van Sanne</em></a><em>.</em></p>  
+<p><em>Sanne is een grote Engeland-fan (15) die historische gebouwen en verhalen geweldig vindt, maar tijdens haar les geschiedenis wel in slaap kan vallen. 'Toch maar goed dat ik de bètavakken heb gekozen.' Wil het allerliefst later schrijfster worden. Maar medisch onderzoeker lijkt haar ook wel wat. </em><a href="https://7dagen.netlify.app/users/sanne-van-der-sterren"><em>Lees meer blogs van Sanne</em></a><em>.</em></p>  

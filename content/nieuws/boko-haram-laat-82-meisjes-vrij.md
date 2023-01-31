@@ -1,5 +1,5 @@
 ---
-id: 9218ab3fdf0b4844b3c1fc33f1b79435
+id: c9974383854040359653d5299ac9cbd4
 type: nieuws
 layout: post
 title: "Boko Haram laat 82 meisjes vrij"
@@ -17,7 +17,7 @@ In Nigeria zijn 82 meisjes vrijgelaten die jarenlang gevangen hebben gezeten. Ze
 <h3>Kostschool</h3>
 <p>De meisjes, die tussen de 16 en 18 jaar oud zijn, werden in 2014 samen met 194 andere meisjes ontvoerd vanuit een kostschool in Chibok, een stadje in het noordoosten van Nigeria. </p>
 <h3>Boko Haram voor beginners</h3>
-<p>Mocht je even niet meer zo goed weten hoe het ook alweer allemaal zat? Collega Bouwien schreef eerder het artikel <a href="https://original.sevendays.nl/nieuws/boko-haram-voor-beginners">Boko Haram voor beginners</a> waarin ze vijf vragen beantwoordt over deze nietsontziende, islamitische terreurgroep. </p>
+<p>Mocht je even niet meer zo goed weten hoe het ook alweer allemaal zat? Collega Bouwien schreef eerder het artikel <a href="https://7dagen.netlify.app/nieuws/boko-haram-voor-beginners">Boko Haram voor beginners</a> waarin ze vijf vragen beantwoordt over deze nietsontziende, islamitische terreurgroep. </p>
 <p>Daarnaast verschijnt er een uitgebreid artikel over Boko Haram in de 7Days-krant van deze week. Zorg dat je hem niet mist!</p>
 <p> </p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: 7b814ce4526c44dcb717710218fff26e
+id: c8f38de785234ec887fde5debc73dd41
 type: post
 layout: post
 title: "Waar komt de naam Schiphol vandaan?"
@@ -24,7 +24,7 @@ Blogger Annemijn zit altijd vol met vragen. Dingen die jij je vast ook wel eens
         
   
   <div class="content">
-    <img alt="Fort aan het Schiphol" title="Fort aan het Schiphol" height="840" width="640" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/schiphol_0.jpg">  </div>
+    <img alt="Fort aan het Schiphol" title="Fort aan het Schiphol" height="840" width="640" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/schiphol_0.jpg">  </div>
 
   
 </div>

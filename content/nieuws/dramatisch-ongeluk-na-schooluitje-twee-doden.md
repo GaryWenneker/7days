@@ -1,5 +1,5 @@
 ---
-id: 0664982e0fa14fcd97c0e3e8ca47618b
+id: efc91063c7f142479f426f6cfbfb40e0
 type: nieuws
 layout: post
 title: "Dramatisch ongeluk na schooluitje: twee doden"
@@ -22,7 +22,7 @@ Op een spoorwegovergang in Harlingen heeft zich een drama afgespeeld. Bij een b
         
   
   <div class="content">
-    <img alt="Ongeval spoorweg Harlingen" title="Beeld: ANP" height="880" width="1380" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-50439861.jpg">  </div>
+    <img alt="Ongeval spoorweg Harlingen" title="Beeld: ANP" height="880" width="1380" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-50439861.jpg">  </div>
 
   
 </div>
@@ -30,4 +30,4 @@ Op een spoorwegovergang in Harlingen heeft zich een drama afgespeeld. Bij een b
 <h3>Gevaarlijk</h3>
 <p>Extra wrang: ProRail, die de spoorwegovergang beheert, was juist van plan de overgang op te heffen. Dat meldt <em><a href="http://www.rtlnieuws.nl/nederland/onbewaakte-overweg-in-harlingen-zou-worden-opgeheven" target="_blank">RTL Nieuws</a></em>. In februari dit jaar vond er ook al een ongeluk plaats. Toen vielen er geen gewonden. </p>
 <p>Het is niet de enige spoorwegovergang in ons land die nog onbewaakt is: Nederland telt er ongeveer nog duizend. De regering wil dat dit soort overgangen alsnog worden beveiligd, omdat ze gevaarlijk zijn. Daarvoor maakte het kabinet dit jaar nog 25 miljoen euro extra vrij. </p>
-<p><em>Altijd op de hoogte blijven van tips die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van tips die voor jongeren interessant zijn? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

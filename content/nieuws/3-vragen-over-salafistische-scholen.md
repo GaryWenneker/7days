@@ -1,5 +1,5 @@
 ---
-id: d867314feffe4dd7bb12f8f37c10f04d
+id: e9f4db92325f48438c5d40edb98c9a47
 type: nieuws
 layout: post
 title: "3 vragen over salafistische scholen"

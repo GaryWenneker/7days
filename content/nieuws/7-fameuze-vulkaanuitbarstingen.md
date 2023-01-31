@@ -1,5 +1,5 @@
 ---
-id: 4536961d85c34239aef4e9877789f5e9
+id: d387b180b36a4ff99094c16c0f152694
 type: nieuws
 layout: post
 title: "7 fameuze vulkaanuitbarstingen"
@@ -18,7 +18,7 @@ Lava, vuur, as, spektakel! Vulkaanuitbarstingen blijven nog steeds een van de me
         
   
   <div class="content">
-    <img title="Foto: EPA" height="2048" width="3072" style="width: 850px; height: 567px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-23048886.jpg" alt="">  </div>
+    <img title="Foto: EPA" height="2048" width="3072" style="width: 850px; height: 567px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-23048886.jpg" alt="">  </div>
 
   
 </div>
@@ -28,7 +28,7 @@ Lava, vuur, as, spektakel! Vulkaanuitbarstingen blijven nog steeds een van de me
         
   
   <div class="content">
-    <img alt="Eyjafjallajökull" title="Afbeelding: Wikipedia/Eyjafjallajökull-pagina" height="520" width="680" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Eyjafjallaj%C3%B6kull_volcanic_ash_17_April_2010.png">  </div>
+    <img alt="Eyjafjallajökull" title="Afbeelding: Wikipedia/Eyjafjallajökull-pagina" height="520" width="680" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Eyjafjallaj%C3%B6kull_volcanic_ash_17_April_2010.png">  </div>
 
   
 </div>

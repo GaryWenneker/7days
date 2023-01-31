@@ -1,5 +1,5 @@
 ---
-id: e0a55d9fbc3a47febb73fb28b412c6ec
+id: c559fa4646f04dd49e9293223ce3acc4
 type: nieuws
 layout: post
 title: "Dit moet je weten over The Voice Kids-winnares Iris (15)"
@@ -31,9 +31,9 @@ Zelf kan ze het nog steeds niet geloven, maar het is toch écht zo: Iris Verhoek
         
   
   <div class="content">
-    <img alt="Douwe Bob coach The Voice Kids" title="Foto Twitter " height="900" width="1200" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/C99er8wXgAQpIR-.jpg">  </div>
+    <img alt="Douwe Bob coach The Voice Kids" title="Foto Twitter " height="900" width="1200" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/C99er8wXgAQpIR-.jpg">  </div>
 
   
 </div>
 </div></li>
-</ul><p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant 7Days!</em> </p>  
+</ul><p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant 7Days!</em> </p>  

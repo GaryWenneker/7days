@@ -1,5 +1,5 @@
 ---
-id: 3b9ede1290394e46a2fcc8c33fb5e31a
+id: 6935e4ae548f4112905b34ebaa99d685
 type: post
 layout: post
 title: "Vervelen is meer dan alleen maar saai"
@@ -20,4 +20,4 @@ Terwijl ik mijn ogen langzaam open, vraag ik mijzelf af wat ik vandaag eens zal
 <p>Ik kwam zelfs op een <a href="https://sochicken.nl/vervelen">pagina</a> terecht waarop wordt gezegd dat vervelen de eerste stap is richting spirituele verlichting. Je brein krijgt de ruimte om tot rust te komen en om veel na te denken. Op deze manier ontdek je wie je daadwerkelijk bent. Nu is het niet dat ik het gevoel heb dat ik dagelijks naar therapie ga, maar jeetje wat denk ik veel nu ik niets te doen heb.</p>
 <h3>​<strong>Omarm de verveling </strong></h3>
 <p>En wellicht zijn dit wel dé redenen om mijn verveling te omarmen. Om tevreden te zijn met een dagje niets doen in plaats van elke dag maar de drang te voelen om 'iets' te doen. Ik denk dat het goed zal zijn om dagen, zelfs weken met verveling te kennen. Als ik dan weer naar school moet, zal ik vol jaloezie en een fijn gevoel terugdenken aan deze zorgeloze tijd. Dan zal ik de vraag: 'Wat zal ik vandaag eens doen?' missen. Omdat ik dan geen eens tijd heb om niets te doen.</p>
-<p><em>Lotte verzamelt om onverklaarbare reden haar hele leven al schildpaddenbeeldjes. En boeken over de Tweede Wereldoorlog, maar die leest ze eigenlijk nooit. Droomt er al sinds haar elfde van om schrijfster te worden. </em><em><a href="https://original.sevendays.nl/users/lotte-rolleman">Lees meer blogs van Lotte</a>.</em></p>  
+<p><em>Lotte verzamelt om onverklaarbare reden haar hele leven al schildpaddenbeeldjes. En boeken over de Tweede Wereldoorlog, maar die leest ze eigenlijk nooit. Droomt er al sinds haar elfde van om schrijfster te worden. </em><em><a href="https://7dagen.netlify.app/users/lotte-rolleman">Lees meer blogs van Lotte</a>.</em></p>  

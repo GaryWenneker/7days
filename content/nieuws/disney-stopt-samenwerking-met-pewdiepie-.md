@@ -1,5 +1,5 @@
 ---
-id: 5b6b704a1f0b481fae0538ad8fccd93f
+id: f771eee1bdd14ec78e40b1091c3141c6
 type: nieuws
 layout: post
 title: "Disney stopt samenwerking met PewDiePie "
@@ -22,4 +22,4 @@ De Zweedse YouTuber Felix Kjellberg (27), beter bekend als PewDiePie, is een bel
 <p>Op zijn <a href="http://pewdie.tumblr.com/post/157160889655/just-to-clear-some-things-up" target="_blank">Tumblr-blog</a> plaatste PewDiePie zondag wel een reactie. Daarin zegt hij dat hij wilde aantonen ‘dat we in een gekke wereld leven waarin mensen alles doen voor vijf dollar’. Ook zegt hij dat zijn video’s als entertainment bedoeld zijn en niet als politiek commentaar, maar dat hij begrijpt dat ze als beledigend zijn ervaren.</p>
 <h3>Hotdogverkoper </h3>
 <p>Kjellberg werkte zeven jaar geleden nog als hotdogverkoper omdat hij toen nog niet genoeg verdiende met zijn filmpjes. Inmiddels worden zijn filmpjes zo goed bekeken, dat hij geen broodjes worst meer hoeft te verkopen. Adverteerders betalen hem veel geld om reclame te mogen maken bij zijn populaire video’s. In 2016 zou hij zo’n 15 miljoen dollar hebben verdiend. Dat zijn héél veel hotdogs.<br><br>Ook met het verkopen van games, merchandise en samenwerkingen met grote bedrijven zoals Disney verdient hij veel geld. Disney is namelijk de eigenaar van Maker Studios, het bedrijf dat onder andere reclametijd op PewDiePie's kanaal verkoopt. Hoeveel Disney hem precies betaalde, is niet bekend. Een ding is duidelijk: PewDiePie moet een nieuw management zoeken.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

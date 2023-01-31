@@ -1,5 +1,5 @@
 ---
-id: 555c39aeaa8a4aba963e609af0b51abe
+id: 3e8c49eead784406b2f7018705d9a229
 type: nieuws
 layout: post
 title: "FunX Music Awards: hoeveel prijzen winnen Boef en Broederliefde?"
@@ -15,7 +15,7 @@ seo:
 Rapper Boef en Broederliefde maken de meeste kans op een FunX Music Award, zo blijkt uit de lijst met genomineerden voor de muziekprijzen.
    
 
-    <p>De rapper die woensdag werd <a href="https://original.sevendays.nl/nieuws/taakstraf-voor-rapper-boef-na-springen-op-politieauto">veroordeeld tot een taakstraf</a> omdat hij in maart bovenop een politieauto was gesprongen, maakt maar liefst zeven keer kans op een award. Hij is genomineerd in de categorie: beste album, beste collabo (2x), beste MC, beste nummer, beste video en beste artiest.</p>
+    <p>De rapper die woensdag werd <a href="https://7dagen.netlify.app/nieuws/taakstraf-voor-rapper-boef-na-springen-op-politieauto">veroordeeld tot een taakstraf</a> omdat hij in maart bovenop een politieauto was gesprongen, maakt maar liefst zeven keer kans op een award. Hij is genomineerd in de categorie: beste album, beste collabo (2x), beste MC, beste nummer, beste video en beste artiest.</p>
 <p><div class="media media-element-container media-default"><div id="file-417014" class="file file-video file-video-youtube">
 
         <h2 class="element-invisible"><a href="/files/boef-habiba-prod-mb">BOEF - Habiba (prod. MB)</a></h2>
@@ -47,4 +47,4 @@ Rapper Boef en Broederliefde maken de meeste kans op een FunX Music Award, zo bl
 </div>
 </div>
 <p>Of de rappers met één of meerdere prijzen naar huis gaan, weten we over een kleine drie weken. De FunX Music Awards worden namelijk op dinsdag 23 mei uitgereikt in Paradiso in Amsterdam. <a href="http://www.funx.nl/awards">Stemmen kan hier.</a></p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

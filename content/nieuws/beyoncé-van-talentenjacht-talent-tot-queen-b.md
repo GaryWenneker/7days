@@ -1,5 +1,5 @@
 ---
-id: 3a7096b76b0549609ca0c05ad1df0b2d
+id: e9cab3813f8341a59b3b3b877fbbd732
 type: nieuws
 layout: post
 title: "Beyoncé: van talentenjacht-talent tot ‘Queen B’"

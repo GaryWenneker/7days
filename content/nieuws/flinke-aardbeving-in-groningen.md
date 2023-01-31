@@ -1,5 +1,5 @@
 ---
-id: 3ba840aaae03496b9650e7f8d9bc93b4
+id: cd476c7aa8b74f2ab4a23e9c0ae097a6
 type: nieuws
 layout: post
 title: "Flinke aardbeving in Groningen"

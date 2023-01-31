@@ -1,5 +1,5 @@
 ---
-id: f60b049228fd481bac7080845111d881
+id: 13abe960b1a54c1ea46d070277a6b1c1
 type: nieuws
 layout: post
 title: "Europese Unie pakt mensensmokkel aan"

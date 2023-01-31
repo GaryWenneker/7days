@@ -1,5 +1,5 @@
 ---
-id: 8474985276854b8a97d6497ccff02f43
+id: 4a82f9d242fe42a495a9b9c9e148c9be
 type: nieuws
 layout: post
 title: "Eerste wedstrijd EK voetbal 2020 mogelijk in Amsterdam"

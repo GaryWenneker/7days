@@ -1,5 +1,5 @@
 ---
-id: 198c2236b9a14858b79cad0d51ed1b3d
+id: 05ff5228a1d64eeb86edb471b6e80c19
 type: nieuws
 layout: post
 title: "Aardbeving in Italië - kan dat ook in Nederland?"
@@ -21,12 +21,12 @@ Midden-Italië is vannacht opgeschrikt door een zware aardbeving. Er zijn zeker 
         
   
   <div class="content">
-    <img title="Beeld: AFP" height="806" width="1362" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-47190626_0.jpg" alt="">  </div>
+    <img title="Beeld: AFP" height="806" width="1362" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-47190626_0.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <p><strong>Breuklijnen</strong><br>In Italië komen wel vaker aardbevingen voor. In 2009 werd de omgeving van de stad L'Aquila, niet ver van het epicentrum nu, opgeschrikt door een zware beving. Toen kwamen meer dan driehonderd mensen om het leven. In de geschiedenis kwamen zware bevingen wel vaker voor in Italië. In 1908 vielen bij een aardbeving in de punt van de Italiaanse laars zeker zestigduizend doden.</p>
 <p>Waarom het land zo vaak de klos is? Dat komt door de ongunstige ligging. Italië ligt namelijk precies op een breuklijn. Dat is de plek waar twee aardplaten tegen elkaar aan schuren - in dit geval de Euraziatische en de Afrikaanse plaat. Als de spanning tussen de twee platen te ver oploopt, kan het zorgen voor aardbevingen. Door die breuk in de aarde zijn er in het gebied ook veel vulkanen. </p>
-<p><strong>Nederland</strong><br>De kans op aardbevingen in Italië betekent niet dat het een gevaarlijk land is om heen te gaan. De kans dat je een beving meemaakt is nihil. In Nederland is die kans nog kleiner. Dat komt omdat ons land zich midden op de Euraziatische plaat bevindt. De aardbevinkjes die de afgelopen jaren in Groningen plaatsvonden hadden een andere oorzaak: daar was het <a href="https://original.sevendays.nl/archief/waarom-beeft-middelstum">boren naar gas</a> de boosdoener.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><strong>Nederland</strong><br>De kans op aardbevingen in Italië betekent niet dat het een gevaarlijk land is om heen te gaan. De kans dat je een beving meemaakt is nihil. In Nederland is die kans nog kleiner. Dat komt omdat ons land zich midden op de Euraziatische plaat bevindt. De aardbevinkjes die de afgelopen jaren in Groningen plaatsvonden hadden een andere oorzaak: daar was het <a href="https://7dagen.netlify.app/archief/waarom-beeft-middelstum">boren naar gas</a> de boosdoener.</p>
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

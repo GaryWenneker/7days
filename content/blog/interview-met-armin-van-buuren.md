@@ -1,5 +1,5 @@
 ---
-id: d2c9abc4bda84436abe8122a8dea2d71
+id: dd89d6db921c4fea8b846e0d37c49531
 type: post
 layout: post
 title: "Interview met... Armin van Buuren"
@@ -22,5 +22,5 @@ Het is weer examentijd! Goed moment om verschillende bekende Nederlanders eens t
 <p>Veel weet Armin niet meer van zijn examenperiode. De herinnering die als eerste in hem op komt zijn de warme zomerdagen waarin hij buiten zat te leren in de tuin. Ook vertelt Armin dat hij erg zenuwachtig was voor de examens, hij leerde erg goed en durfde nooit te spieken. Als laatste kan hij zijn hele cijferlijst nog opdreunen. Wat vrij wonderbaarlijk is als je nagaat dat het zo’n twintig jaar geleden is.</p>
 <h3>Tips</h3>
 <p>Na een tijdje nadenken zegt Armin: ’Maak de stof eigen en vind een eigen manier van leren’. Het is belangrijk om je eigen weg te vinden in het leren. Jouw manier is vaak anders dan die van je klasgenoten. Hoe iemand iets doet betekent niet dat dit ook de juiste manier is. Zelf gebruikte Armin muziek om zich beter te concentreren en begon leren pas leuk te vinden toen hij zijn eigen manier vond om te leren.</p>
-<p><em>Zit in 5-havo en stevent af op een tussenjaar in Duitsland. Is dol op het tv-programma Ik Vertrek en heeft een bloedhekel aan vastlopende YouTube-video's. Wil later misschien iets in de richting van gamedesign doen. </em><em><a href="https://original.sevendays.nl/users/maaike-wiersma">Lees meer blogs van Maaike.</a> </em></p>
+<p><em>Zit in 5-havo en stevent af op een tussenjaar in Duitsland. Is dol op het tv-programma Ik Vertrek en heeft een bloedhekel aan vastlopende YouTube-video's. Wil later misschien iets in de richting van gamedesign doen. </em><em><a href="https://7dagen.netlify.app/users/maaike-wiersma">Lees meer blogs van Maaike.</a> </em></p>
    

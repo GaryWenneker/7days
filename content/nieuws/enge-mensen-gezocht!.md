@@ -1,5 +1,5 @@
 ---
-id: 6107a8ef3e7440a384f8249a38b58421
+id: d6bbbae359fe4df691a1955ec32e4ef8
 type: nieuws
 layout: post
 title: "Enge mensen gezocht!"
@@ -19,7 +19,7 @@ Gaan kleine kinderen spontaan te huilen als jij aan komt lopen? Geniet jij ervan
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/pexels-photo-235966.jpg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/pexels-photo-235966.jpg" alt="">  </div>
 
   
 </div>
@@ -31,14 +31,14 @@ Gaan kleine kinderen spontaan te huilen als jij aan komt lopen? Geniet jij ervan
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/5067979138_56c5362be7_o.jpg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/5067979138_56c5362be7_o.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <div class="kader">
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p>Vond je dit interessant? Lees dan ook eens <a href="https://original.sevendays.nl/nieuws-raar/de-veertien-leukste-1-april-grappen-van-2016">De 14 leukste 1 april-grappen</a> of <a href="https://original.sevendays.nl/nieuws/afgehakt-hoofd-ligt-op-straat-amsterdam">Afgehakt hoofd ligt op straat in Amsterdam</a>.</p>
-<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://original.sevendays.nl/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp, </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p>Vond je dit interessant? Lees dan ook eens <a href="https://7dagen.netlify.app/nieuws-raar/de-veertien-leukste-1-april-grappen-van-2016">De 14 leukste 1 april-grappen</a> of <a href="https://7dagen.netlify.app/nieuws/afgehakt-hoofd-ligt-op-straat-amsterdam">Afgehakt hoofd ligt op straat in Amsterdam</a>.</p>
+<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Volg ons via </em><em style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://7dagen.netlify.app/whatsapp" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">WhatsApp, </a></em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><a href="https://www.snapchat.com/add/sevendaysnl">Snapchat</a>, <a href="https://www.facebook.com/7Daysnl?ref=bookmarks">Facebook </a>of <a href="https://instagram.com/7DAysnl/">Instagram</a>. Of </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease; font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;"><em style="box-sizing: inherit;">proefabonnement </em></a><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px; line-height: 27px;">op de krant!</em></p>
 </div>
   

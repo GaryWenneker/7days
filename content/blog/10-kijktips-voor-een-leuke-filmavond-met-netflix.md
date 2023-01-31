@@ -1,5 +1,5 @@
 ---
-id: 291c8eb1192f4680a5cb7df136250a45
+id: 638671c8f7d04fb39fdb01e86d09f949
 type: post
 layout: post
 title: "10 kijktips voor een leuke filmavond met Netflix"
@@ -163,4 +163,4 @@ Tegenwoordig hebben ontzettend veel jongeren Netflix. Bepaalde series zijn heel 
   
 </div>
 </div>
-<p><em>De 17-jarige Lucas heeft een creatieve geest en houdt van schrijven, toneelspelen en tekenen. Hij zit in 6-vwo, maar van hard blokken moet hij niks hebben. Saaie schooldagen houdt hij manhaftig vol met het idee dat hij later een topberoep krijgt; hij weet alleen nog niet wat. </em><em>Meer lezen van Lucas? Check <a href="https://original.sevendays.nl/blog/basisschool-vs-middelbare-school-12-gifjes">Basisschool vs middelbare school in 12 GIF'jes </a>of lees <a href="https://original.sevendays.nl/blog/google-n%C3%B3%C3%B3it-je-pijnklachten">Google nóóit je pijnklachten! </a></em></p>  
+<p><em>De 17-jarige Lucas heeft een creatieve geest en houdt van schrijven, toneelspelen en tekenen. Hij zit in 6-vwo, maar van hard blokken moet hij niks hebben. Saaie schooldagen houdt hij manhaftig vol met het idee dat hij later een topberoep krijgt; hij weet alleen nog niet wat. </em><em>Meer lezen van Lucas? Check <a href="https://7dagen.netlify.app/blog/basisschool-vs-middelbare-school-12-gifjes">Basisschool vs middelbare school in 12 GIF'jes </a>of lees <a href="https://7dagen.netlify.app/blog/google-n%C3%B3%C3%B3it-je-pijnklachten">Google nóóit je pijnklachten! </a></em></p>  

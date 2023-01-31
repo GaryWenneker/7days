@@ -1,5 +1,5 @@
 ---
-id: 310c12c04d824f6cb354310f8467f9d2
+id: af1026e4b8b3485eb426dced5ecc2fba
 type: post
 layout: post
 title: "Leraren, het zijn net mensen"
@@ -20,4 +20,4 @@ Zonder met hun ogen te knipperen of medelijden te tonen, zomaar een vierde toets
 <h3>Zeepjes op het toilet</h3>
 <p>Het toppunt van de ontdekking kwam toen ik vanwege de schoolkrant bij een leraar thuis kwam. Want, geen grap, ze hebben ook gewoon een huis! Hierbij kwamen ineens wel heel veel menselijke aspecten kijken: boeken, tv-programma’s, ijskasten en zeepjes op het toilet. En gesprekken die niet over school gingen zorgden ervoor dat sommigen in een heel ander daglicht kwamen te staan. Zo kan de leraar in de les zo saai zijn als wat, maar in het dagelijks leven hartstikke aardig blijken.</p>
 <p>Denk daar maar eens aan wanneer je ze weer eens het liefst achter het behang zou willen plakken vanwege een vervelende toets of oersaaie les. Want echt, het zijn net mensen, die docenten!</p>
-<p><em>Evelien (15) pingelt weleens op een gitaar, fotografeert veel en leest alles wat los- en vastzit, van simpele meidenboeken tot volwassen thrillers (en 7Days natuurlijk). Kan soms nogal onhandig zijn. Ze laat bijvoorbeeld 's ochtends vroeg alles bij het ontbijt uit haar handen vallen, zodat de rest van de familie meteen wakker is. </em><a href="https://original.sevendays.nl/users/evelien-verbiesen"><em>Lees hier meer blogs van Evelien.</em></a></p>  
+<p><em>Evelien (15) pingelt weleens op een gitaar, fotografeert veel en leest alles wat los- en vastzit, van simpele meidenboeken tot volwassen thrillers (en 7Days natuurlijk). Kan soms nogal onhandig zijn. Ze laat bijvoorbeeld 's ochtends vroeg alles bij het ontbijt uit haar handen vallen, zodat de rest van de familie meteen wakker is. </em><a href="https://7dagen.netlify.app/users/evelien-verbiesen"><em>Lees hier meer blogs van Evelien.</em></a></p>  

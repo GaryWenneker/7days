@@ -1,5 +1,5 @@
 ---
-id: af7978db700547fba4f0229456490db3
+id: 839283b59e6a4b9bb44ca45912c773f2
 type: nieuws
 layout: post
 title: "De 5 belangrijkste conclusies van de Europese verkiezingen"
@@ -20,7 +20,7 @@ Vorige week ging Nederland naar de stembus voor de op één na grootste democrat
         
   
   <div class="content">
-    <img alt="ANP" title="Frans Timmermans" height="2514" width="4000" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-74039824_0.jpg">  </div>
+    <img alt="ANP" title="Frans Timmermans" height="2514" width="4000" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-74039824_0.jpg">  </div>
 
   
 </div>
@@ -32,7 +32,7 @@ Vorige week ging Nederland naar de stembus voor de op één na grootste democrat
         
   
   <div class="content">
-    <img alt="ANP" title="Wilders" height="2636" width="4000" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/ANP-73781494.jpg">  </div>
+    <img alt="ANP" title="Wilders" height="2636" width="4000" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/ANP-73781494.jpg">  </div>
 
   
 </div>
@@ -44,7 +44,7 @@ Vorige week ging Nederland naar de stembus voor de op één na grootste democrat
         
   
   <div class="content">
-    <img alt="ANP" title="stemmen" height="712" width="1096" class="media-element file-default" data-delta="5" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202019-05-27%20om%2009.56.42.png">  </div>
+    <img alt="ANP" title="stemmen" height="712" width="1096" class="media-element file-default" data-delta="5" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202019-05-27%20om%2009.56.42.png">  </div>
 
   
 </div>
@@ -56,7 +56,7 @@ Vorige week ging Nederland naar de stembus voor de op één na grootste democrat
         
   
   <div class="content">
-    <img alt="ANP" title="Nigel Farage" height="711" width="1075" class="media-element file-default" data-delta="4" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202019-05-27%20om%2009.50.33.png">  </div>
+    <img alt="ANP" title="Nigel Farage" height="711" width="1075" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202019-05-27%20om%2009.50.33.png">  </div>
 
   
 </div>
@@ -68,7 +68,7 @@ Vorige week ging Nederland naar de stembus voor de op één na grootste democrat
         
   
   <div class="content">
-    <img alt="ANP" title="stembus" height="715" width="1076" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202019-05-27%20om%2009.50.21.png">  </div>
+    <img alt="ANP" title="stembus" height="715" width="1076" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202019-05-27%20om%2009.50.21.png">  </div>
 
   
 </div>

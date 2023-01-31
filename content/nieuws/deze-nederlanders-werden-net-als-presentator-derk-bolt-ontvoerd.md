@@ -1,5 +1,5 @@
 ---
-id: 6045c1b194e84a659b2015fba1a37b07
+id: af5b8eb524644912b53ae0cb41f94d0a
 type: nieuws
 layout: post
 title: "Deze Nederlanders werden net als presentator Derk Bolt ontvoerd"
@@ -21,7 +21,7 @@ Jarenlang is tv-presentator Derk Bolt al het gezicht van het programma Spoorloos
         
   
   <div class="content">
-    <img title="Foto: ANP" height="559" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/7D%20Arjan%20Erkel%20ANP-1055868.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="559" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/7D%20Arjan%20Erkel%20ANP-1055868.jpg" alt="">  </div>
 
   
 </div>
@@ -33,7 +33,7 @@ Jarenlang is tv-presentator Derk Bolt al het gezicht van het programma Spoorloos
         
   
   <div class="content">
-    <img title="Foto: AFP" height="562" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/7D%20Sjaak%20Rijke%20EPA-32061748.jpg" alt="">  </div>
+    <img title="Foto: AFP" height="562" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/7D%20Sjaak%20Rijke%20EPA-32061748.jpg" alt="">  </div>
 
   
 </div>
@@ -61,10 +61,10 @@ Jarenlang is tv-presentator Derk Bolt al het gezicht van het programma Spoorloos
         
   
   <div class="content">
-    <img title="Foto: AFP" height="682" width="850" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/7D%20Ewold%20Horn%20ANP-17648158.jpg" alt="">  </div>
+    <img title="Foto: AFP" height="682" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/7D%20Ewold%20Horn%20ANP-17648158.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <p>Tijdens een vogelreis op de Filipijnen wordt de Nederlander Ewold Horn met zijn Zwitserse reisgenoot gekidnapt. Na drie jaar weet de Zwitser te ontsnappen, maar op dat moment is Horn te zwak om hetzelfde te doen. Hij wordt nog steeds vastgehouden, maar zou nog wel <a href="http://www.ad.nl/buitenland/ontvoerde-ewold-horn-levend-gezien~aebe6ca2/" target="_blank">in leven</a> zijn. </p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op 7Days!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op 7Days!</em></p>  

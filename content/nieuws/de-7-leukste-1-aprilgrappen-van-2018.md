@@ -1,5 +1,5 @@
 ---
-id: 4d75d363b78947efb040bdd2831b69bc
+id: 3d4c261721304f07bfa788490f5e341e
 type: nieuws
 layout: post
 title: "De 7 leukste 1 aprilgrappen van 2018"
@@ -32,7 +32,7 @@ Traditiegetrouw worden er rond 1 april allerlei grappen uitgehaald. Steeds minde
         
   
   <div class="content">
-    <img alt="Pink Parcel" title="Beeld: Printscreen Pink Parcel" height="1024" width="576" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/vibrating-tampon-576x1024.png">  </div>
+    <img alt="Pink Parcel" title="Beeld: Printscreen Pink Parcel" height="1024" width="576" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/vibrating-tampon-576x1024.png">  </div>
 
   
 </div>
@@ -42,7 +42,7 @@ Traditiegetrouw worden er rond 1 april allerlei grappen uitgehaald. Steeds minde
         
   
   <div class="content">
-    <img alt="Grandesco" title="Beeld: Grandesco" height="774" width="908" class="media-element file-default" data-delta="4" src="https://original.sevendays.nl/sites/default/files/grandesco.png">  </div>
+    <img alt="Grandesco" title="Beeld: Grandesco" height="774" width="908" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/grandesco.png">  </div>
 
   
 </div>
@@ -52,7 +52,7 @@ Traditiegetrouw worden er rond 1 april allerlei grappen uitgehaald. Steeds minde
         
   
   <div class="content">
-    <img alt="papa Johns" title="Beeld: Printscreen Papa John&#039;s Pizza" height="760" width="553" class="media-element file-default" data-delta="5" src="https://original.sevendays.nl/sites/default/files/papajohns.png">  </div>
+    <img alt="papa Johns" title="Beeld: Printscreen Papa John&#039;s Pizza" height="760" width="553" class="media-element file-default" data-delta="5" src="https://7dagen.netlify.app/sites/default/files/papajohns.png">  </div>
 
   
 </div>
@@ -62,7 +62,7 @@ Traditiegetrouw worden er rond 1 april allerlei grappen uitgehaald. Steeds minde
         
   
   <div class="content">
-    <img alt="rexona" title="Beeld: Printscreen Rexona" height="643" width="527" class="media-element file-default" data-delta="6" src="https://original.sevendays.nl/sites/default/files/rexona.png">  </div>
+    <img alt="rexona" title="Beeld: Printscreen Rexona" height="643" width="527" class="media-element file-default" data-delta="6" src="https://7dagen.netlify.app/sites/default/files/rexona.png">  </div>
 
   
 </div>

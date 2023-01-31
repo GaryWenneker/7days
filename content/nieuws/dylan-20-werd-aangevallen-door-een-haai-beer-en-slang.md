@@ -1,5 +1,5 @@
 ---
-id: 37531b55086748b3ad5f5029d06bf7cf
+id: e6e8b6140dbb49c986feee924f3be484
 type: nieuws
 layout: post
 title: "Dylan (20) werd aangevallen door een haai, beer en slang"
@@ -18,4 +18,4 @@ Hoeveel pech kun je hebben? Dylan uit Amerika overleefde donderdag een aanval do
 <p>Voor zijn verwondingen waren zeven hechtingen nodig. Zeven maanden daarvoor was Dylan tijdens het kamperen aangevallen door een beer. Het dier beet hem in zijn hoofd, maar Dylan wist zich los te rukken en kon vluchten. Vier jaar geleden had Dylan ook geluk toen een ratelslang hem aanviel. Een beet van deze slang kan dodelijk zijn, maar gelukkig liet de slang te weinig gif achter in zijn lichaam. </p>
 <p>Aan de krant vertelt Dylan dat hij blij is dat hij nog leeft. 'Ik baal wel dat ik nu een paar dagen niet mag zwemmen.' </p>
 <h3>Handige tips</h3>
-<p>Weet jij eigenlijk wat je moet doen als je een beer tegenkomt? Wij geven je een paar <a href="https://original.sevendays.nl/nieuws/dylan-19-werd-wakker-de-bek-van-een-beer" target="_blank">tips</a>.</p>  
+<p>Weet jij eigenlijk wat je moet doen als je een beer tegenkomt? Wij geven je een paar <a href="https://7dagen.netlify.app/nieuws/dylan-19-werd-wakker-de-bek-van-een-beer" target="_blank">tips</a>.</p>  

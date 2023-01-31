@@ -1,5 +1,5 @@
 ---
-id: 7ab449b2e8584494a8f81c93b69ff4ac
+id: 385277c3dd284a85867033d6ed4b90de
 type: nieuws
 layout: post
 title: "28 jaar cel en tbs geëist in de zaak van Anne Faber"
@@ -18,13 +18,13 @@ seo:
 <p>De familie van de 25-jarige studente had vanochtend de gelegenheid de rechtbank en de verdachte te vertellen wat de misdaden met de nabestaanden hebben gedaan. De moeder van Anne las een emotionele verklaring voor. ‘Niet Anne maar Michael P. was op de verkeerde plek op het verkeerde moment’, vertelde ze. ‘Horrorscenario's over wat er met Anne is gebeurd blijven door mijn hoofd spoken.’</p>
 <p>Omdat de familie niet geconfronteerd wil worden met Michael P. , luisterde hij in een andere zaal naar de verklaring.</p>
 <h3>Vermissing</h3>
-<p>Anne Faber verdween 25 september vorig jaar na een fietstocht in de buurt van Den Dolder, waar P. op dat moment in een kliniek zat. Hij verbleef daar na een eerdere veroordeling voor de verkrachting van twee meisjes. Het lichaam van Anne werd na <a href="https://original.sevendays.nl/nieuws/lichaam-vermiste-anne-faber-gevonden">een vermissing van zo'n twee weken</a> gevonden in de buurt van Zeewolde, waar P. is opgegroeid.</p>
+<p>Anne Faber verdween 25 september vorig jaar na een fietstocht in de buurt van Den Dolder, waar P. op dat moment in een kliniek zat. Hij verbleef daar na een eerdere veroordeling voor de verkrachting van twee meisjes. Het lichaam van Anne werd na <a href="https://7dagen.netlify.app/nieuws/lichaam-vermiste-anne-faber-gevonden">een vermissing van zo'n twee weken</a> gevonden in de buurt van Zeewolde, waar P. is opgegroeid.</p>
 <p><div class="media media-element-container media-default"><div id="file-533691" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img height="4911" width="4912" style="width: 900px; height: 900px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-53642075.jpg" alt="">  </div>
+    <img height="4911" width="4912" style="width: 900px; height: 900px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-53642075.jpg" alt="">  </div>
 
   
 </div>

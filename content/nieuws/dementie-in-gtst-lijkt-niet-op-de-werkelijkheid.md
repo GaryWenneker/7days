@@ -1,5 +1,5 @@
 ---
-id: 84b4a897af5c41e1add18f553e4646d6
+id: 0a9ecaea218843aa948d45ef8b7d250a
 type: nieuws
 layout: post
 title: "'Dementie in GTST lijkt niet op de werkelijkheid'"

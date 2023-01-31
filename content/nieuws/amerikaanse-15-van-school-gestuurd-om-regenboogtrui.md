@@ -1,5 +1,5 @@
 ---
-id: 2e242020c76b49e5b1e840e18575a24a
+id: 23466790173a43418a8dd0e943079503
 type: nieuws
 layout: post
 title: "Amerikaanse (15) van school gestuurd om regenboogtrui"
@@ -29,7 +29,7 @@ Een school in het Amerikaanse Louisville heeft een meisje van school gestuurd va
 <h3>Levenswijze</h3>
 <p>Kort daarna kreeg Kayla's moeder een e-mail van het schoolbestuur. Volgens de school waren de regenboogkleuren een verwijzing naar 'gay pride' en dat zou in strijd zijn met de <a href="https://whitefield.org/wp-content/uploads/2014/07/Parent-Student-Handbook-K-12-Current.pdf" target="_blank">christelijke waarden</a> van de Whitefield Academy. Daarom moest Kayla van school.</p>
 <h3>Regenboog</h3>
-<p>Regenboogkleuren zijn een symbool voor <a href="https://original.sevendays.nl/pride" target="_blank">LHBT</a>-rechten. Maar volgens de moeder van Kayla waren de taart en de trui zo niet bedoeld. De Whitefield Academy liet tv-zender <a href="https://www.cbsnews.com/news/christian-school-whitefield-academy-expels-teen-girl-rainbow-sweater-birthday-cake-violate-christian-values/" target="_blank"><em>CBS </em></a>weten dat Kayla niet alleen vanwege de Facebook-foto was weggestuurd. Ze zou zich de afgelopen twee jaar vaker niet aan de regels hebben gehouden. Waar het precies over ging, werd niet gezegd.</p>
+<p>Regenboogkleuren zijn een symbool voor <a href="https://7dagen.netlify.app/pride" target="_blank">LHBT</a>-rechten. Maar volgens de moeder van Kayla waren de taart en de trui zo niet bedoeld. De Whitefield Academy liet tv-zender <a href="https://www.cbsnews.com/news/christian-school-whitefield-academy-expels-teen-girl-rainbow-sweater-birthday-cake-violate-christian-values/" target="_blank"><em>CBS </em></a>weten dat Kayla niet alleen vanwege de Facebook-foto was weggestuurd. Ze zou zich de afgelopen twee jaar vaker niet aan de regels hebben gehouden. Waar het precies over ging, werd niet gezegd.</p>
 <h3>Andere school</h3>
 <p>Kayla's moeder <a href="https://abcnews.go.com/US/christian-school-expels-girl-rainbow-shirt-birthday-cake/story?id=68274078" target="_blank">zegt </a>dat haar dochter eerder in de problemen was gekomen nadat ze haar haar aan de zijkanten van haar hoofd had weggeschoren. Ook voor het rondlopen met een E-sigaret had ze al straf gekregen. Kayla is ondertussen naar een niet-christelijke school overgestapt.</p>
 <p>Volgens haar moeder had Whitefield Academy aanvankelijk een positieve invloed op Kayla, maar 'de geloofsovertuigingen die ze haar nu opleggen zijn erg veroordelend. Dat is niet wat ik haar voor haar wilde.'</p>  

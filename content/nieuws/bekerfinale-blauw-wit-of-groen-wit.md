@@ -1,5 +1,5 @@
 ---
-id: 63465c04957640169d8c8128b0de93a4
+id: d92d91911ceb439dae2fcf0820d1fadd
 type: nieuws
 layout: post
 title: "Bekerfinale: blauw-wit of groen-wit?"
@@ -18,7 +18,7 @@ Supporters van PEC Zwolle en FC Groningen zorgen vandaag voor een ware volksverh
         
   
   <div class="content">
-    <img title="Foto: ANP" height="600" width="3317" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-28183527%20zwolle%20supporters.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="600" width="3317" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-28183527%20zwolle%20supporters.jpg" alt="">  </div>
 
   
 </div>
@@ -48,7 +48,7 @@ Supporters van PEC Zwolle en FC Groningen zorgen vandaag voor een ware volksverh
         
   
   <div class="content">
-    <img title="Foto: ANP" height="600" width="3321" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-27287139%20groningen%20speler_0.jpg" alt="">  </div>
+    <img title="Foto: ANP" height="600" width="3321" style="font-size: 13.0080003738403px; line-height: 20.0063037872314px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-27287139%20groningen%20speler_0.jpg" alt="">  </div>
 
   
 </div>

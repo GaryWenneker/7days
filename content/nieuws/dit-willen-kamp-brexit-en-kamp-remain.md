@@ -1,5 +1,5 @@
 ---
-id: 70115eece97e4c638f6225d3e763ab47
+id: a155fa603f78414daf5262e1134c213d
 type: nieuws
 layout: post
 title: "Dit willen kamp #Brexit en kamp #Remain"
@@ -13,7 +13,7 @@ seo:
 ---
 Donderdag was een belangrijke dag voor Groot-Brittannië. En eigenlijk ook voor de rest van Europa. De Britten mochten stemmen of ze wel of niet uit de Europese Unie stappen. Wat het wordt, is nog niet bekend. De peilingen wezen vooral uit dat Groot-Brittannië tot op het bot verdeeld is. Wat zijn de argumenten van de twee kampen?   
 
-    <p><em><u><strong><a href="https://original.sevendays.nl/brexit">UPDATE: DE UITSLAG VAN HET BREXIT-REFERENDUM LEES JE HIER.</a></strong></u></em></p>
+    <p><em><u><strong><a href="https://7dagen.netlify.app/brexit">UPDATE: DE UITSLAG VAN HET BREXIT-REFERENDUM LEES JE HIER.</a></strong></u></em></p>
 <p><strong>Kamp Brexit: YES, we stappen eruit!</strong></p>
 <p> </p>
 <p><strong>De gezichten van dit kamp:</strong><br><div class="media media-element-container media-default"><div id="file-19774" class="file file-image file-image-jpeg">
@@ -21,7 +21,7 @@ Donderdag was een belangrijke dag voor Groot-Brittannië. En eigenlijk ook voor
         
   
   <div class="content">
-    <img alt="brexit uitleg" title="Foto&#039;s AFP en EPA" height="500" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/brexitcollage.jpg">  </div>
+    <img alt="brexit uitleg" title="Foto&#039;s AFP en EPA" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/brexitcollage.jpg">  </div>
 
   
 </div>
@@ -33,7 +33,7 @@ Donderdag was een belangrijke dag voor Groot-Brittannië. En eigenlijk ook voor
         
   
   <div class="content">
-    <img height="561" width="850" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-46126452.jpg" alt="">  </div>
+    <img height="561" width="850" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-46126452.jpg" alt="">  </div>
 
   
 </div>
@@ -46,7 +46,7 @@ Donderdag was een belangrijke dag voor Groot-Brittannië. En eigenlijk ook voor
         
   
   <div class="content">
-    <img height="503" width="850" style="font-size: 13.008px; line-height: 1.538em;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-35450066.jpg" alt="">  </div>
+    <img height="503" width="850" style="font-size: 13.008px; line-height: 1.538em;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-35450066.jpg" alt="">  </div>
 
   
 </div>
@@ -59,7 +59,7 @@ Donderdag was een belangrijke dag voor Groot-Brittannië. En eigenlijk ook voor
         
   
   <div class="content">
-    <img height="566" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-46238636.jpg" alt="">  </div>
+    <img height="566" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-46238636.jpg" alt="">  </div>
 
   
 </div>
@@ -71,4 +71,4 @@ Donderdag was een belangrijke dag voor Groot-Brittannië. En eigenlijk ook voor
 <p><em>… als de Britten donderdag hebben besloten om uit de EU te stappen, het naar verwachting nog minstens twee jaar vergaderen gaat kosten voordat het ook echt zo ver is?</em></p>
 <p><strong>Hoe zat het ook alweer?</strong><br>De Europese Unie bestaat uit 28 landen die met elkaar samenwerken, vooral op het gebied van economie. EU-landen vragen bijvoorbeeld geen torenhoge invoerrechten wanneer ze met elkaar handelen en als inwoner van een EU-lidstaat mag je zonder problemen gaan wonen en werken in een andere EU-lidstaat. Vooral dat laatste stuit veel Britten tegen de borst. Groot-Brittannië heeft zich altijd een beetje anders gevoeld dan de rest van Europa. </p>
 <p>De eilandstaat, die natuurlijk al een beetje apart van het Europese continent ligt, heeft bijvoorbeeld altijd zijn eigen munt gehouden. Sinds een jaar of tien maakt de Britse anti-EU-partij Ukip een enorme opmars, al won ze de vorige verkiezingen niet. Om de anti-EU’ers een beetje tegemoet te komen, beloofde de conservatieve premier Cameron de Britten een referendum over het EU-lidmaatschap. Vandaag is dat zover.</p>
-<p><em>Snap jij stiekem nog geen snars van de Europese Unie? Lees ons artikel <a href="https://original.sevendays.nl/nieuws/de-europese-unie-voor-beginners">EU voor Beginners</a> en je begrijpt 't wèl.</em></p>  
+<p><em>Snap jij stiekem nog geen snars van de Europese Unie? Lees ons artikel <a href="https://7dagen.netlify.app/nieuws/de-europese-unie-voor-beginners">EU voor Beginners</a> en je begrijpt 't wèl.</em></p>  

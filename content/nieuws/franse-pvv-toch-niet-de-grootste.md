@@ -1,5 +1,5 @@
 ---
-id: 362a643f3b904ec799f215c44211fb12
+id: 7c230d3f44704393bc3f997a66de02e2
 type: nieuws
 layout: post
 title: "Franse PVV toch niet de grootste"
@@ -13,13 +13,13 @@ seo:
 ---
 Het Front National is toch niet de grootste partij van Frankrijk geworden. Dat blijkt na de tweede ronde van de regioverkiezingen. Tijdens de eerste ronde leek de rechtse partij de winst haast niet te kunnen ontgaan. Toch besloten veel Fransen zondag niet voor Marine Le Pen te kiezen. Maar de FN-partijleider ziet het verlies niet als een verlies.    
 
-    <p>Na de eerste stemronde was het Front National (FN) de grootste partij in maar liefst zes van de dertien regio's in Frankrijk. In het noorden stemden veel Fransen op partijleider <a href="https://original.sevendays.nl/nieuws/giga-winst-voor-franse-pvv">Marine Le Pen</a> en in het zuiden op dat andere populaire FN-kopstuk, Marines nichtje <a href="https://original.sevendays.nl/nieuws/het-n%C3%B3g-rechtsere-nichtje-van">Marion</a>. Geen wonder dus dat alle ogen zich de afgelopen week richtten op de FN-frontvrouw. Zou ze haar zege in de tweede ronde van afgelopen zondag definitief kunnen verzilveren?</p>
+    <p>Na de eerste stemronde was het Front National (FN) de grootste partij in maar liefst zes van de dertien regio's in Frankrijk. In het noorden stemden veel Fransen op partijleider <a href="https://7dagen.netlify.app/nieuws/giga-winst-voor-franse-pvv">Marine Le Pen</a> en in het zuiden op dat andere populaire FN-kopstuk, Marines nichtje <a href="https://7dagen.netlify.app/nieuws/het-n%C3%B3g-rechtsere-nichtje-van">Marion</a>. Geen wonder dus dat alle ogen zich de afgelopen week richtten op de FN-frontvrouw. Zou ze haar zege in de tweede ronde van afgelopen zondag definitief kunnen verzilveren?</p>
 <p><div class="media media-element-container media-default"><div id="file-14042" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img title="Marine Le Pen (rechtsboven) poseerde zondag voor een selfie met een kiezer in Henin-BeaumontFoto EPA" height="974" width="1219" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-35397728.jpg" alt="">  </div>
+    <img title="Marine Le Pen (rechtsboven) poseerde zondag voor een selfie met een kiezer in Henin-BeaumontFoto EPA" height="974" width="1219" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-35397728.jpg" alt="">  </div>
 
   
 </div>

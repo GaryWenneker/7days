@@ -1,5 +1,5 @@
 ---
-id: 0b60524326524a9e826de43fd0403c4b
+id: 04e5eaf8d26c457da4698ad7fea001c8
 type: post
 layout: post
 title: "Mijn Doritosgrot"
@@ -19,4 +19,4 @@ Mijn moeder besloot afgelopen maart uit pure wanhoop om een keer iets anders dan
 <p>Daarna vraag ik mijn moeder zo’n vijf keer per dag of ze ’s avonds weer ‘dat andere gerecht’ wil koken. Dat doet ze, en ik eet de zak Doritos binnen twee minuten leeg. Wanneer we plotseling op een onschuldige donderdag niet ‘dat andere gerecht’ eten, maar onze oude vertrouwde aardappelen, smeek ik mijn ouders of er óók Doritos bij mogen.</p>
 <p><strong>ZO VEEL SMAKEN!</strong><br>Een week na mijn Doritos-ontdekking moet ik in de vroege ochtend brood gaan kopen. Ik ga naar de supermarkt en plotseling waan ik me in een walhalla van Doritos-zakken. ZO VEEL SMAKEN! Ik zak door mijn knieën en bekijk kwijlend alle variaties. Uiteindelijk koop ik van alle soorten meerdere zakken en bouw ik op zolder een Doritos-grot.</p>
 <p>De rest van het jaar spendeer ik hier heel wat uren om ongestoord deze knapperige driehoekjes te verorberen. En ‘dat andere gerecht’? Dat eten we nooit meer.</p>
-<p><em>Meer blogs van Lucas (16) lezen? Zijn archief vind je <a href="https://original.sevendays.nl/users/lucas-versteeg">hier</a>.</em></p>  
+<p><em>Meer blogs van Lucas (16) lezen? Zijn archief vind je <a href="https://7dagen.netlify.app/users/lucas-versteeg">hier</a>.</em></p>  

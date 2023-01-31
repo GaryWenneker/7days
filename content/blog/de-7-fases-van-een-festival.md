@@ -1,5 +1,5 @@
 ---
-id: 387f24dfbf8b4d6287dc7426308718ec
+id: 67d0b4ef06a8437fada1bab6f762b8ed
 type: post
 layout: post
 title: "De 7 fases van een festival"
@@ -27,4 +27,4 @@ Festivals heb je in alle soorten en maten. En aan de hoeveelheid bandjes om somm
 <p>En dan, wanneer de afscheidstoon langzaam uitgalmt, beweegt de gigantische mensenmassa zich als een immens grote slang naar de uitgang. Ze laten het festivalterrein, dat eruit ziet als een waar slagveld, achter zich en beginnen aan misschien wel de grootste uitdaging van die dag: thuiskomen. Veel te luidruchtig op de fiets, om vervolgens nog een tussenstop te maken bij de snackbar. Dansen en meezingen is namelijk een prima calorieverbrander.</p>
 <h3>7. Morgen weer?</h3>
 <p>​Met een beetje geluk was het festival daarmee nog niet voorbij en feest je de volgende dag weer lekker verder. En anders toch maar hopen dat die ene pionier zijn initiatieven behoudt en volgend jaar de appgroep weer durft af te stoffen…. </p>
-<p><em>Evelien (15) pingelt weleens op een gitaar, fotografeert veel en leest alles wat los- en vastzit, van simpele meidenboeken tot volwassen thrillers (en 7Days natuurlijk). Kan soms nogal onhandig zijn. Ze laat bijvoorbeeld 's ochtends vroeg alles bij het ontbijt uit haar handen vallen, zodat de rest van de familie meteen wakker is. </em><a href="https://original.sevendays.nl/users/evelien-verbiesen"><em>Lees hier meer blogs van Evelien.</em></a></p>  
+<p><em>Evelien (15) pingelt weleens op een gitaar, fotografeert veel en leest alles wat los- en vastzit, van simpele meidenboeken tot volwassen thrillers (en 7Days natuurlijk). Kan soms nogal onhandig zijn. Ze laat bijvoorbeeld 's ochtends vroeg alles bij het ontbijt uit haar handen vallen, zodat de rest van de familie meteen wakker is. </em><a href="https://7dagen.netlify.app/users/evelien-verbiesen"><em>Lees hier meer blogs van Evelien.</em></a></p>  

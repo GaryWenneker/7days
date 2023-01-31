@@ -1,5 +1,5 @@
 ---
-id: dc908cb778774e25b3898ee8060b8884
+id: 1f91679ea5a34bb3b0494ae70f366328
 type: nieuws
 layout: post
 title: "7 tips om heftig nieuws beter te verteren"
@@ -19,11 +19,11 @@ Een tikkeltje bang, ongerust of ongelukkig geworden van al het heftige nieuws da
         
   
   <div class="content">
-    <img alt="Tips om heftig nieuws beter te verteren" title="Beeld: ANP / AFP" height="398" width="950" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/heftig%20nieuws.jpg">  </div>
+    <img alt="Tips om heftig nieuws beter te verteren" title="Beeld: ANP / AFP" height="398" width="950" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/heftig%20nieuws.jpg">  </div>
 
   
 </div>
-</div><em>Het nieuws over <a href="https://original.sevendays.nl/nieuws/wat-weten-we-over-de-dood-van-romy-en-savannah" target="_blank">de dood van Romy en Savannah</a>, of de <a href="https://original.sevendays.nl/nieuws/aanslag-bij-concert-ariana-grande-manchester" target="_blank">aanslag in Manchester</a>: het maakt diepe indruk.</em>
+</div><em>Het nieuws over <a href="https://7dagen.netlify.app/nieuws/wat-weten-we-over-de-dood-van-romy-en-savannah" target="_blank">de dood van Romy en Savannah</a>, of de <a href="https://7dagen.netlify.app/nieuws/aanslag-bij-concert-ariana-grande-manchester" target="_blank">aanslag in Manchester</a>: het maakt diepe indruk.</em>
 <h3>Bang door het nieuws?</h3>
 <p>Heftige gebeurtenissen, zoals een terroristische aanslag of een misdrijf, kunnen heel wat bij iemand losmaken. Boosheid, angst, moedeloosheid, verdriet: mensen voelen er van alles bij. Kinderen, jongeren én volwassenen.</p>
 <p>Blijft een verhaal dat je in <em>7Days </em>of waar dan ook leest in je hoofd zitten? Heb je een filmpje gezien met gruwelijke beelden die ’s nachts op je netvlies blijven hangen? Word je er bang of ongelukkig van? </p>
@@ -33,9 +33,9 @@ Een tikkeltje bang, ongerust of ongelukkig geworden van al het heftige nieuws da
 <h3><strong>2. Waak voor een overdosis</strong></h3>
 <p>Houdt een zwaar nieuwsonderwerp je in de greep? Er is niks mis met op de hoogte blijven, maar sla daar niet in door. Als je merkt dat je somber wordt van alle filmpjes, foto’s en verhalen, blijf ze dan niet opzoeken. Zeker niet net voordat je naar bed gaat of als je je toch al niet zo goed voelt. </p>
 <h3><strong>3. Relativeren</strong></h3>
-<p>Vergeet niet dat de onderwerpen waar we over schrijven doorgaans niet voor niets <em>nieuws </em>zijn: ze halen de krant juist omdát ze uniek zijn. Als we even teruggrijpen naar de aanslagen van IS: de kans dat jij daar slachtoffer van wordt, is echt <a href="https://original.sevendays.nl/nieuws/gaat-ook-aanslagen-plegen-nederland">heel, heel klein</a>. De meeste plekken – helemaal in een land als Nederland - zijn nogal veilig, maar daar hoor je dan weer niets over in het nieuws.</p>
+<p>Vergeet niet dat de onderwerpen waar we over schrijven doorgaans niet voor niets <em>nieuws </em>zijn: ze halen de krant juist omdát ze uniek zijn. Als we even teruggrijpen naar de aanslagen van IS: de kans dat jij daar slachtoffer van wordt, is echt <a href="https://7dagen.netlify.app/nieuws/gaat-ook-aanslagen-plegen-nederland">heel, heel klein</a>. De meeste plekken – helemaal in een land als Nederland - zijn nogal veilig, maar daar hoor je dan weer niets over in het nieuws.</p>
 <h3><strong>4. Zorg voor afwisseling</strong></h3>
-<p>Afwisseling is sowieso een goed idee. Kijk na een deprimerend nieuwsverhaal even een gezellige aflevering van een serie, lees een vrolijk boek of stort je op de <a href="https://original.sevendays.nl/raar">Raar maar Waar</a>-pagina’s van <em>7Days</em>. </p>
+<p>Afwisseling is sowieso een goed idee. Kijk na een deprimerend nieuwsverhaal even een gezellige aflevering van een serie, lees een vrolijk boek of stort je op de <a href="https://7dagen.netlify.app/raar">Raar maar Waar</a>-pagina’s van <em>7Days</em>. </p>
 <h3><strong>5. Kijk kritisch naar de bron</strong></h3>
 <p>Fijn dat je online ál het nieuws élke seconde kunt volgen. Maar let wel op wáár je kijkt. Het wemelt op internet van de meningen. En die zijn lang niet altijd genuanceerd en onderbouwd. Bovendien zijn ook lang niet alle foto’s en video’s die je ziet echt. Volg nieuws afkomstig van betrouwbare bronnen en probeer aan de hand daarvan zelf je mening te vormen.</p>
 <h3><strong>6. Laat je niet opfokken</strong></h3>

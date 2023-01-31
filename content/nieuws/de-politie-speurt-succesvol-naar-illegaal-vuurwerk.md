@@ -1,5 +1,5 @@
 ---
-id: 992e4436893347d2b9ec9bdeabcaa376
+id: 171748eb7b394bb3a64750d996674d43
 type: nieuws
 layout: post
 title: "De politie speurt succesvol naar illegaal vuurwerk"
@@ -23,7 +23,7 @@ Het einde van het jaar is in zicht en dat betekent dat de politie weer een megak
         
   
   <div class="content">
-    <img alt="Foto: ANP" title="Foto: ANP" height="2413" width="3620" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/ANP-306807444_0.jpg">  </div>
+    <img alt="Foto: ANP" title="Foto: ANP" height="2413" width="3620" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-306807444_0.jpg">  </div>
 
   
 </div>

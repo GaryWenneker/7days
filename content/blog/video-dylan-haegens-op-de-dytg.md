@@ -1,5 +1,5 @@
 ---
-id: ea036b1b33a84697b74fea14c8205c63
+id: facca8c558824b198bcb092bafabd1d3
 type: post
 layout: post
 title: "Video: Dylan Haegens op de DYTG"
@@ -27,4 +27,4 @@ Met meer dan 700.000 volgers mocht-ie dit weekend natuurlijk niet ontbreken op d
   
 </div>
 </div>
-<p><em>Meer zien van de DYTG? Check ons <a href="https://original.sevendays.nl/dytg">Dossier DYTG</a> voor alle sfeerreportages en video-interviews. Deze week komt er elke dag om 16.00 uur een nieuwe online, dus blijf ons volgen. En vermaak je in de tussentijd ook met ons <a href="https://original.sevendays.nl/veed">Dossier VEED</a>!</em></p>  
+<p><em>Meer zien van de DYTG? Check ons <a href="https://7dagen.netlify.app/dytg">Dossier DYTG</a> voor alle sfeerreportages en video-interviews. Deze week komt er elke dag om 16.00 uur een nieuwe online, dus blijf ons volgen. En vermaak je in de tussentijd ook met ons <a href="https://7dagen.netlify.app/veed">Dossier VEED</a>!</em></p>  

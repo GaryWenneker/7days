@@ -1,5 +1,5 @@
 ---
-id: 185ac8c82b524dda9e5ff305b94421ae
+id: 70508c938791463b8453a0a4f3aa7cad
 type: nieuws
 layout: post
 title: "De meest gestelde vragen na 'Berlijn'"
@@ -21,7 +21,7 @@ Na ‘Parijs’, ‘Brussel’ en ‘Nice’ is er nu ook ‘Berlijn’. Daar re
         
   
   <div class="content">
-    <img alt="aanslag berlijn" title="Foto: AFP" height="493" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-48975313.jpg">  </div>
+    <img alt="aanslag berlijn" title="Foto: AFP" height="493" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-48975313.jpg">  </div>
 
   
 </div>
@@ -34,7 +34,7 @@ Na ‘Parijs’, ‘Brussel’ en ‘Nice’ is er nu ook ‘Berlijn’. Daar re
         
   
   <div class="content">
-    <img alt="aanslag berlijn" title="Foto: AFP" height="506" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-48979666.jpg">  </div>
+    <img alt="aanslag berlijn" title="Foto: AFP" height="506" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-48979666.jpg">  </div>
 
   
 </div>

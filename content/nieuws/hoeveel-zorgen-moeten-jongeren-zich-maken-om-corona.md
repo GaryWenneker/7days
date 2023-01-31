@@ -1,0 +1,23 @@
+---
+id: 5b14319494ba4477ae51b5290e280764
+type: nieuws
+layout: post
+title: "Hoeveel zorgen moeten jongeren zich maken om corona?"
+permalink: /nieuws/hoeveel-zorgen-moeten-jongeren-zich-maken-om-corona/
+date: 2022-05-11T19:16:41.067Z
+author: 7biA1WiYB
+excerpt: "Ben je jong en gezond? Dan hoef je je, voor jezelf, weinig zorgen te maken. Dat horen we steeds over corona. Ondertussen zijn er wél Europese jongeren overleden aan het virus. Hoe kan dat? En waarom hebben sommige jongeren nog steeds schijt aan die anderhalve meter?  "
+seo:
+  description: "Hoeveel zorgen moeten jongeren zich maken om corona?"
+  title: "Hoeveel zorgen moeten jongeren zich maken om corona?"
+---
+Ben je jong en gezond? Dan hoef je je, voor jezelf, weinig zorgen te maken. Dat horen we steeds over corona. Ondertussen zijn er wél Europese jongeren overleden aan het virus. Hoe kan dat? En waarom hebben sommige jongeren nog steeds schijt aan die anderhalve meter?  
+
+    <p>Deze week doken ze op. Berichten over Europese jongeren die bezweken aan besmetting met Covid-19. De Franse Julie was zestien en volgens Franse media helemaal gezond. Tot het coronavirus haar trof: ze overleed. De Portugese Vitor (14) ging naar school en speelde futsal (zaalvoetbal). Toch stierf hij in het ziekenhuis na besmetting. Dinsdagmiddag overleed een twaalfjarig meisje uit het Belgische Gent als gevolg van het gevreesde virus. En laten we <a href="https://7dagen.netlify.app/nieuws/nickys-vriend-sehraz-16-heeft-corona-en-ligt-coma-ik-blijf-hem-appen" target="_blank">Sheraz </a>(16) uit Breda niet vergeten. Hij belandde al eerder, zonder bekende onderliggende problemen, op de intensive care. Inmiddels is hij thuis.</p>
+<p>De aanname ‘ik ben jong dus niets of niemand doet mij wat’ blijkt niet te kloppen. Toch horen we continu dat het virus alleen levensbedreigend is voor de zwakkeren onder ons. Zeventig-plussers en mensen die = al gezondheidsproblemen hadden, die moeten echt oppassen. De rest houdt die anderhalve meter afstand toch puur om juist die zwakkeren te behoeden voor massale besmetting? Toch?</p>
+<h3>Zorgen</h3>
+<p>Hoeveel zorgen moeten jongeren zich nou echt maken? Ons eigen RIVM houdt zich puur bezig met de situatie in Nederland. Woordvoerder Coen Berens van de gezondheidsdienst legt uit: ‘Alle mensen die hier tot nu toe zijn overleden aan het virus, zijn boven de vijftig. Bij jonge kinderen weten we dat er relatief weinig klachten zijn en dat ze waarschijnlijk ook een kleine rol spelen bij de verspreiding van het virus. Bij jongeren weten we daar iets minder van. Er loopt een onderzoek naar corona in gezinnen, maar het is nog zeker twee maanden wachten op de uitkomsten daarvan.’ Hij maakt daarnaast een opmerking over mensen die op de intensive care terechtkomen. ‘Dat zijn vooral ouderen én mensen met onderliggende problemen. En ja, daar kunnen ook jongeren tussen zitten. Ben je tiener en heb je bijvoorbeeld diabetes, long- of nierproblemen, dan doe je er goed aan voorzichtig te zijn.’</p>
+<h3>Kerngezond?</h3>
+<p>Maar die, volgens buitenlandse media, kerngezonde jongeren die toch zijn overleden dan? Waarom ging het bij hen zo ongelooflijk mis? Over die specifieke gevallen heeft Berens geen informatie. 'Wat ik wel kan zeggen is dat de kans dat het jongeren gebeurt, nog steeds erg klein is. Uitzondering dus, niet de regel. Maar je kunt het niet omdraaien door te denken: ik ben jong, dus mij kan niks gebeuren. Het spreekwoord is niet voor niets: de uitzondering bevestigt de regel.’ En hoe zit het dan met die ‘milde klachten’? Ervaren jongeren vaker maar ‘een verkoudheidje’ dan ouderen? ‘Daar hebben we geen harde cijfers van, maar dat ligt wel in de lijn der verwachting. Over het algemeen genomen heeft zelfs 80% van alle geïnfecteerden milde klachten. De heftige gevallen, daar lees je over in de media.’ Daarnaast zegt Berens dat we van jongeren gewoon minder weten. ‘Die zieken vaker gewoon thuis uit en zijn daarna weer beter.’</p>
+<h3>Snotneus</h3>
+<p>Zo bekeken lijkt de kans dat je als gezonde tiener op een ic belandt dus nog steeds piepklein, maar niet onmogelijk. ‘Maar let op,’ zegt Berens, ‘jongeren spelen wel degelijk een rol in de verspreiding. Blijf voorzichtig en houd je aan de adviezen. Dus: zoveel mogelijk thuisblijven. En probeer contact met mensen buiten je gezin te vermijden.’ Maar ja, wat nou als jouw eigen snotneus van een broertje ook letterlijk snotterig is? ‘Als je met hem op dezelfde kamer slaapt, of hij is echt klein, is het natuurlijk lastig. Maar als het kan: probeer je dan ook thuis aan die anderhalve meter te houden. Is het niet voor jezelf, dan wel voor anderen.’</p>  

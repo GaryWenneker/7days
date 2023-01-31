@@ -1,5 +1,5 @@
 ---
-id: bd393dbe3c564d46b28fc1a0e39d5a96
+id: 13a5989344734c1fb99822849f47d353
 type: nieuws
 layout: post
 title: "Beestenfeestje in Amsterdam"
@@ -18,7 +18,7 @@ Feest in Amsterdam woensdag. Ons krantenbroertje Kidsweek maakte het Dier van he
         
   
   <div class="content">
-    <img title="Foto Shody Careman" height="3667" width="5500" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Kidsweek-Dier%20vh%20Jaar-2.jpg" alt="">  </div>
+    <img title="Foto Shody Careman" height="3667" width="5500" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Kidsweek-Dier%20vh%20Jaar-2.jpg" alt="">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ Feest in Amsterdam woensdag. Ons krantenbroertje Kidsweek maakte het Dier van he
         
   
   <div class="content">
-    <img title="Foto Shody Careman" height="3667" width="5500" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Kidsweek-Dier%20vh%20Jaar-7.jpg" alt="">  </div>
+    <img title="Foto Shody Careman" height="3667" width="5500" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Kidsweek-Dier%20vh%20Jaar-7.jpg" alt="">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ Feest in Amsterdam woensdag. Ons krantenbroertje Kidsweek maakte het Dier van he
         
   
   <div class="content">
-    <img title="Foto Shody Careman" height="3667" width="5500" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Kidsweek-Dier%20vh%20Jaar-5.jpg" alt="">  </div>
+    <img title="Foto Shody Careman" height="3667" width="5500" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Kidsweek-Dier%20vh%20Jaar-5.jpg" alt="">  </div>
 
   
 </div>
@@ -45,7 +45,7 @@ Feest in Amsterdam woensdag. Ons krantenbroertje Kidsweek maakte het Dier van he
         
   
   <div class="content">
-    <img title="Foto Shody Careman" height="2790" width="4000" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Carmen-2.jpg" alt="">  </div>
+    <img title="Foto Shody Careman" height="2790" width="4000" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Carmen-2.jpg" alt="">  </div>
 
   
 </div>
@@ -54,7 +54,7 @@ Feest in Amsterdam woensdag. Ons krantenbroertje Kidsweek maakte het Dier van he
         
   
   <div class="content">
-    <img title="Foto Shody Careman" height="3667" width="5500" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Kidsweek-Dier%20vh%20Jaar-10.jpg" alt="">  </div>
+    <img title="Foto Shody Careman" height="3667" width="5500" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Kidsweek-Dier%20vh%20Jaar-10.jpg" alt="">  </div>
 
   
 </div>
@@ -63,8 +63,8 @@ Feest in Amsterdam woensdag. Ons krantenbroertje Kidsweek maakte het Dier van he
         
   
   <div class="content">
-    <img height="80" width="80" style="float: left; margin-left: 5px; margin-right: 5px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/In%20Beeld2_3.png" alt="">  </div>
+    <img height="80" width="80" style="float: left; margin-left: 5px; margin-right: 5px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/In%20Beeld2_3.png" alt="">  </div>
 
   
 </div>
-</div><em>Meer fotogalerijen zien? Op <a href="https://original.sevendays.nl/inbeeld">Sevendays.nl/inbeeld</a> vind je ons complete archief.</em>  
+</div><em>Meer fotogalerijen zien? Op <a href="https://7dagen.netlify.app/inbeeld">Sevendays.nl/inbeeld</a> vind je ons complete archief.</em>  

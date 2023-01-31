@@ -1,5 +1,5 @@
 ---
-id: d99e97b4e189487989b54898995bc4f5
+id: 61d6011fc52e4f648882d83d7602865f
 type: nieuws
 layout: post
 title: "Dat kan netter!"
@@ -19,7 +19,7 @@ Graffiti bestaat in alle vormen en maten. Soms zijn kunstenaars uren verf aan he
         
   
   <div class="content">
-    <img alt="graffti, Mathieu Tremblin" title="Foto Mathieu Tremblin" height="572" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/collage1.jpg">  </div>
+    <img alt="graffti, Mathieu Tremblin" title="Foto Mathieu Tremblin" height="572" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/collage1.jpg">  </div>
 
   
 </div>
@@ -28,7 +28,7 @@ Graffiti bestaat in alle vormen en maten. Soms zijn kunstenaars uren verf aan he
         
   
   <div class="content">
-    <img alt="graffti, Mathieu Tremblin" title="Foto Mathieu Tremblin" height="572" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/collage3_0.jpg">  </div>
+    <img alt="graffti, Mathieu Tremblin" title="Foto Mathieu Tremblin" height="572" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/collage3_0.jpg">  </div>
 
   
 </div>
@@ -38,7 +38,7 @@ Graffiti bestaat in alle vormen en maten. Soms zijn kunstenaars uren verf aan he
         
   
   <div class="content">
-    <img alt="graffti, Mathieu Tremblin" title="Foto Mathieu Tremblin" height="326" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/collage4.jpg">  </div>
+    <img alt="graffti, Mathieu Tremblin" title="Foto Mathieu Tremblin" height="326" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/collage4.jpg">  </div>
 
   
 </div>
@@ -48,9 +48,9 @@ Graffiti bestaat in alle vormen en maten. Soms zijn kunstenaars uren verf aan he
         
   
   <div class="content">
-    <img alt="graffti, Mathieu Tremblin" title="Foto Mathieu Tremblin" height="342" width="850" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/collage5.jpg">  </div>
+    <img alt="graffti, Mathieu Tremblin" title="Foto Mathieu Tremblin" height="342" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/collage5.jpg">  </div>
 
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

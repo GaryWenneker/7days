@@ -1,5 +1,5 @@
 ---
-id: 5dde368fa84047c7b40797f7ded3cd01
+id: bfbdd83741dd4d29be3b8430646b7825
 type: nieuws
 layout: post
 title: "Bergbeklimmers overleden op Mount Everest"
@@ -23,9 +23,9 @@ De Mount Everest is de hoogste berg ter wereld. Die beklimmen is niet zonder gev
         
   
   <div class="content">
-    <img alt="Mount Everest" title="Foto: AFP" height="751" width="1348" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/bergbeklimmers%20op%20Mount%20Everest%20-%20AFP.png">  </div>
+    <img alt="Mount Everest" title="Foto: AFP" height="751" width="1348" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/bergbeklimmers%20op%20Mount%20Everest%20-%20AFP.png">  </div>
 
   
 </div>
 </div>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis app</a> of neem een <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">proefabonnement </a>op de krant!</em></p>  

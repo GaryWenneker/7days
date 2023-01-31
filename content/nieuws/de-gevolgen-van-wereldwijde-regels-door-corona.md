@@ -1,5 +1,5 @@
 ---
-id: 1d5969ab514c413da9ba0bb7e00b5b31
+id: b6eced22fb924c7eb1abe0fbfd0f2e7b
 type: nieuws
 layout: post
 title: "De gevolgen van wereldwijde regels door corona"

@@ -1,5 +1,5 @@
 ---
-id: d5317a01c9844966b16e6934a005828b
+id: bcad2e4762cc4ef7a575f42e7262dbfe
 type: post
 layout: post
 title: "Liever vallen dan twee keer lopen "
@@ -21,7 +21,7 @@ Alles wat op de trap ligt, sjouw ik het liefst in één keer naar boven. De geda
         
   
   <div class="content">
-    <img height="3672" width="4896" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/DSCN2955.jpg" alt="">  </div>
+    <img height="3672" width="4896" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/DSCN2955.jpg" alt="">  </div>
 
   
 </div>
@@ -29,4 +29,4 @@ Alles wat op de trap ligt, sjouw ik het liefst in één keer naar boven. De geda
 <p>Ik balanceer trede voor trede mijn weg naar boven en het erge is dat het me nog lukt ook. Dat voelt op dat moment voor mij als een enorme overwinning, maar eigenlijk is dat helemaal niet goed. Want zolang deze fratsen nog goed blijven gaan, blijf ik maar meer en meer spullen tegelijk naar boven tillen.</p>
 <p><strong>Mindful</strong><br>Misschien moeten we in 2016  maar proberen om mindful onze spullen op te ruimen. Lekker voorwerp voor voorwerp heel rustig naar boven tillen. Dan krijgen we ten minste tijd om rustig na te denken en kijk je waarschijnlijk in het vervolg iets beter uit als je je spullen weer overal laat slingeren.</p>
 <p>Maak je je ouders ook nog eens blij. Oh, en de kans op gebroken benen door een vrije val van de trap neemt ook aanzienlijk af. </p>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/laura-schouten">Laura </a>(18)? Laatst schreef ze ook al <a href="https://original.sevendays.nl/blog/steppend-naar-school">Steppend naar school</a> en <a href="https://original.sevendays.nl/popmuziek">Anti-pop-snobs</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/laura-schouten">Laura </a>(18)? Laatst schreef ze ook al <a href="https://7dagen.netlify.app/blog/steppend-naar-school">Steppend naar school</a> en <a href="https://7dagen.netlify.app/popmuziek">Anti-pop-snobs</a>.</em></p>  

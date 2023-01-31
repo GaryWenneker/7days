@@ -1,5 +1,5 @@
 ---
-id: 8aae33f6b17f42f580a20f1cefdeb0db
+id: 14c33d7932f043a78e7c65d36077d145
 type: post
 layout: post
 title: "Wát vragen mensen aan Google?"
@@ -20,19 +20,19 @@ seo:
         
   
   <div class="content">
-    <img height="206" width="433" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/1%20screen1.png" alt="">  </div>
+    <img height="206" width="433" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/1%20screen1.png" alt="">  </div>
 
   
 </div>
 </div>
 <p>Er zijn dus blijkbaar veel Nederlanders die zich wanhopig afvragen hoe Yahtzee aan zijn naam komt. Misschien zijn mensen er al dagen over aan het filosoferen, en grijpen ze als laatste redmiddel al hallucinerend naar Google. (Voor als je die fase nog niet hebt bereikt: Yahtzee komt van ‘The Yacht Game’, zoals de bedenkers het spel noemden dat ze op hun jacht speelden)</p>
-<p><strong>Waarom…?!</strong><br>In een eerder blog schreef ik over de <a href="https://original.sevendays.nl/taalfouten">7 meest voorkomende taalfouten</a>. Dat veel mensen de d’s en t’s nog niet onder de knie hebben, bewijst deze zoekterm:</p>
+<p><strong>Waarom…?!</strong><br>In een eerder blog schreef ik over de <a href="https://7dagen.netlify.app/taalfouten">7 meest voorkomende taalfouten</a>. Dat veel mensen de d’s en t’s nog niet onder de knie hebben, bewijst deze zoekterm:</p>
 <p><div class="media media-element-container media-default"><div id="file-6480" class="file file-image file-image-png">
 
         
   
   <div class="content">
-    <img height="209" width="356" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/screen3.png" alt="">  </div>
+    <img height="209" width="356" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/screen3.png" alt="">  </div>
 
   
 </div>
@@ -44,7 +44,7 @@ seo:
         
   
   <div class="content">
-    <img height="208" width="386" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/screen2_0.png" alt="">  </div>
+    <img height="208" width="386" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/screen2_0.png" alt="">  </div>
 
   
 </div>

@@ -1,5 +1,5 @@
 ---
-id: 60dd036339674339b723b77a6c196018
+id: 0e6aa4e90bf244b6bf4985e95ba88b74
 type: nieuws
 layout: post
 title: "7 fabels over de prik tegen baarmoederhalskanker "

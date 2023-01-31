@@ -1,5 +1,5 @@
 ---
-id: 91cd45b16fc349a684bff8035b1fad03
+id: 921b162c69d54a31900adae46bc610af
 type: post
 layout: post
 title: "7 manieren om je zomer te herbeleven"
@@ -28,5 +28,5 @@ We willen er liever niet mee geconfronteerd worden, maar het is de harde waarhei
 <p>Tegenwoordig heb je honderden YouTubers die hun vakantie vastleggen door middel van leuke vlogs. Kijk filmpjes van vloggers die in dezelfde stad of land op vakantie waren als jij. Je zult vast dingen herkennen! Check bijvoorbeeld deze vlog uit <a href="https://www.youtube.com/watch?v=auMTQ_zKZP4" target="_blank">Londen,</a> <a href="https://www.youtube.com/watch?v=oqd4d9VyPYs" target="_blank">New York</a>, <a href="https://www.youtube.com/watch?v=MDFk-9QZG64" target="_blank">Turkije</a> of <a href="https://www.youtube.com/watch?v=Fgn5oH-9fwE" target="_blank">Barcelona</a>. </p>
 <h3>7. Home sweet home</h3>
 <p>Uiteindelijk is je eigen huis wel de plek waar je het meeste bent. Decoreer je kamer daarom met iets wat je aan de vakantie doet denken. Hang een poster op van de plek waar je was, of leg hier en daar wat souvenirtjes. Zo ben je toch nog een beetje op vakantie. </p>
-<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;">De 18-jarige Lucas heeft een creatieve geest en houdt van schrijven, toneelspelen en tekenen. Ook bezoekt hij héél graag musicals. Hij is eerstejaarsstudent Journalistiek en wil later bij de televisie gaan werken.  </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;"><a href="https://original.sevendays.nl/users/lucas-versteeg" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease;">Lees meer blogs van Lucas.</a></em></p>
+<p><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;">De 18-jarige Lucas heeft een creatieve geest en houdt van schrijven, toneelspelen en tekenen. Ook bezoekt hij héél graag musicals. Hij is eerstejaarsstudent Journalistiek en wil later bij de televisie gaan werken.  </em><em style="box-sizing: inherit; color: rgb(51, 51, 51); font-family: &quot;PT Sans&quot;, sans-serif; font-size: 18px;"><a href="https://7dagen.netlify.app/users/lucas-versteeg" style="box-sizing: inherit; color: rgb(34, 179, 224); transition: color 0.3s ease;">Lees meer blogs van Lucas.</a></em></p>
   

@@ -1,5 +1,5 @@
 ---
-id: f20286f540724801ab077f100337f20c
+id: 72bfbd7d384b4286aa2bc30e77add867
 type: post
 layout: post
 title: "Wie de broek past..."
@@ -18,7 +18,7 @@ Omringd door een overweldigende variëteit aan beenbedekking kijkt de mensvrouw 
         
   
   <div class="content">
-    <img title="Illustratie: Lotte Schuengel" height="4877" width="7716" style="height: 537px; width: 850px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/Highwaisttohell.jpg" alt="">  </div>
+    <img title="Illustratie: Lotte Schuengel" height="4877" width="7716" style="height: 537px; width: 850px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Highwaisttohell.jpg" alt="">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ Omringd door een overweldigende variëteit aan beenbedekking kijkt de mensvrouw 
         
   
   <div class="content">
-    <img title="Illustratie: Lotte Schuengel" height="4877" width="7716" style="height: 537px; width: 850px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/bloedcirculatie.jpg" alt="">  </div>
+    <img title="Illustratie: Lotte Schuengel" height="4877" width="7716" style="height: 537px; width: 850px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/bloedcirculatie.jpg" alt="">  </div>
 
   
 </div>
@@ -36,7 +36,7 @@ Omringd door een overweldigende variëteit aan beenbedekking kijkt de mensvrouw 
         
   
   <div class="content">
-    <img title="Illustratie: Lotte Schuengel" height="4877" width="7716" style="height: 537px; width: 850px;" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/lowwaistluchtigheid.jpg" alt="">  </div>
+    <img title="Illustratie: Lotte Schuengel" height="4877" width="7716" style="height: 537px; width: 850px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/lowwaistluchtigheid.jpg" alt="">  </div>
 
   
 </div>

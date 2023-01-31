@@ -1,5 +1,5 @@
 ---
-id: 80ce5716d8044091905dd18acfad934e
+id: 48ae6bef66314da4ab0d1c81a8e8f9a7
 type: nieuws
 layout: post
 title: "8 dingen die je nog niet wist over Prinses Diana"
@@ -23,7 +23,7 @@ Het is vandaag precies twintig jaar geleden dat de Britse prinses Diana overleed
         
   
   <div class="content">
-    <img alt="Bruiloft prins Charles en Diana" title="Foto EPA" height="1940" width="2048" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/EPA%20huwelijk%20Lady%20Diana%20en%20Charles%20-1529896.jpg">  </div>
+    <img alt="Bruiloft prins Charles en Diana" title="Foto EPA" height="1940" width="2048" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/EPA%20huwelijk%20Lady%20Diana%20en%20Charles%20-1529896.jpg">  </div>
 
   
 </div>

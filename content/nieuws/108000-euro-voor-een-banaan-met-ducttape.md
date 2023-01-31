@@ -1,5 +1,5 @@
 ---
-id: e2191683e7f2440fafee043a8f170f44
+id: 8c56be5de0d24d849e188f09db1dee33
 type: nieuws
 layout: post
 title: "108.000 euro voor een banaan met ducttape"
@@ -27,4 +27,4 @@ seo:
 </div>
 </div>
 <h3>Gouden wc-pot</h3>
-<p>Cattelan maakt wel vaker bizarre kunstwerken. Zoals een spook-olifant, een oma in een koelkast en een gigantische middelvinger. Hij maakte eerder ook een <a href="https://original.sevendays.nl/raar/dit-kunst-een-gouden-wc-pot" target="_blank">wc-pot</a> van 18-karaats goud, die wel 6 miljoen dollar waard is. Dat toilet kwam dit jaar nog in het nieuws omdat hij was gestolen uit het Bleinheim Palace waar hij werd tentoongesteld.</p>  
+<p>Cattelan maakt wel vaker bizarre kunstwerken. Zoals een spook-olifant, een oma in een koelkast en een gigantische middelvinger. Hij maakte eerder ook een <a href="https://7dagen.netlify.app/raar/dit-kunst-een-gouden-wc-pot" target="_blank">wc-pot</a> van 18-karaats goud, die wel 6 miljoen dollar waard is. Dat toilet kwam dit jaar nog in het nieuws omdat hij was gestolen uit het Bleinheim Palace waar hij werd tentoongesteld.</p>  

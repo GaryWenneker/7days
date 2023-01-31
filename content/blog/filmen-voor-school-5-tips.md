@@ -1,5 +1,5 @@
 ---
-id: 9f24f9b138044e53bcd060ae27b6e67d
+id: 781472b052134effbbb809a445f33b45
 type: post
 layout: post
 title: "Filmen voor school: 5 tips"
@@ -18,7 +18,7 @@ Steeds vaker moeten jongeren bij wijze van schoolopdracht een film maken, maar d
         
   
   <div class="content">
-    <img height="354" width="560" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/filmen%20voor%20school2.jpeg" alt="">  </div>
+    <img height="354" width="560" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/filmen%20voor%20school2.jpeg" alt="">  </div>
 
   
 </div>
@@ -27,7 +27,7 @@ Steeds vaker moeten jongeren bij wijze van schoolopdracht een film maken, maar d
         
   
   <div class="content">
-    <a href="/files/filmen-voor-school3jpeg"><img height="220" width="156" class="media-element file-teaser" src="https://original.sevendays.nl/sites/default/files/styles/medium/public/filmen%20voor%20school3.jpeg?itok=LsNu6itC" alt=""></a>  </div>
+    <a href="/files/filmen-voor-school3jpeg"><img height="220" width="156" class="media-element file-teaser" src="https://7dagen.netlify.app/sites/default/files/styles/medium/public/filmen%20voor%20school3.jpeg?itok=LsNu6itC" alt=""></a>  </div>
 
   
 </div>
@@ -46,4 +46,4 @@ Steeds vaker moeten jongeren bij wijze van schoolopdracht een film maken, maar d
   
 </div>
 </div>
-<p><em>Meer tips lezen die het schoolleven makkelijker maken? <a href="https://original.sevendays.nl/schooltips">Hier</a> vind je alle schooltips op Sevendays.nl.</em></p>  
+<p><em>Meer tips lezen die het schoolleven makkelijker maken? <a href="https://7dagen.netlify.app/schooltips">Hier</a> vind je alle schooltips op Sevendays.nl.</em></p>  

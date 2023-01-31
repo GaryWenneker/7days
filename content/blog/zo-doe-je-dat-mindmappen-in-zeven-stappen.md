@@ -1,5 +1,5 @@
 ---
-id: 58ab4f92f4814459bab6802232c760f2
+id: a64251dcf6384b3b861ed71449913d38
 type: post
 layout: post
 title: "Zo doe je dat: mindmappen in zeven stappen"
@@ -28,7 +28,7 @@ Samenvatten is saai en suf, en eigenlijk helemaal niet zo’n goede manier om mo
         
   
   <div class="content">
-    <img title="Foto: Instagram / mapyourmind " height="562" width="800" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/17437617_290022668078081_8885730737727209472_n.jpg" alt="">  </div>
+    <img title="Foto: Instagram / mapyourmind " height="562" width="800" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/17437617_290022668078081_8885730737727209472_n.jpg" alt="">  </div>
 
   
 </div>
@@ -41,4 +41,4 @@ Samenvatten is saai en suf, en eigenlijk helemaal niet zo’n goede manier om mo
 <p>Simpele tekeningetjes kunnen soms tekst vervangen. Pijltjes kunnen verschillende deelonderwerpen met elkaar verbinden. Kaders of wolkjes kunnen je snel laten zien wat belangrijk is. En werk met een paar verschillende kleuren stiften of pennen. Zo prikkel je die rechterhersenhelft en creëer je meer overzicht.</p>
 <h3><strong>Stap 7: </strong><strong>Niets is fout</strong></h3>
 <p>Mindmappen heeft geen strenge regels. Het is een manier om overzicht te creëren, verbanden te leggen, moeilijke stof beter te onthouden en (soms) minder tijd kwijt te zijn aan het leren. Je tekeningen hoeven echt geen kunstwerkjes te zijn. Het belangrijkste is dat, als je er later opnieuw naar kijkt, je meteen weet wat je ermee probeerde te onthouden. </p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://original.sevendays.nl/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://original.sevendays.nl/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

@@ -1,5 +1,5 @@
 ---
-id: b86b8b2e26544ed89a419c3bc8cb2be5
+id: db52ad43fb5b49c8af5ad37fa8e5fa0e
 type: nieuws
 layout: post
 title: "Griekenland mag blijven"
@@ -18,4 +18,4 @@ Het was een zwaar en spannend weekend voor de Europese leiders, en vooral voor G
 <p>Griekenland moet van de Europese leiders nu binnen drie dagen een heleboel beloften omzetten in wetten. En die wetten moeten ook nog eens uiterlijk woensdag door het Griekse parlement zijn aangenomen. Het gaat daarbij bijvoorbeeld om nieuwe belastingregels, lagere pensioenen en het opzetten van een speciaal fonds om zwakke banken te helpen.</p>
 <p><strong>In de verkoop</strong><br>Een andere belangrijke eis van de andere Europese landen is dat Griekenland staatseigendommen als havens en vliegvelden moet gaan verkopen. Het geld dat daarmee wordt binnengehaald, moet meteen gebruikt worden om schulden af te lossen.</p>
 <p>Het lijkt er vooralsnog wel op dat het Griekse parlement akkoord zal gaan met al die nieuwe wetten en regels. De meeste parlementsleden zijn vooral heel blij dat Griekenland hulp krijgt, al vinden ze de eisen die Europa als tegenprestatie stelt wel erg streng.</p>
-<p><em>Meer weten over de Griekse crisis? In ons <a href="https://original.sevendays.nl/dossier-griekenland">Dossier Griekenland</a> leggen we o.a. uit hoe de Grieken in de geldproblemen zijn geraakt en stellen we de hoofdrolspelers van deze Griekse tragedie aan je voor.</em></p>  
+<p><em>Meer weten over de Griekse crisis? In ons <a href="https://7dagen.netlify.app/dossier-griekenland">Dossier Griekenland</a> leggen we o.a. uit hoe de Grieken in de geldproblemen zijn geraakt en stellen we de hoofdrolspelers van deze Griekse tragedie aan je voor.</em></p>  

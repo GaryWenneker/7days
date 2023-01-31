@@ -1,5 +1,5 @@
 ---
-id: c05412bad8014a4bb0fd849e764834d0
+id: fcbab4f34373479e83c779810531ec17
 type: post
 layout: post
 title: "Deze 7 typische Hyves-dingen doen we nog steeds"
@@ -18,7 +18,7 @@ Een tijdperk geleden bestond er Hyves. En wie verlangt er niet stiekem terug naa
         
   
   <div class="content">
-    <img alt="dansende banaan" height="35" width="33" class="media-element file-default" data-delta="11" src="https://original.sevendays.nl/sites/default/files/banaan.png">  </div>
+    <img alt="dansende banaan" height="35" width="33" class="media-element file-default" data-delta="11" src="https://7dagen.netlify.app/sites/default/files/banaan.png">  </div>
 
   
 </div>
@@ -28,7 +28,7 @@ Een tijdperk geleden bestond er Hyves. En wie verlangt er niet stiekem terug naa
         
   
   <div class="content">
-    <img alt="2 dansende bananen" height="38" width="66" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202017-01-21%20om%2016.13.49.png">  </div>
+    <img alt="2 dansende bananen" height="38" width="66" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202017-01-21%20om%2016.13.49.png">  </div>
 
   
 </div>
@@ -38,7 +38,7 @@ Een tijdperk geleden bestond er Hyves. En wie verlangt er niet stiekem terug naa
         
   
   <div class="content">
-    <img alt="dansende banaan hyves" height="35" width="100" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202017-01-21%20om%2016.13.40.png">  </div>
+    <img alt="dansende banaan hyves" height="35" width="100" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202017-01-21%20om%2016.13.40.png">  </div>
 
   
 </div>
@@ -48,7 +48,7 @@ Een tijdperk geleden bestond er Hyves. En wie verlangt er niet stiekem terug naa
         
   
   <div class="content">
-    <img alt="dansende banaan hyves" height="37" width="137" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202017-01-21%20om%2016.13.34.png">  </div>
+    <img alt="dansende banaan hyves" height="37" width="137" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202017-01-21%20om%2016.13.34.png">  </div>
 
   
 </div>
@@ -58,7 +58,7 @@ Een tijdperk geleden bestond er Hyves. En wie verlangt er niet stiekem terug naa
         
   
   <div class="content">
-    <img alt="dansende banaan hyves" height="38" width="176" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202017-01-21%20om%2016.13.18.png">  </div>
+    <img alt="dansende banaan hyves" height="38" width="176" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202017-01-21%20om%2016.13.18.png">  </div>
 
   
 </div>
@@ -69,7 +69,7 @@ Een tijdperk geleden bestond er Hyves. En wie verlangt er niet stiekem terug naa
         
   
   <div class="content">
-    <img alt="dansende banaan" height="35" width="33" style="font-size: 13.008px;" class="media-element file-default" data-delta="12" src="https://original.sevendays.nl/sites/default/files/banaan.png">  </div>
+    <img alt="dansende banaan" height="35" width="33" style="font-size: 13.008px;" class="media-element file-default" data-delta="12" src="https://7dagen.netlify.app/sites/default/files/banaan.png">  </div>
 
   
 </div>
@@ -80,7 +80,7 @@ Een tijdperk geleden bestond er Hyves. En wie verlangt er niet stiekem terug naa
         
   
   <div class="content">
-    <img alt="dansende banaan hyves" height="37" width="137" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202017-01-21%20om%2016.13.34.png">  </div>
+    <img alt="dansende banaan hyves" height="37" width="137" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202017-01-21%20om%2016.13.34.png">  </div>
 
   
 </div>
@@ -91,7 +91,7 @@ Een tijdperk geleden bestond er Hyves. En wie verlangt er niet stiekem terug naa
         
   
   <div class="content">
-    <img alt="dansende banaan hyves" height="35" width="100" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202017-01-21%20om%2016.13.40.png">  </div>
+    <img alt="dansende banaan hyves" height="35" width="100" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202017-01-21%20om%2016.13.40.png">  </div>
 
   
 </div>
@@ -102,7 +102,7 @@ Een tijdperk geleden bestond er Hyves. En wie verlangt er niet stiekem terug naa
         
   
   <div class="content">
-    <img alt="dansende banaan hyves" height="38" width="176" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202017-01-21%20om%2016.13.18.png">  </div>
+    <img alt="dansende banaan hyves" height="38" width="176" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202017-01-21%20om%2016.13.18.png">  </div>
 
   
 </div>
@@ -113,7 +113,7 @@ Een tijdperk geleden bestond er Hyves. En wie verlangt er niet stiekem terug naa
         
   
   <div class="content">
-    <img alt="dansende banaan hyves" height="37" width="137" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202017-01-21%20om%2016.13.34.png">  </div>
+    <img alt="dansende banaan hyves" height="37" width="137" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202017-01-21%20om%2016.13.34.png">  </div>
 
   
 </div>
@@ -124,7 +124,7 @@ Een tijdperk geleden bestond er Hyves. En wie verlangt er niet stiekem terug naa
         
   
   <div class="content">
-    <img alt="2 dansende bananen" height="38" width="66" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202017-01-21%20om%2016.13.49.png">  </div>
+    <img alt="2 dansende bananen" height="38" width="66" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202017-01-21%20om%2016.13.49.png">  </div>
 
   
 </div>
@@ -135,18 +135,18 @@ Een tijdperk geleden bestond er Hyves. En wie verlangt er niet stiekem terug naa
         
   
   <div class="content">
-    <img alt="dansende banaan hyves" height="38" width="176" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/Schermafbeelding%202017-01-21%20om%2016.13.18.png">  </div>
+    <img alt="dansende banaan hyves" height="38" width="176" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/Schermafbeelding%202017-01-21%20om%2016.13.18.png">  </div>
 
   
 </div>
 </div>
-<p><em>Meer blogs lezen van <a href="https://original.sevendays.nl/users/dominique-westerveld">Dominique</a> (15)? Laatst schreef ze ook <a href="https://original.sevendays.nl/blog/koukleum-met-een-kledingprobleem">Koukleum met een kledingprobleem</a> en <a href="https://original.sevendays.nl/blog/7-tips-om-je-tussenuur-te-overleven">7 tips om je tussenuur te overleven</a>.</em></p>
+<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/dominique-westerveld">Dominique</a> (15)? Laatst schreef ze ook <a href="https://7dagen.netlify.app/blog/koukleum-met-een-kledingprobleem">Koukleum met een kledingprobleem</a> en <a href="https://7dagen.netlify.app/blog/7-tips-om-je-tussenuur-te-overleven">7 tips om je tussenuur te overleven</a>.</em></p>
 <div class="kader">
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p>Lees ook: <a href="https://original.sevendays.nl/blog/de-7-beste-herinneringen-aan-hyves">De 7 beste herinneringen aan Hyves</a></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p>Lees ook: <a href="https://7dagen.netlify.app/blog/de-7-beste-herinneringen-aan-hyves">De 7 beste herinneringen aan Hyves</a></p>
 </div>
 <div class="kader">
-<p><img class="kaderafbeelding" src="https://original.sevendays.nl/sites/default/files/ff.png"></p>
-<p>En deze: <a href="https://original.sevendays.nl/myves">Hyves krabbelt weer op met Myves</a></p>
+<p><img class="kaderafbeelding" src="https://7dagen.netlify.app/sites/default/files/ff.png"></p>
+<p>En deze: <a href="https://7dagen.netlify.app/myves">Hyves krabbelt weer op met Myves</a></p>
 </div>
   

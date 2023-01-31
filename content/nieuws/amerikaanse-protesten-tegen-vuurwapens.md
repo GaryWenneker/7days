@@ -1,5 +1,5 @@
 ---
-id: 935746662b5740b082baaef27e64a11f
+id: ca0db68f00bf4d4b84d0ba93d2b463fe
 type: nieuws
 layout: post
 title: "Amerikaanse protesten tegen vuurwapens"
@@ -13,13 +13,13 @@ seo:
 ---
 Bij het Witte Huis in Washington lagen gisteren tientallen studenten doodstil op de grond. Ze wilden de slachtoffers symboliseren van de schietpartij op een school in Florida vorige week. Nikolas Cruz (19) schoot daar 14 leerlingen en 3 docenten dood.  
 
-    <p>Na elke grote schietpartij in Amerika, roepen mensen op om <a href="https://original.sevendays.nl/wapens">de wet voor vuurwapenbezit</a> strenger te maken. Ze willen dat het moeilijker wordt om wapens, zoals een geweer of een pistool, te kunnen kopen. Dat is in Amerika namelijk vrij makkelijk.</p>
+    <p>Na elke grote schietpartij in Amerika, roepen mensen op om <a href="https://7dagen.netlify.app/wapens">de wet voor vuurwapenbezit</a> strenger te maken. Ze willen dat het moeilijker wordt om wapens, zoals een geweer of een pistool, te kunnen kopen. Dat is in Amerika namelijk vrij makkelijk.</p>
 <p>Veel Amerikanen vinden dat ze het recht hebben om zich te verdedigen als het nodig is. Dat staat ook in de grondwet. Zo’n 47% van de Amerikanen heeft één of meer vuurwapens. De NRA, een organisatie die vóór vrij wapenbezit is, is in Amerika supermachtig en biedt veel weerstand. Het is daarom moeilijk om de wet te veranderen.</p>
 <h3>Background check</h3>
 <p>Hoewel Trump zich altijd heeft ingezet voor het recht om wapens te dragen, zei hij maandag dat hij het idee steunt om <em>background checks </em>te verbeteren. Dat betekent dat mensen die een vuurwapen willen kopen strenger gecontroleerd worden. Volgens Witte Huis-woordvoerder Sarah Sanders heeft Trump daarover gesproken met Republikeinse politicus John Cornyn. Hij zette het plan vorig jaar op papier. </p>
 <p>Het blijft natuurlijk wel de vraag of er écht iets zal veranderen. De meeste politici durven geen grote veranderingen voor te stellen omdat ze dan ingaan tegen de wens en het gevoel van miljoenen Amerikanen voor wie een wapen hét symbool van vrijheid is.</p>
 <h3>Tweet</h3>
-<p>De plotselinge steun van Trump voor <em>background checks</em> is wel opmerkelijk. Kort na de schietpartij in Florida twitterde hij namelijk dat de FBI de dader beter in de gaten had moeten houden. Er was immers een tip binnengekomen dat <a href="https://original.sevendays.nl/nieuws/wie-was-de-schutter-van-het-bloedbad-florida" target="_blank">Nikolas Cruz</a> psychische problemen had, meerdere wapens bezat en mogelijk een aanslag aan het voorbereiden was.</p>
+<p>De plotselinge steun van Trump voor <em>background checks</em> is wel opmerkelijk. Kort na de schietpartij in Florida twitterde hij namelijk dat de FBI de dader beter in de gaten had moeten houden. Er was immers een tip binnengekomen dat <a href="https://7dagen.netlify.app/nieuws/wie-was-de-schutter-van-het-bloedbad-florida" target="_blank">Nikolas Cruz</a> psychische problemen had, meerdere wapens bezat en mogelijk een aanslag aan het voorbereiden was.</p>
 <p><div class="media media-element-container media-default"><div id="file-532471" class="file file-document file-text-oembed">
 
         <h2 class="element-invisible"><a href="/files/donald-j-trump-1519123223">Donald J. Trump 1519123223</a></h2>

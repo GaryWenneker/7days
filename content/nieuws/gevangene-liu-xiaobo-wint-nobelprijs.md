@@ -1,5 +1,5 @@
 ---
-id: 6955975fc5a34ea8a114debc683210dc
+id: aaceba4f35dc4b1fb34dccc389d49af0
 type: nieuws
 layout: post
 title: "Gevangene Liu Xiaobo wint Nobelprijs"

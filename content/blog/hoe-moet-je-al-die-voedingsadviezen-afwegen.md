@@ -1,5 +1,5 @@
 ---
-id: 6e617de32bf14daea3bd4d353d5200a9
+id: 7252a581f2b544809f66ef4a012361fa
 type: post
 layout: post
 title: "Hoe moet je al die voedingsadviezen afwegen?"
@@ -20,4 +20,4 @@ Terwijl de ene foodblogger campagne voert voor een veganistisch leven, wil een 
 <p><b>Over drie jaar zijn we allemaal konijnen</b><br>Een aantal jaar geleden gaf men andere adviezen dan nu. Tegenwoordig eten we van dit juist te veel en van dat weer te weinig, blablabla. Maar over drie jaar is de Schijf van Vijf waarschijnlijk wéér aangepast en hebben alle foodbloggers, -freaks en -goeroes ook weer nieuwe ontdekkingen gedaan. </p>
 <p>Misschien stapt de Schijf van Vijf over naar een Schijf van Eén: alleen nog maar groente. Misschien moeten we het eetpatroon van een konijn dan maar gaan opvolgen. Want ik las pas in een artikel dat we van vetten, koolhydraten en suikers zo min mogelijk mogen eten. </p>
 <p><strong>Van alles een beetje</strong><br>Waarschijnlijk weet niemand precies wat nou het beste voor je is en dus verzint of onderzoekt iedereen zijn eigen theorie. Zolang iedereen elkaar blijft tegenspreken, lijkt het mij verstandig om alles gewoon te eten (behalve paprika, want dat is gewoon ontzettend vies), maar dan gewoon met mate...</p>
-<p><em>Meer blogs lezen van <a href="//www.sevendays.nl/users/lucas-versteeg">Lucas</a> (16)? Laatst schreef hij ook al <a href="https://original.sevendays.nl/blog/herkenbaar-struggles-bij-de-kapper">Herkenbaar: struggles bij de kapper</a> en <a href="https://original.sevendays.nl/blog/7-dingen-die-je-kunt-doen-tijdens-het-tandenpoetsen">7 dingen die je kunt doen tijdens het tandenpoetsen</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="//www.sevendays.nl/users/lucas-versteeg">Lucas</a> (16)? Laatst schreef hij ook al <a href="https://7dagen.netlify.app/blog/herkenbaar-struggles-bij-de-kapper">Herkenbaar: struggles bij de kapper</a> en <a href="https://7dagen.netlify.app/blog/7-dingen-die-je-kunt-doen-tijdens-het-tandenpoetsen">7 dingen die je kunt doen tijdens het tandenpoetsen</a>.</em></p>  

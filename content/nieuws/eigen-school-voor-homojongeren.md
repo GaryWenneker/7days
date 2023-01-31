@@ -1,5 +1,5 @@
 ---
-id: 41e6e32a898b40f6bc708ea0a7a515bb
+id: 1295818861a64f08a5623750f063c227
 type: nieuws
 layout: post
 title: "Eigen school voor homojongeren?"

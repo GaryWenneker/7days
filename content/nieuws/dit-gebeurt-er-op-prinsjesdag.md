@@ -1,5 +1,5 @@
 ---
-id: 4001733bd6614813bac776cff0fa6aa5
+id: 437281997bd74291bd3718d67f94d2a9
 type: nieuws
 layout: post
 title: "Dit gebeurt er op Prinsjesdag"
@@ -15,4 +15,4 @@ Speech uitgeschreven? Check. Koets opgepoetst? Yes. Miljoenennota uitgelekt, 
 
     <p>Tip: klik als de presentatie begint op het grijze rechthoekje rechtsonder in beeld. De Prezi verschijnt dan groot op je scherm.</p>
 <p><iframe allowfullscreen="" frameborder="0" height="500" id="iframe_container" mozallowfullscreen="" src="https://prezi.com/embed/wo-cppu037xl/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZS2czc0xFeHdMbWgwZXJ2d0N1S1NwSnNlcXBlbWw&amp;landing_sign=vW6m01OKGokWlRFxtawiDGzd8GwcIfF0NPWj4ckvdxA" webkitallowfullscreen="" width="850"></iframe></p>
-<p><em>Benieuwd wat koning Willem-Alexander allemaal te vertellen heeft in zijn troonrede? Houd onze website in de gaten voor een samenvatting. En vermaak je in de tussentijd met onze <a href="https://original.sevendays.nl/quiz-nieuws/quiz-wat-weet-jij-van-prinsjesdag">Prinsjesdag-quiz</a>.</em></p>  
+<p><em>Benieuwd wat koning Willem-Alexander allemaal te vertellen heeft in zijn troonrede? Houd onze website in de gaten voor een samenvatting. En vermaak je in de tussentijd met onze <a href="https://7dagen.netlify.app/quiz-nieuws/quiz-wat-weet-jij-van-prinsjesdag">Prinsjesdag-quiz</a>.</em></p>  

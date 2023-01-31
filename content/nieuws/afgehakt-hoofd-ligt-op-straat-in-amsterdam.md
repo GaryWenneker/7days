@@ -1,5 +1,5 @@
 ---
-id: b40f4b940e2140d7b51371b3e0d7c69f
+id: 2c978cf7b89341ed94a5bdedae47fd22
 type: nieuws
 layout: post
 title: "Afgehakt hoofd ligt op straat in Amsterdam"
@@ -21,11 +21,11 @@ Mexicaanse maffiatoestanden aan de Amstelveenseweg in Amsterdam. Daar werd woens
         
   
   <div class="content">
-    <img title="Foto ANP" height="1459" width="2259" class="media-element file-default" src="https://original.sevendays.nl/sites/default/files/ANP-42292970_0.jpg" alt="">  </div>
+    <img title="Foto ANP" height="1459" width="2259" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-42292970_0.jpg" alt="">  </div>
 
   
 </div>
 </div><br><strong>5. En nu?</strong><br>Burgemeester Van der Laan van Amsterdam heeft café Fayrouz onmiddellijk gesloten en de recherche is onderzoek aan het doen.
 <p><strong>6. Hebben veel mensen het hoofd gezien?</strong><br>Dat valt mee, want het was nog vroeg. Stan Koeman, van de broodjeswinkel naast Fayrouz, zag het hoofd als een van de eersten. ‘Het was extra luguber’, vertelde hij aan de NOS. ‘Ik was nota bene gehakt aan het draaien, toen mijn broer naar binnen kwam en zei: er ligt een hoofd op straat. Ik dacht: je bent gek. Maar ik ging mee naar buiten en inderdaad, daar lag het hoofd.’</p>
 <p><strong>7. Zijn er beelden verspreid van de vondst?</strong><br>Waarschijnlijk niet. Een paar ooggetuigen begonnen meteen foto’s te maken met hun smartphones, maar de politie heeft iedereen met klem gevraagd de gruwelijke beelden meteen te wissen.</p>
-<p><em>Altijd op de hoogte blijven van nieuws en tips waar je als jongere iets mee kunt? Meld je aan voor onze <a href="https://original.sevendays.nl/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://original.sevendays.nl/app">gratis nieuwsapp</a> of neem een proefabonnement op de <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">papieren 7Days</a>!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws en tips waar je als jongere iets mee kunt? Meld je aan voor onze <a href="https://7dagen.netlify.app/whatsapp">gratis WhatsApp-dienst</a>, download onze <a href="https://7dagen.netlify.app/app">gratis nieuwsapp</a> of neem een proefabonnement op de <a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel">papieren 7Days</a>!</em></p>  

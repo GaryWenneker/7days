@@ -1,5 +1,5 @@
 ---
-id: 1b3c01bcec164474965b5ed434016582
+id: 8e75955015fc4bc58d88f464c5ecc16f
 type: post
 layout: post
 title: "Foto’s die je écht eens na moet maken"
@@ -20,7 +20,7 @@ We doen het allemaal: als iemand vanuit het niets een camera tevoorschijn haalt 
         
   
   <div class="content">
-    <img height="738" width="984" style="width: 900px; height: 675px;" class="media-element file-default" data-delta="1" src="https://original.sevendays.nl/sites/default/files/IMG_3402.JPG" alt="">  </div>
+    <img height="738" width="984" style="width: 900px; height: 675px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/IMG_3402.JPG" alt="">  </div>
 
   
 </div>
@@ -30,7 +30,7 @@ We doen het allemaal: als iemand vanuit het niets een camera tevoorschijn haalt 
         
   
   <div class="content">
-    <img height="1334" width="750" style="font-size: 13.008px; width: 350px; height: 623px; float: left;" class="media-element file-default" data-delta="2" src="https://original.sevendays.nl/sites/default/files/image1_0.png" alt="">  </div>
+    <img height="1334" width="750" style="font-size: 13.008px; width: 350px; height: 623px; float: left;" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/image1_0.png" alt="">  </div>
 
   
 </div>
@@ -45,7 +45,7 @@ We doen het allemaal: als iemand vanuit het niets een camera tevoorschijn haalt 
         
   
   <div class="content">
-    <img height="512" width="384" style="font-size: 13.008px; width: 350px; height: 467px; float: right;" class="media-element file-default" data-delta="3" src="https://original.sevendays.nl/sites/default/files/IMG-20131117-WA0007.jpg" alt="">  </div>
+    <img height="512" width="384" style="font-size: 13.008px; width: 350px; height: 467px; float: right;" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/IMG-20131117-WA0007.jpg" alt="">  </div>
 
   
 </div>
