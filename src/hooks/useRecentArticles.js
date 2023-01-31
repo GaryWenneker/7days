@@ -8,7 +8,7 @@ export const useRecentArticles = () => {
         allMarkdownRemark(
           sort: { frontmatter: { date: DESC } }
           filter: { frontmatter: { type: { eq: "post" } } }
-          limit: 3
+          limit: 9000
         ) {
           edges {
             node {
