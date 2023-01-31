@@ -22,6 +22,7 @@ export default function Header() {
           </nav>
 
           <div className="ml-6 flex items-center border-l border-slate-200 pl-6 dark:border-zinc-800">
+            <ci-search></ci-search>
             <DarkmodeToggle />
             <a
               href="https://github.com/clean-commit/gatsby-starter-henlo"
