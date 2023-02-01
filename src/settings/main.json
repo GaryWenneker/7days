@@ -5,16 +5,28 @@
       "permalink": "/nieuws"
     },
     {
-      "name": "School",
-      "permalink": "/school"
+      "name": "Raar",
+      "permalink": "/raar"
+    },
+    {
+      "name": "Blog",
+      "permalink": "/blog"
+    },
+    {
+      "name": "Video",
+      "permalink": "/video"
     },
     {
       "name": "Lifestyle",
       "permalink": "/lifestyle"
     },
     {
-      "name": "Blog",
-      "permalink": "/blog"
+      "name": "School",
+      "permalink": "/school"
+    },
+    {
+      "name": "Quiz",
+      "permalink": "/quiz"
     }
   ]
 }

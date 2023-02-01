@@ -5,6 +5,10 @@ import { Widget as PermalinkWidget } from 'netlify-cms-widget-permalink';
 import pages from './collections/pages';
 import posts from './collections/posts';
 import nieuws from './collections/nieuws';
+import raar from './collections/raar';
+import video from './collections/video';
+import quiz from './collections/quiz';
+import nieuwsdossier from './collections/nieuwsdossier';
 import lifestyle from './collections/lifestyle';
 import school from './collections/school';
 import authors from './collections/authors';
@@ -28,7 +32,7 @@ const config = {
     },
     media_folder: '/static/img',
     public_folder: '/img',
-    collections: [pages, nieuws, lifestyle, school, posts, authors, settings],
+    collections: [pages, nieuws, raar, video, quiz, nieuwsdossier, lifestyle, school, posts, authors, settings],
   },
 };
 

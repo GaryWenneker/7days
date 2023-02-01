@@ -110,7 +110,6 @@ export default function DefaultHead({ data, children }) {
         name="msapplication-TileImage"
         content="/img/favicons/ms-icon-144x144.png"
       />
-      <script src="/scripts/search.js" type="text/javascript" />
     </>
   )
 }

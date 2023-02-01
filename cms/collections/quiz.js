@@ -3,13 +3,13 @@ import seo from '../fields/seo';
 import { ID } from '../fields';
 
 const collection = {
-  name: 'lifestyle',
-  label: 'Lifestyle',
+  name: 'quiz',
+  label: 'Quiz',
   editor: {
     preview: false,
   },
-  description: 'Lifestyle posts collection',
-  folder: 'content/lifestyle',
+  description: 'Quiz posts collection',
+  folder: 'content/quiz',
   slug: '{{slug}}',
   summary:
     "{{title}} - {{date | date('YYYY-MM-DD')}} – {{body | truncate(40, '***')}}",
@@ -20,7 +20,7 @@ const collection = {
       label: 'Type',
       name: 'type',
       widget: 'hidden',
-      default: 'lifestyle',
+      default: 'quiz',
     },
     {
       label: 'Layout',
@@ -45,7 +45,7 @@ const collection = {
       value_field: 'title',
       required: false,
     },
-    PermalinkField('lifestyle'),
+    PermalinkField('quiz'),
     {
       label: 'Featured Image',
       name: 'thumbnail',
