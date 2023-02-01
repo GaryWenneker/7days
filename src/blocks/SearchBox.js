@@ -1,6 +1,5 @@
 import React from 'react';
 import Container from '../components/UI/Container';
-import Text from '../components/UI/Text';
 
 export default function Searchbox({ data }) {
 
@@ -12,8 +11,7 @@ export default function Searchbox({ data }) {
   }
 
   function search (value) {
-
-    var myWindow = popupWindow(`https://www.google.nl/search?q=site%3Akidsweek.nl+${value}`, 'google', window, 1240, 800);
+    popupWindow(`https://www.google.nl/search?q=site%3Akidsweek.nl+${value}`, 'google', window, 1240, 800);
   }
   
 

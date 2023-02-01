@@ -18,9 +18,9 @@ const Post = ({ data }) => {
             <img alt={data.post.frontmatter.auteur} className='mr-5' src={data.post.frontmatter.avatar}/> : <></>
           }
           <div class="text-sky-500 dark:text-sky-400 mt-0 pt-0">
-          {data.post.frontmatter.auteur}MEUK
+          {data.post.frontmatter.auteur}
           </div>
-          <div class="dark:text-gray-300 ml-5">{data.post.frontmatter.date}
+          <div class="dark:text-gray-300 ml-5">{new Date(data.post.frontmatter.date).toLocaleDateString('nl-NL')}
           
           </div>
           <div class="text-slate-700 dark:text-slate-500 ml-5">

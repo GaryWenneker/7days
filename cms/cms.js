@@ -6,6 +6,7 @@ import pages from './collections/pages';
 import posts from './collections/posts';
 import nieuws from './collections/nieuws';
 import lifestyle from './collections/lifestyle';
+import school from './collections/school';
 import authors from './collections/authors';
 import settings from './collections/settings';
 import PagePreview from './previews/Page';
@@ -27,7 +28,7 @@ const config = {
     },
     media_folder: '/static/img',
     public_folder: '/img',
-    collections: [pages, nieuws, lifestyle, posts, authors, settings],
+    collections: [pages, nieuws, lifestyle, school, posts, authors, settings],
   },
 };
 
