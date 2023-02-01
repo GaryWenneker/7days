@@ -1,5 +1,5 @@
 ---
-id: fead9f4367004625a4c04db657e9bf62
+id: c6dc27da646343318926fed4b0cdb12b
 type: post
 layout: post
 title: "150 kilometer lopen..."
@@ -7,7 +7,9 @@ permalink: /blog/150-kilometer-lopen/
 date: 2022-05-11T19:16:41.067Z
 author: Thijsvan Reeuwijk
 auteur: Thijs van Reeuwijk
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/ThijsB%20%281%29.jpg?itok=qTLGl7Ol
+rubrieken:
+  - blogpost
 excerpt: "Daar zat ik dan, in het vliegtuig. Te popelen om te landen en te gaan lopen in de bergen. Maar ik zag er ook als een berg tegenop, want wat nou als het té zwaar was? Of ik als enige achterop zou lopen?   "
 seo:
   description: "150 kilometer lopen..."

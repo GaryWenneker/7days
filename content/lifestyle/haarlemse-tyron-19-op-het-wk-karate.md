@@ -1,0 +1,25 @@
+---
+id: 69143d5e95aa4e59bd0c4a5f2452040f
+type: lifestyle
+layout: post
+title: "Haarlemse Tyron (19) op het WK karate"
+permalink: /lifestyle/haarlemse-tyron-19-op-het-wk-karate/
+date: 2022-05-11T19:16:41.067Z
+author: CarolienPlasschaert
+auteur: Carolien Plasschaert
+avatar: /sites/default/files/styles/node_author/public/unnamed%20%282%29_0.jpg?itok=rj-sBLOL
+rubrieken:
+  - lifestyle
+  - nieuws
+excerpt: "In Oostenrijk is vandaag het WK karate begonnen. Karateka Tyron Lardy (19) uit Haarlem doet mee bij de senioren. Hoe raakte hij verzeild in deze vechtsport?  "
+seo:
+  description: "Haarlemse Tyron (19) op het WK karate"
+  title: "Haarlemse Tyron (19) op het WK karate"
+---
+In Oostenrijk is vandaag het WK karate begonnen. Karateka Tyron Lardy (19) uit Haarlem doet mee bij de senioren. Hoe raakte hij verzeild in deze vechtsport?  
+
+    <p>De meeste kinderen gaan op voetbal, hockey of tennis. Karate? Dat hoor je een stuk minder vaak. Tyron Lardy was er al héél vroeg bij. ‘Mijn vader en zus doen ook aan karate en als zij aan wedstrijden meededen moest ik altijd mee, omdat ik niet alleen thuis mocht blijven. Ik stond dan langs de kant mee te trappen en te stoten. Op mijn zesde zeiden mijn ouders: ga jij dan ook maar!’<br><br><strong>Huilend op de mat</strong><br>Tyron was meteen gek op de sport. Sinds zijn achtste deed hij mee aan wedstrijden en hij trainde hard. Toch vond hij het niet áltijd leuk. ‘Zo rond mijn elfde kreeg ik een dip. Ik had niet zo’n zin meer en stond soms huilend op de mat’, vertelt hij.</p>
+<p>Toch ging hij door. ‘Ik moest van mijn ouders sporten en ik was denk ik te lui om een andere sport uit te kiezen.’<br><br><strong>Lange ledematen</strong><br>Gelukkig maar, want een aantal jaar later veranderde alles. Tyron kreeg een groeispurt en tikte op zijn vijftiende al de 1 meter 85 aan. Zijn coach leerde hem zijn lange lichaam slim in te zetten, waardoor hij weer frisse moed kreeg. Lachend: ‘Ik dacht bij mezelf: hé, dit kan misschien wel wat worden!’<br><br><strong>Natuur- én wiskunde</strong><br>Inmiddels traint hij - zeker met een groot toernooi in aantocht - zeven keer per week. Om op het hoogste niveau mee te draaien, moet je veel offers brengen. ‘Vrienden afzeggen, feestjes missen, vroeg naar bed’, somt hij op. ‘Soms zou ik willen dat ik een dankbaardere sport had uitgekozen. Karate is niet zo bekend en er gaat niet veel geld in om, zoals bij voetbal. Je moet jezelf zien te belonen. Dat is niet altijd makkelijk.</p>
+<p>'Hoe ik dat toch voor elkaar krijg? Nou, door te winnen bijvoorbeeld. In februari werd ik eerste op het Europees kampioenschap voor junioren. Als ik daarop terugkijk geeft me dat een heel goed gevoel. Daar doe ik het voor.’<br><br><strong>Op de bank met een serie</strong><br>Aan de andere kant heeft het ook voordelen, vindt Tyron, om niet 100% met sport bezig te zijn. ‘Naast karate werk ik aan mijn maatschappelijke carrière: ik studeer natuur- en scheikunde aan de Universiteit Leiden. En daarbij werk ik ook nog. Het is druk, ja. Maar met streng zijn en regelmaat kom je een heel eind.’ Die discipline die je bij karate leert, komt goed van pas in zijn dagelijks leven, vertelt hij verder.<br><br>‘Als ik na een lange dag werken thuiskom, ben ik moe. Net als iedereen. En net als iedereen wil ik dan ook het liefst op de bank ploffen en een serie kijken. Maar ik weet: als ik dat niet doe en gewoon ga studeren dan voel ik me achteraf veel beter. Dat is iets wat ik heb geleerd van karate.’ </p>
+<p><strong>Komkommer</strong><br>Diezelfde discipline brengt hij op met eten. Tyron vecht in de klasse +84 kilo en is een zwaargewicht. Om goed op gewicht te blijven moet hij op zijn eten letten. ‘Ik moet zorgen dat ik gezonde voeding binnenkrijg. Wat dat is, voor mij: veel kip let en groenten. En natuurlijk ei en magere kwark. Koolhydraten zoals pasta neem ik niet al te vaak. Wel eet ik veel komkommer. Dan eet je iets, maar krijg je niet al te veel binnen.’<br><br><strong>‘Immens vet’</strong><br>In augustus werd bekend dat karate - net als surfen, klimmen, honkbal en skateboarden - olympisch wordt. Tyron kan bijna niet onder woorden brengen hóe blij hij daar mee is. ‘Het is immens vet’, doet hij een poging. ‘Tijdens de Spelen staat de wereld even een paar weken stil en draait alles om dit evenement. Om daar deel van uit te maken, is de droom van iedere sporter.’<br><br>Maar zo ver is het voorlopig nog niet. Eerst het WK in Oostenrijk nog, waar Tyron dinsdag met een team van zeven man sterk gaat vechten. Wat er na het kampioenschap op het programma staat? ‘In november heb ik een NK. Maar voor ik hiervoor ga trainen ga ik eerst junkfood eten en rijd ik naar de KFC!’ </p>
+<p><em>Dit artikel verscheen eerder in de papieren 7Days. Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

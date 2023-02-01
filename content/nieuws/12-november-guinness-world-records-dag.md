@@ -1,5 +1,5 @@
 ---
-id: bdb4128796394855bb97bd67fe2d1374
+id: db531587355548209a9b18316241064f
 type: nieuws
 layout: post
 title: "12 november: Guinness World Records-dag"
@@ -7,7 +7,9 @@ permalink: /nieuws/12-november-guinness-world-records-dag/
 date: 2022-05-11T19:16:41.067Z
 author: JacquelineAncona
 auteur: Jacqueline Ancona
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Jacqueline_Pasfoto.jpg?itok=RPZ_0CZG
+rubrieken:
+  - nieuws
 excerpt: "Vandaag doen mensen overal ter wereld hun uiterste best om een bijzonder record te vestigen. Door, ik noem maar wat: zo veel mogelijk T-shirts over elkaar heen aan te trekken, zo zwaar mogelijke dingen met hun tong op te tillen of zo snel mogelijk de 100 meter horden te lopen… op flippers. Ik zei al: ik noem maar wat.  "
 seo:
   description: "12 november: Guinness World Records-dag"

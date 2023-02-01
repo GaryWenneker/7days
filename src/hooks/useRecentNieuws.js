@@ -22,7 +22,7 @@ export const useRecentNieuws = () => {
                 date(formatString: "MMMM DD, YYYY")
                 author
                 auteur
-                rubriek
+                rubrieken
                 thumbnail
               }
             }

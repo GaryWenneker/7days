@@ -1,5 +1,5 @@
 ---
-id: 216cb0431afc417e87cdeee11243d690
+id: 15482537567b431da4a6478a05a91548
 type: post
 layout: post
 title: "7 geweldige grappen"
@@ -7,7 +7,9 @@ permalink: /blog/7-geweldige-grappen/
 date: 2022-05-11T19:16:41.067Z
 author: Thijsvan Reeuwijk
 auteur: Thijs van Reeuwijk
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/ThijsB%20%281%29.jpg?itok=qTLGl7Ol
+rubrieken:
+  - blogpost
 excerpt: "1 april is alweer een tijdje voorbij. En grappen blijven het hele jaar door leuk, maar wat zijn nou écht leuke grappen om uit te halen bij vrienden, familie of voorbijgangers die je zelf gemakkelijk kunt doen? Ik deel maar wat graag deze zeven grappen met je.  "
 seo:
   description: "7 geweldige grappen"

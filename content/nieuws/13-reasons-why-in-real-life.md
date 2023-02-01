@@ -1,5 +1,5 @@
 ---
-id: a635c21a02e14786917ea691fb8e1627
+id: 1be288bbb4924786b754d01663f9be4d
 type: nieuws
 layout: post
 title: "13 Reasons Why in ‘real life'"
@@ -7,7 +7,9 @@ permalink: /nieuws/13-reasons-why-in-real-life/
 date: 2022-05-11T19:16:41.067Z
 author: Sandravan de Wiel
 auteur: Sandra van de Wiel
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Sandra%20van%20de%20Wiel_0.jpg?itok=62k7evo4
+rubrieken:
+  - nieuws
 excerpt: "Zet 13 Reasons Why jongeren aan tot zelfmoord of niet? Die discussie laaide weer op nadat een jongen uit Peru zich waarschijnlijk heeft laten inspireren door het verhaal van Hannah Baker.  "
 seo:
   description: "13 Reasons Why in ‘real life'"

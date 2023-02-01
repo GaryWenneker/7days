@@ -35,15 +35,18 @@ const collection = {
       default: '',
     },
     {
-      label: 'Rubriek',
-      name: 'rubriek',
-      widget: 'relation',
-      collection: 'rubrieken',
-      default: '',
-      search_fields: ['title'],
-      display_fields: ['title'],
-      value_field: 'title',
-      required: false,
+      label: 'Rubrieken',
+      name: 'rubrieken',
+      widget: 'list',
+      fields: [
+
+        {
+          label: 'Name',
+          name: 'title',
+          widget: 'string',
+          default: '',
+        },
+      ],
     },
     PermalinkField('nieuws'),
     {
@@ -63,6 +66,12 @@ const collection = {
     {
       label: 'Auteur',
       name: 'auteur',
+      widget: 'string',
+      default: '',
+    },
+    {
+      label: 'Avatar',
+      name: 'avatar',
       widget: 'string',
       default: '',
     },

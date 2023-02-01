@@ -1,5 +1,5 @@
 ---
-id: 5535fa4311e84ca3bd2a5e3ca71822fe
+id: 0df14195a80a42bea652ce7a6f2fb4bc
 type: nieuws
 layout: post
 title: "12- tot 15-jarigen verzekerd van deelname Vierdaagse"
@@ -7,7 +7,9 @@ permalink: /nieuws/12--tot-15-jarigen-verzekerd-van-deelname-vierdaagse/
 date: 2022-05-11T19:16:41.067Z
 author: MarindeHurenkamp
 auteur: Marinde Hurenkamp
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Marinde3.jpg?itok=LMRPApOG
+rubrieken:
+  - nieuws
 excerpt: "Ben jij tijdens de Nijmeegse Vierdaagse tussen de 12 en 15 jaar? En wil je graag meelopen? Dan is er goed nieuws! Als je je voor de eerste keer voor dit wandelevenement inschrijft, dan hoef je niet te loten. Je krijg gegarandeerd een startbewijs.  "
 seo:
   description: "12- tot 15-jarigen verzekerd van deelname Vierdaagse"

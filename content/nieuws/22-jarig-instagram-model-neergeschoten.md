@@ -1,5 +1,5 @@
 ---
-id: abd2e99895f7438bae516c0852917624
+id: fa1f872597a3401382598cf46a060802
 type: nieuws
 layout: post
 title: "22-jarig Instagram-model neergeschoten"
@@ -7,7 +7,9 @@ permalink: /nieuws/22-jarig-instagram-model-neergeschoten/
 date: 2022-05-11T19:16:41.067Z
 author: Valerievan Vliet
 auteur: Valerie van Vliet
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Foto%20Valerie.jpg?itok=JJKtHUUV
+rubrieken:
+  - nieuws
 excerpt: "'Ze maakte geen schijn van kans', zeggen de Iraakse media. Tara Fares werd neergeschoten  in Bagdad. Het Instagram-model werd nog naar het ziekenhuis gebracht, maar dat had al geen zin meer.  "
 seo:
   description: "22-jarig Instagram-model neergeschoten"

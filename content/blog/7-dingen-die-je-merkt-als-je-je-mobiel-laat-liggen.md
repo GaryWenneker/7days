@@ -1,5 +1,5 @@
 ---
-id: f52dfbe33fdc4afb8a13b34ef442ef28
+id: 49e2cf3c1c094ce2a7f0a52ccad09632
 type: post
 layout: post
 title: "7 dingen die je merkt als je je mobiel laat liggen"
@@ -7,7 +7,9 @@ permalink: /blog/7-dingen-die-je-merkt-als-je-je-mobiel-laat-liggen/
 date: 2022-05-11T19:16:41.067Z
 author: Femkevan de Griendt
 auteur: Femke van de Griendt
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/FemkeB.jpg?itok=wCzz33l-
+rubrieken:
+  - blogpost
 excerpt: "Mijn smartphone is nooit ver weg. Daar erger ik me soms aan en dus ik probeer de laatste tijd te minderen. Ik haal er zeker ook goede dingen uit, maar als het te veel wordt dan kan ik prima leven zonder telefoon. En dan valt een aantal dingen op.  "
 seo:
   description: "7 dingen die je merkt als je je mobiel laat liggen"

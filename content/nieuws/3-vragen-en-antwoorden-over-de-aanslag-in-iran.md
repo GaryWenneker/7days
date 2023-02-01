@@ -1,5 +1,5 @@
 ---
-id: fa05bd2f80fd47bfbfcb3360af0309cc
+id: ff60feccaa96476db7217442ca5b8c78
 type: nieuws
 layout: post
 title: "3 vragen en antwoorden over de aanslag in Iran"
@@ -7,7 +7,9 @@ permalink: /nieuws/3-vragen-en-antwoorden-over-de-aanslag-in-iran/
 date: 2022-05-11T19:16:41.067Z
 author: Sandravan de Wiel
 auteur: Sandra van de Wiel
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Sandra%20van%20de%20Wiel_0.jpg?itok=62k7evo4
+rubrieken:
+  - nieuws
 excerpt: "Bij een schietpartij tijdens een parade in Iran zijn ruim twintig mensen om het leven gekomen. Drie vragen en antwoorden over deze aanslag.  "
 seo:
   description: "3 vragen en antwoorden over de aanslag in Iran"

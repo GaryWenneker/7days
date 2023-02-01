@@ -1,5 +1,5 @@
 ---
-id: 036cc45960b442dab929400f80104bcc
+id: fb3dd14ced2a43749a4c600b80b7632c
 type: nieuws
 layout: post
 title: "'1 op 3 vluchtelingen is onder de 18 jaar'"
@@ -7,7 +7,9 @@ permalink: /nieuws/1-op-3-vluchtelingen-is-onder-de-18-jaar/
 date: 2022-05-11T19:16:41.067Z
 author: MennoWoudt
 auteur: Menno Woudt
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/menno4_0.png?itok=5KD7Yfz3
+rubrieken:
+  - nieuws
 excerpt: "Wie denkt dat het vluchtelingenprobleem voorbij is, heeft het mis. Nog altijd zijn honderdduizenden mensen op de vlucht, in de hoop op een beter bestaan. Alleen al dit jaar zouden tweehonderdduizend mensen naar Europa zijn getrokken. Ruim een derde van hen zou onder de achttien jaar zijn, stelt hulporganisatie Save the Children in The Independent.  "
 seo:
   description: "'1 op 3 vluchtelingen is onder de 18 jaar'"

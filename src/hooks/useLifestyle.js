@@ -22,7 +22,7 @@ export const useLifestyle = () => {
                 date(formatString: "MMMM DD, YYYY")
                 author
                 auteur
-                rubriek
+                rubrieken
                 thumbnail
               }
             }

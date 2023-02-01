@@ -1,5 +1,5 @@
 ---
-id: 172f53c1aead483aa860802f7a1c91e8
+id: 8aab7340f90049ed8043d9f37013e422
 type: nieuws
 layout: post
 title: "10x typisch Nadal"
@@ -7,7 +7,9 @@ permalink: /nieuws/10x-typisch-nadal/
 date: 2022-05-11T19:16:41.067Z
 author: JacquelineAncona
 auteur: Jacqueline Ancona
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Jacqueline_Pasfoto.jpg?itok=RPZ_0CZG
+rubrieken:
+  - nieuws
 excerpt: "Als de Spaanse Rafael Nadal zijn halve finale wint, maakt hij zondag kans om voor de tiende keer het grote Franse tennistoernooi Roland Garros te winnen. Iets wat zijn collega's nog nooit eerder is gelukt. Sowieso doet Nadal op de baan wel meer dingen die je andere tennissers nooit ziet doen. Tien dingen die Nadal typisch Nadal maken!  "
 seo:
   description: "10x typisch Nadal"

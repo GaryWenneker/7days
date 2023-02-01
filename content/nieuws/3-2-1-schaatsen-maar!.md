@@ -1,5 +1,5 @@
 ---
-id: b226e9d9a63a4ef3b9cd00af95201237
+id: 667b8b27ca784595a3cc36fcf99a834e
 type: nieuws
 layout: post
 title: "3-2-1: schaatsen maar!"
@@ -7,7 +7,9 @@ permalink: /nieuws/3-2-1-schaatsen-maar!/
 date: 2022-05-11T19:16:41.067Z
 author: CarolienPlasschaert
 auteur: Carolien Plasschaert
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/unnamed%20%282%29_0.jpg?itok=rj-sBLOL
+rubrieken:
+  - nieuws
 excerpt: "Dinsdagavond om half zeven is het dan écht zo ver: de allereerste schaatsmarathon op natuurijs van dit seizoen. Hij wordt gereden in Haaksbergen. Daar waren ze vanmorgen, onder grote belangstelling, al vroeg in de weer met het meten van de ijsdikte.   "
 seo:
   description: "3-2-1: schaatsen maar!"

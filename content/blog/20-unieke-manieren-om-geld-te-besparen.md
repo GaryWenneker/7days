@@ -1,5 +1,5 @@
 ---
-id: 241cd156f5f04f2f9b700c421dafc882
+id: 2d00aba71e8b4f69b89e49daddd16602
 type: post
 layout: post
 title: "20 unieke manieren om geld te besparen"
@@ -7,7 +7,9 @@ permalink: /blog/20-unieke-manieren-om-geld-te-besparen/
 date: 2022-05-11T19:16:41.067Z
 author: LucasVersteeg
 auteur: Lucas Versteeg
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/Lucas%20nieuw.jpg?itok=DGwwYKYg
+rubrieken:
+  - blogpost
 excerpt: "Als je nu nog op de middelbare school zit, kun je maar beter zo zuinig mogelijk leven om de komende jaartjes door te komen. Laatst werd namelijk bekend gemaakt dat er binnen een aantal jaar extra rente komt op de studentenlening. Lees maar snel door als je dit wilt overleven.  "
 seo:
   description: "20 unieke manieren om geld te besparen"

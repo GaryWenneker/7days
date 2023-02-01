@@ -1,5 +1,5 @@
 ---
-id: 81bd02b1f83a475ab303632ca7f5ea91
+id: c865341f843e49cc9475f22b4bb1afb7
 type: nieuws
 layout: post
 title: "24 uur lopen voor straatkinderen "
@@ -7,7 +7,9 @@ permalink: /nieuws/24-uur-lopen-voor-straatkinderen-/
 date: 2022-05-11T19:16:41.067Z
 author: Valerievan Vliet
 auteur: Valerie van Vliet
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Foto%20Valerie.jpg?itok=JJKtHUUV
+rubrieken:
+  - nieuws
 excerpt: "24 uur lang lopen voor het goede doel. Dat gaat de dertienjarige Riley dit weekend doen. Met The Hike wil hij geld ophalen voor straatkinderen op Kaapverdië. ‘Een kind hoort niet op straat.’  "
 seo:
   description: "24 uur lopen voor straatkinderen "

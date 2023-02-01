@@ -1,5 +1,5 @@
 ---
-id: f6a08c42856b4cb5a2c9de0fe8cb355c
+id: 7c2fb05740b44f3cbff47eeb4846bf2b
 type: nieuws
 layout: post
 title: "15-jarige tennisster Kostyuk blijft verbazen"
@@ -7,7 +7,9 @@ permalink: /nieuws/15-jarige-tennisster-kostyuk-blijft-verbazen/
 date: 2022-05-11T19:16:41.067Z
 author: VeraBosch
 auteur: Vera Bosch
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Vera.jpg?itok=2rBVlrSc
+rubrieken:
+  - nieuws
 excerpt: "Een ware ontdekking wordt Marta Kostyuk genoemd. Vandaag won de tennisster de derde ronde van de Australian Open. Daarmee is ze de jongste speler die zo ver komt op een Grand Slam sinds 1997.   "
 seo:
   description: "15-jarige tennisster Kostyuk blijft verbazen"

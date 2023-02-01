@@ -1,5 +1,5 @@
 ---
-id: f4cd0d66722843e8b056aaeb486ca09e
+id: 5920982bf9824fbda8e80ba1b3322179
 type: nieuws
 layout: post
 title: "1 op de 3 jongeren denkt dat Rutte weer premier wordt"
@@ -7,7 +7,9 @@ permalink: /nieuws/1-op-de-3-jongeren-denkt-dat-rutte-weer-premier-wordt/
 date: 2022-05-11T19:16:41.067Z
 author: 3FMTussenuur
 auteur: 3FM Tussenuur
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/3FM_Tussenuur%20voor%20innsta.png?itok=1kmJm_ZP
+rubrieken:
+  - nieuws
 excerpt: "Mark Rutte wordt ook na de verkiezingen weer de baas van het Nederlandse kabinet. Althans, dat zegt 1 op de 3 jongeren in een peiling. En de helft vreest dat er dit jaar een terroristische aanslag in Nederland wordt gepleegd.  "
 seo:
   description: "1 op de 3 jongeren denkt dat Rutte weer premier wordt"

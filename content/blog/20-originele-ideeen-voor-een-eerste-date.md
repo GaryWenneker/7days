@@ -1,5 +1,5 @@
 ---
-id: 9b5aa9e9ca784a8f97ff47cb29998201
+id: f7a65088f2074841b7ba38e3a15e21cd
 type: post
 layout: post
 title: "20 originele ideeën voor een eerste date"
@@ -7,7 +7,9 @@ permalink: /blog/20-originele-ideeen-voor-een-eerste-date/
 date: 2022-05-11T19:16:41.067Z
 author: LucasVersteeg
 auteur: Lucas Versteeg
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/Lucas%20nieuw.jpg?itok=DGwwYKYg
+rubrieken:
+  - blogpost
 excerpt: "Een eerste date betekent peentjes zweten, leuke grapjes proberen te maken en met man en macht ongemakkelijke stiltes willen voorkomen. Wat voor activiteit jullie gaan doen, kan de sfeer flink bepalen. Kies daarom niet voor de bioscoop of een etentje, maar voor één van deze 20 ideeën.  "
 seo:
   description: "20 originele ideeën voor een eerste date"

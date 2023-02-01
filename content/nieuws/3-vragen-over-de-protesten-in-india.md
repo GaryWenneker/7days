@@ -1,5 +1,5 @@
 ---
-id: f879d57626064ff4b9b6e6491b098819
+id: 7464b83013db40ceae21d6f0a7a33a16
 type: nieuws
 layout: post
 title: "3 vragen over de protesten in India"
@@ -7,7 +7,9 @@ permalink: /nieuws/3-vragen-over-de-protesten-in-india/
 date: 2022-05-11T19:16:41.067Z
 author: MarindeHurenkamp
 auteur: Marinde Hurenkamp
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Marinde3.jpg?itok=LMRPApOG
+rubrieken:
+  - nieuws
 excerpt: "Duizenden Indiërs gingen gisteren overal in het land de straat op. Ze zijn woedend over de aanpassing van een wet die mensen uit de 'laagste kaste' beschermt tegen discriminatie.  "
 seo:
   description: "3 vragen over de protesten in India"

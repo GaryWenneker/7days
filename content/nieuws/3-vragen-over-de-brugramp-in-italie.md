@@ -1,5 +1,5 @@
 ---
-id: 05cb6bb8f76d49f886fa375de28b4519
+id: afe7dd06a3324c1696ecd7b9c7b17883
 type: nieuws
 layout: post
 title: "3 vragen over de brugramp in Italië"
@@ -7,7 +7,9 @@ permalink: /nieuws/3-vragen-over-de-brugramp-in-italie/
 date: 2022-05-11T19:16:41.067Z
 author: Sandravan de Wiel
 auteur: Sandra van de Wiel
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Sandra%20van%20de%20Wiel_0.jpg?itok=62k7evo4
+rubrieken:
+  - nieuws
 excerpt: "Een grote ramp in Italië. Een brug in de Italiaanse havenstad Genua is dinsdag ingestort. Tientallen mensen kwamen daarbij om het leven. Drie vragen (en antwoorden) over deze ramp.  "
 seo:
   description: "3 vragen over de brugramp in Italië"

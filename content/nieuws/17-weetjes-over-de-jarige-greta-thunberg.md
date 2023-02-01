@@ -1,5 +1,5 @@
 ---
-id: aab676863e9d4e1d8d80072cdd6d5e64
+id: e1b3f1b2a7a34696886c4096724c1395
 type: nieuws
 layout: post
 title: "17 weetjes over de jarige Greta Thunberg"
@@ -7,7 +7,9 @@ permalink: /nieuws/17-weetjes-over-de-jarige-greta-thunberg/
 date: 2022-05-11T19:16:41.067Z
 author: LisetteGerbrands
 auteur: Lisette Gerbrands
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/13450257_10208224020345949_4749455365629855480_n.jpg?itok=bu9Jk8Bo
+rubrieken:
+  - nieuws
 excerpt: "De Zweedse klimaatactiviste Greta Thunberg mag vandaag zeventien kaarsjes uitblazen! Ter ere van haar verjaardag zetten we zeventien weetjes over de jarige job bij elkaar. Wist je dat...  "
 seo:
   description: "17 weetjes over de jarige Greta Thunberg"

@@ -1,5 +1,5 @@
 ---
-id: f23cd75f861f4afea14e5a5f0a7daa24
+id: 115f909334444e9e8bf7f81fe17279fe
 type: nieuws
 layout: post
 title: "14.049 beetjes mondslijm om oude moordzaak op te lossen"
@@ -7,7 +7,9 @@ permalink: /nieuws/14049-beetjes-mondslijm-om-oude-moordzaak-op-te-lossen/
 date: 2022-05-11T19:16:41.067Z
 author: NathalieStrijker
 auteur: Nathalie Strijker
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Nathalie_pasfoto.jpg?itok=fb-LHyYL
+rubrieken:
+  - nieuws
 excerpt: "In Limburg hebben 14.049 mannen de afgelopen weken vrijwillig een beetje mondslijm afgestaan. Met de allernieuwste technieken gaat de politie dat nu onderzoeken, in de hoop zo de oude moordzaak op Nicky Verstappen op te lossen.  "
 seo:
   description: "14.049 beetjes mondslijm om oude moordzaak op te lossen"

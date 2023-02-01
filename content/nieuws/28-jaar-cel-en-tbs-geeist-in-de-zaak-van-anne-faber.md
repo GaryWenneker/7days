@@ -1,5 +1,5 @@
 ---
-id: 60fc7fed59f64c86b48f66765b604649
+id: 1408f2f884994e3ca3fa280e1f8c22ef
 type: nieuws
 layout: post
 title: "28 jaar cel en tbs geëist in de zaak van Anne Faber"
@@ -7,7 +7,9 @@ permalink: /nieuws/28-jaar-cel-en-tbs-geeist-in-de-zaak-van-anne-faber/
 date: 2022-05-11T19:16:41.067Z
 author: NathalieStrijker
 auteur: Nathalie Strijker
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Nathalie_pasfoto.jpg?itok=fb-LHyYL
+rubrieken:
+  - nieuws
 excerpt: "28 jaar cel en tbs met dwangverpleging eiste het Openbaar Ministerie vandaag in de strafzaak tegen Michael P., de man die verdacht wordt van het doden en verkrachten van Anne Faber. De rechtbank doet op 17 juli uitspraak.  "
 seo:
   description: "28 jaar cel en tbs geëist in de zaak van Anne Faber"

@@ -1,5 +1,5 @@
 ---
-id: 5123143f9daf4af4836ea8ebf728df0e
+id: bdb7b891fc884e948c8bfa3e1c6a137e
 type: post
 layout: post
 title: "7 manieren om je zomer te herbeleven"
@@ -7,7 +7,9 @@ permalink: /blog/7-manieren-om-je-zomer-te-herbeleven/
 date: 2022-05-11T19:16:41.067Z
 author: LucasVersteeg
 auteur: Lucas Versteeg
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/Lucas%20nieuw.jpg?itok=DGwwYKYg
+rubrieken:
+  - blogpost
 excerpt: "We willen er liever niet mee geconfronteerd worden, maar het is de harde waarheid: de zomervakantie is voorbij en het normale leven is weer bezig.  "
 seo:
   description: "7 manieren om je zomer te herbeleven"

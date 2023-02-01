@@ -1,5 +1,5 @@
 ---
-id: 8dacb215719543df893a7975cafe16ec
+id: b70db8fac4704c328c89ae61a16666a3
 type: nieuws
 layout: post
 title: "3 vragen over misdaadjournalist Bas van Hout "
@@ -7,7 +7,9 @@ permalink: /nieuws/3-vragen-over-misdaadjournalist-bas-van-hout-/
 date: 2022-05-11T19:16:41.067Z
 author: GeorgiaOost
 auteur: Georgia Oost
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/254A4229.jpg?itok=Uxllc6oW
+rubrieken:
+  - nieuws
 excerpt: "Misdaadjournalist Bas van Hout heeft tijdens zijn werk jarenlang geheime informatie gedeeld met de AIVD. Door een paar grote fouten van de geheime dienst is de samenwerking uitgelekt, waardoor van Hout groot gevaar liep.  "
 seo:
   description: "3 vragen over misdaadjournalist Bas van Hout "

@@ -1,5 +1,5 @@
 ---
-id: f3979b2d640c4620b1b907380c49b803
+id: 7eb26f35454746a3b9e5deabec194d0e
 type: post
 layout: post
 title: "7 originele tatoeages om littekens te verbergen "
@@ -7,7 +7,9 @@ permalink: /blog/7-originele-tatoeages-om-littekens-te-verbergen-/
 date: 2022-05-11T19:16:41.067Z
 author: LucasVersteeg
 auteur: Lucas Versteeg
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/Lucas%20nieuw.jpg?itok=DGwwYKYg
+rubrieken:
+  - blogpost
 excerpt: "Het wordt weer lente! Het zonnetje zal zich steeds vaker laten zien en de korte broeken en t-shirts worden weer tevoorschijn getoverd, met meer blote benen en armen als gevolg. Dit betekent dat tatoeages ook vaak beter zichtbaar zijn. Wist je dat ze ook nuttig kunnen zijn?  "
 seo:
   description: "7 originele tatoeages om littekens te verbergen "

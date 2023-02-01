@@ -1,5 +1,5 @@
 ---
-id: a9916544ff3647e98c224ee8e93ba246
+id: ba2d9917d77a4c19a4abe5405acf19e7
 type: post
 layout: post
 title: "5 cadeaus waar je moeder heel blij van wordt"
@@ -7,7 +7,9 @@ permalink: /blog/5-cadeaus-waar-je-moeder-heel-blij-van-wordt/
 date: 2022-05-11T19:16:41.067Z
 author: EzraVogt
 auteur: Ezra Vogt
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/ezra%202.jpg?itok=ZILNKcTr
+rubrieken:
+  - blogpost
 excerpt: "Reminder: zondag is het weer Moederdag! Dé dag van het jaar waarop je je moeder kunt verwennen met een bloemetje, een boekenbon of wat chocolade. Of misschien wil je liever eens wat originelers geven, maar weet je nog niet precies wat... Lees hier 5 ideeën voor het perfecte Moederdag-geschenk!  "
 seo:
   description: "5 cadeaus waar je moeder heel blij van wordt"

@@ -1,5 +1,5 @@
 ---
-id: e38f78d86caf45108d3b4961cb24de66
+id: 8091feeb0ae74a21a5ec41aef22c058b
 type: post
 layout: post
 title: "5 levenslessen die ik leerde op de middelbare school"
@@ -7,7 +7,9 @@ permalink: /blog/5-levenslessen-die-ik-leerde-op-de-middelbare-school/
 date: 2022-05-11T19:16:41.067Z
 author: SanneLeferink
 auteur: Sanne Leferink
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/Sanne_OK.jpg?itok=gvb3MUC8
+rubrieken:
+  - blogpost
 excerpt: "Na jarenlang ploeteren eindelijk mijn diploma in ontvangst mogen nemen, is het beste gevoel dat ik ooit heb gehad. Toch draaide de middelbare school niet alleen om cijfers, toetsen en stampwerk, besefte ik. Ik heb er zowaar ook vijf levenslessen geleerd.  "
 seo:
   description: "5 levenslessen die ik leerde op de middelbare school"

@@ -1,5 +1,5 @@
 ---
-id: 287a386d793b479580f9245ec9cfba11
+id: 2bf970a28dda41a0830d1b56a9fb3109
 type: nieuws
 layout: post
 title: "14 april: Kijk-naar-de-lucht-dag"
@@ -7,7 +7,9 @@ permalink: /nieuws/14-april-kijk-naar-de-lucht-dag/
 date: 2022-05-11T19:16:41.067Z
 author: JacquelineAncona
 auteur: Jacqueline Ancona
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Jacqueline_Pasfoto.jpg?itok=RPZ_0CZG
+rubrieken:
+  - nieuws
 excerpt: "Eén keer in de zoveel tijd staren we met z’n allen onze nek stijf om een eclips te zien. Als die al te zien is, tenminste. Maar waarom alleen kijken als de zon of de maan juist niet te zien is? Er is elke dag genoeg wél te zien.  "
 seo:
   description: "14 april: Kijk-naar-de-lucht-dag"

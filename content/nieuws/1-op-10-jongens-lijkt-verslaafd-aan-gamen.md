@@ -1,5 +1,5 @@
 ---
-id: 6853ba6794074ca1aa5371cdb1764ef0
+id: 59986c9618ca47818cb97c0eae2a5368
 type: nieuws
 layout: post
 title: "1 op 10 jongens lijkt verslaafd aan gamen"
@@ -7,7 +7,9 @@ permalink: /nieuws/1-op-10-jongens-lijkt-verslaafd-aan-gamen/
 date: 2022-05-11T19:16:41.067Z
 author: GitteHessels
 auteur: Gitte Hessels
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/DSC06407%20Gitte_0.jpg?itok=zeg9hMTG
+rubrieken:
+  - nieuws
 excerpt: "Game jij 29 uur per week en vind je dat dan nog steeds niet genoeg? Zeg jij een gaaf feestje af om dat potje GTA af te maken? Dan ben je misschien wel gameverslaafd! De Nederlandse wetenschapper Regina van den Eijnden deed een groot onderzoek naar dit verschijnsel onder bijna 2000 kinderen tussen de 12 en 15 jaar. En wat bleek? Het lijkt erop dat één op de tien jongens verslaafd is. Vijf vragen en antwoorden over dit onderzoek.  "
 seo:
   description: "1 op 10 jongens lijkt verslaafd aan gamen"

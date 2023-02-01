@@ -1,5 +1,5 @@
 ---
-id: 4dd162932b3c40b1b887bd7c7d21d39f
+id: c203f0186aad4980a034db2d3fe7c371
 type: post
 layout: post
 title: "7 redenen waarom de lente mijn favoriete seizoen is"
@@ -7,7 +7,9 @@ permalink: /blog/7-redenen-waarom-de-lente-mijn-favoriete-seizoen-is/
 date: 2022-05-11T19:16:41.067Z
 author: LauraSimons
 auteur: Laura Simons
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/Laura.JPG?itok=R0DIWri1
+rubrieken:
+  - blogpost
 excerpt: "Voor de één is het een slap aftreksel van de zomer, voor de ander een ongewenst gevolg op de winter. Met het lekkere weer van de afgelopen tijd kunnen we er niet meer omheen: de lente komt eraan! En daar heb ik ontzettend veel zin in, want het is mijn favoriete seizoen. Waarom? 7 redenen op rij.  "
 seo:
   description: "7 redenen waarom de lente mijn favoriete seizoen is"

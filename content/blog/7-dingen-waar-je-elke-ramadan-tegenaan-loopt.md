@@ -1,5 +1,5 @@
 ---
-id: 535651e927f045b2be946e81e2183923
+id: 54bba5836ce5402f8b7887872f56dff6
 type: post
 layout: post
 title: "7 dingen waar je elke Ramadan tegenaan loopt"
@@ -7,7 +7,9 @@ permalink: /blog/7-dingen-waar-je-elke-ramadan-tegenaan-loopt/
 date: 2022-05-11T19:16:41.067Z
 author: TahrimRamdjan
 auteur: Tahrim Ramdjan
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/TahrimB.jpg?itok=XhiqujWc
+rubrieken:
+  - blogpost
 excerpt: "Voor meer dan anderhalf miljard mensen op deze planeet, van wie bijna een miljoen in Nederland, zijn de dertig dagen Ramadan ‘the most wonderful time of the year’. En dan heb ik het nog niet eens over het aansluitende Suikerfeest. Om deze zeven dingen kun je nooit heen!  "
 seo:
   description: "7 dingen waar je elke Ramadan tegenaan loopt"

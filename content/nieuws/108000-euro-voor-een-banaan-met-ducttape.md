@@ -1,5 +1,5 @@
 ---
-id: 76a62b43c8044f329742ea2f48efe349
+id: 5c20e138115a4495bcf3cd2294896f4e
 type: nieuws
 layout: post
 title: "108.000 euro voor een banaan met ducttape"
@@ -7,7 +7,9 @@ permalink: /nieuws/108000-euro-voor-een-banaan-met-ducttape/
 date: 2022-05-11T19:16:41.067Z
 author: Sannevan Houwelingen
 auteur: Sanne van Houwelingen
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Sanne_0.jpg?itok=zwng18lf
+rubrieken:
+  - nieuws
 excerpt: "120.000 dollar betaalden mensen ervoor. Voor de omgerekend 108.000 euro kregen ze geen nieuwe auto of peperduur horloge. Ze kochten een banaan die met ducttape aan een muur is geplakt, het nieuwste werk van kunstenaar Maurizio Cattelan.   "
 seo:
   description: "108.000 euro voor een banaan met ducttape"

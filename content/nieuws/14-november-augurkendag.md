@@ -1,5 +1,5 @@
 ---
-id: c938871cf7354fecb77540924c649e30
+id: 5ac157b1449c4916b88edcab2da16323
 type: nieuws
 layout: post
 title: "14 november: Augurkendag"
@@ -7,7 +7,9 @@ permalink: /nieuws/14-november-augurkendag/
 date: 2022-05-11T19:16:41.067Z
 author: JacquelineAncona
 auteur: Jacqueline Ancona
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Jacqueline_Pasfoto.jpg?itok=RPZ_0CZG
+rubrieken:
+  - nieuws
 excerpt: "In plakjes op een broodje leverworst, gerold in een plakje salami, in stukjes door een zalmsalade, gedoopt in de kaasfondue of als finishing touch op je hamburger. En als ze bij de haringkar vragen of je er zuur bij wilt, zeg je natuurlijk: ‘Ja, graag!’ Want augurkendag vier je met augurken!  "
 seo:
   description: "14 november: Augurkendag"

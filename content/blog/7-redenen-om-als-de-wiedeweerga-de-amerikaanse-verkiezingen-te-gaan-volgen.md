@@ -1,5 +1,5 @@
 ---
-id: ea8caac6b146421199aaae5b93cb5e74
+id: 7f3429160526406e984dcd6b577478fb
 type: post
 layout: post
 title: "7 redenen om als de wiedeweerga de Amerikaanse verkiezingen te gaan volgen"
@@ -7,7 +7,9 @@ permalink: /blog/7-redenen-om-als-de-wiedeweerga-de-amerikaanse-verkiezingen-te-
 date: 2022-05-11T19:16:41.067Z
 author: Sophiavan Lil
 auteur: Sophia van Lil
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/SophiaB.jpg?itok=BlltCDmo
+rubrieken:
+  - blogpost
 excerpt: "Over ruim twee weken ben ik jarig. Zoals altijd verheug ik me al weken op 8 november, maar dit jaar doet een groot deel van de wereld met me mee. Oké, niet vanwege mijn Sweet Sixteen, maar vanwege de bijna surrealistische verkiezingsstrijd in de Verenigde Staten. Volg jij de race nog niet? Hier zeven redenen om dat heel snel wél te gaan doen.   "
 seo:
   description: "7 redenen om als de wiedeweerga de Amerikaanse verkiezingen te gaan volgen"

@@ -1,5 +1,5 @@
 ---
-id: dae39c4c13c54f8798c24cdf5d402dde
+id: 37a82b555f544ae99d7c72687742d86d
 type: post
 layout: post
 title: "5 redenen om een hond te kopen "
@@ -7,7 +7,9 @@ permalink: /blog/5-redenen-om-een-hond-te-kopen-/
 date: 2022-05-11T19:16:41.067Z
 author: LucasVersteeg
 auteur: Lucas Versteeg
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/Lucas%20nieuw.jpg?itok=DGwwYKYg
+rubrieken:
+  - blogpost
 excerpt: "Zondag 26 mei is niet zomaar een dag. Het is namelijk de Dag van de Hond waarin alles - of nou ja, veel - in het teken staat van de trouwe viervoeter. Mocht je er geen hebben: hier 5 redenen om er een te kopen. Plezier gegarandeerd!  "
 seo:
   description: "5 redenen om een hond te kopen "

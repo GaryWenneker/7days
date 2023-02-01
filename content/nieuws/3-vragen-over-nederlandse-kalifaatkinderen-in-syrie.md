@@ -1,5 +1,5 @@
 ---
-id: eeb3a373b4bf4f3ca42d45fd204fc30e
+id: bf29cfb27edc4a6cb03cb849e1142fa8
 type: nieuws
 layout: post
 title: "3 vragen over Nederlandse 'kalifaatkinderen' in Syrië"
@@ -7,7 +7,9 @@ permalink: /nieuws/3-vragen-over-nederlandse-kalifaatkinderen-in-syrie/
 date: 2022-05-11T19:16:41.067Z
 author: MarindeHurenkamp
 auteur: Marinde Hurenkamp
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Marinde3.jpg?itok=LMRPApOG
+rubrieken:
+  - nieuws
 excerpt: "In vluchtelingenkampen in Syrië wonen ongeveer 145 Nederlandse 'kalifaatkinderen'. Ze kunnen niet zomaar met hun familie terug naar Nederland. Hoe zit dat?  "
 seo:
   description: "3 vragen over Nederlandse 'kalifaatkinderen' in Syrië"

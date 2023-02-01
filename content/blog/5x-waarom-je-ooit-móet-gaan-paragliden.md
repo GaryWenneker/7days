@@ -1,5 +1,5 @@
 ---
-id: 3483a8af698a40d59d4c6784bfb207b9
+id: ec1fc19fae29412cb1d712c4c9fedc64
 type: post
 layout: post
 title: "5x Waarom je ooit móet gaan paragliden"
@@ -7,7 +7,9 @@ permalink: /blog/5x-waarom-je-ooit-móet-gaan-paragliden/
 date: 2022-05-11T19:16:41.067Z
 author: MaaikeWiersma
 auteur: Maaike Wiersma
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/MaaikeB.jpg?itok=ZxKRVPrf
+rubrieken:
+  - blogpost
 excerpt: "Vorige week ben ik voor het eerst in mijn leven gaan paragliden. Nadat ik weer met beide voeten op de grond stond wist ik zeker dat ik het nog honderd keer zou willen doen. Dit is waarom!  "
 seo:
   description: "5x Waarom je ooit móet gaan paragliden"

@@ -1,5 +1,5 @@
 ---
-id: 984ce8e344654f119544bf01d5b8fe9a
+id: eec73fefcf234dadba257b6c3216ed1e
 type: nieuws
 layout: post
 title: "15 Nederlandse woorden die we te weinig gebruiken"
@@ -7,7 +7,9 @@ permalink: /nieuws/15-nederlandse-woorden-die-we-te-weinig-gebruiken/
 date: 2022-05-11T19:16:41.067Z
 author: Sandravan de Wiel
 auteur: Sandra van de Wiel
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Sandra%20van%20de%20Wiel_0.jpg?itok=62k7evo4
+rubrieken:
+  - nieuws
 excerpt: "Lekker even smoddermuilen tijdens de ondergaande hemelvlam! Huh, wat? Er zijn veel oude Nederlandse woorden die we tegenwoordig weinig (of nooit) meer gebruiken. Best wel zonde, toch?  "
 seo:
   description: "15 Nederlandse woorden die we te weinig gebruiken"

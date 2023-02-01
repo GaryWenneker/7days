@@ -1,5 +1,5 @@
 ---
-id: ee7efc7132b74e578fb7d339d3693e8f
+id: 611844fffc704b669aa3e3f9af56813f
 type: nieuws
 layout: post
 title: "28 jaar cel en TBS voor moord op Anne Faber"
@@ -7,7 +7,9 @@ permalink: /nieuws/28-jaar-cel-en-tbs-voor-moord-op-anne-faber/
 date: 2022-05-11T19:16:41.067Z
 author: MarindeHurenkamp
 auteur: Marinde Hurenkamp
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Marinde3.jpg?itok=LMRPApOG
+rubrieken:
+  - nieuws
 excerpt: "Michael P. is vandaag door de rechtbank veroordeeld tot 28 jaar cel en TBS met dwangverpleging voor het doden, verkrachten en ontvoeren van Anne Faber (25).   "
 seo:
   description: "28 jaar cel en TBS voor moord op Anne Faber"

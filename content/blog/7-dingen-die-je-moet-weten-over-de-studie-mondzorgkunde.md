@@ -1,5 +1,5 @@
 ---
-id: 691b3488c8904d38818d09c596e84332
+id: 5b14548f18974b73820ffd7de0e5a4dc
 type: post
 layout: post
 title: "7 dingen die je moet weten over de studie Mondzorgkunde"
@@ -7,7 +7,9 @@ permalink: /blog/7-dingen-die-je-moet-weten-over-de-studie-mondzorgkunde/
 date: 2022-05-11T19:16:41.067Z
 author: LucasVersteeg
 auteur: Lucas Versteeg
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/Lucas%20nieuw.jpg?itok=DGwwYKYg
+rubrieken:
+  - blogpost
 excerpt: "Oefenen op nepkiezen, behandeld worden door ouderejaars en Latijnse namen opdreunen? Deze, en nog veel meer andere dingen moet je weten over de studie Mondzorgkunde.   "
 seo:
   description: "7 dingen die je moet weten over de studie Mondzorgkunde"

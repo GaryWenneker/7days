@@ -1,5 +1,5 @@
 ---
-id: 66b3e7a69f9e488db3a741aaf4aea654
+id: 2faad9414497453381b56e168b9bc5b1
 type: post
 layout: post
 title: "5 zomerse picknickrecepten"
@@ -7,7 +7,9 @@ permalink: /blog/5-zomerse-picknickrecepten/
 date: 2022-05-11T19:16:41.067Z
 author: MaaikeKooijman
 auteur: Maaike Kooijman
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/Maaike_0.jpg?itok=i-rkZD8u
+rubrieken:
+  - blogpost
 excerpt: "Hoewel de zon er nog niet elke dag even veel zin in heeft, is al duidelijk te merken dat de zomer eraan zit te komen. En wat hoort daar absoluut bij? Precies, picknicken. Met een goedgevulde picknickmand (of -tas), leuk gezelschap, hopelijk een zonnetje erbij... Waar wachten we nog op?  "
 seo:
   description: "5 zomerse picknickrecepten"

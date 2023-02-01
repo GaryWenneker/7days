@@ -1,5 +1,5 @@
 ---
-id: 4117d9196f4f457288a5a836011ec92d
+id: 68ecb6c63e19457495cc7a16646c491f
 type: post
 layout: post
 title: "3 soorten cupcakes"
@@ -7,7 +7,9 @@ permalink: /blog/3-soorten-cupcakes/
 date: 2022-05-11T19:16:41.067Z
 author: MaaikeKooijman
 auteur: Maaike Kooijman
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/Maaike_0.jpg?itok=i-rkZD8u
+rubrieken:
+  - blogpost
 excerpt: "Meivakantie! Een week vrij is natuurlijk de ideale gelegenheid om een keer de keuken in te duiken. Als je niet zo vaak bakt, zijn cupcakes goed om mee te beginnen. Mijn liefde voor koken en bakken is ook begonnen bij cupcakes! Het basisrecept is heel erg gemakkelijk en je kunt er elke smaak aan toevoegen die je maar wilt. De botercrème maakt het helemaal af. Vandaag deel ik de recepten voor 3 verschillende soorten cakejes: citroencupcakes, vruchtencupcakes en triple chocolate cupcakes met drie soorten chocolade.  "
 seo:
   description: "3 soorten cupcakes"

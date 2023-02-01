@@ -1,5 +1,5 @@
 ---
-id: 67ee437b5d1341ba863203d4bce45c86
+id: 6233c2fa0b544586a07fcd16a5359e58
 type: post
 layout: post
 title: "7 herinneringen aan kinderfeestjes van vroeger"
@@ -7,7 +7,9 @@ permalink: /blog/7-herinneringen-aan-kinderfeestjes-van-vroeger/
 date: 2022-05-11T19:16:41.067Z
 author: LucasVersteeg
 auteur: Lucas Versteeg
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/Lucas%20nieuw.jpg?itok=DGwwYKYg
+rubrieken:
+  - blogpost
 excerpt: "De 'zuipfeesten' van tegenwoordig zijn geen echte feesten meer. Nee, vroeger wisten we écht wat feesten was: kinderfeestjes waren the bomb.   "
 seo:
   description: "7 herinneringen aan kinderfeestjes van vroeger"

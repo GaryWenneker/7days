@@ -1,5 +1,5 @@
 ---
-id: 4266186406ab40679345d557014a1b6f
+id: bcc1d6dab6d749978c3ce2cd24307c41
 type: post
 layout: post
 title: "30 nuttige dingen om in de vakantie te doen"
@@ -7,7 +7,9 @@ permalink: /blog/30-nuttige-dingen-om-in-de-vakantie-te-doen/
 date: 2022-05-11T19:16:41.067Z
 author: LucasVersteeg
 auteur: Lucas Versteeg
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/Lucas%20nieuw.jpg?itok=DGwwYKYg
+rubrieken:
+  - blogpost
 excerpt: "Raar eigenlijk: in het dagelijks (school)leven heb je het véél te druk voor eigenlijk alles wat je zou willen doen. Maar als je eenmaal vakantie hebt, weet je je eigenlijk geen raad met de zeeën van tijd. Daarom hier een lijst van dertig dingen om te doen, zodat je je deze zomer af en toe nog nuttig kunt maken.  "
 seo:
   description: "30 nuttige dingen om in de vakantie te doen"

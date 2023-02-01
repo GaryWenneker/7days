@@ -1,5 +1,5 @@
 ---
-id: 6a72c387031347c582ce2a6362703a0c
+id: 04de2a831edf4948b0003a1aaf4502dd
 type: post
 layout: post
 title: "7 originele manieren om aan geld te komen"
@@ -7,7 +7,9 @@ permalink: /blog/7-originele-manieren-om-aan-geld-te-komen/
 date: 2022-05-11T19:16:41.067Z
 author: LucasVersteeg
 auteur: Lucas Versteeg
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/Lucas%20nieuw.jpg?itok=DGwwYKYg
+rubrieken:
+  - blogpost
 excerpt: "Het is alweer half februari, dus de meeste goede voornemens hebben we weer diep in de kast gestopt. Die halen we begin 2018 wel weer naar boven. Een vaak genoemd voornemen was: 'ik wil meer geld gaan verdienen'. Hoewel geld niet gelukkig maakt, heb ik toch 7 tips op een rijtje gezet om op een originele manier aan geld te komen. Zo kun je dit voornemen misschien toch nog halen.   "
 seo:
   description: "7 originele manieren om aan geld te komen"

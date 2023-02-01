@@ -1,5 +1,5 @@
 ---
-id: 2b57a76282f3414cb3fa1ce65a461bc6
+id: 83d4bae5cd2f4035946194e02819e576
 type: post
 layout: post
 title: "4x supersnelle en simpele ontbijtjes"
@@ -7,7 +7,9 @@ permalink: /blog/4x-supersnelle-en-simpele-ontbijtjes/
 date: 2022-05-11T19:16:41.067Z
 author: GitteHessels
 auteur: Gitte Hessels
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/DSC06407%20Gitte_0.jpg?itok=zeg9hMTG
+rubrieken:
+  - blogpost
 excerpt: "Ontbijten is heel belangrijk. Geen tijd? Onzin! Voor een lekker ontbijtje hoef je namelijk écht niet eerder op te staan. Vaak staat het binnen no-time op tafel.  "
 seo:
   description: "4x supersnelle en simpele ontbijtjes"

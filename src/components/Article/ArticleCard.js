@@ -15,9 +15,19 @@ export default function ArticleCard({ data }) {
           {
             post.frontmatter.auteur ? 
               <div class="text-slate-700 dark:text-slate-500 ml-2">
-                {post.frontmatter.rubriek}
+                {
+                  post.frontmatter.rubrieken.map((item, i) => (
+                    <div className='inline-flex bg-gray-100 text-gray-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-full dark:bg-gray-700 dark:text-gray-300'>
+                      {item}</div>
+                  ))}
+                
               </div> : <div class="text-slate-700 dark:text-slate-500">
-                        {post.frontmatter.rubriek}
+                        {
+                          post.frontmatter.rubrieken.map((item, i) => (
+                            <div className='inline-flex bg-gray-100 text-gray-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-full dark:bg-gray-700 dark:text-gray-300'>
+                              {item}</div>
+                          ))}
+                        
                       </div>
           }
       </div>

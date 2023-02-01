@@ -1,5 +1,5 @@
 ---
-id: d6501947d88745d283f1fd79ddd32ca0
+id: f47c3c5d6afd446fae51997af6eaa76d
 type: nieuws
 layout: post
 title: "3 dingen die je moet weten over de klimaattop"
@@ -7,7 +7,9 @@ permalink: /nieuws/3-dingen-die-je-moet-weten-over-de-klimaattop/
 date: 2022-05-11T19:16:41.067Z
 author: LisetteGerbrands
 auteur: Lisette Gerbrands
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/13450257_10208224020345949_4749455365629855480_n.jpg?itok=bu9Jk8Bo
+rubrieken:
+  - nieuws
 excerpt: "Al wekenlang gaat het erover: de klimaattop. En vandaag is het zover. Alle ogen zijn de komende twee weken gericht op de Spaanse hoofdstad Madrid. Daar vindt namelijk de 25e VN-Klimaatconferentie (COP25) plaats. Waarom is het ook alweer in Madrid? En kan het ook mislukken? Drie dingen die je moet weten over de conferentie.  "
 seo:
   description: "3 dingen die je moet weten over de klimaattop"

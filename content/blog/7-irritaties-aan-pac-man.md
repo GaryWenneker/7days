@@ -1,5 +1,5 @@
 ---
-id: e30762424c704f07a8b2b3a21fb383fc
+id: c8611bc984d14f298257479664592d21
 type: post
 layout: post
 title: "7 irritaties aan Pac-Man"
@@ -7,7 +7,9 @@ permalink: /blog/7-irritaties-aan-pac-man/
 date: 2022-05-11T19:16:41.067Z
 author: DominiqueWesterveld
 auteur: Dominique Westerveld
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/DominiqueB.jpg?itok=MTd1wD8t
+rubrieken:
+  - blogpost
 excerpt: "Weinig spelletjes zijn zo verslavend als Pac-Man. Iedereen voelt zich weleens het hongerige gele bolletje, dat voedsel probeert te pakken en achterna wordt gezeten door spookjes. Een ware gameklassieker. Maar wel eentje die een hoop irritaties met zich meebrengt.   "
 seo:
   description: "7 irritaties aan Pac-Man"

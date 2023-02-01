@@ -1,5 +1,5 @@
 ---
-id: 2f189c63e5b84dfdb96cd8ee2540a309
+id: 4a6dd4ef24ce47fe939fbfec9941a3e1
 type: post
 layout: post
 title: "5 tips om een toets goed te maken "
@@ -7,7 +7,9 @@ permalink: /blog/5-tips-om-een-toets-goed-te-maken-/
 date: 2022-05-11T19:16:41.067Z
 author: AnnemijnGroeneveld
 auteur: Annemijn Groeneveld
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/Annemijn.jpg?itok=frQpOIjz
+rubrieken:
+  - blogpost
 excerpt: "Ken je dat: je kent alle stof perfect, maar de toets gaat rampzalig of - nog erger - je dénkt dat de toets heel goed ging, maar uiteindelijk blijk je een onvoldoende te hebben. Proefwerken maken is een ware kunst. Deze toetstips ben ik door vallen en opstaan (vooral veel vallen), te weten ben gekomen.  "
 seo:
   description: "5 tips om een toets goed te maken "

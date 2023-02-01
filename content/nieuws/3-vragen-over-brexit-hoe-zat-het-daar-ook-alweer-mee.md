@@ -1,5 +1,5 @@
 ---
-id: b329949c5d574c38878dbeed48a0a4eb
+id: 356a8fe0af364d90810d7ac6879c56a8
 type: nieuws
 layout: post
 title: "3 vragen over Brexit: hoe zat het daar ook alweer mee?"
@@ -7,7 +7,9 @@ permalink: /nieuws/3-vragen-over-brexit-hoe-zat-het-daar-ook-alweer-mee/
 date: 2022-05-11T19:16:41.067Z
 author: Coravan der Weij
 auteur: Cora van der Weij
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Cora%20nieuwWebsite.jpg?itok=_QH_WbXZ
+rubrieken:
+  - nieuws
 excerpt: "Morgen is het zover. Brexit-Day. B-Day. De dag waarop de Britten dan toch echt uit de Europese Unie stappen. Maar eh... waarom willen onze buren ook alweer van ons scheiden? Hier lees je hoe 't zit.  "
 seo:
   description: "3 vragen over Brexit: hoe zat het daar ook alweer mee?"

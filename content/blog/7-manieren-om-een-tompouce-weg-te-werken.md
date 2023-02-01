@@ -1,5 +1,5 @@
 ---
-id: fdb46d242e04434eb51ff1319e6cf2b8
+id: 4c6614c434a1410d8ef72a0c9b9d6368
 type: post
 layout: post
 title: "7 manieren om een tompouce weg te werken"
@@ -7,7 +7,9 @@ permalink: /blog/7-manieren-om-een-tompouce-weg-te-werken/
 date: 2022-05-11T19:16:41.067Z
 author: LucasVersteeg
 auteur: Lucas Versteeg
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/Lucas%20nieuw.jpg?itok=DGwwYKYg
+rubrieken:
+  - blogpost
 excerpt: "Het is vaak één grote uitdaging: die traditiegetrouwe Koningsdag-tompouce fatsoenlijk opeten. Hier 7 manieren, in cartoonvorm, om er hopelijk een iets minder grote puinhoop van te maken.  "
 seo:
   description: "7 manieren om een tompouce weg te werken"

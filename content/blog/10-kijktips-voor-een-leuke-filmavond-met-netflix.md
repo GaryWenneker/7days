@@ -1,5 +1,5 @@
 ---
-id: a294289b1a4543a9bb8bf8c1f9b7765a
+id: 2e7f9ec7de574c398307c2075465db58
 type: post
 layout: post
 title: "10 kijktips voor een leuke filmavond met Netflix"
@@ -7,7 +7,9 @@ permalink: /blog/10-kijktips-voor-een-leuke-filmavond-met-netflix/
 date: 2022-05-11T19:16:41.067Z
 author: LucasVersteeg
 auteur: Lucas Versteeg
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/Lucas%20nieuw.jpg?itok=DGwwYKYg
+rubrieken:
+  - blogpost
 excerpt: "Tegenwoordig hebben ontzettend veel jongeren Netflix. Bepaalde series zijn heel populair en springen eruit, 13 Reasons Why bijvoorbeeld. Toch staan er ook heel veel andere series en films op Netflix die jij misschien nog nooit hebt opgemerkt. Check deze 10 tips voor een leuk filmavondje!  "
 seo:
   description: "10 kijktips voor een leuke filmavond met Netflix"

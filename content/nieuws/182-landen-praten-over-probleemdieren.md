@@ -1,5 +1,5 @@
 ---
-id: 987b5de70c2b49939188c7af185a5181
+id: 4bad1ad7ed744caab35ff0adeaa085ca
 type: nieuws
 layout: post
 title: "182 landen praten over probleemdieren"
@@ -7,7 +7,9 @@ permalink: /nieuws/182-landen-praten-over-probleemdieren/
 date: 2022-05-11T19:16:41.067Z
 author: Coravan der Weij
 auteur: Cora van der Weij
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Cora%20nieuwWebsite.jpg?itok=_QH_WbXZ
+rubrieken:
+  - nieuws
 excerpt: "Het zijn belangrijke dagen voor dierenexperts. Een club van 182 landen zit druk te overleggen in het Zuid-Afrikaanse Johannesburg. Ze proberen regels af te spreken voor de handel in bedreigde soorten als de Afrikaanse olifant, de grijze roodstaartpapegaai en het schubdier.  "
 seo:
   description: "182 landen praten over probleemdieren"

@@ -1,5 +1,5 @@
 ---
-id: d2378d092d894fdfb81d1cd2fecd6e4f
+id: 73cbcd65a477462a84b84fe31d596560
 type: nieuws
 layout: post
 title: "21 juli: Junkfood-dag"
@@ -7,7 +7,9 @@ permalink: /nieuws/21-juli-junkfood-dag/
 date: 2022-05-11T19:16:41.067Z
 author: JacquelineAncona
 auteur: Jacqueline Ancona
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Jacqueline_Pasfoto.jpg?itok=RPZ_0CZG
+rubrieken:
+  - nieuws
 excerpt: "Mocht je vandaag onoverkomelijke trek hebben in een bamibal, frikandel, berenklauw of een emmertje hotwings? Dan is je lijf helemaal bij de tijd, want vandaag is het junkfood-dag. Eten met zo veel mogelijk calorieën en zo min mogelijk voedingswaarde. Dat vieren we natuurlijk met de master of snacks: de hamburger!  "
 seo:
   description: "21 juli: Junkfood-dag"

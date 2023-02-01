@@ -1,5 +1,5 @@
 ---
-id: a18fc7a927f846f39567dcf2a5f4ec5b
+id: 8c793d7b26754acfb231cce6d875fe17
 type: nieuws
 layout: post
 title: "106 jaar oude cake gevonden op Antarctica "
@@ -7,7 +7,9 @@ permalink: /nieuws/106-jaar-oude-cake-gevonden-op-antarctica-/
 date: 2022-05-11T19:16:41.067Z
 author: Janinede Wit
 auteur: Janine de Wit
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/p3PJedfR.jpg?itok=ev1RPrZe
+rubrieken:
+  - nieuws
 excerpt: "Een fruitcake geeft energie én is lang houdbaar. Handig op reis, dachten ontdekkingsreizigers naar de Zuidpool 106 jaar geleden. De cake was zelfs zó lang goed, dat onderzoekers het nu terugvonden.  "
 seo:
   description: "106 jaar oude cake gevonden op Antarctica "

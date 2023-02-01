@@ -1,5 +1,5 @@
 ---
-id: a34c2320a256456c888fe808edd04bb3
+id: 0c8d03934b7a4e30b5ea22e53e16c5fa
 type: post
 layout: post
 title: "7 dingen die je kunt doen tijdens het tandenpoetsen"
@@ -7,7 +7,9 @@ permalink: /blog/7-dingen-die-je-kunt-doen-tijdens-het-tandenpoetsen/
 date: 2022-05-11T19:16:41.067Z
 author: LucasVersteeg
 auteur: Lucas Versteeg
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/Lucas%20nieuw.jpg?itok=DGwwYKYg
+rubrieken:
+  - blogpost
 excerpt: "Tandenpoetsen neemt twee keer per dag ongeveer twee minuten in beslag. Dat is natuurlijk weinig, maar lijkt het bij jou ook altijd een eeuwigheid te duren? Hier zeven dingen om de tijd te doden tijdens het tandenpoetsen.  "
 seo:
   description: "7 dingen die je kunt doen tijdens het tandenpoetsen"

@@ -1,5 +1,5 @@
 ---
-id: 0b5d03de6fba4deca21ab5c49bb87fe2
+id: 1645d9cb8e954b0395d73889ba1e012f
 type: nieuws
 layout: post
 title: "3 vragen over hoe het nu gaat met Brexit "
@@ -7,7 +7,9 @@ permalink: /nieuws/3-vragen-over-hoe-het-nu-gaat-met-brexit-/
 date: 2022-05-11T19:16:41.067Z
 author: SilkePolhuijs
 auteur: Silke Polhuijs
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Silke.jpg?itok=KDYfzSu2
+rubrieken:
+  - nieuws
 excerpt: "Op 29 maart 2019 moet het Verenigd Koninkrijk de Europese Unie verlaten. Er is een kans ze vertrekken zonder afspraken. En dat heeft weer gevolgen voor de omgang met de EU. Ingewikkeld? Hieronder 3 vragen (en antwoorden) voor een Brexit-update.   "
 seo:
   description: "3 vragen over hoe het nu gaat met Brexit "

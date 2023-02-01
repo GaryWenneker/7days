@@ -1,5 +1,5 @@
 ---
-id: 5c8383633c9d48c8b774ca7611aed4f0
+id: cb88bdfb1989422e941502337d8c6fcc
 type: nieuws
 layout: post
 title: "23 juli: Paniek-in-het-pretpark-dag"
@@ -7,7 +7,9 @@ permalink: /nieuws/23-juli-paniek-in-het-pretpark-dag/
 date: 2022-05-11T19:16:41.067Z
 author: JacquelineAncona
 auteur: Jacqueline Ancona
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Jacqueline_Pasfoto.jpg?itok=RPZ_0CZG
+rubrieken:
+  - nieuws
 excerpt: "Gegild wordt er altijd. Keihard en lang. Niet zo gek ook als je de afgrond in stort in een divecoaster en je hersens in een heel andere volgorde gelegd lijken te worden. Maar dat klinkt toch anders dan gillen als er echt iets misgaat in een pretpark. En op 23 juli gebeurde dat zelfs twee jaar achter elkaar in Nederland.  "
 seo:
   description: "23 juli: Paniek-in-het-pretpark-dag"

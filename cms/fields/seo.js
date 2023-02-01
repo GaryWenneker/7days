@@ -24,7 +24,7 @@ const partial = {
       label: 'Image',
       name: 'ogimage',
       widget: 'string',
-      required: true,
+      required: false,
       default: metadata.image,
     },
   ],

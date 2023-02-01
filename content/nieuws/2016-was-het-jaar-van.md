@@ -1,5 +1,5 @@
 ---
-id: 20f0050ba9ae413099560af143005476
+id: e9ceafe70d764ddeb73f0e78324fd116
 type: nieuws
 layout: post
 title: "2016 was het jaar van..."
@@ -7,7 +7,9 @@ permalink: /nieuws/2016-was-het-jaar-van/
 date: 2022-05-11T19:16:41.067Z
 author: SytseWilman
 auteur: Sytse Wilman
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/s_w.jpg?itok=HcJ5dcGp
+rubrieken:
+  - nieuws
 excerpt: "Het jaar is bijna voorbij en dus vliegen de verkiezingen je om de oren: de beste dit, het populairste dat. 7Days zet op een rij wie er in 2016 allemaal gepiekt hebben.  "
 seo:
   description: "2016 was het jaar van..."

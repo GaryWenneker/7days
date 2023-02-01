@@ -1,5 +1,5 @@
 ---
-id: d8cdd658afd74d6a93ec1724325bee8a
+id: e98516a8051e4c53be9f730a82f61487
 type: post
 layout: post
 title: "12 tips tegen extreme zomervakantieverveling"
@@ -7,7 +7,9 @@ permalink: /blog/12-tips-tegen-extreme-zomervakantieverveling/
 date: 2022-05-11T19:16:41.067Z
 author: GitteHessels
 auteur: Gitte Hessels
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/DSC06407%20Gitte_0.jpg?itok=zeg9hMTG
+rubrieken:
+  - blogpost
 excerpt: "Ga je deze zomer niet op vakantie? En heb je geen idee hoe je de weken totdat school begint in moet vullen? Geen nood! Met deze tips ga je de ergste zomervakantieverveling vast tegen.  "
 seo:
   description: "12 tips tegen extreme zomervakantieverveling"

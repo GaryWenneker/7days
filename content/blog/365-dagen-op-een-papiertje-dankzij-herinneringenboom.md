@@ -1,5 +1,5 @@
 ---
-id: 755eebf17517436f9b22ac291f178979
+id: c1de898c06974541a47377e5ce1cf5a6
 type: post
 layout: post
 title: "365 dagen op één papiertje dankzij herinneringenboom"
@@ -7,7 +7,9 @@ permalink: /blog/365-dagen-op-een-papiertje-dankzij-herinneringenboom/
 date: 2022-05-11T19:16:41.067Z
 author: JelinSchut
 auteur: Jelin Schut
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/Rechtspraak%20Reporter%20Jelin.jpeg?itok=fZPd8aA2
+rubrieken:
+  - blogpost
 excerpt: "Eind december word ik altijd een beetje nostalgisch: wat is het jaar toch snel gegaan! 12 maanden, 52 weken, 365 dagen vol met leuke dingen: hoe onthoud je dat allemaal?! Gelukkig heb ik de perfecte oplossing gevonden!  "
 seo:
   description: "365 dagen op één papiertje dankzij herinneringenboom"

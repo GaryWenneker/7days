@@ -1,5 +1,5 @@
 ---
-id: f9949a3e067c47cabc3ff6c52e8cd141
+id: 6a0d82cace4845e38420bf63898e50c5
 type: post
 layout: post
 title: "7 onbegrijpelijke acties"
@@ -7,7 +7,9 @@ permalink: /blog/7-onbegrijpelijke-acties/
 date: 2022-05-11T19:16:41.067Z
 author: LauraSchouten
 auteur: Laura Schouten
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/Laura_2.jpg?itok=zKAeO7Ge
+rubrieken:
+  - blogpost
 excerpt: "Ik ben raar. Altijd al geweest. Zie mij maar als een soort buitenbeentje. En precies om deze reden sta ik regelmatig met een frons op m'n voorhoofd te bekijken wat andere mensen soms doen. Ik begrijp sommige acties van anderen gewoon niet. - Door Laura Schouten  "
 seo:
   description: "7 onbegrijpelijke acties"

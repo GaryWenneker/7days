@@ -1,5 +1,5 @@
 ---
-id: 3ba19a8f733b443f8eb3e0fbab0b5b8a
+id: 25d1b200b36d4723993d9f2f3d3f730c
 type: nieuws
 layout: post
 title: "13 Reasons Why krijgt een derde seizoen"
@@ -7,7 +7,9 @@ permalink: /nieuws/13-reasons-why-krijgt-een-derde-seizoen/
 date: 2022-05-11T19:16:41.067Z
 author: MarindeHurenkamp
 auteur: Marinde Hurenkamp
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Marinde3.jpg?itok=LMRPApOG
+rubrieken:
+  - nieuws
 excerpt: "Het tweede seizoen van13 Reasons Why draait nog maar net, maar de voorbereidingen voor een derde seizoen zijn alweer begonnen.  "
 seo:
   description: "13 Reasons Why krijgt een derde seizoen"

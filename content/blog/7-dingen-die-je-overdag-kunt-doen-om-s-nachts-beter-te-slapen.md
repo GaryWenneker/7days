@@ -1,5 +1,5 @@
 ---
-id: 9bfdde8aa2cc43788e2ab433791e05b9
+id: f138017194e3422485a94ed931204e01
 type: post
 layout: post
 title: "7 dingen die je overdag kunt doen om 's nachts beter te slapen"
@@ -7,7 +7,9 @@ permalink: /blog/7-dingen-die-je-overdag-kunt-doen-om-s-nachts-beter-te-slapen/
 date: 2022-05-11T19:16:41.067Z
 author: MarloesIJlst
 auteur: Marloes IJlst
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/MarloesB.jpg?itok=cjqMpXHl
+rubrieken:
+  - blogpost
 excerpt: "Ben je net als ik professioneel plafondstarer? Zorgen die kopjes goede-nachtrust-thee en glaasjes warme melk er alleen maar voor dat je ‘s nachts steeds moet plassen? Waarschijnlijk had je er nog nooit bij stilgestaan, maar overdag kun je een hoop doen voor een betere nachtrust. Daarom hier 7 tips om te slapen als Doornroosje.  "
 seo:
   description: "7 dingen die je overdag kunt doen om 's nachts beter te slapen"

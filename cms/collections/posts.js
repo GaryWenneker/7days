@@ -67,6 +67,26 @@ const collection = {
       default: '',
     },
     {
+      label: 'Rubrieken',
+      name: 'rubrieken',
+      widget: 'list',
+      fields: [
+
+        {
+          label: 'Name',
+          name: 'title',
+          widget: 'string',
+          default: '',
+        },
+      ],
+    },
+    {
+      label: 'Avatar',
+      name: 'avatar',
+      widget: 'string',
+      default: '',
+    },
+    {
       label: 'Author',
       name: 'author',
       widget: 'relation',

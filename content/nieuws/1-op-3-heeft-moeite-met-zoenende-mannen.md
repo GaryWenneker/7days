@@ -1,5 +1,5 @@
 ---
-id: fb2a5a08005b4b3e8e3b2b464f8facef
+id: b62836cf271a4d3a80109f6415ba0eaf
 type: nieuws
 layout: post
 title: "1 op 3 heeft moeite met zoenende mannen"
@@ -7,7 +7,9 @@ permalink: /nieuws/1-op-3-heeft-moeite-met-zoenende-mannen/
 date: 2022-05-11T19:16:41.067Z
 author: MennoWoudt
 auteur: Menno Woudt
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/menno4_0.png?itok=5KD7Yfz3
+rubrieken:
+  - nieuws
 excerpt: "Wat vind jij van deze foto van twee zoenende jongens? Eén op de drie Nederlanders zou er grote moeite mee hebben, blijkt uit een nieuw rapport. Daarin staat zowel goed als slecht nieuws over de acceptatie van homoseksualiteit in Nederland.  "
 seo:
   description: "1 op 3 heeft moeite met zoenende mannen"

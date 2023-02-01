@@ -13,11 +13,22 @@ const Post = ({ data }) => {
           {data.post.frontmatter.title}
         </h1>
         <div className="flex mx-auto my-12 max-w-3xl font-bold dark:text-white">
-          <div class="text-sky-500 dark:text-sky-400">
+          {/* <div
+            className="prose prose-lg mx-auto max-w-3xl dark:prose-invert"
+            dangerouslySetInnerHTML={{ __html: data?.post.frontmatter.avatar }}
+          ></div> */}
+          {
+            data.post.frontmatter.avatar ?
+            <img className='mr-5' src={data.post.frontmatter.avatar}/> : <></>
+          }
+          <div class="text-sky-500 dark:text-sky-400 mt-0 pt-0">
           {data.post.frontmatter.auteur}
           </div>
           <div class="text-slate-700 dark:text-slate-500 ml-5">
-          {data.post.frontmatter.rubriek}
+          {data.post.frontmatter.rubrieken.map((item, i) => (
+                            <div className='inline-flex bg-gray-100 text-gray-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-full dark:bg-gray-700 dark:text-gray-300'>
+                              {item}</div>
+                          ))}
           </div>
         </div>
         <div
@@ -56,7 +67,8 @@ export const basicPageQuery = graphql`
         title
         author
         auteur
-        rubriek
+        rubrieken
+        avatar
         ...Seo
       }
     }

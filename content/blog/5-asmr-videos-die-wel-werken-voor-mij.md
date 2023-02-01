@@ -1,5 +1,5 @@
 ---
-id: 07ca6717e041412283af60410dc0d8c1
+id: f069a90c708d411dbfa454ed485ddfb3
 type: post
 layout: post
 title: " 5 ASMR video’s die wèl werken voor mij"
@@ -7,7 +7,9 @@ permalink: /blog/5-asmr-videos-die-wel-werken-voor-mij/
 date: 2022-05-11T19:16:41.067Z
 author: LucasVersteeg
 auteur: Lucas Versteeg
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/Lucas%20nieuw.jpg?itok=DGwwYKYg
+rubrieken:
+  - blogpost
 excerpt: "ASMR: je kent het vast wel. Een willekeurige influencer die langzaam fluistert in een microfoon zonder enige wraakzuchtige of erotische gevoelens, ook al lijkt het van wel. Ik krijg er altijd een heel naar gevoel van, terwijl dat juist NIET de bedoeling is… Waar ik wel ontspannen van word? Dit soort video’s!  "
 seo:
   description: " 5 ASMR video’s die wèl werken voor mij"

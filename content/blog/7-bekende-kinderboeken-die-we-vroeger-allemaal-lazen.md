@@ -1,5 +1,5 @@
 ---
-id: dc8af55acd214763b6b3d8fbecc875f0
+id: 539402441d84408db19615de432c696e
 type: post
 layout: post
 title: "7 bekende kinderboeken die we vroeger allemaal lazen"
@@ -7,7 +7,9 @@ permalink: /blog/7-bekende-kinderboeken-die-we-vroeger-allemaal-lazen/
 date: 2022-05-11T19:16:41.067Z
 author: LucasVersteeg
 auteur: Lucas Versteeg
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/Lucas%20nieuw.jpg?itok=DGwwYKYg
+rubrieken:
+  - blogpost
 excerpt: "Onze kleine kinderhartjes gingen vroeger sneller kloppen van lolly’s, Het Sinterklaasjournaal, maar zeker ook van een aantal kinderboeken. Vol spanning luisterden we naar hoe onze ouders voorlazen en vol ontzag bekeken we de mooie illustraties. Deze 7 pareltjes herken je vast nog wel.  "
 seo:
   description: "7 bekende kinderboeken die we vroeger allemaal lazen"

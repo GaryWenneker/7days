@@ -1,5 +1,5 @@
 ---
-id: fa01b49c58234ae19a635ae91af5bc53
+id: ac57e5472c494016925793cb436c3af5
 type: nieuws
 layout: post
 title: "10 minuten Facebook-scrollen per dag maakt chagrijnig"
@@ -7,7 +7,9 @@ permalink: /nieuws/10-minuten-facebook-scrollen-per-dag-maakt-chagrijnig/
 date: 2022-05-11T19:16:41.067Z
 author: KatrienHoekstra
 auteur: Katrien Hoekstra
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/katrien.jpg?itok=s15NP7bv
+rubrieken:
+  - nieuws
 excerpt: "Facebook gaat sociale netwerken onderzoeken. Huh? Zijn ze daar niet een beetje laat mee?  "
 seo:
   description: "10 minuten Facebook-scrollen per dag maakt chagrijnig"

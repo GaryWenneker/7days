@@ -1,5 +1,5 @@
 ---
-id: 4d453d1bb4ae40eb995643ec43c9d20e
+id: 0b5a57bd2a8e4076968545bcb829e870
 type: post
 layout: post
 title: "4x uitgebreide tosti ontbijtjes"
@@ -7,7 +7,9 @@ permalink: /blog/4x-uitgebreide-tosti-ontbijtjes/
 date: 2022-05-11T19:16:41.067Z
 author: GitteHessels
 auteur: Gitte Hessels
-rubriek: blogpost
+avatar: /sites/default/files/styles/node_author/public/DSC06407%20Gitte_0.jpg?itok=zeg9hMTG
+rubrieken:
+  - blogpost
 excerpt: "Hoera! Het is weekend en dat betekent maar één ding: uitslapen. En als je tegen het middaguur je bed uit rolt neem je uitgebreid de tijd om te ontbijten. Hoewel: gezien het tijdstip kun je het misschien beter lunchen noemen.  "
 seo:
   description: "4x uitgebreide tosti ontbijtjes"

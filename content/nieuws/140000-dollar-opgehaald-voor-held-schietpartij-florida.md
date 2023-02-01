@@ -1,5 +1,5 @@
 ---
-id: ea620a6e20b34da280bd7ddc8c132984
+id: 37e7a206304545739d459fd6cd257715
 type: nieuws
 layout: post
 title: "140.000 dollar opgehaald voor 'held' schietpartij Florida"
@@ -7,7 +7,9 @@ permalink: /nieuws/140000-dollar-opgehaald-voor-held-schietpartij-florida/
 date: 2022-05-11T19:16:41.067Z
 author: LisetteGerbrands
 auteur: Lisette Gerbrands
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/13450257_10208224020345949_4749455365629855480_n.jpg?itok=bu9Jk8Bo
+rubrieken:
+  - nieuws
 excerpt: "De 15-jarige Anthony Borges wordt in de Amerikaanse media geroemd als de held van de schietpartij op Parkland School. Hij werd geraakt door vijf kogels toen hij zorgde dat anderen uit het zicht van de schutter bleven. Nu, een kleine week later is er voor hem 140.000 dollar ingezameld.  "
 seo:
   description: "140.000 dollar opgehaald voor 'held' schietpartij Florida"

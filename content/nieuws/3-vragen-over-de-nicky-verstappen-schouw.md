@@ -1,5 +1,5 @@
 ---
-id: 741181660fc4433f93d63b26cb20c53b
+id: a32079e329de4dc9a15fc485141b47eb
 type: nieuws
 layout: post
 title: "3 vragen over de Nicky Verstappen-schouw"
@@ -7,7 +7,9 @@ permalink: /nieuws/3-vragen-over-de-nicky-verstappen-schouw/
 date: 2022-05-11T19:16:41.067Z
 author: VeraBosch
 auteur: Vera Bosch
-rubriek: nieuws
+avatar: /sites/default/files/styles/node_author/public/Vera.jpg?itok=2rBVlrSc
+rubrieken:
+  - nieuws
 excerpt: "Niet betreden! Wandelaars op de Brunssumerheide moeten vandaag een blokje om. Het natuurgebied in Limburg is afgezet voor een speciaal onderzoek naar de dood van Nicky Verstappen in 1998. Drie vragen (en antwoorden) over dit onderzoek.  "
 seo:
   description: "3 vragen over de Nicky Verstappen-schouw"
