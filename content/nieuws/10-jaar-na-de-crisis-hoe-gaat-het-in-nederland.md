@@ -1,11 +1,13 @@
 ---
-id: c15c5d97d3cc452498ea4505b1f2bda5
+id: 762671083c27476896364b256ba42247
 type: nieuws
 layout: post
 title: "10 jaar na 'de crisis': hoe gaat het in Nederland?"
 permalink: /nieuws/10-jaar-na-de-crisis-hoe-gaat-het-in-nederland/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: MarindeHurenkamp
+auteur: Marinde Hurenkamp
+rubriek: nieuws
 excerpt: "Het is vandaag precies tien jaar geleden dat de Amerikaanse bank Lehman Brothers failliet ging. Snel daarna ging het wereldwijd mis. Bank na bank stortte in. Het was crisis, ook in Nederland. Dinsdag presenteert het kabinet de plannen voor 2019. Drie vragen (en drie antwoorden) over de Nederlandse economie, tien jaar na de crisis.  "
 seo:
   description: "10 jaar na 'de crisis': hoe gaat het in Nederland?"

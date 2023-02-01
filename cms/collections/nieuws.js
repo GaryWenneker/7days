@@ -34,6 +34,17 @@ const collection = {
       widget: 'string',
       default: '',
     },
+    {
+      label: 'Rubriek',
+      name: 'rubriek',
+      widget: 'relation',
+      collection: 'rubrieken',
+      default: '',
+      search_fields: ['title'],
+      display_fields: ['title'],
+      value_field: 'title',
+      required: false,
+    },
     PermalinkField('nieuws'),
     {
       label: 'Featured Image',
@@ -48,6 +59,12 @@ const collection = {
       widget: 'datetime',
       default: '',
       required: false,
+    },
+    {
+      label: 'Auteur',
+      name: 'auteur',
+      widget: 'string',
+      default: '',
     },
     {
       label: 'Author',

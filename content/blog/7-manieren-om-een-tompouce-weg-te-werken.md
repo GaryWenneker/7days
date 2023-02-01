@@ -1,11 +1,13 @@
 ---
-id: ec71db443b114cc982b6be399ab452b4
+id: fdb46d242e04434eb51ff1319e6cf2b8
 type: post
 layout: post
 title: "7 manieren om een tompouce weg te werken"
 permalink: /blog/7-manieren-om-een-tompouce-weg-te-werken/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LucasVersteeg
+auteur: Lucas Versteeg
+rubriek: blogpost
 excerpt: "Het is vaak één grote uitdaging: die traditiegetrouwe Koningsdag-tompouce fatsoenlijk opeten. Hier 7 manieren, in cartoonvorm, om er hopelijk een iets minder grote puinhoop van te maken.  "
 seo:
   description: "7 manieren om een tompouce weg te werken"
@@ -18,7 +20,7 @@ Het is vaak één grote uitdaging: die traditiegetrouwe Koningsdag-tompouce fat
         
   
   <div class="content">
-    <img height="486" width="917" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/tompouce7777777777777.jpg" alt="">  </div>
+    <img height="486" width="917" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="/sites/default/files/tompouce7777777777777.jpg" alt="">  </div>
 
   
 </div>
@@ -28,7 +30,7 @@ Het is vaak één grote uitdaging: die traditiegetrouwe Koningsdag-tompouce fat
         
   
   <div class="content">
-    <img height="512" width="710" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/manier%204.jpg" alt="">  </div>
+    <img height="512" width="710" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="/sites/default/files/manier%204.jpg" alt="">  </div>
 
   
 </div>
@@ -38,7 +40,7 @@ Het is vaak één grote uitdaging: die traditiegetrouwe Koningsdag-tompouce fat
         
   
   <div class="content">
-    <img height="419" width="846" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/manier%205.jpg" alt="">  </div>
+    <img height="419" width="846" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="/sites/default/files/manier%205.jpg" alt="">  </div>
 
   
 </div>
@@ -48,7 +50,7 @@ Het is vaak één grote uitdaging: die traditiegetrouwe Koningsdag-tompouce fat
         
   
   <div class="content">
-    <img height="239" width="731" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/manier33333.jpg" alt="">  </div>
+    <img height="239" width="731" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="/sites/default/files/manier33333.jpg" alt="">  </div>
 
   
 </div>
@@ -57,7 +59,7 @@ Het is vaak één grote uitdaging: die traditiegetrouwe Koningsdag-tompouce fat
         
   
   <div class="content">
-    <img height="415" width="946" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/manier%202%20test.jpg" alt="">  </div>
+    <img height="415" width="946" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="/sites/default/files/manier%202%20test.jpg" alt="">  </div>
 
   
 </div>
@@ -66,7 +68,7 @@ Het is vaak één grote uitdaging: die traditiegetrouwe Koningsdag-tompouce fat
         
   
   <div class="content">
-    <img height="451" width="965" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/lepel%20tompuce11111.jpg" alt="">  </div>
+    <img height="451" width="965" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="/sites/default/files/lepel%20tompuce11111.jpg" alt="">  </div>
 
   
 </div>
@@ -76,9 +78,9 @@ Het is vaak één grote uitdaging: die traditiegetrouwe Koningsdag-tompouce fat
         
   
   <div class="content">
-    <img height="432" width="443" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/manier%206.jpg" alt="">  </div>
+    <img height="432" width="443" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="/sites/default/files/manier%206.jpg" alt="">  </div>
 
   
 </div>
 </div>
-<p><em>Heb jij op Koningsdag geen tijd voor een tompouce, omdat je de hele inhoud van je zolder nog moet verkopen? Met deze <a href="https://7dagen.netlify.app/lifestyle/verkopen-op-koningsdag-doe-je-zo">tips van verkooppro's </a>is je kleedje zo leeg. Enne, mocht je de koning of koningin tegenkomen, <a href="https://7dagen.netlify.app/lifestyle/dit-moet-je-doen-als-je-de-koningin-tegenkomt">doe dan dit (of juist niet)</a>.</em></p>  
+<p><em>Heb jij op Koningsdag geen tijd voor een tompouce, omdat je de hele inhoud van je zolder nog moet verkopen? Met deze <a href="/lifestyle/verkopen-op-koningsdag-doe-je-zo">tips van verkooppro's </a>is je kleedje zo leeg. Enne, mocht je de koning of koningin tegenkomen, <a href="/lifestyle/dit-moet-je-doen-als-je-de-koningin-tegenkomt">doe dan dit (of juist niet)</a>.</em></p>  

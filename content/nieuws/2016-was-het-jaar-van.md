@@ -1,11 +1,13 @@
 ---
-id: 5e0d6ca25db345bcb6653d01b7b948f9
+id: 20f0050ba9ae413099560af143005476
 type: nieuws
 layout: post
 title: "2016 was het jaar van..."
 permalink: /nieuws/2016-was-het-jaar-van/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: SytseWilman
+auteur: Sytse Wilman
+rubriek: nieuws
 excerpt: "Het jaar is bijna voorbij en dus vliegen de verkiezingen je om de oren: de beste dit, het populairste dat. 7Days zet op een rij wie er in 2016 allemaal gepiekt hebben.  "
 seo:
   description: "2016 was het jaar van..."
@@ -18,7 +20,7 @@ Het jaar is bijna voorbij en dus vliegen de verkiezingen je om de oren: de beste
         
   
   <div class="content">
-    <img height="500" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Hoodvlog.jpg" alt="">  </div>
+    <img height="500" width="800" class="media-element file-default" src="/sites/default/files/Hoodvlog.jpg" alt="">  </div>
 
   
 </div>
@@ -29,7 +31,7 @@ Het jaar is bijna voorbij en dus vliegen de verkiezingen je om de oren: de beste
         
   
   <div class="content">
-    <img alt="Euro 2016 foto AFP" title="Euro 2016 foto AFP" height="2731" width="4096" style="width: 800px; height: 533px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-46529888.jpg">  </div>
+    <img alt="Euro 2016 foto AFP" title="Euro 2016 foto AFP" height="2731" width="4096" style="width: 800px; height: 533px;" class="media-element file-default" src="/sites/default/files/ANP-46529888.jpg">  </div>
 
   
 </div>
@@ -40,7 +42,7 @@ Het jaar is bijna voorbij en dus vliegen de verkiezingen je om de oren: de beste
         
   
   <div class="content">
-    <img alt="De Staat foto ANP/Kippa" title="De Staat foto ANP/Kippa" height="2980" width="4477" style="width: 800px; height: 532px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-47145658.jpg">  </div>
+    <img alt="De Staat foto ANP/Kippa" title="De Staat foto ANP/Kippa" height="2980" width="4477" style="width: 800px; height: 532px;" class="media-element file-default" src="/sites/default/files/ANP-47145658.jpg">  </div>
 
   
 </div>
@@ -50,7 +52,7 @@ Het jaar is bijna voorbij en dus vliegen de verkiezingen je om de oren: de beste
         
   
   <div class="content">
-    <img alt="Geert Wilders &amp; Jesse Klaver foto ANP" title="Geert Wilders &amp; Jesse Klaver foto ANP" height="2920" width="4373" style="width: 800px; height: 534px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-48971491.jpg">  </div>
+    <img alt="Geert Wilders &amp; Jesse Klaver foto ANP" title="Geert Wilders &amp; Jesse Klaver foto ANP" height="2920" width="4373" style="width: 800px; height: 534px;" class="media-element file-default" src="/sites/default/files/ANP-48971491.jpg">  </div>
 
   
 </div>
@@ -61,7 +63,7 @@ Het jaar is bijna voorbij en dus vliegen de verkiezingen je om de oren: de beste
         
   
   <div class="content">
-    <img height="500" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Apple%20pen.jpg" alt="">  </div>
+    <img height="500" width="800" class="media-element file-default" src="/sites/default/files/Apple%20pen.jpg" alt="">  </div>
 
   
 </div>
@@ -72,11 +74,11 @@ Het jaar is bijna voorbij en dus vliegen de verkiezingen je om de oren: de beste
         
   
   <div class="content">
-    <img alt="Sanne Wevers foto ANP" title="Sanne Wevers foto ANP" height="3081" width="4000" style="width: 800px; height: 616px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/ANP-48989717.jpg">  </div>
+    <img alt="Sanne Wevers foto ANP" title="Sanne Wevers foto ANP" height="3081" width="4000" style="width: 800px; height: 616px;" class="media-element file-default" src="/sites/default/files/ANP-48989717.jpg">  </div>
 
   
 </div>
 </div>
 <h3>Sporters </h3>
 <p>Nog nooit won een Nederlander een Formule-1-race. En nog nooit behaalde een Nederlandse turnster individueel goud op de Olympische Spelen. Dat het Max Verstappen en Sanne Wevers wél lukten, maakt ze Sportman en -vrouw van het jaar. Logisch, zou Johan Cruijff hebben gezegd. Dit sporticoon overleed dit jaar, maar kreeg tijdens het gala een passend eerbetoon.<br><em>Bron: NOC*NSF</em></p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

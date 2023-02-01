@@ -1,11 +1,13 @@
 ---
-id: 2a411785d359486f982cf91855644a42
+id: dae39c4c13c54f8798c24cdf5d402dde
 type: post
 layout: post
 title: "5 redenen om een hond te kopen "
 permalink: /blog/5-redenen-om-een-hond-te-kopen-/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LucasVersteeg
+auteur: Lucas Versteeg
+rubriek: blogpost
 excerpt: "Zondag 26 mei is niet zomaar een dag. Het is namelijk de Dag van de Hond waarin alles - of nou ja, veel - in het teken staat van de trouwe viervoeter. Mocht je er geen hebben: hier 5 redenen om er een te kopen. Plezier gegarandeerd!  "
 seo:
   description: "5 redenen om een hond te kopen "
@@ -22,7 +24,7 @@ Zondag 26 mei is niet zomaar een dag. Het is namelijk de Dag van de Hond waarin 
         
   
   <div class="content">
-    <img height="903" width="1605" style="width: 700px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/DSC_0873.JPG" alt="">  </div>
+    <img height="903" width="1605" style="width: 700px;" class="media-element file-default" data-delta="1" src="/sites/default/files/DSC_0873.JPG" alt="">  </div>
 
   
 </div>
@@ -36,7 +38,7 @@ Zondag 26 mei is niet zomaar een dag. Het is namelijk de Dag van de Hond waarin 
         
   
   <div class="content">
-    <img height="720" width="960" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/10616484_519913914821275_659474397549397199_n.jpg" alt="">  </div>
+    <img height="720" width="960" class="media-element file-default" data-delta="2" src="/sites/default/files/10616484_519913914821275_659474397549397199_n.jpg" alt="">  </div>
 
   
 </div>

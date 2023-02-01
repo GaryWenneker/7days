@@ -1,11 +1,13 @@
 ---
-id: e9fe399434c34f16961266f92aed2b8a
+id: f4cd0d66722843e8b056aaeb486ca09e
 type: nieuws
 layout: post
 title: "1 op de 3 jongeren denkt dat Rutte weer premier wordt"
 permalink: /nieuws/1-op-de-3-jongeren-denkt-dat-rutte-weer-premier-wordt/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: 3FMTussenuur
+auteur: 3FM Tussenuur
+rubriek: nieuws
 excerpt: "Mark Rutte wordt ook na de verkiezingen weer de baas van het Nederlandse kabinet. Althans, dat zegt 1 op de 3 jongeren in een peiling. En de helft vreest dat er dit jaar een terroristische aanslag in Nederland wordt gepleegd.  "
 seo:
   description: "1 op de 3 jongeren denkt dat Rutte weer premier wordt"
@@ -22,7 +24,7 @@ Mark Rutte wordt ook na de verkiezingen weer de baas van het Nederlandse kabinet
         
   
   <div class="content">
-    <img alt="jijvandaag tussenuur" title="Beeld: 3FM Tussenuur/JijVandaag" height="467" width="700" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/jijvandaag%201.png">  </div>
+    <img alt="jijvandaag tussenuur" title="Beeld: 3FM Tussenuur/JijVandaag" height="467" width="700" class="media-element file-default" data-delta="1" src="/sites/default/files/jijvandaag%201.png">  </div>
 
   
 </div>
@@ -35,7 +37,7 @@ Mark Rutte wordt ook na de verkiezingen weer de baas van het Nederlandse kabinet
         
   
   <div class="content">
-    <img alt="jijvandaag 3FM Tussenuur" title="Beeld: 3FM Tussenuur/JijVandaag" height="255" width="700" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/jijvandaag%202_0.jpg">  </div>
+    <img alt="jijvandaag 3FM Tussenuur" title="Beeld: 3FM Tussenuur/JijVandaag" height="255" width="700" class="media-element file-default" data-delta="1" src="/sites/default/files/jijvandaag%202_0.jpg">  </div>
 
   
 </div>
@@ -48,7 +50,7 @@ Mark Rutte wordt ook na de verkiezingen weer de baas van het Nederlandse kabinet
         
   
   <div class="content">
-    <img alt="aanslag brussel herdenking" title="Foto: AFP" height="567" width="850" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-43129911.jpg">  </div>
+    <img alt="aanslag brussel herdenking" title="Foto: AFP" height="567" width="850" class="media-element file-default" data-delta="1" src="/sites/default/files/ANP-43129911.jpg">  </div>
 
   
 </div>

@@ -1,11 +1,13 @@
 ---
-id: d2b1728811e2467189257fd5f74aa8d8
+id: 777a3c78509d4eb48161efe01b6e8e36
 type: nieuws
 layout: post
 title: "157 nieuwe emoji's vandaag gelanceerd"
 permalink: /nieuws/157-nieuwe-emojis-vandaag-gelanceerd/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LisetteGerbrands
+auteur: Lisette Gerbrands
+rubriek: nieuws
 excerpt: "Roodharige en kale gezichtjes, superhelden, een kangoeroe of een piratenvlag. Begin dit jaar werden de 157 nieuwe emoji's al aangekondigd. En die zijn vanaf vandaag wereldwijd beschikbaar.  "
 seo:
   description: "157 nieuwe emoji's vandaag gelanceerd"

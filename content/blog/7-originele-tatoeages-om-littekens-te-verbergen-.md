@@ -1,11 +1,13 @@
 ---
-id: 1581d060e7814a7dbddfd758a5615e67
+id: f3979b2d640c4620b1b907380c49b803
 type: post
 layout: post
 title: "7 originele tatoeages om littekens te verbergen "
 permalink: /blog/7-originele-tatoeages-om-littekens-te-verbergen-/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LucasVersteeg
+auteur: Lucas Versteeg
+rubriek: blogpost
 excerpt: "Het wordt weer lente! Het zonnetje zal zich steeds vaker laten zien en de korte broeken en t-shirts worden weer tevoorschijn getoverd, met meer blote benen en armen als gevolg. Dit betekent dat tatoeages ook vaak beter zichtbaar zijn. Wist je dat ze ook nuttig kunnen zijn?  "
 seo:
   description: "7 originele tatoeages om littekens te verbergen "
@@ -20,7 +22,7 @@ Het wordt weer lente! Het zonnetje zal zich steeds vaker laten zien en de korte 
         
   
   <div class="content">
-    <img height="534" width="379" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/t1.PNG" alt="">  </div>
+    <img height="534" width="379" class="media-element file-default" data-delta="1" src="/sites/default/files/t1.PNG" alt="">  </div>
 
   
 </div>
@@ -31,7 +33,7 @@ Het wordt weer lente! Het zonnetje zal zich steeds vaker laten zien en de korte 
         
   
   <div class="content">
-    <img height="522" width="374" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/t2.PNG" alt="">  </div>
+    <img height="522" width="374" class="media-element file-default" data-delta="2" src="/sites/default/files/t2.PNG" alt="">  </div>
 
   
 </div>
@@ -42,7 +44,7 @@ Het wordt weer lente! Het zonnetje zal zich steeds vaker laten zien en de korte 
         
   
   <div class="content">
-    <img height="445" width="375" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/t3.PNG" alt="">  </div>
+    <img height="445" width="375" class="media-element file-default" data-delta="3" src="/sites/default/files/t3.PNG" alt="">  </div>
 
   
 </div>
@@ -53,7 +55,7 @@ Het wordt weer lente! Het zonnetje zal zich steeds vaker laten zien en de korte 
         
   
   <div class="content">
-    <img height="474" width="380" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/t4.PNG" alt="">  </div>
+    <img height="474" width="380" class="media-element file-default" data-delta="4" src="/sites/default/files/t4.PNG" alt="">  </div>
 
   
 </div>
@@ -64,7 +66,7 @@ Het wordt weer lente! Het zonnetje zal zich steeds vaker laten zien en de korte 
         
   
   <div class="content">
-    <img height="521" width="377" class="media-element file-default" data-delta="5" src="https://7dagen.netlify.app/sites/default/files/t5.PNG" alt="">  </div>
+    <img height="521" width="377" class="media-element file-default" data-delta="5" src="/sites/default/files/t5.PNG" alt="">  </div>
 
   
 </div>
@@ -75,7 +77,7 @@ Het wordt weer lente! Het zonnetje zal zich steeds vaker laten zien en de korte 
         
   
   <div class="content">
-    <img height="475" width="379" class="media-element file-default" data-delta="6" src="https://7dagen.netlify.app/sites/default/files/y6.PNG" alt="">  </div>
+    <img height="475" width="379" class="media-element file-default" data-delta="6" src="/sites/default/files/y6.PNG" alt="">  </div>
 
   
 </div>
@@ -86,7 +88,7 @@ Het wordt weer lente! Het zonnetje zal zich steeds vaker laten zien en de korte 
         
   
   <div class="content">
-    <img height="544" width="380" class="media-element file-default" data-delta="7" src="https://7dagen.netlify.app/sites/default/files/t7_0.PNG" alt="">  </div>
+    <img height="544" width="380" class="media-element file-default" data-delta="7" src="/sites/default/files/t7_0.PNG" alt="">  </div>
 
   
 </div>

@@ -1,11 +1,13 @@
 ---
-id: 0923f2fc1eb04aa5b6cd9e6cef658f1a
+id: f2498b6047064b7e8abbec2d698ffad1
 type: nieuws
 layout: post
 title: "3 vragen over fikse boete voor Google"
 permalink: /nieuws/3-vragen-over-fikse-boete-voor-google/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LisetteGerbrands
+auteur: Lisette Gerbrands
+rubriek: nieuws
 excerpt: "Techgigant Google blijft maar hoge boetes krijgen van de Europese Commissie. Hoe zit dat?   "
 seo:
   description: "3 vragen over fikse boete voor Google"

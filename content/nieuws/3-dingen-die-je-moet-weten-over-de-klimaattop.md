@@ -1,11 +1,13 @@
 ---
-id: 326a05976be944b9bc9fbd72bdaf23f4
+id: d6501947d88745d283f1fd79ddd32ca0
 type: nieuws
 layout: post
 title: "3 dingen die je moet weten over de klimaattop"
 permalink: /nieuws/3-dingen-die-je-moet-weten-over-de-klimaattop/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LisetteGerbrands
+auteur: Lisette Gerbrands
+rubriek: nieuws
 excerpt: "Al wekenlang gaat het erover: de klimaattop. En vandaag is het zover. Alle ogen zijn de komende twee weken gericht op de Spaanse hoofdstad Madrid. Daar vindt namelijk de 25e VN-Klimaatconferentie (COP25) plaats. Waarom is het ook alweer in Madrid? En kan het ook mislukken? Drie dingen die je moet weten over de conferentie.  "
 seo:
   description: "3 dingen die je moet weten over de klimaattop"
@@ -14,13 +16,13 @@ seo:
 Al wekenlang gaat het erover: de klimaattop. En vandaag is het zover. Alle ogen zijn de komende twee weken gericht op de Spaanse hoofdstad Madrid. Daar vindt namelijk de 25e VN-Klimaatconferentie (COP25) plaats. Waarom is het ook alweer in Madrid? En kan het ook mislukken? Drie dingen die je moet weten over de conferentie.  
 
     <h3>1. Waarom is de klimaattop in Madrid?</h3>
-<p>De top zou eigenlijk in Chili zijn. Het land had aangeboden de COP25 op zich te nemen. Dat gebeurde nadat de Braziliaanse president Bolsonaro bedankte voor de eer ‘vanwege budgettaire redenen’. Dat Bolsonaro zelf niet overtuigd is van het klimaatprobleem zal vast ook een rol gespeeld hebben. Chili wilde maar wat graag de top organiseren. Maar door <a href="https://7dagen.netlify.app/nieuws/klimaattop-chili-gaat-niet-door" target="_blank">gewelddadige protesten</a> in de hoofdstad Santiago was president Piñera genoodzaakt om op 30 oktober te melden dat de top beter ergens anders georganiseerd kon worden.</p>
+<p>De top zou eigenlijk in Chili zijn. Het land had aangeboden de COP25 op zich te nemen. Dat gebeurde nadat de Braziliaanse president Bolsonaro bedankte voor de eer ‘vanwege budgettaire redenen’. Dat Bolsonaro zelf niet overtuigd is van het klimaatprobleem zal vast ook een rol gespeeld hebben. Chili wilde maar wat graag de top organiseren. Maar door <a href="/nieuws/klimaattop-chili-gaat-niet-door" target="_blank">gewelddadige protesten</a> in de hoofdstad Santiago was president Piñera genoodzaakt om op 30 oktober te melden dat de top beter ergens anders georganiseerd kon worden.</p>
 <p>Chili is het rijkste land van Zuid-Amerika, maar de verschillen tussen arm en rijk zijn er groot. Vooral de kosten voor zorg en onderwijs zijn de afgelopen jaren enorm gestegen en daarover waren vooral jongeren heel kwaad. Kort na de afzegging door Chili liet Spanje weten het stokje over te willen nemen.<div class="media media-element-container media-default"><div id="file-539077" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img alt="cop25" title="Foto: ANP" height="999" width="1500" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-402612364.jpg">  </div>
+    <img alt="cop25" title="Foto: ANP" height="999" width="1500" class="media-element file-default" data-delta="1" src="/sites/default/files/ANP-402612364.jpg">  </div>
 
   
 </div>

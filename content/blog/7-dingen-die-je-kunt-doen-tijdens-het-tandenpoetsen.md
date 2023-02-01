@@ -1,11 +1,13 @@
 ---
-id: 933fb7b0cf414a42b25f7d8981ccf8aa
+id: a34c2320a256456c888fe808edd04bb3
 type: post
 layout: post
 title: "7 dingen die je kunt doen tijdens het tandenpoetsen"
 permalink: /blog/7-dingen-die-je-kunt-doen-tijdens-het-tandenpoetsen/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LucasVersteeg
+auteur: Lucas Versteeg
+rubriek: blogpost
 excerpt: "Tandenpoetsen neemt twee keer per dag ongeveer twee minuten in beslag. Dat is natuurlijk weinig, maar lijkt het bij jou ook altijd een eeuwigheid te duren? Hier zeven dingen om de tijd te doden tijdens het tandenpoetsen.  "
 seo:
   description: "7 dingen die je kunt doen tijdens het tandenpoetsen"
@@ -22,7 +24,7 @@ Tandenpoetsen neemt twee keer per dag ongeveer twee minuten in beslag. Dat is na
         
   
   <div class="content">
-    <img height="302" width="354" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/HAAS%20IS%20BANG.png" alt="">  </div>
+    <img height="302" width="354" class="media-element file-default" src="/sites/default/files/HAAS%20IS%20BANG.png" alt="">  </div>
 
   
 </div>
@@ -30,4 +32,4 @@ Tandenpoetsen neemt twee keer per dag ongeveer twee minuten in beslag. Dat is na
 <p><strong>5. Mompel alle rijtjes van Frans, Duits en Engels</strong><br>Je leraar of lerares zegt waarschijnlijk vaak dat je die stamp-rijtjes moet blijven herhalen. Maar daar heb je vast nooit tijd voor. Die twee minuten vol tandpasta-schuim, tandenborstels en flosdraden in je mond zijn daar toch het perfecte moment voor? DER DES DEM DEN, DIE DER DER DIE...</p>
 <p><strong>6. Denk na over dingen waar je anders nooit over na denkt</strong><br>Ja, er zijn soms van die dingen waar je normaal gewoon niet over na denkt. Bijvoorbeeld: 'Is een geit wel echt een dier?' Of: 'Waarom is cola zwart?' Tandenpoetsen is de perfecte gelegenheid om daar eens over te filosoferen.</p>
 <p><strong>7. Doe lenigheidsoefeningen</strong><br>Geef maar toe: stiekem wil je al heel je leven de spagaat kunnen. Hmm, dat vergt wat oefening. Is het een idee om elke dag tijdens het tandenpoetsen even te oefenen? Na drie jaar kun je het!</p>
-<p><em>Meer blogs van Lucas (16) lezen? Check ook <a href="https://7dagen.netlify.app/blog/de-7-bizarste-japanse-gadgets" target="_blank">De 7 bizarste Japanse gadgets</a> en <a href="https://7dagen.netlify.app/blog/de-aller-allerflauwste-grappen" target="_blank">De aller- allerflauwste grappen</a>.</em></p>  
+<p><em>Meer blogs van Lucas (16) lezen? Check ook <a href="/blog/de-7-bizarste-japanse-gadgets" target="_blank">De 7 bizarste Japanse gadgets</a> en <a href="/blog/de-aller-allerflauwste-grappen" target="_blank">De aller- allerflauwste grappen</a>.</em></p>  

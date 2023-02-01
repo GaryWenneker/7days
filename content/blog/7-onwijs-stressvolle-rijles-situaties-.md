@@ -1,11 +1,13 @@
 ---
-id: 4767ff8dc8e44193bf171c9dd3ba276a
+id: 953ca46434a2456a87e8118d13eb4a40
 type: post
 layout: post
 title: "7 onwijs stressvolle rijles-situaties "
 permalink: /blog/7-onwijs-stressvolle-rijles-situaties-/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: GitteHessels
+auteur: Gitte Hessels
+rubriek: blogpost
 excerpt: "Ik heb al een tijdje mijn rijbewijs, maar als ik achter een lesauto rijd weet ik nog precies hoe het voelt om er in te zitten: behoorlijk stressvol.  "
 seo:
   description: "7 onwijs stressvolle rijles-situaties "

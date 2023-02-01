@@ -1,11 +1,13 @@
 ---
-id: 1d3bb8d91a0147ada7a5c4e7af00b401
+id: ea8caac6b146421199aaae5b93cb5e74
 type: post
 layout: post
 title: "7 redenen om als de wiedeweerga de Amerikaanse verkiezingen te gaan volgen"
 permalink: /blog/7-redenen-om-als-de-wiedeweerga-de-amerikaanse-verkiezingen-te-gaan-volgen/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: Sophiavan Lil
+auteur: Sophia van Lil
+rubriek: blogpost
 excerpt: "Over ruim twee weken ben ik jarig. Zoals altijd verheug ik me al weken op 8 november, maar dit jaar doet een groot deel van de wereld met me mee. Oké, niet vanwege mijn Sweet Sixteen, maar vanwege de bijna surrealistische verkiezingsstrijd in de Verenigde Staten. Volg jij de race nog niet? Hier zeven redenen om dat heel snel wél te gaan doen.   "
 seo:
   description: "7 redenen om als de wiedeweerga de Amerikaanse verkiezingen te gaan volgen"
@@ -73,4 +75,4 @@ Over ruim twee weken ben ik jarig. Zoals altijd verheug ik me al weken op 8 nov
 </div>
 </div>
 <p><em>GIF'jes <a href="https://giphy.com/gifs/hillary-clinton-shimmy-woo-okay-l2SpPZdjcX3JSjR3a">via GIPHY</a></em></p>
-<p><em>Meer blogs lezen van Sophia (15)? Laatst schreef ze ook <a href="https://7dagen.netlify.app/blog/de-25-dingen-waar-je-aan-denkt-tijdens-een-saaie-les">De 25 dingen waar je aan denkt tijdens een saaie les</a> en <a href="https://7dagen.netlify.app/blog/tijd-voor-de-terugkeer-van-de-yolo-mentaliteit">Tijd voor de terugkeer van de yolo-mentaliteit</a>. Enne, al onze artikelen over de Amerikaanse verkiezingen vind je in ons <a href="www.sevendays.nl/vs2016">dossier</a>.</em></p>  
+<p><em>Meer blogs lezen van Sophia (15)? Laatst schreef ze ook <a href="/blog/de-25-dingen-waar-je-aan-denkt-tijdens-een-saaie-les">De 25 dingen waar je aan denkt tijdens een saaie les</a> en <a href="/blog/tijd-voor-de-terugkeer-van-de-yolo-mentaliteit">Tijd voor de terugkeer van de yolo-mentaliteit</a>. Enne, al onze artikelen over de Amerikaanse verkiezingen vind je in ons <a href="www.sevendays.nl/vs2016">dossier</a>.</em></p>  

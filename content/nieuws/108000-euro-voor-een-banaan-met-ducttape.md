@@ -1,11 +1,13 @@
 ---
-id: 8c56be5de0d24d849e188f09db1dee33
+id: 76a62b43c8044f329742ea2f48efe349
 type: nieuws
 layout: post
 title: "108.000 euro voor een banaan met ducttape"
 permalink: /nieuws/108000-euro-voor-een-banaan-met-ducttape/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: Sannevan Houwelingen
+auteur: Sanne van Houwelingen
+rubriek: nieuws
 excerpt: "120.000 dollar betaalden mensen ervoor. Voor de omgerekend 108.000 euro kregen ze geen nieuwe auto of peperduur horloge. Ze kochten een banaan die met ducttape aan een muur is geplakt, het nieuwste werk van kunstenaar Maurizio Cattelan.   "
 seo:
   description: "108.000 euro voor een banaan met ducttape"
@@ -27,4 +29,4 @@ seo:
 </div>
 </div>
 <h3>Gouden wc-pot</h3>
-<p>Cattelan maakt wel vaker bizarre kunstwerken. Zoals een spook-olifant, een oma in een koelkast en een gigantische middelvinger. Hij maakte eerder ook een <a href="https://7dagen.netlify.app/raar/dit-kunst-een-gouden-wc-pot" target="_blank">wc-pot</a> van 18-karaats goud, die wel 6 miljoen dollar waard is. Dat toilet kwam dit jaar nog in het nieuws omdat hij was gestolen uit het Bleinheim Palace waar hij werd tentoongesteld.</p>  
+<p>Cattelan maakt wel vaker bizarre kunstwerken. Zoals een spook-olifant, een oma in een koelkast en een gigantische middelvinger. Hij maakte eerder ook een <a href="/raar/dit-kunst-een-gouden-wc-pot" target="_blank">wc-pot</a> van 18-karaats goud, die wel 6 miljoen dollar waard is. Dat toilet kwam dit jaar nog in het nieuws omdat hij was gestolen uit het Bleinheim Palace waar hij werd tentoongesteld.</p>  

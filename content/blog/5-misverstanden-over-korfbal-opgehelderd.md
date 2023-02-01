@@ -1,11 +1,13 @@
 ---
-id: efb3ebcd4408468cbfd474af8d9eab14
+id: 87f9f3e1c5d74fce9a2bcf9d98a0c18d
 type: post
 layout: post
 title: "5 misverstanden over korfbal opgehelderd"
 permalink: /blog/5-misverstanden-over-korfbal-opgehelderd/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LauraSimons
+auteur: Laura Simons
+rubriek: blogpost
 excerpt: "Iedere keer dat ik iemand vertel dat ik aan korfbal doe, vliegen de vervelende (en foutieve) opmerkingen me naar de oren. Hoe korfbal ‘eigenlijk hetzelfde is als basketbal’. Hoe je ‘niks meer mag als iemand z’n hand omhoog houdt’. Of hoe je ‘amper hoeft te rennen’.  "
 seo:
   description: "5 misverstanden over korfbal opgehelderd"

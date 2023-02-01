@@ -1,11 +1,13 @@
 ---
-id: 1851ab06710a4db48520cd59ad77c1e5
+id: 4266186406ab40679345d557014a1b6f
 type: post
 layout: post
 title: "30 nuttige dingen om in de vakantie te doen"
 permalink: /blog/30-nuttige-dingen-om-in-de-vakantie-te-doen/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LucasVersteeg
+auteur: Lucas Versteeg
+rubriek: blogpost
 excerpt: "Raar eigenlijk: in het dagelijks (school)leven heb je het véél te druk voor eigenlijk alles wat je zou willen doen. Maar als je eenmaal vakantie hebt, weet je je eigenlijk geen raad met de zeeën van tijd. Daarom hier een lijst van dertig dingen om te doen, zodat je je deze zomer af en toe nog nuttig kunt maken.  "
 seo:
   description: "30 nuttige dingen om in de vakantie te doen"
@@ -39,7 +41,7 @@ Raar eigenlijk: in het dagelijks (school)leven heb je het véél te druk voor ei
 <p><strong>24.</strong> Leer garnalen pellen.</p>
 <p><strong>25.</strong> Doe buikspieroefeningen.</p>
 <p><strong>26.</strong> Repareer kapotte dingen in en om het huis. </p>
-<p><strong>27. </strong>Ga frisdrank verkopen op een plek waar veel <a href="https://7dagen.netlify.app/pokemon">Pokémon-GO</a>'ers zijn.</p>
+<p><strong>27. </strong>Ga frisdrank verkopen op een plek waar veel <a href="/pokemon">Pokémon-GO</a>'ers zijn.</p>
 <p><strong>28.</strong> Leer een muziekinstrument spelen.</p>
 <p><strong>29.</strong> Ga bijslapen! Hoe meer slaap je nu verzamelt, hoe minder slaap je volgend schooljaar nodig hebt (of zo).</p>
 <p><strong>30.</strong> Maak een groepsapp met allemaal <em>random</em> contacten, bijvoorbeeld met je vader, een paar vrienden, je achternicht en je lerares Duits. Hartstikke gezellig en sociaal om mensen te verbinden!</p>  

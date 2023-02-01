@@ -1,11 +1,13 @@
 ---
-id: 3351330f7df343d3b9c7fd6e4dc06085
+id: e02d3ec3581643bba284e2147c0e9207
 type: post
 layout: post
 title: "4 struggles die iedere puber vast herkent"
 permalink: /blog/4-struggles-die-iedere-puber-vast-herkent/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: IrisKegels
+auteur: Iris Kegels
+rubriek: blogpost
 excerpt: "De overgang van de basisschool naar de middelbare school bracht mij onder andere bergen huiswerk. Daar had ik ook wel op gerekend. Helaas zette tijdens de switch van scholen de puberteit flink door. Wat ik niet wist was dat bovenop puberkwaaltjes en stapels werk ook nog zware ochtenden, last-minute leerwerk en een boel andere problemen komen. Fysiek én mentaal.  "
 seo:
   description: "4 struggles die iedere puber vast herkent"

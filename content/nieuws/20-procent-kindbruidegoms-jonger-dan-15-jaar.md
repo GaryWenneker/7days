@@ -1,11 +1,13 @@
 ---
-id: 8d156190e55d4581852aa2b75e23d32a
+id: 3980068274364eaa8f73722cfd09e29c
 type: nieuws
 layout: post
 title: "20 procent kindbruidegoms jonger dan 15 jaar"
 permalink: /nieuws/20-procent-kindbruidegoms-jonger-dan-15-jaar/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: ThijsJacobs
+auteur: Thijs Jacobs
+rubriek: nieuws
 excerpt: "Uit een onderzoek van Unicef blijkt dat zo’n 115 miljoen jongens en mannen getrouwd zijn toen ze nog onder de achttien waren. Een zorgelijk resultaat, vindt de organisatie.  "
 seo:
   description: "20 procent kindbruidegoms jonger dan 15 jaar"

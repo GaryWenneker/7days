@@ -1,11 +1,13 @@
 ---
-id: cb283d2f1b934916b969430db31a6c58
+id: 691b3488c8904d38818d09c596e84332
 type: post
 layout: post
 title: "7 dingen die je moet weten over de studie Mondzorgkunde"
 permalink: /blog/7-dingen-die-je-moet-weten-over-de-studie-mondzorgkunde/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LucasVersteeg
+auteur: Lucas Versteeg
+rubriek: blogpost
 excerpt: "Oefenen op nepkiezen, behandeld worden door ouderejaars en Latijnse namen opdreunen? Deze, en nog veel meer andere dingen moet je weten over de studie Mondzorgkunde.   "
 seo:
   description: "7 dingen die je moet weten over de studie Mondzorgkunde"
@@ -22,4 +24,4 @@ Oefenen op nepkiezen, behandeld worden door ouderejaars en Latijnse namen opdreu
 <p><em><strong>Populaire studie</strong></em><br>'De studie ‘Mondzorgkunde’ is erg populair, en is maar op vier plekken in Nederland te volgen. Er is een strenge selectie op mijn school: van de zeshonderd geïnteresseerden worden de honderd meest gemotiveerde studenten toegelaten. Dat zorgt voor een leuke sfeer. Waarom de studie zo populair is? De combinatie van praktijk en theorie is erg goed. Ook ben je, als je later een baan hebt, zeer zelfstandig aan het werk. Bovendien is het salaris over het algemeen ook niet verkeerd.'</p>
 <p><em><strong>Lesvormen</strong></em><br>'Onze lesdagen zijn erg afwisselend. Meestal ga ik vijf dagen in de week voor een of twee lessen naar school. Het kan zijn dat je al om acht uur aanwezig moet zijn of juist pas om twee uur hoeft te beginnen. Op de opleiding wordt op verschillende manieren omgegaan met de lesstof. Naast praktijkles hebben we soms ook een hoorcollege. Dan zitten we in een grote ruimte en dan legt de docent uit. We hebben ook veel klassikale lessen: werkcolleges. Tijdens die lessen gaan we soms in groepjes de lesstof behandelen. Of we gaan een soort quiz over de lesstof maken. En dan is er ook nog blended learning. Dat zijn meestal filmpjes waarin een docent uitleg geeft over een bepaald onderwerp.' </p>
 <p><em><strong>Gebrek aan jongens</strong></em><br>'Er zitten bij ons op de opleiding weinig jongens. In mijn klas maar twee. Een gelijkmatige verdeling is misschien niet mogelijk, maar het zou leuker zijn als er iets meer jongens zouden zijn. Ook voor jongens die een medische studie willen gaan doen en later zelfstandig willen werken, is dit een goede keuze.'</p>
-<p><em>Meer verhalen lezen van blogger Lucas (17)? Lees ook <a href="https://7dagen.netlify.app/blog/never-nooit-whatsappen">Never Nooit Whatsappen</a>.</em></p>  
+<p><em>Meer verhalen lezen van blogger Lucas (17)? Lees ook <a href="/blog/never-nooit-whatsappen">Never Nooit Whatsappen</a>.</em></p>  

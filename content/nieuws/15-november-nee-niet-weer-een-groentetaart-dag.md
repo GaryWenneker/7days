@@ -1,11 +1,13 @@
 ---
-id: e0aab85b56fa4df0aea1b1e61b56f922
+id: 83053e08a7a94391a4a23e67a37a11ac
 type: nieuws
 layout: post
 title: "15 november: Nee-niet-weer-een-groentetaart-dag"
 permalink: /nieuws/15-november-nee-niet-weer-een-groentetaart-dag/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: JacquelineAncona
+auteur: Jacqueline Ancona
+rubriek: nieuws
 excerpt: "Tsja, als je al 175 verjaardagsfeestjes gevierd hebt en je krijgt voor je 176ste verjaardag alweer een, tataratááááá, groentetaart, dan is het eigenlijk niet meer dan logisch dat je daar niet heel enthousiast op reageert. Vooral als die dag helemaal niet je echte verjaardag is...  "
 seo:
   description: "15 november: Nee-niet-weer-een-groentetaart-dag"

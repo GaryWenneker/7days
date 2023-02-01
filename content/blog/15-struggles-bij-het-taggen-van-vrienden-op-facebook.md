@@ -1,11 +1,13 @@
 ---
-id: dd1e0e28f7114888b5bb2288579da06c
+id: 86af3c5ede2842108d1d535fbb71a6d6
 type: post
 layout: post
 title: "15 struggles bij het taggen van vrienden op Facebook"
 permalink: /blog/15-struggles-bij-het-taggen-van-vrienden-op-facebook/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LucasVersteeg
+auteur: Lucas Versteeg
+rubriek: blogpost
 excerpt: "Een kattenfilmpje dat té hilarisch is, een handige link voor school of een geweldige meme: soms moet je je vrienden gewoon taggen. Handig en leuk. Maar dat taggen loopt niet altijd helemaal op rolletjes. Zie hier de 15 struggles die het taggen (en getagd worden!) met zich meebrengt.  "
 seo:
   description: "15 struggles bij het taggen van vrienden op Facebook"

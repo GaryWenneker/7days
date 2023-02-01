@@ -1,11 +1,13 @@
 ---
-id: a3b29a0fdc204bb9b21aa135f092901f
+id: 6a72c387031347c582ce2a6362703a0c
 type: post
 layout: post
 title: "7 originele manieren om aan geld te komen"
 permalink: /blog/7-originele-manieren-om-aan-geld-te-komen/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LucasVersteeg
+auteur: Lucas Versteeg
+rubriek: blogpost
 excerpt: "Het is alweer half februari, dus de meeste goede voornemens hebben we weer diep in de kast gestopt. Die halen we begin 2018 wel weer naar boven. Een vaak genoemd voornemen was: 'ik wil meer geld gaan verdienen'. Hoewel geld niet gelukkig maakt, heb ik toch 7 tips op een rijtje gezet om op een originele manier aan geld te komen. Zo kun je dit voornemen misschien toch nog halen.   "
 seo:
   description: "7 originele manieren om aan geld te komen"
@@ -26,6 +28,6 @@ Het is alweer half februari, dus de meeste goede voornemens hebben we weer diep
 <h3><strong>6. Maak een raar YouTube-kanaal met reclames</strong></h3>
 <p>YouTuben kan iedereen, het is gewoon een kwestie van creativiteit, geluk en doorzettingsvermogen. Maak een heel raar kanaal dat meteen opvalt en zorg voor een hoop abonnees. Als je eenmaal een beetje bekend bent, overlaad je kanaal dan met reclames. Het geld zal binnenstromen, de abonnees alleen wellicht niet meer…</p>
 <h3><strong>7. Maak en verkoop moderne kunst</strong></h3>
-<p>Kunst is zo’n breed begrip. Kunst is een kwestie van smaak, maar eigenlijk is alles kunst. Moderne kunst is ook bijzonder. <a href="https://7dagen.netlify.app/blog/quiz-dit-kunst-een-kindertekening">Schilderijen die lijken op kindertekeningen</a> worden verkocht voor duizenden euro’s. Dat kun jij ook! Maak wat gekke schilderijen, verzin een abstract verhaal en zet ze op Marktplaats! </p>
-<p><em>Meer blogs lezen van Lucas (17)? Lees ook <a href="https://7dagen.netlify.app/blog/wij-hopeloze-scholieren-zijn-gedwongen-verslaafd">Wij hopeloze scholieren zijn gedwongen verslaafd</a> of <a href="https://7dagen.netlify.app/blog/google-n%C3%B3%C3%B3it-je-pijnklachten">Google nóóit je pijnklachten!</a></em></p>
+<p>Kunst is zo’n breed begrip. Kunst is een kwestie van smaak, maar eigenlijk is alles kunst. Moderne kunst is ook bijzonder. <a href="/blog/quiz-dit-kunst-een-kindertekening">Schilderijen die lijken op kindertekeningen</a> worden verkocht voor duizenden euro’s. Dat kun jij ook! Maak wat gekke schilderijen, verzin een abstract verhaal en zet ze op Marktplaats! </p>
+<p><em>Meer blogs lezen van Lucas (17)? Lees ook <a href="/blog/wij-hopeloze-scholieren-zijn-gedwongen-verslaafd">Wij hopeloze scholieren zijn gedwongen verslaafd</a> of <a href="/blog/google-n%C3%B3%C3%B3it-je-pijnklachten">Google nóóit je pijnklachten!</a></em></p>
 <p><em>Foto Flickr/Rob Smits</em></p>  

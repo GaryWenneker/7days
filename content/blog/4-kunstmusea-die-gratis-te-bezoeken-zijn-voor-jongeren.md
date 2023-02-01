@@ -1,11 +1,13 @@
 ---
-id: 087a426279f64f548b8b4fc6037582a1
+id: 5725939b68e0499c9049c414f4e11b71
 type: post
 layout: post
 title: "4 kunstmusea die gratis te bezoeken zijn voor jongeren"
 permalink: /blog/4-kunstmusea-die-gratis-te-bezoeken-zijn-voor-jongeren/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: Femkevan de Griendt
+auteur: Femke van de Griendt
+rubriek: blogpost
 excerpt: "Musea zijn misschien saai in de ogen van jongeren, maar ik vind moderne kunst interessant. Gelukkig zijn er genoeg musea in de buurt die ik kan bezoeken. Bijkomend voordeel: sommige zijn gratis voor jongeren! Als je geen toegang hoeft te betalen, wat heb je dan te verliezen? Dus wees in een kunstzinnige bui en doe eens gek: bezoek één van deze kunstmusea in Zuid-Holland als jongere gratis!  "
 seo:
   description: "4 kunstmusea die gratis te bezoeken zijn voor jongeren"

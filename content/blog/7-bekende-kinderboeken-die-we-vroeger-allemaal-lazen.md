@@ -1,11 +1,13 @@
 ---
-id: 914685818cd14a06954aa15860fcbb15
+id: dc8af55acd214763b6b3d8fbecc875f0
 type: post
 layout: post
 title: "7 bekende kinderboeken die we vroeger allemaal lazen"
 permalink: /blog/7-bekende-kinderboeken-die-we-vroeger-allemaal-lazen/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LucasVersteeg
+auteur: Lucas Versteeg
+rubriek: blogpost
 excerpt: "Onze kleine kinderhartjes gingen vroeger sneller kloppen van lolly’s, Het Sinterklaasjournaal, maar zeker ook van een aantal kinderboeken. Vol spanning luisterden we naar hoe onze ouders voorlazen en vol ontzag bekeken we de mooie illustraties. Deze 7 pareltjes herken je vast nog wel.  "
 seo:
   description: "7 bekende kinderboeken die we vroeger allemaal lazen"
@@ -19,7 +21,7 @@ Onze kleine kinderhartjes gingen vroeger sneller kloppen van lolly’s, Het Sint
         
   
   <div class="content">
-    <img height="749" width="766" style="font-size: 13.008px; width: 150px; height: 147px; float: left;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/rups_0.PNG" alt="">  </div>
+    <img height="749" width="766" style="font-size: 13.008px; width: 150px; height: 147px; float: left;" class="media-element file-default" data-delta="1" src="/sites/default/files/rups_0.PNG" alt="">  </div>
 
   
 </div>
@@ -30,7 +32,7 @@ Onze kleine kinderhartjes gingen vroeger sneller kloppen van lolly’s, Het Sint
         
   
   <div class="content">
-    <img height="784" width="761" style="font-size: 13.008px; height: 155px; width: 150px; float: right;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/dikkie%20dik.PNG" alt="">  </div>
+    <img height="784" width="761" style="font-size: 13.008px; height: 155px; width: 150px; float: right;" class="media-element file-default" data-delta="1" src="/sites/default/files/dikkie%20dik.PNG" alt="">  </div>
 
   
 </div>
@@ -41,7 +43,7 @@ Onze kleine kinderhartjes gingen vroeger sneller kloppen van lolly’s, Het Sint
         
   
   <div class="content">
-    <img height="788" width="777" style="height: 152px; width: 150px; float: left;" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/nijtnje.PNG" alt="">  </div>
+    <img height="788" width="777" style="height: 152px; width: 150px; float: left;" class="media-element file-default" data-delta="2" src="/sites/default/files/nijtnje.PNG" alt="">  </div>
 
   
 </div>
@@ -53,7 +55,7 @@ Onze kleine kinderhartjes gingen vroeger sneller kloppen van lolly’s, Het Sint
         
   
   <div class="content">
-    <img height="786" width="623" style="height: 189px; width: 150px; float: left;" class="media-element file-default" data-delta="3" src="https://7dagen.netlify.app/sites/default/files/gruffalo.PNG" alt="">  </div>
+    <img height="786" width="623" style="height: 189px; width: 150px; float: left;" class="media-element file-default" data-delta="3" src="/sites/default/files/gruffalo.PNG" alt="">  </div>
 
   
 </div>
@@ -65,7 +67,7 @@ Onze kleine kinderhartjes gingen vroeger sneller kloppen van lolly’s, Het Sint
         
   
   <div class="content">
-    <img height="782" width="678" style="height: 173px; width: 150px; float: left;" class="media-element file-default" data-delta="4" src="https://7dagen.netlify.app/sites/default/files/elmer.PNG" alt="">  </div>
+    <img height="782" width="678" style="height: 173px; width: 150px; float: left;" class="media-element file-default" data-delta="4" src="/sites/default/files/elmer.PNG" alt="">  </div>
 
   
 </div>
@@ -77,7 +79,7 @@ Onze kleine kinderhartjes gingen vroeger sneller kloppen van lolly’s, Het Sint
         
   
   <div class="content">
-    <img height="727" width="545" style="height: 200px; width: 150px; float: right;" class="media-element file-default" data-delta="5" src="https://7dagen.netlify.app/sites/default/files/mooiste%20vis.PNG" alt="">  </div>
+    <img height="727" width="545" style="height: 200px; width: 150px; float: right;" class="media-element file-default" data-delta="5" src="/sites/default/files/mooiste%20vis.PNG" alt="">  </div>
 
   
 </div>

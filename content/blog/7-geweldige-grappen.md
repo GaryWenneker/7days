@@ -1,11 +1,13 @@
 ---
-id: 2f244730a90740bcb360498c053c23eb
+id: 216cb0431afc417e87cdeee11243d690
 type: post
 layout: post
 title: "7 geweldige grappen"
 permalink: /blog/7-geweldige-grappen/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: Thijsvan Reeuwijk
+auteur: Thijs van Reeuwijk
+rubriek: blogpost
 excerpt: "1 april is alweer een tijdje voorbij. En grappen blijven het hele jaar door leuk, maar wat zijn nou écht leuke grappen om uit te halen bij vrienden, familie of voorbijgangers die je zelf gemakkelijk kunt doen? Ik deel maar wat graag deze zeven grappen met je.  "
 seo:
   description: "7 geweldige grappen"
@@ -29,4 +31,4 @@ seo:
 <p>Hier is niet echt een specifieke grap voor, maar je kunt wel je fantasie op hol laten slaan. De opties zijn eindeloos: Je kunt bijvoorbeeld iemand vastplakken aan zijn schoenen, of je irritante broertje of zusje aan de eettafel tapen. Zolang die persoon maar weer op zijn pootjes terecht komt.</p>
 <p>Wees altijd (!) voorzichtig met grappen en zorg er voor dat ook je slachtoffer er om kan lachen. Houd wel in gedachten dat voor je grappen altijd moet gelden: Een goed begin heeft een goed behagen, maar het eindje zal de last dragen.</p>
 <p> </p>
-Thijs is een 16-jarige pannenkoekenfan en een superscout met tien(!) jaar ervaring. Hij sport drie keer per week en knutselt graag, op zijn manier: hij maakt bijvoorbeeld een powerbank in een Fisherman's Friends-blikje, een luchtpistool of een brandende laser. Je kunt deze jongen dus maar beter te vriend houden... <a href="https://7dagen.netlify.app/users/thijs-van-reeuwijk">Lees hier meer van zijn blogs</a>.  
+Thijs is een 16-jarige pannenkoekenfan en een superscout met tien(!) jaar ervaring. Hij sport drie keer per week en knutselt graag, op zijn manier: hij maakt bijvoorbeeld een powerbank in een Fisherman's Friends-blikje, een luchtpistool of een brandende laser. Je kunt deze jongen dus maar beter te vriend houden... <a href="/users/thijs-van-reeuwijk">Lees hier meer van zijn blogs</a>.  

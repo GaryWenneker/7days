@@ -1,11 +1,13 @@
 ---
-id: 863ae1b952674de6b36865150cde0ab0
+id: 9bfdde8aa2cc43788e2ab433791e05b9
 type: post
 layout: post
 title: "7 dingen die je overdag kunt doen om 's nachts beter te slapen"
 permalink: /blog/7-dingen-die-je-overdag-kunt-doen-om-s-nachts-beter-te-slapen/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: MarloesIJlst
+auteur: Marloes IJlst
+rubriek: blogpost
 excerpt: "Ben je net als ik professioneel plafondstarer? Zorgen die kopjes goede-nachtrust-thee en glaasjes warme melk er alleen maar voor dat je ‘s nachts steeds moet plassen? Waarschijnlijk had je er nog nooit bij stilgestaan, maar overdag kun je een hoop doen voor een betere nachtrust. Daarom hier 7 tips om te slapen als Doornroosje.  "
 seo:
   description: "7 dingen die je overdag kunt doen om 's nachts beter te slapen"
@@ -28,4 +30,4 @@ Ben je net als ik professioneel plafondstarer? Zorgen die kopjes goede-nachtrust
 <h3>7. Stop op tijd met internetten</h3>
 <p>Hoe jammer het ook is, het is waar. Het blauwachtige licht dat van de tv, computer en je telefoon afkomt heeft een negatief effect op de aanmaak van melatonine, het stofje dat ervoor zorgt dat je slaperig wordt. Het is dus verstandig om een uur voor het slapen je telefoon weg te leggen en een ouderwets boek te gaan lezen. Dan hoef je ook niet de avond voor de boektoets wanhopig naar een boekverslag op<em> Scholieren.com</em> te zoeken, een win/win situatie dus.</p>
 <p><a href="https://www.flickr.com/photos/nicholasjon/">Beeld: Flickr/nicholasjon</a></p>
-<p><em>Meer blogs lezen van <a href="https://7dagen.netlify.app/users/marloes-ijlst">Marloes</a> (16)? Laatst schreef ze ook <a href="https://7dagen.netlify.app/blog/waarom-ik-t%C3%B3ch-voice-kijk">Waarom ik tóch The Voice kijk</a> en <a href="https://7dagen.netlify.app/blog/de-7-beste-memes-van-afgelopen-jaar">De 7 beste memes van afgelopen jaar</a>.</em></p>  
+<p><em>Meer blogs lezen van <a href="/users/marloes-ijlst">Marloes</a> (16)? Laatst schreef ze ook <a href="/blog/waarom-ik-t%C3%B3ch-voice-kijk">Waarom ik tóch The Voice kijk</a> en <a href="/blog/de-7-beste-memes-van-afgelopen-jaar">De 7 beste memes van afgelopen jaar</a>.</em></p>  

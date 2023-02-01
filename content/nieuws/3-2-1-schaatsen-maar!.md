@@ -1,11 +1,13 @@
 ---
-id: 6b4d5a13b90b41bb98d89614f3f5fcbf
+id: b226e9d9a63a4ef3b9cd00af95201237
 type: nieuws
 layout: post
 title: "3-2-1: schaatsen maar!"
 permalink: /nieuws/3-2-1-schaatsen-maar!/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: CarolienPlasschaert
+auteur: Carolien Plasschaert
+rubriek: nieuws
 excerpt: "Dinsdagavond om half zeven is het dan écht zo ver: de allereerste schaatsmarathon op natuurijs van dit seizoen. Hij wordt gereden in Haaksbergen. Daar waren ze vanmorgen, onder grote belangstelling, al vroeg in de weer met het meten van de ijsdikte.   "
 seo:
   description: "3-2-1: schaatsen maar!"
@@ -20,7 +22,7 @@ Dinsdagavond om half zeven is het dan écht zo ver: de allereerste schaatsmarat
         
   
   <div class="content">
-    <img title="ANP" height="567" width="850" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/schaats2.jpg" alt="">  </div>
+    <img title="ANP" height="567" width="850" style="font-size: 13.008px; line-height: 20.0063px;" class="media-element file-default" src="/sites/default/files/schaats2.jpg" alt="">  </div>
 
   
 </div>
@@ -31,9 +33,9 @@ Dinsdagavond om half zeven is het dan écht zo ver: de allereerste schaatsmarat
         
   
   <div class="content">
-    <img title="ANP" height="567" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/schaats4.jpg" alt="">  </div>
+    <img title="ANP" height="567" width="850" class="media-element file-default" src="/sites/default/files/schaats4.jpg" alt="">  </div>
 
   
 </div>
 </div><em>De baan bij <a href="http://www.ijsch.nl/">schaatsvereniging IJSCH</a> in Haaksbergen</em>
-<p><em>Altijd op de hoogte blijven van het laatste nieuws? Meld je aan voor onze gratis <a href="https://7dagen.netlify.app/whatsapp">WhatsApp-dienst</a>, download onze gratis <a href="https://7dagen.netlify.app/app">app </a>of neem een <a href="https://7dagen.netlify.app/abonnement">proefabonnement</a> op de krant.</em></p>  
+<p><em>Altijd op de hoogte blijven van het laatste nieuws? Meld je aan voor onze gratis <a href="/whatsapp">WhatsApp-dienst</a>, download onze gratis <a href="/app">app </a>of neem een <a href="/abonnement">proefabonnement</a> op de krant.</em></p>  

@@ -1,11 +1,13 @@
 ---
-id: ad720df1f4734f7ea24d798d3e67391d
+id: 73184c8fc6294bd28839e238321b5bab
 type: post
 layout: post
 title: "22 gedachten die iedere muzikant weleens heeft"
 permalink: /blog/22-gedachten-die-iedere-muzikant-weleens-heeft/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LauraSimons
+auteur: Laura Simons
+rubriek: blogpost
 excerpt: "Muziek maak ik al zolang ik me kan herinneren. Ik speel al bijna tien jaar klarinet en ik heb mezelf de beginselen van gitaar en ukelele geleerd. Of je nu een ervaren of beginnende muzikant bent, of je gewoon afvraagt wat er eigenlijk omgaat in onze hoofden: 22 gedachten die iedere muzikant herkent.  "
 seo:
   description: "22 gedachten die iedere muzikant weleens heeft"

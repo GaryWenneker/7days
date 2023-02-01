@@ -1,11 +1,13 @@
 ---
-id: f3b29a125f4d440889c27076262b28be
+id: 984ce8e344654f119544bf01d5b8fe9a
 type: nieuws
 layout: post
 title: "15 Nederlandse woorden die we te weinig gebruiken"
 permalink: /nieuws/15-nederlandse-woorden-die-we-te-weinig-gebruiken/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: Sandravan de Wiel
+auteur: Sandra van de Wiel
+rubriek: nieuws
 excerpt: "Lekker even smoddermuilen tijdens de ondergaande hemelvlam! Huh, wat? Er zijn veel oude Nederlandse woorden die we tegenwoordig weinig (of nooit) meer gebruiken. Best wel zonde, toch?  "
 seo:
   description: "15 Nederlandse woorden die we te weinig gebruiken"
@@ -22,7 +24,7 @@ Lekker even smoddermuilen tijdens de ondergaande hemelvlam! Huh, wat? Er zijn ve
         
   
   <div class="content">
-    <img alt="Tweede Kamer" title="Foto: ANP" height="2794" width="5178" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-49291611.jpg">  </div>
+    <img alt="Tweede Kamer" title="Foto: ANP" height="2794" width="5178" class="media-element file-default" data-delta="1" src="/sites/default/files/ANP-49291611.jpg">  </div>
 
   
 </div>
@@ -35,7 +37,7 @@ Lekker even smoddermuilen tijdens de ondergaande hemelvlam! Huh, wat? Er zijn ve
         
   
   <div class="content">
-    <img alt="Hand Vinger" title="Foto: Pixabay" height="1280" width="1920" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/hand-1595547_1920.jpg">  </div>
+    <img alt="Hand Vinger" title="Foto: Pixabay" height="1280" width="1920" class="media-element file-default" data-delta="1" src="/sites/default/files/hand-1595547_1920.jpg">  </div>
 
   
 </div>
@@ -48,7 +50,7 @@ Lekker even smoddermuilen tijdens de ondergaande hemelvlam! Huh, wat? Er zijn ve
         
   
   <div class="content">
-    <img alt="Kinderopvang Kinderdagverblijf Kleuterschool" title="Foto: Pixabay" height="1280" width="1920" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/child-1864718_1920.jpg">  </div>
+    <img alt="Kinderopvang Kinderdagverblijf Kleuterschool" title="Foto: Pixabay" height="1280" width="1920" class="media-element file-default" data-delta="1" src="/sites/default/files/child-1864718_1920.jpg">  </div>
 
   
 </div>
@@ -61,7 +63,7 @@ Lekker even smoddermuilen tijdens de ondergaande hemelvlam! Huh, wat? Er zijn ve
         
   
   <div class="content">
-    <img alt="Champagne" title="Foto: Pixabay" height="1280" width="1920" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/champagne-2407247_1920.jpg">  </div>
+    <img alt="Champagne" title="Foto: Pixabay" height="1280" width="1920" class="media-element file-default" data-delta="1" src="/sites/default/files/champagne-2407247_1920.jpg">  </div>
 
   
 </div>

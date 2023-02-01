@@ -1,11 +1,13 @@
 ---
-id: 3d4694f7b7154a0dbb4daa53067f9837
+id: d5ae6428e48244a08fc62853536a38c4
 type: post
 layout: post
 title: "7 originele anti-stress tips"
 permalink: /blog/7-originele-anti-stress-tips/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LauraSimons
+auteur: Laura Simons
+rubriek: blogpost
 excerpt: "Iedere scholier heeft wel eens een stressvolle periode op school. Zo’n week met drie deadlines en daar nog vijf proefwerken bovenop. Paniek wil op zo’n moment mijn leven nog wel eens binnendringen, terwijl het juist dan belangrijk is om rustig te blijven. De simpele antistresstips kent iedereen, maar ik hoop daar zeven originele tips aan toe te voegen.  "
 seo:
   description: "7 originele anti-stress tips"

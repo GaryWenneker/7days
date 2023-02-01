@@ -1,11 +1,13 @@
 ---
-id: 59b9964ed0b540da92604fba64a3094a
+id: 5686341b5ea94b7e97f2b5fa345eee4c
 type: nieuws
 layout: post
 title: "2016: Het Jaar van het Boek"
 permalink: /nieuws/2016-het-jaar-van-het-boek/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: JacquelineAncona
+auteur: Jacqueline Ancona
+rubriek: nieuws
 excerpt: "2016 is het jaar van de aap, de boon, de fagot, de kievit en Jheronimus Bosch, maar vooral van het boek. En dat jaar gaat vandaag van start.  "
 seo:
   description: "2016: Het Jaar van het Boek"

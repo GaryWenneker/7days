@@ -9,7 +9,6 @@ blocks:
     title: ''
     content: |-
       # Nieuws
-      Nieuwsartikelen
     variant: default
   - type: recentNieuws
     title: Recente Nieuwsartikelen

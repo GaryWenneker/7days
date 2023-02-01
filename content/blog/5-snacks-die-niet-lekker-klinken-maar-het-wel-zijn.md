@@ -1,11 +1,13 @@
 ---
-id: 805007c1410c4f11b5320ff7a15ec14b
+id: 35c012914f114bfbb2e2a0feada44df5
 type: post
 layout: post
 title: "5 snacks die niet lekker klinken, maar het wel zijn"
 permalink: /blog/5-snacks-die-niet-lekker-klinken-maar-het-wel-zijn/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: AnnemijnGroeneveld
+auteur: Annemijn Groeneveld
+rubriek: blogpost
 excerpt: "Twee jaar geleden had ik een voornemen: ik ging voortaan gezond eten. En dit keer zou het geen bevlieging van twee weken zijn. Dus verbood ik mijn vader om ongezonde dingen te kopen.   "
 seo:
   description: "5 snacks die niet lekker klinken, maar het wel zijn"

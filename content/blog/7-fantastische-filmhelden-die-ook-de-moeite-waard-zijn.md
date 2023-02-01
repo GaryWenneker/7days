@@ -1,11 +1,13 @@
 ---
-id: 733b7e4cba2c423e807ba3f91c8f986f
+id: f9b2597df1d040b28e52716c3db4d25c
 type: post
 layout: post
 title: "7 fantastische filmhelden die ook de moeite waard zijn"
 permalink: /blog/7-fantastische-filmhelden-die-ook-de-moeite-waard-zijn/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LauraSimons
+auteur: Laura Simons
+rubriek: blogpost
 excerpt: "Na de spectaculaire film Endgame - het definitieve slotakkoord van de reeks blockbusters van The Avengers, ben ik in een zwart film-gat gevallen. Hoe kan het ook anders, nu mijn favoriete helden oud, dood of alleen zijn? Voor iedereen die in hetzelfde schuitje zit, ben ik op zoek gegaan naar een paar andere, fantastische filmhelden - die het gemis en de pijn kunnen verzachten.  "
 seo:
   description: "7 fantastische filmhelden die ook de moeite waard zijn"

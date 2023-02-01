@@ -1,11 +1,13 @@
 ---
-id: 307baa5b89ac4c3d96990fd53978091a
+id: 4117d9196f4f457288a5a836011ec92d
 type: post
 layout: post
 title: "3 soorten cupcakes"
 permalink: /blog/3-soorten-cupcakes/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: MaaikeKooijman
+auteur: Maaike Kooijman
+rubriek: blogpost
 excerpt: "Meivakantie! Een week vrij is natuurlijk de ideale gelegenheid om een keer de keuken in te duiken. Als je niet zo vaak bakt, zijn cupcakes goed om mee te beginnen. Mijn liefde voor koken en bakken is ook begonnen bij cupcakes! Het basisrecept is heel erg gemakkelijk en je kunt er elke smaak aan toevoegen die je maar wilt. De botercrème maakt het helemaal af. Vandaag deel ik de recepten voor 3 verschillende soorten cakejes: citroencupcakes, vruchtencupcakes en triple chocolate cupcakes met drie soorten chocolade.  "
 seo:
   description: "3 soorten cupcakes"
@@ -18,7 +20,7 @@ Meivakantie! Een week vrij is natuurlijk de ideale gelegenheid om een keer de ke
         
   
   <div class="content">
-    <img alt="Cupcakes" height="533" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Cupcakes1.JPG">  </div>
+    <img alt="Cupcakes" height="533" width="800" class="media-element file-default" src="/sites/default/files/Cupcakes1.JPG">  </div>
 
   
 </div>
@@ -35,7 +37,7 @@ Meivakantie! Een week vrij is natuurlijk de ideale gelegenheid om een keer de ke
         
   
   <div class="content">
-    <img alt="Cupcakes" height="529" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Cupcakes2.JPG">  </div>
+    <img alt="Cupcakes" height="529" width="800" class="media-element file-default" src="/sites/default/files/Cupcakes2.JPG">  </div>
 
   
 </div>
@@ -47,7 +49,7 @@ Meivakantie! Een week vrij is natuurlijk de ideale gelegenheid om een keer de ke
         
   
   <div class="content">
-    <img alt="Cupcakes" height="509" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Cupcakes4.JPG">  </div>
+    <img alt="Cupcakes" height="509" width="800" class="media-element file-default" src="/sites/default/files/Cupcakes4.JPG">  </div>
 
   
 </div>
@@ -58,7 +60,7 @@ Meivakantie! Een week vrij is natuurlijk de ideale gelegenheid om een keer de ke
         
   
   <div class="content">
-    <img alt="Cupcakes" height="533" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Cupcakes5.JPG">  </div>
+    <img alt="Cupcakes" height="533" width="800" class="media-element file-default" src="/sites/default/files/Cupcakes5.JPG">  </div>
 
   
 </div>
@@ -69,7 +71,7 @@ Meivakantie! Een week vrij is natuurlijk de ideale gelegenheid om een keer de ke
         
   
   <div class="content">
-    <img alt="Cupcakes" height="533" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Cupcakes3.JPG">  </div>
+    <img alt="Cupcakes" height="533" width="800" class="media-element file-default" src="/sites/default/files/Cupcakes3.JPG">  </div>
 
   
 </div>
@@ -80,7 +82,7 @@ Meivakantie! Een week vrij is natuurlijk de ideale gelegenheid om een keer de ke
         
   
   <div class="content">
-    <img alt="Cupcakes" height="683" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Cupcakes7.JPG">  </div>
+    <img alt="Cupcakes" height="683" width="800" class="media-element file-default" src="/sites/default/files/Cupcakes7.JPG">  </div>
 
   
 </div>
@@ -90,7 +92,7 @@ Meivakantie! Een week vrij is natuurlijk de ideale gelegenheid om een keer de ke
         
   
   <div class="content">
-    <img alt="Cupcakes" height="710" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Cupcakes8.JPG">  </div>
+    <img alt="Cupcakes" height="710" width="800" class="media-element file-default" src="/sites/default/files/Cupcakes8.JPG">  </div>
 
   
 </div>
@@ -101,7 +103,7 @@ Meivakantie! Een week vrij is natuurlijk de ideale gelegenheid om een keer de ke
         
   
   <div class="content">
-    <img alt="Botercrème" height="600" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Cupcakes9_0.JPG">  </div>
+    <img alt="Botercrème" height="600" width="800" class="media-element file-default" src="/sites/default/files/Cupcakes9_0.JPG">  </div>
 
   
 </div>
@@ -116,7 +118,7 @@ Meivakantie! Een week vrij is natuurlijk de ideale gelegenheid om een keer de ke
         
   
   <div class="content">
-    <img alt="Botercrème" height="596" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Cupcakes11.JPG">  </div>
+    <img alt="Botercrème" height="596" width="800" class="media-element file-default" src="/sites/default/files/Cupcakes11.JPG">  </div>
 
   
 </div>
@@ -126,9 +128,9 @@ Meivakantie! Een week vrij is natuurlijk de ideale gelegenheid om een keer de ke
         
   
   <div class="content">
-    <img alt="Cupcakes" height="533" width="800" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Cupcakes12.JPG">  </div>
+    <img alt="Cupcakes" height="533" width="800" class="media-element file-default" src="/sites/default/files/Cupcakes12.JPG">  </div>
 
   
 </div>
 </div>
-<p><em>Smaakt dit naar meer? Al Maaikes eerdere recepten vind je <a href="https://7dagen.netlify.app/kookrubriek">hier</a>.</em></p>  
+<p><em>Smaakt dit naar meer? Al Maaikes eerdere recepten vind je <a href="/kookrubriek">hier</a>.</em></p>  

@@ -12,6 +12,14 @@ const Post = ({ data }) => {
         <h1 className="mx-auto my-12 max-w-3xl text-6xl font-bold dark:text-white">
           {data.post.frontmatter.title}
         </h1>
+        <div className="flex mx-auto my-12 max-w-3xl font-bold dark:text-white">
+          <div class="text-sky-500 dark:text-sky-400">
+          {data.post.frontmatter.auteur}
+          </div>
+          <div class="text-slate-700 dark:text-slate-500 ml-5">
+          {data.post.frontmatter.rubriek}
+          </div>
+        </div>
         <div
           className="prose prose-lg mx-auto max-w-3xl dark:prose-invert"
           dangerouslySetInnerHTML={{ __html: data?.post.html }}
@@ -47,6 +55,8 @@ export const basicPageQuery = graphql`
         id
         title
         author
+        auteur
+        rubriek
         ...Seo
       }
     }

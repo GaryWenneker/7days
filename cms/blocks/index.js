@@ -65,6 +65,12 @@ const Config = {
       fields: [Title],
     },
     {
+      label: 'Lifestyle',
+      name: 'lifestyle',
+      widget: 'object',
+      fields: [Title],
+    },
+    {
       label: 'Form',
       name: 'form',
       widget: 'object',

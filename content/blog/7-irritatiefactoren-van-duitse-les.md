@@ -1,11 +1,13 @@
 ---
-id: b9cca9e99d8d469d8cb1982a0cb01bd8
+id: 426429830eb6453cb5a2446fb8c4b4a4
 type: post
 layout: post
 title: "7 irritatiefactoren van Duitse les"
 permalink: /blog/7-irritatiefactoren-van-duitse-les/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LucasVersteeg
+auteur: Lucas Versteeg
+rubriek: blogpost
 excerpt: "Met Duits in mijn pakket op het vwo, kan ik er niet omheen: uren lang luistertoetsen oefenen, spreekvaardigheid trainen en naamvallen knallen. Iedereen die Duits in z’n pakket heeft weet: er zijn zo van die dingen die elke les terugkomen. Een paar voorbeelden.  "
 seo:
   description: "7 irritatiefactoren van Duitse les"

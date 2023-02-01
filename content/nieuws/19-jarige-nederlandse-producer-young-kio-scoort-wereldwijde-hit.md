@@ -1,11 +1,13 @@
 ---
-id: ce2a60e8bd094ffa88667654385b23d9
+id: 86fb40cb9fb5470a9673fec9ab012c13
 type: nieuws
 layout: post
 title: "19-jarige Nederlandse producer Young Kio scoort wereldwijde hit"
 permalink: /nieuws/19-jarige-nederlandse-producer-young-kio-scoort-wereldwijde-hit/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: ThijsJacobs
+auteur: Thijs Jacobs
+rubriek: nieuws
 excerpt: "Nee, deze keer hebben we het niet over Martin Garrix. Het is de negentienjarige Kiowa Roukema uit Purmerend die momenteel wereldwijd op nummer één staat. Hij maakte de beat voor ‘Old Town Road’, een nummer van Amerikaanse rapper Lil Nas X.  "
 seo:
   description: "19-jarige Nederlandse producer Young Kio scoort wereldwijde hit"

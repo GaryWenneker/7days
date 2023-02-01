@@ -1,11 +1,13 @@
 ---
-id: 6bedc1d2a19648d3947bdb36575b53d7
+id: 54c56424725f496f85ff8818eaa39e32
 type: post
 layout: post
 title: "7 Limburgse woorden die jij ook zou moeten gebruiken"
 permalink: /blog/7-limburgse-woorden-die-jij-ook-zou-moeten-gebruiken/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LauraSimons
+auteur: Laura Simons
+rubriek: blogpost
 excerpt: "Als echte Limburger ben ik natuurlijk apetrots op mijn geboorteprovincie en onze inmiddels officiële regionale taal. Soms kan ik me zelfs beter in het Limburgs uitdrukken dan in het Nederlands!  "
 seo:
   description: "7 Limburgse woorden die jij ook zou moeten gebruiken"

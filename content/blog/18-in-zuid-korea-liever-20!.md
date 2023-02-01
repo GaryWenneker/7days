@@ -1,11 +1,13 @@
 ---
-id: ad4f4850dea8484493289f6349c29a3e
+id: ae2a945175134cc8a41accd8c4d8a806
 type: post
 layout: post
 title: "18 in Zuid-Korea? Liever 20!"
 permalink: /blog/18-in-zuid-korea-liever-20!/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: ImmeGarrelfs
+auteur: Imme Garrelfs
+rubriek: blogpost
 excerpt: "Ben je net volwassen in Nederland, verhuis je voor een half jaar naar Zuid-Korea en ben je plots weer minderjarig! Tja… het werkt hier net weer even anders.  "
 seo:
   description: "18 in Zuid-Korea? Liever 20!"

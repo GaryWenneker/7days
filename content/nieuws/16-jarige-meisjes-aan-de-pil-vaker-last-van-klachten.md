@@ -1,11 +1,13 @@
 ---
-id: eddd42acd157480abb306709c6c34353
+id: 3ee1d5b2d0204f21882f6567da0b11e3
 type: nieuws
 layout: post
 title: "16-jarige meisjes aan de pil vaker last van klachten"
 permalink: /nieuws/16-jarige-meisjes-aan-de-pil-vaker-last-van-klachten/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: Janinede Wit
+auteur: Janine de Wit
+rubriek: nieuws
 excerpt: "Huilen, veel slapen en eetproblemen. Volgens Nederlandse en Amerikaanse onderzoekers hebben 16-jarige meisjes die aan de pil zijn, vaker last van depressieve klachten dan meisjes die het anticonceptiemiddel niet gebruiken.  "
 seo:
   description: "16-jarige meisjes aan de pil vaker last van klachten"

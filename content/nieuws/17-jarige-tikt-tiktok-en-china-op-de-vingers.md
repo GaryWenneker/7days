@@ -1,11 +1,13 @@
 ---
-id: bfa69e4eed484a979323e2dba4b57c05
+id: 785a8327853547aead1084b3c3596658
 type: nieuws
 layout: post
 title: "17-jarige tikt TikTok (en China) op de vingers"
 permalink: /nieuws/17-jarige-tikt-tiktok-en-china-op-de-vingers/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: CharlotteGoldhoorn
+auteur: Charlotte Goldhoorn
+rubriek: nieuws
 excerpt: "Hoeveel waarde hecht TikTok aan vrijheid van meningsuiting? Die vraag wordt gesteld sinds de app Feroza Aziz (17) blokkeerde. Het meisje had een kritische video over de situatie van de Oeigoeren in China gedeeld. TikTok maakte de blokkade ongedaan en zei sorry, maar daar laat Feroza het niet bij.  "
 seo:
   description: "17-jarige tikt TikTok (en China) op de vingers"

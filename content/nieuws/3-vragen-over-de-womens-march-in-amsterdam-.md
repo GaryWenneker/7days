@@ -1,11 +1,13 @@
 ---
-id: 9ac2a637e8444e8e9ee8f314a2a61891
+id: da06984c56a34256b55612d60052c21d
 type: nieuws
 layout: post
 title: "3 vragen over de Women’s March in Amsterdam "
 permalink: /nieuws/3-vragen-over-de-womens-march-in-amsterdam-/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: GeorgiaOost
+auteur: Georgia Oost
+rubriek: nieuws
 excerpt: "Zaterdag 9 maart, een dag na de internationale vrouwendag, is de Women’s March in Amsterdam: een grote demonstratie waarbij duizenden mensen de straat op gaan om op te komen voor gelijkheid voor vrouwen. Dus ook voor jouw oma, moeder en zus(sen) - want het gebeurt nog te vaak dat vrouwen minder goed worden behandeld dan mannen.  "
 seo:
   description: "3 vragen over de Women’s March in Amsterdam "

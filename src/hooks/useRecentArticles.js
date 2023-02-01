@@ -21,6 +21,8 @@ export const useRecentArticles = () => {
                 title
                 date(formatString: "MMMM DD, YYYY")
                 author
+                auteur
+                rubriek
                 thumbnail
               }
             }

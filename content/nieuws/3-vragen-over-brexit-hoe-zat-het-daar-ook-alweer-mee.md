@@ -1,11 +1,13 @@
 ---
-id: e4cc6bbe0d5e427d9de098db7359538c
+id: b329949c5d574c38878dbeed48a0a4eb
 type: nieuws
 layout: post
 title: "3 vragen over Brexit: hoe zat het daar ook alweer mee?"
 permalink: /nieuws/3-vragen-over-brexit-hoe-zat-het-daar-ook-alweer-mee/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: Coravan der Weij
+auteur: Cora van der Weij
+rubriek: nieuws
 excerpt: "Morgen is het zover. Brexit-Day. B-Day. De dag waarop de Britten dan toch echt uit de Europese Unie stappen. Maar eh... waarom willen onze buren ook alweer van ons scheiden? Hier lees je hoe 't zit.  "
 seo:
   description: "3 vragen over Brexit: hoe zat het daar ook alweer mee?"
@@ -13,21 +15,21 @@ seo:
 ---
 Morgen is het zover. Brexit-Day. B-Day. De dag waarop de Britten dan toch echt uit de Europese Unie stappen. Maar eh... waarom willen onze buren ook alweer van ons scheiden? Hier lees je hoe 't zit.  
 
-    <p><strong>1. Wanneer begon het?</strong><br>Vier jaar geleden. Steeds meer Britten lijken uit de Europese Unie te willen. De tegenstanders vinden dat de landenclub met teveel regels komt en dat die alleen maar tijd en geld kosten. Ze willen weer zelf dingen kunnen beslissen zonder met andere landen te overleggen. Maar er zijn ook veel voorstanders van de EU. Zij vinden het juist goed dat landen samen afspraken maken (over handel, klimaat, vluchtelingen…). De discussies worden scherper en de Britten verdelen zich in <a href="https://7dagen.netlify.app/nieuws/dit-willen-kamp-brexit-en-kamp-remain">twee kampen</a>: <em>leavers</em> (uit de EU, British Exit: Brexit) en <em>remainers</em> (blijven).<br><div class="media media-element-container media-default"><div id="file-539620" class="file file-image file-image-jpeg">
+    <p><strong>1. Wanneer begon het?</strong><br>Vier jaar geleden. Steeds meer Britten lijken uit de Europese Unie te willen. De tegenstanders vinden dat de landenclub met teveel regels komt en dat die alleen maar tijd en geld kosten. Ze willen weer zelf dingen kunnen beslissen zonder met andere landen te overleggen. Maar er zijn ook veel voorstanders van de EU. Zij vinden het juist goed dat landen samen afspraken maken (over handel, klimaat, vluchtelingen…). De discussies worden scherper en de Britten verdelen zich in <a href="/nieuws/dit-willen-kamp-brexit-en-kamp-remain">twee kampen</a>: <em>leavers</em> (uit de EU, British Exit: Brexit) en <em>remainers</em> (blijven).<br><div class="media media-element-container media-default"><div id="file-539620" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img alt="Foto AFP" title="Foto AFP" height="3494" width="5241" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/AFP-405415087.jpg">  </div>
+    <img alt="Foto AFP" title="Foto AFP" height="3494" width="5241" class="media-element file-default" data-delta="1" src="/sites/default/files/AFP-405415087.jpg">  </div>
 
   
 </div>
-</div><br><strong>2. En toen?</strong><br>De Conservatieve premier David Cameron belooft dat de Britten mogen stemmen over vertrekken uit de EU en dat hij zich aan de uitslag zal houden. Die is: 48% tegen en 52% voor. <em>Brexit it is</em> dus. Zonder Cameron. Die is pro-EU en hij <a href="https://7dagen.netlify.app/nieuws/britse-premier-david-cameron-stapt-op" target="_blank">stapt op</a>. Partijgenoot <a href="https://7dagen.netlify.app/nieuws/alle-ogen-gericht-op-theresa-may" target="_blank">Theresa May</a> neemt het stokje over. Een lastige klus, want hoe moet dat eigenlijk, uit de EU stappen? Het is nooit eerder gedaan. Maar May wil het proberen. Het liefst een nette scheiding met goede afspraken en ze rent heen en weer tussen Brussel en het Britse parlement. Maar dat stemt <a href="https://7dagen.netlify.app/nieuws/weer-nee-voor-may" target="_blank">al haar plannen weg</a>. Veel Britten ergeren zich aan het gekibbel en de besluiteloosheid. In mei 2019 <a href="https://7dagen.netlify.app/nieuws/weer-een-nee-theresa-may-stopt-als-premier" target="_blank">stapt ook May op</a>. Haar opvolger <a href="https://7dagen.netlify.app/nieuws/boris-johnson-premier-van-groot-brittanni%C3%AB" target="_blank">Boris Johnson</a> is enorm pro-Brexit. Het lukt BoJo om nieuwe afspraken te fixen over grenscontroles en iedereen stemt in met een datum waarop Brexit moet ingaan: 31 januari.<br><div class="media media-element-container media-default"><div id="file-539621" class="file file-image file-image-jpeg">
+</div><br><strong>2. En toen?</strong><br>De Conservatieve premier David Cameron belooft dat de Britten mogen stemmen over vertrekken uit de EU en dat hij zich aan de uitslag zal houden. Die is: 48% tegen en 52% voor. <em>Brexit it is</em> dus. Zonder Cameron. Die is pro-EU en hij <a href="/nieuws/britse-premier-david-cameron-stapt-op" target="_blank">stapt op</a>. Partijgenoot <a href="/nieuws/alle-ogen-gericht-op-theresa-may" target="_blank">Theresa May</a> neemt het stokje over. Een lastige klus, want hoe moet dat eigenlijk, uit de EU stappen? Het is nooit eerder gedaan. Maar May wil het proberen. Het liefst een nette scheiding met goede afspraken en ze rent heen en weer tussen Brussel en het Britse parlement. Maar dat stemt <a href="/nieuws/weer-nee-voor-may" target="_blank">al haar plannen weg</a>. Veel Britten ergeren zich aan het gekibbel en de besluiteloosheid. In mei 2019 <a href="/nieuws/weer-een-nee-theresa-may-stopt-als-premier" target="_blank">stapt ook May op</a>. Haar opvolger <a href="/nieuws/boris-johnson-premier-van-groot-brittanni%C3%AB" target="_blank">Boris Johnson</a> is enorm pro-Brexit. Het lukt BoJo om nieuwe afspraken te fixen over grenscontroles en iedereen stemt in met een datum waarop Brexit moet ingaan: 31 januari.<br><div class="media media-element-container media-default"><div id="file-539621" class="file file-image file-image-jpeg">
 
         
   
   <div class="content">
-    <img alt="Foto AFP" title="Foto AFP" height="3712" width="5568" class="media-element file-default" data-delta="2" src="https://7dagen.netlify.app/sites/default/files/AFP-404595435.jpg">  </div>
+    <img alt="Foto AFP" title="Foto AFP" height="3712" width="5568" class="media-element file-default" data-delta="2" src="/sites/default/files/AFP-404595435.jpg">  </div>
 
   
 </div>

@@ -1,11 +1,13 @@
 ---
-id: 18f470726b3f418eb7f07b960d2048eb
+id: 588a486a79044594894a22c5715a48f4
 type: post
 layout: post
 title: "5 redenen waarom ik overal lijstjes voor maak"
 permalink: /blog/5-redenen-waarom-ik-overal-lijstjes-voor-maak/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LucasVersteeg
+auteur: Lucas Versteeg
+rubriek: blogpost
 excerpt: "Mijn bureau ligt er bezaaid mee: Lijstjes, lijstjes en nog eens lijstjes. Ik zou zo een lijstje kunnen maken van de dingen waar ik lijstjes over maak. Dan heb ik het niet alleen over de bekende to-do lijstjes, of bucket-lists, maar ook lijstjes over avondeten, boeken, geld, avondplanningen, leuke films, en nog véél meer… Maar waarom doe ik dat eigenlijk?  "
 seo:
   description: "5 redenen waarom ik overal lijstjes voor maak"

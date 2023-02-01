@@ -1,11 +1,13 @@
 ---
-id: ba33eb7be5cb47b49bed19cd6b38edf1
+id: 7b1e2d67955f4a71bffcb6043075822e
 type: nieuws
 layout: post
 title: "10x de gekste eet-records van Joey Chestnut "
 permalink: /nieuws/10x-de-gekste-eet-records-van-joey-chestnut-/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: VeraBosch
+auteur: Vera Bosch
+rubriek: nieuws
 excerpt: "He did it again! De 35-jarige Amerikaan Joey Chestnut heeft voor de twaalfde keer het wereldkampioenschap hotdogs eten gewonnen. En dat is niet het enige gekke wereldrecord dat Chestnut op zijn naam heeft staan. De 10 gekste records op een rijtje:  "
 seo:
   description: "10x de gekste eet-records van Joey Chestnut "

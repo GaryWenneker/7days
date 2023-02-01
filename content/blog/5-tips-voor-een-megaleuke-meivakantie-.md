@@ -1,11 +1,13 @@
 ---
-id: 3040f08340a442efb3dfb629da9e0a5d
+id: 2a476efe892a4c84a1135e52077fa0a9
 type: post
 layout: post
 title: "5 tips voor een megaleuke meivakantie "
 permalink: /blog/5-tips-voor-een-megaleuke-meivakantie-/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LucasVersteeg
+auteur: Lucas Versteeg
+rubriek: blogpost
 excerpt: "Yes, het is weer meivakantie! De hele dag op het strand hangen is er doorgaans nog niet bij. Maar er zijn een hoop andere leuke dingen om je dagen mee door te komen. Check mijn tips!  "
 seo:
   description: "5 tips voor een megaleuke meivakantie "

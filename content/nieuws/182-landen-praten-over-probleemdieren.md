@@ -1,11 +1,13 @@
 ---
-id: 901fccf7d25d45d29df082455209435f
+id: 987b5de70c2b49939188c7af185a5181
 type: nieuws
 layout: post
 title: "182 landen praten over probleemdieren"
 permalink: /nieuws/182-landen-praten-over-probleemdieren/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: Coravan der Weij
+auteur: Cora van der Weij
+rubriek: nieuws
 excerpt: "Het zijn belangrijke dagen voor dierenexperts. Een club van 182 landen zit druk te overleggen in het Zuid-Afrikaanse Johannesburg. Ze proberen regels af te spreken voor de handel in bedreigde soorten als de Afrikaanse olifant, de grijze roodstaartpapegaai en het schubdier.  "
 seo:
   description: "182 landen praten over probleemdieren"
@@ -19,7 +21,7 @@ Het zijn belangrijke dagen voor dierenexperts. Een club van 182 landen zit druk 
         
   
   <div class="content">
-    <img height="478" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/iStock_99739751_MEDIUM.jpg" alt="">  </div>
+    <img height="478" width="850" class="media-element file-default" src="/sites/default/files/iStock_99739751_MEDIUM.jpg" alt="">  </div>
 
   
 </div>
@@ -31,10 +33,10 @@ Het zijn belangrijke dagen voor dierenexperts. Een club van 182 landen zit druk 
         
   
   <div class="content">
-    <img title="Beeld: AFP" height="500" width="850" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/EPA-40748339.jpg" alt="">  </div>
+    <img title="Beeld: AFP" height="500" width="850" class="media-element file-default" src="/sites/default/files/EPA-40748339.jpg" alt="">  </div>
 
   
 </div>
 </div>
 <p>Of dat gebeurt weten we woensdag. Tot zo lang duurt de grote top, die trouwens ook over bedreigde planten en bomen gaat.</p>
-<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="https://7dagen.netlify.app/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="https://7dagen.netlify.app/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  
+<p><em>Altijd op de hoogte blijven van nieuws dat voor jongeren interessant is? Meld je aan voor onze </em><a href="/whatsapp"><em>gratis WhatsApp-dienst</em></a><em>, download onze </em><a href="/app"><em>gratis app</em></a><em> of neem een </em><a href="https://abonneren.sevendays.nl/abonneren/abonnementen/ae/artikel"><em>proefabonnement </em></a><em>op de krant!</em></p>  

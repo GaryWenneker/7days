@@ -1,11 +1,13 @@
 ---
-id: 1654a7f815eb4a00a5cc7eb193f515a3
+id: 9914b25142f6496ba6c94297ec09b9fa
 type: nieuws
 layout: post
 title: "3 vragen over hackers die toevallig Lil' Kleine hackten"
 permalink: /nieuws/3-vragen-over-hackers-die-toevallig-lil-kleine-hackten/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LisetteGerbrands
+auteur: Lisette Gerbrands
+rubriek: nieuws
 excerpt: "Hackers R.V. (22) en S.B. (21) stonden vandaag terecht voor het hacken van verschillende Instagram-accounts in 2015 en 2016. Met behulp van phishingmails kregen ze controle over bijna honderd Instagram-accounts, waaronder die van rapper Lil' Kleine. Wat gebeurde er ook alweer? Drie vragen (en antwoorden) over deze zaak.  "
 seo:
   description: "3 vragen over hackers die toevallig Lil' Kleine hackten"

@@ -1,11 +1,13 @@
 ---
-id: 1703e62124214bb7a385f77db506a910
+id: 558d75bc59f44a14a52da699b368b680
 type: post
 layout: post
 title: "7 irritaties aan je ouders op WhatsApp"
 permalink: /blog/7-irritaties-aan-je-ouders-op-whatsapp/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LucasVersteeg
+auteur: Lucas Versteeg
+rubriek: blogpost
 excerpt: "Je zit vast wel in een ‘familieappgroep’. Grote kans dat je bezorgde moeder of fotograferende vader je dagelijks spamt. Appen is al lang niet meer iets van alleen jou en je vrienden.   "
 seo:
   description: "7 irritaties aan je ouders op WhatsApp"

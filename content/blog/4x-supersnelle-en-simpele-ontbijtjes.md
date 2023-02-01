@@ -1,11 +1,13 @@
 ---
-id: e617fb9f392c47139c322723d2011519
+id: 2b57a76282f3414cb3fa1ce65a461bc6
 type: post
 layout: post
 title: "4x supersnelle en simpele ontbijtjes"
 permalink: /blog/4x-supersnelle-en-simpele-ontbijtjes/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: GitteHessels
+auteur: Gitte Hessels
+rubriek: blogpost
 excerpt: "Ontbijten is heel belangrijk. Geen tijd? Onzin! Voor een lekker ontbijtje hoef je namelijk écht niet eerder op te staan. Vaak staat het binnen no-time op tafel.  "
 seo:
   description: "4x supersnelle en simpele ontbijtjes"
@@ -20,7 +22,7 @@ Ontbijten is heel belangrijk. Geen tijd? Onzin! Voor een lekker ontbijtje hoef j
         
   
   <div class="content">
-    <img title="Infographic: Gitte Hessels" height="854" width="1600" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/000_2.png" alt="">  </div>
+    <img title="Infographic: Gitte Hessels" height="854" width="1600" class="media-element file-default" data-delta="1" src="/sites/default/files/000_2.png" alt="">  </div>
 
   
 </div>
@@ -31,7 +33,7 @@ Ontbijten is heel belangrijk. Geen tijd? Onzin! Voor een lekker ontbijtje hoef j
         
   
   <div class="content">
-    <img title="Infographic: Gitte Hessels" height="854" width="1600" style="-webkit-text-stroke-width: initial;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/001_0.png" alt="">  </div>
+    <img title="Infographic: Gitte Hessels" height="854" width="1600" style="-webkit-text-stroke-width: initial;" class="media-element file-default" data-delta="1" src="/sites/default/files/001_0.png" alt="">  </div>
 
   
 </div>
@@ -42,7 +44,7 @@ Ontbijten is heel belangrijk. Geen tijd? Onzin! Voor een lekker ontbijtje hoef j
         
   
   <div class="content">
-    <img title="Infographic: Gitte Hessels" height="856" width="1600" style="-webkit-text-stroke-width: initial;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/002_0.png" alt="">  </div>
+    <img title="Infographic: Gitte Hessels" height="856" width="1600" style="-webkit-text-stroke-width: initial;" class="media-element file-default" data-delta="1" src="/sites/default/files/002_0.png" alt="">  </div>
 
   
 </div>
@@ -53,7 +55,7 @@ Ontbijten is heel belangrijk. Geen tijd? Onzin! Voor een lekker ontbijtje hoef j
         
   
   <div class="content">
-    <img title="Infographic: Gitte Hessels" height="854" width="1600" style="-webkit-text-stroke-width: initial;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/003_0.png" alt="">  </div>
+    <img title="Infographic: Gitte Hessels" height="854" width="1600" style="-webkit-text-stroke-width: initial;" class="media-element file-default" data-delta="1" src="/sites/default/files/003_0.png" alt="">  </div>
 
   
 </div>

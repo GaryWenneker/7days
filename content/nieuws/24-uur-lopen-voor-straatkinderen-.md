@@ -1,11 +1,13 @@
 ---
-id: 8b82d16fe1174df28e5997b0446e42be
+id: 81bd02b1f83a475ab303632ca7f5ea91
 type: nieuws
 layout: post
 title: "24 uur lopen voor straatkinderen "
 permalink: /nieuws/24-uur-lopen-voor-straatkinderen-/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: Valerievan Vliet
+auteur: Valerie van Vliet
+rubriek: nieuws
 excerpt: "24 uur lang lopen voor het goede doel. Dat gaat de dertienjarige Riley dit weekend doen. Met The Hike wil hij geld ophalen voor straatkinderen op Kaapverdië. ‘Een kind hoort niet op straat.’  "
 seo:
   description: "24 uur lopen voor straatkinderen "
@@ -21,7 +23,7 @@ seo:
         
   
   <div class="content">
-    <img alt="Kinderdorp Assomada" title="Foto: SOS-kinderdorpen" height="3633" width="5452" style="height: 534px; width: 800px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/kinderdorp%20Assomada.jpg">  </div>
+    <img alt="Kinderdorp Assomada" title="Foto: SOS-kinderdorpen" height="3633" width="5452" style="height: 534px; width: 800px;" class="media-element file-default" data-delta="1" src="/sites/default/files/kinderdorp%20Assomada.jpg">  </div>
 
   
 </div>

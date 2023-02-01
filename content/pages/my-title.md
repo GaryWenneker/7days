@@ -9,7 +9,6 @@ blocks:
     title: ''
     content: |-
       # Blog
-      Read a bit more about henlo
     variant: default
   - type: recentArticles
     title: Recent Articles

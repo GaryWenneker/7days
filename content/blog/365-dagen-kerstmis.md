@@ -1,11 +1,13 @@
 ---
-id: 6986b7acd7bb4954b2ec8c0fc13ae990
+id: 833087de3e9f4bcfac838bec842dda0f
 type: post
 layout: post
 title: "365 dagen Kerstmis"
 permalink: /blog/365-dagen-kerstmis/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: IvoPasveer
+auteur: Ivo Pasveer
+rubriek: blogpost
 excerpt: "De dagen zijn kort en de vakantie viert hoogtij. Het is Kerstmis! Een feest waar ik ieder jaar weer van geniet en ik kan me niet voorstellen dat jij dat niet doet. Daarom schotel ik je vol trots 7 redenen voor waarom het altijd kerst zou moeten zijn.  "
 seo:
   description: "365 dagen Kerstmis"

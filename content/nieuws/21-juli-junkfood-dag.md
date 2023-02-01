@@ -1,11 +1,13 @@
 ---
-id: 377c1f78ec22479a8b18f680b4f369b0
+id: d2378d092d894fdfb81d1cd2fecd6e4f
 type: nieuws
 layout: post
 title: "21 juli: Junkfood-dag"
 permalink: /nieuws/21-juli-junkfood-dag/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: JacquelineAncona
+auteur: Jacqueline Ancona
+rubriek: nieuws
 excerpt: "Mocht je vandaag onoverkomelijke trek hebben in een bamibal, frikandel, berenklauw of een emmertje hotwings? Dan is je lijf helemaal bij de tijd, want vandaag is het junkfood-dag. Eten met zo veel mogelijk calorieën en zo min mogelijk voedingswaarde. Dat vieren we natuurlijk met de master of snacks: de hamburger!  "
 seo:
   description: "21 juli: Junkfood-dag"
@@ -19,7 +21,7 @@ Mocht je vandaag onoverkomelijke trek hebben in een bamibal, frikandel, berenkla
         
   
   <div class="content">
-    <img height="403" width="604" style="width: 850px; height: 567px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/hamburger_bed.jpg" alt="">  </div>
+    <img height="403" width="604" style="width: 850px; height: 567px;" class="media-element file-default" src="/sites/default/files/hamburger_bed.jpg" alt="">  </div>
 
   
 </div>
@@ -29,7 +31,7 @@ Mocht je vandaag onoverkomelijke trek hebben in een bamibal, frikandel, berenkla
         
   
   <div class="content">
-    <img height="540" width="960" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/burger2.jpg" alt="">  </div>
+    <img height="540" width="960" class="media-element file-default" src="/sites/default/files/burger2.jpg" alt="">  </div>
 
   
 </div>
@@ -39,7 +41,7 @@ Mocht je vandaag onoverkomelijke trek hebben in een bamibal, frikandel, berenkla
         
   
   <div class="content">
-    <img height="435" width="717" style="width: 851px; height: 516px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Hamburger-Harley_Main-Street-e1416234980683.jpg" alt="">  </div>
+    <img height="435" width="717" style="width: 851px; height: 516px;" class="media-element file-default" src="/sites/default/files/Hamburger-Harley_Main-Street-e1416234980683.jpg" alt="">  </div>
 
   
 </div>
@@ -49,7 +51,7 @@ Mocht je vandaag onoverkomelijke trek hebben in een bamibal, frikandel, berenkla
         
   
   <div class="content">
-    <img height="295" width="295" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/Hamburger_6.jpg" alt="">  </div>
+    <img height="295" width="295" class="media-element file-default" src="/sites/default/files/Hamburger_6.jpg" alt="">  </div>
 
   
 </div>
@@ -59,7 +61,7 @@ Mocht je vandaag onoverkomelijke trek hebben in een bamibal, frikandel, berenkla
         
   
   <div class="content">
-    <img height="436" width="600" style="width: 850px; height: 618px;" class="media-element file-default" src="https://7dagen.netlify.app/sites/default/files/hamburger-cupcakes-1a.jpg" alt="">  </div>
+    <img height="436" width="600" style="width: 850px; height: 618px;" class="media-element file-default" src="/sites/default/files/hamburger-cupcakes-1a.jpg" alt="">  </div>
 
   
 </div>
@@ -69,7 +71,7 @@ Mocht je vandaag onoverkomelijke trek hebben in een bamibal, frikandel, berenkla
         
   
   <div class="content">
-    <a href="/files/hamburger-bean-bagjpg"><img height="220" width="199" class="media-element file-teaser" src="https://7dagen.netlify.app/sites/default/files/styles/medium/public/hamburger-bean-bag.jpg?itok=g4VxxI2k" alt=""></a>  </div>
+    <a href="/files/hamburger-bean-bagjpg"><img height="220" width="199" class="media-element file-teaser" src="/sites/default/files/styles/medium/public/hamburger-bean-bag.jpg?itok=g4VxxI2k" alt=""></a>  </div>
 
   
 </div>

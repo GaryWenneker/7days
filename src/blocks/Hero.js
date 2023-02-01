@@ -10,7 +10,7 @@ export default function Hero({ data }) {
   return (
     <section
       className={clsx(
-        'py-12 dark:bg-black dark:text-white lg:py-24',
+        'py-5 dark:bg-black dark:text-white lg:py-10',
         {
           'flex min-h-screen items-center': isFull,
         },

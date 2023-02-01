@@ -1,11 +1,13 @@
 ---
-id: 638671c8f7d04fb39fdb01e86d09f949
+id: a294289b1a4543a9bb8bf8c1f9b7765a
 type: post
 layout: post
 title: "10 kijktips voor een leuke filmavond met Netflix"
 permalink: /blog/10-kijktips-voor-een-leuke-filmavond-met-netflix/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: LucasVersteeg
+auteur: Lucas Versteeg
+rubriek: blogpost
 excerpt: "Tegenwoordig hebben ontzettend veel jongeren Netflix. Bepaalde series zijn heel populair en springen eruit, 13 Reasons Why bijvoorbeeld. Toch staan er ook heel veel andere series en films op Netflix die jij misschien nog nooit hebt opgemerkt. Check deze 10 tips voor een leuk filmavondje!  "
 seo:
   description: "10 kijktips voor een leuke filmavond met Netflix"
@@ -163,4 +165,4 @@ Tegenwoordig hebben ontzettend veel jongeren Netflix. Bepaalde series zijn heel 
   
 </div>
 </div>
-<p><em>De 17-jarige Lucas heeft een creatieve geest en houdt van schrijven, toneelspelen en tekenen. Hij zit in 6-vwo, maar van hard blokken moet hij niks hebben. Saaie schooldagen houdt hij manhaftig vol met het idee dat hij later een topberoep krijgt; hij weet alleen nog niet wat. </em><em>Meer lezen van Lucas? Check <a href="https://7dagen.netlify.app/blog/basisschool-vs-middelbare-school-12-gifjes">Basisschool vs middelbare school in 12 GIF'jes </a>of lees <a href="https://7dagen.netlify.app/blog/google-n%C3%B3%C3%B3it-je-pijnklachten">Google nóóit je pijnklachten! </a></em></p>  
+<p><em>De 17-jarige Lucas heeft een creatieve geest en houdt van schrijven, toneelspelen en tekenen. Hij zit in 6-vwo, maar van hard blokken moet hij niks hebben. Saaie schooldagen houdt hij manhaftig vol met het idee dat hij later een topberoep krijgt; hij weet alleen nog niet wat. </em><em>Meer lezen van Lucas? Check <a href="/blog/basisschool-vs-middelbare-school-12-gifjes">Basisschool vs middelbare school in 12 GIF'jes </a>of lees <a href="/blog/google-n%C3%B3%C3%B3it-je-pijnklachten">Google nóóit je pijnklachten! </a></em></p>  

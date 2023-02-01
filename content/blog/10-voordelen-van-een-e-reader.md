@@ -1,11 +1,13 @@
 ---
-id: 0e9b8f0fc17d41b78d4f7a631bdc6dec
+id: d2fecbe95d8e4f009f71fdeab41af412
 type: post
 layout: post
 title: "10 voordelen van een e-reader"
 permalink: /blog/10-voordelen-van-een-e-reader/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: AnnemijnGroeneveld
+auteur: Annemijn Groeneveld
+rubriek: blogpost
 excerpt: "Weet je wat een van mijn favoriete geuren is? Dat van een versgedrukt boek. Het gevoel van een gladde, nog onaangeraakte kaft is voor mij een soort vinger-ASMR. Heerlijk! Toch heb ik al zo’n vier jaar geen fysiek boek meer gekocht, want ik ben overgestapt naar een e-reader. Daar heb ik goede redenen voor. Wedden dat jij na het lezen van dit blog ook om bent?  "
 seo:
   description: "10 voordelen van een e-reader"

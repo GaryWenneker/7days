@@ -1,11 +1,13 @@
 ---
-id: 586b0702699f48468c6c01a959a41bb8
+id: f23cd75f861f4afea14e5a5f0a7daa24
 type: nieuws
 layout: post
 title: "14.049 beetjes mondslijm om oude moordzaak op te lossen"
 permalink: /nieuws/14049-beetjes-mondslijm-om-oude-moordzaak-op-te-lossen/
 date: 2022-05-11T19:16:41.067Z
-author: 7biA1WiYB
+author: NathalieStrijker
+auteur: Nathalie Strijker
+rubriek: nieuws
 excerpt: "In Limburg hebben 14.049 mannen de afgelopen weken vrijwillig een beetje mondslijm afgestaan. Met de allernieuwste technieken gaat de politie dat nu onderzoeken, in de hoop zo de oude moordzaak op Nicky Verstappen op te lossen.  "
 seo:
   description: "14.049 beetjes mondslijm om oude moordzaak op te lossen"
@@ -21,7 +23,7 @@ In Limburg hebben 14.049 mannen de afgelopen weken vrijwillig een beetje mondsli
         
   
   <div class="content">
-    <img height="709" width="534" style="width: 300px; height: 398px; float: right;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/download%20%282%29.jpg" alt="">  </div>
+    <img height="709" width="534" style="width: 300px; height: 398px; float: right;" class="media-element file-default" data-delta="1" src="/sites/default/files/download%20%282%29.jpg" alt="">  </div>
 
   
 </div>
@@ -35,7 +37,7 @@ In Limburg hebben 14.049 mannen de afgelopen weken vrijwillig een beetje mondsli
         
   
   <div class="content">
-    <img height="6000" width="9000" style="width: 900px; height: 600px;" class="media-element file-default" data-delta="1" src="https://7dagen.netlify.app/sites/default/files/ANP-56040438.jpg" alt="">  </div>
+    <img height="6000" width="9000" style="width: 900px; height: 600px;" class="media-element file-default" data-delta="1" src="/sites/default/files/ANP-56040438.jpg" alt="">  </div>
 
   
 </div>

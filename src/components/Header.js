@@ -8,12 +8,12 @@ import Container from './UI/Container'
 export default function Header() {
   return (
     <header className="flex h-16 border-b bg-white text-black dark:border-zinc-800 dark:bg-black dark:text-white">
-      <Container className="m-auto flex items-center justify-between gap-20">
-        <Link to="/" className="text-2xl font-bold ">
-        7Dagen
+      <Container className="m-auto flex items-center justify-between gap-20">        
+        <Link to="/" className="flex text-2xl font-bold ">
+        <img className='max-h-10 mr-4' src="/sites/default/files/logo.png"/> 7Dagen
         </Link>
         <div className="flex items-center">
-          <nav className="flex gap-4">
+          <nav className="flex gap-4">          
             {nav.nav.map((item, i) => (
               <Link to={item.permalink} key={i}>
                 {item.name}
@@ -22,9 +22,10 @@ export default function Header() {
           </nav>
 
           <div className="ml-6 flex items-center border-l border-slate-200 pl-6 dark:border-zinc-800">
-            <ci-search></ci-search>
+            {/* <ci-search></ci-search> */}
             <DarkmodeToggle />
-            <a
+            
+            {/* <a
               href="https://github.com/clean-commit/gatsby-starter-henlo"
               target="_blank"
               rel="noopener noreferrer"
@@ -44,7 +45,7 @@ export default function Header() {
               >
                 <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0020 4.77 5.07 5.07 0 0019.91 1S18.73.65 16 2.48a13.38 13.38 0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 005 4.77a5.44 5.44 0 00-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 009 18.13V22"></path>
               </svg>
-            </a>
+            </a> */}
           </div>
         </div>
       </Container>
