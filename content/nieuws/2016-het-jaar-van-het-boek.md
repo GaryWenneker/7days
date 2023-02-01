@@ -1,10 +1,10 @@
 ---
-id: 420467e9aaa747f8b84eaaca0540c075
+id: 364a530b959a467ea5baafd345a2aa40
 type: nieuws
 layout: post
 title: "2016: Het Jaar van het Boek"
 permalink: /nieuws/2016-het-jaar-van-het-boek/
-date: 2022-05-11T19:16:41.067Z
+date: 2016-01-04T00:00:00.0000000Z
 author: JacquelineAncona
 auteur: Jacqueline Ancona
 avatar: /sites/default/files/styles/node_author/public/Jacqueline_Pasfoto.jpg?itok=RPZ_0CZG

@@ -1,10 +1,10 @@
 ---
-id: e1b3f1b2a7a34696886c4096724c1395
+id: 4a2589044a6b4a75a874d41d5fe768af
 type: nieuws
 layout: post
 title: "17 weetjes over de jarige Greta Thunberg"
 permalink: /nieuws/17-weetjes-over-de-jarige-greta-thunberg/
-date: 2022-05-11T19:16:41.067Z
+date: 2020-01-03T00:00:00.0000000Z
 author: LisetteGerbrands
 auteur: Lisette Gerbrands
 avatar: /sites/default/files/styles/node_author/public/13450257_10208224020345949_4749455365629855480_n.jpg?itok=bu9Jk8Bo

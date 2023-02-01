@@ -1,10 +1,10 @@
 ---
-id: 5863b1231ff447c093b8c5dbde028e6c
+id: b2bc216f0e3a4317ac10548987e304cc
 type: nieuws
 layout: post
 title: "17-jarige tikt TikTok (en China) op de vingers"
 permalink: /nieuws/17-jarige-tikt-tiktok-en-china-op-de-vingers/
-date: 2022-05-11T19:16:41.067Z
+date: 2019-11-28T00:00:00.0000000Z
 author: CharlotteGoldhoorn
 auteur: Charlotte Goldhoorn
 avatar: /sites/default/files/styles/node_author/public/Charlotte_PasfotoDSC01555%20EXTRA.jpg?itok=Uh1_j08g

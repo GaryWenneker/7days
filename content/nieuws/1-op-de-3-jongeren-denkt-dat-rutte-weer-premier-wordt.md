@@ -1,10 +1,10 @@
 ---
-id: 5920982bf9824fbda8e80ba1b3322179
+id: 49c621d273a9481ebeee579d389f11cf
 type: nieuws
 layout: post
 title: "1 op de 3 jongeren denkt dat Rutte weer premier wordt"
 permalink: /nieuws/1-op-de-3-jongeren-denkt-dat-rutte-weer-premier-wordt/
-date: 2022-05-11T19:16:41.067Z
+date: 2017-02-10T00:00:00.0000000Z
 author: 3FMTussenuur
 auteur: 3FM Tussenuur
 avatar: /sites/default/files/styles/node_author/public/3FM_Tussenuur%20voor%20innsta.png?itok=1kmJm_ZP

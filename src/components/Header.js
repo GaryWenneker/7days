@@ -10,7 +10,7 @@ export default function Header() {
     <header className="flex h-16 border-b bg-white text-black dark:border-zinc-800 dark:bg-black dark:text-white">
       <Container className="m-auto flex items-center justify-between gap-20">        
         <Link to="/" className="flex text-2xl font-bold ">
-        <img className='max-h-10 mr-4' src="/sites/default/files/logo.png"/> 7Dagen
+        <img alt="7Dagen" className='max-h-10 mr-4' src="/sites/default/files/logo.png"/> 7Dagen
         </Link>
         <div className="flex items-center">
           <nav className="flex gap-4">          

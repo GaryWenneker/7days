@@ -1,10 +1,10 @@
 ---
-id: cb88bdfb1989422e941502337d8c6fcc
+id: e577be4ecb8b4da78a1098306c9f2f2b
 type: nieuws
 layout: post
 title: "23 juli: Paniek-in-het-pretpark-dag"
 permalink: /nieuws/23-juli-paniek-in-het-pretpark-dag/
-date: 2022-05-11T19:16:41.067Z
+date: 2015-07-23T00:00:00.0000000Z
 author: JacquelineAncona
 auteur: Jacqueline Ancona
 avatar: /sites/default/files/styles/node_author/public/Jacqueline_Pasfoto.jpg?itok=RPZ_0CZG

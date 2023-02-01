@@ -1,10 +1,10 @@
 ---
-id: 7c2fb05740b44f3cbff47eeb4846bf2b
+id: d79261a57fea48fe81320eb7a3d61b95
 type: nieuws
 layout: post
 title: "15-jarige tennisster Kostyuk blijft verbazen"
 permalink: /nieuws/15-jarige-tennisster-kostyuk-blijft-verbazen/
-date: 2022-05-11T19:16:41.067Z
+date: 2018-01-17T00:00:00.0000000Z
 author: VeraBosch
 auteur: Vera Bosch
 avatar: /sites/default/files/styles/node_author/public/Vera.jpg?itok=2rBVlrSc

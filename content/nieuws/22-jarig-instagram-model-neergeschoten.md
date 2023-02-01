@@ -1,10 +1,10 @@
 ---
-id: fa1f872597a3401382598cf46a060802
+id: f02917330ad3474abcba908fd4c9a123
 type: nieuws
 layout: post
 title: "22-jarig Instagram-model neergeschoten"
 permalink: /nieuws/22-jarig-instagram-model-neergeschoten/
-date: 2022-05-11T19:16:41.067Z
+date: 2018-10-02T00:00:00.0000000Z
 author: Valerievan Vliet
 auteur: Valerie van Vliet
 avatar: /sites/default/files/styles/node_author/public/Foto%20Valerie.jpg?itok=JJKtHUUV

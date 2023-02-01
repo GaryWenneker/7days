@@ -1,10 +1,10 @@
 ---
-id: afe7dd06a3324c1696ecd7b9c7b17883
+id: 4f7868d71194490b9e26418e9673f1eb
 type: nieuws
 layout: post
 title: "3 vragen over de brugramp in Italië"
 permalink: /nieuws/3-vragen-over-de-brugramp-in-italie/
-date: 2022-05-11T19:16:41.067Z
+date: 2018-08-15T00:00:00.0000000Z
 author: Sandravan de Wiel
 auteur: Sandra van de Wiel
 avatar: /sites/default/files/styles/node_author/public/Sandra%20van%20de%20Wiel_0.jpg?itok=62k7evo4

@@ -1,10 +1,10 @@
 ---
-id: e9ceafe70d764ddeb73f0e78324fd116
+id: 5953122603b54b7e98fb0bafc6ada413
 type: nieuws
 layout: post
 title: "2016 was het jaar van..."
 permalink: /nieuws/2016-was-het-jaar-van/
-date: 2022-05-11T19:16:41.067Z
+date: 2016-12-25T00:00:00.0000000Z
 author: SytseWilman
 auteur: Sytse Wilman
 avatar: /sites/default/files/styles/node_author/public/s_w.jpg?itok=HcJ5dcGp

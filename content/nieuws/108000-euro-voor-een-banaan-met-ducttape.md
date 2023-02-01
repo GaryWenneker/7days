@@ -1,10 +1,10 @@
 ---
-id: 5c20e138115a4495bcf3cd2294896f4e
+id: cc4d6a2e78d748b0be4201457398d33b
 type: nieuws
 layout: post
 title: "108.000 euro voor een banaan met ducttape"
 permalink: /nieuws/108000-euro-voor-een-banaan-met-ducttape/
-date: 2022-05-11T19:16:41.067Z
+date: 2019-12-06T00:00:00.0000000Z
 author: Sannevan Houwelingen
 auteur: Sanne van Houwelingen
 avatar: /sites/default/files/styles/node_author/public/Sanne_0.jpg?itok=zwng18lf

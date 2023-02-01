@@ -1,10 +1,10 @@
 ---
-id: f47c3c5d6afd446fae51997af6eaa76d
+id: 24e97fef5c2e4811bb144b1f990152bb
 type: nieuws
 layout: post
 title: "3 dingen die je moet weten over de klimaattop"
 permalink: /nieuws/3-dingen-die-je-moet-weten-over-de-klimaattop/
-date: 2022-05-11T19:16:41.067Z
+date: 2019-12-02T00:00:00.0000000Z
 author: LisetteGerbrands
 auteur: Lisette Gerbrands
 avatar: /sites/default/files/styles/node_author/public/13450257_10208224020345949_4749455365629855480_n.jpg?itok=bu9Jk8Bo

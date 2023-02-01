@@ -1,10 +1,10 @@
 ---
-id: 1408f2f884994e3ca3fa280e1f8c22ef
+id: 8aa2fa3665604f4a9df3aefd3b977d1c
 type: nieuws
 layout: post
 title: "28 jaar cel en tbs geëist in de zaak van Anne Faber"
 permalink: /nieuws/28-jaar-cel-en-tbs-geeist-in-de-zaak-van-anne-faber/
-date: 2022-05-11T19:16:41.067Z
+date: 2018-06-12T00:00:00.0000000Z
 author: NathalieStrijker
 auteur: Nathalie Strijker
 avatar: /sites/default/files/styles/node_author/public/Nathalie_pasfoto.jpg?itok=fb-LHyYL

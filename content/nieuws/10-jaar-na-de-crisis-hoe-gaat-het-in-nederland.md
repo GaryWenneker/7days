@@ -1,10 +1,10 @@
 ---
-id: de3b9f23af0c425592ec4fb196d324fb
+id: c07e1160a6c14bb180c7d07a94121999
 type: nieuws
 layout: post
 title: "10 jaar na 'de crisis': hoe gaat het in Nederland?"
 permalink: /nieuws/10-jaar-na-de-crisis-hoe-gaat-het-in-nederland/
-date: 2022-05-11T19:16:41.067Z
+date: 2018-09-15T00:00:00.0000000Z
 author: MarindeHurenkamp
 auteur: Marinde Hurenkamp
 avatar: /sites/default/files/styles/node_author/public/Marinde3.jpg?itok=LMRPApOG

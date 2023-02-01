@@ -8,10 +8,13 @@ export default function ArticleCard({ data }) {
       <h2 className='mb-4 text-2xl font-bold'>
         <Link to={post.fields.slug}>{post.frontmatter.title}</Link>
       </h2>
+      <div class="dark:text-gray-300 ml-5">ok
+          {new Date(post.frontmatter.date).toLocaleDateString()}
+      </div>
       <div className="flex mx-auto mb-1 max-w-3xl font-bold dark:text-white">
           <div class="text-sky-500 dark:text-sky-400">
-          {post.frontmatter.auteur}
-          </div>
+          {post.frontmatter.auteur}s
+          </div>          
           {
             post.frontmatter.auteur ? 
               <div class="text-slate-700 dark:text-slate-500 ml-2">

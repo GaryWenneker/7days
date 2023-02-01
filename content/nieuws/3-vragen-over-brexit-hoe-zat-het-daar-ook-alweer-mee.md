@@ -1,10 +1,10 @@
 ---
-id: 356a8fe0af364d90810d7ac6879c56a8
+id: 0073f929cded4c2ba07c9117acd4e21c
 type: nieuws
 layout: post
 title: "3 vragen over Brexit: hoe zat het daar ook alweer mee?"
 permalink: /nieuws/3-vragen-over-brexit-hoe-zat-het-daar-ook-alweer-mee/
-date: 2022-05-11T19:16:41.067Z
+date: 2020-01-30T00:00:00.0000000Z
 author: Coravan der Weij
 auteur: Cora van der Weij
 avatar: /sites/default/files/styles/node_author/public/Cora%20nieuwWebsite.jpg?itok=_QH_WbXZ

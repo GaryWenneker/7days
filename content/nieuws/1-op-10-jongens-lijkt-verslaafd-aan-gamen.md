@@ -1,10 +1,10 @@
 ---
-id: 59986c9618ca47818cb97c0eae2a5368
+id: 36fae989b4a14f33a935137731dc44a6
 type: nieuws
 layout: post
 title: "1 op 10 jongens lijkt verslaafd aan gamen"
 permalink: /nieuws/1-op-10-jongens-lijkt-verslaafd-aan-gamen/
-date: 2022-05-11T19:16:41.067Z
+date: 2016-04-06T00:00:00.0000000Z
 author: GitteHessels
 auteur: Gitte Hessels
 avatar: /sites/default/files/styles/node_author/public/DSC06407%20Gitte_0.jpg?itok=zeg9hMTG

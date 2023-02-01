@@ -1,10 +1,10 @@
 ---
-id: 554306a86ffd4ac99950f01193587699
+id: fbd957b3a48b4286ab132ad0a6c4e032
 type: nieuws
 layout: post
 title: "3 vragen over de Women’s March in Amsterdam "
 permalink: /nieuws/3-vragen-over-de-womens-march-in-amsterdam-/
-date: 2022-05-11T19:16:41.067Z
+date: 2019-03-05T00:00:00.0000000Z
 author: GeorgiaOost
 auteur: Georgia Oost
 avatar: /sites/default/files/styles/node_author/public/254A4229.jpg?itok=Uxllc6oW

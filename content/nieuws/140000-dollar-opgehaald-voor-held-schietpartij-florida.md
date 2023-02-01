@@ -1,10 +1,10 @@
 ---
-id: 37e7a206304545739d459fd6cd257715
+id: 6bb43989fe234fa9942ff02c16baebb2
 type: nieuws
 layout: post
 title: "140.000 dollar opgehaald voor 'held' schietpartij Florida"
 permalink: /nieuws/140000-dollar-opgehaald-voor-held-schietpartij-florida/
-date: 2022-05-11T19:16:41.067Z
+date: 2018-02-20T00:00:00.0000000Z
 author: LisetteGerbrands
 auteur: Lisette Gerbrands
 avatar: /sites/default/files/styles/node_author/public/13450257_10208224020345949_4749455365629855480_n.jpg?itok=bu9Jk8Bo

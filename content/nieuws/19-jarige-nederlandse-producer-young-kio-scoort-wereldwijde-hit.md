@@ -1,10 +1,10 @@
 ---
-id: ea953955fced408d8840b27b0a2613fa
+id: da301f21be9c4c00b29837d0cf2806be
 type: nieuws
 layout: post
 title: "19-jarige Nederlandse producer Young Kio scoort wereldwijde hit"
 permalink: /nieuws/19-jarige-nederlandse-producer-young-kio-scoort-wereldwijde-hit/
-date: 2022-05-11T19:16:41.067Z
+date: 2019-04-10T00:00:00.0000000Z
 author: ThijsJacobs
 auteur: Thijs Jacobs
 avatar: /sites/default/files/styles/node_author/public/Foto%20Thijs%20Jacobs.jpg?itok=L5x8zrlc

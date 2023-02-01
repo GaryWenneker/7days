@@ -1,10 +1,10 @@
 ---
-id: f42e85f05cb94c588ea9ef29a7d4899a
+id: 2ca706a0748a4ba6bbd27db83859367f
 type: nieuws
 layout: post
 title: "16-jarige meisjes aan de pil vaker last van klachten"
 permalink: /nieuws/16-jarige-meisjes-aan-de-pil-vaker-last-van-klachten/
-date: 2022-05-11T19:16:41.067Z
+date: 2019-10-03T00:00:00.0000000Z
 author: Janinede Wit
 auteur: Janine de Wit
 avatar: /sites/default/files/styles/node_author/public/p3PJedfR.jpg?itok=ev1RPrZe

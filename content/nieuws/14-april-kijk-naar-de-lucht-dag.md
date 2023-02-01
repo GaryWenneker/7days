@@ -1,10 +1,10 @@
 ---
-id: 2bf970a28dda41a0830d1b56a9fb3109
+id: 774201428f364f6da6c88f35638125cf
 type: nieuws
 layout: post
 title: "14 april: Kijk-naar-de-lucht-dag"
 permalink: /nieuws/14-april-kijk-naar-de-lucht-dag/
-date: 2022-05-11T19:16:41.067Z
+date: 2015-04-14T00:00:00.0000000Z
 author: JacquelineAncona
 auteur: Jacqueline Ancona
 avatar: /sites/default/files/styles/node_author/public/Jacqueline_Pasfoto.jpg?itok=RPZ_0CZG

@@ -1,10 +1,10 @@
 ---
-id: db44105198f74eeca75df85ff1fd51c5
+id: 99a23d81b8d94854be9201173be34792
 type: nieuws
 layout: post
 title: "10x de gekste eet-records van Joey Chestnut "
 permalink: /nieuws/10x-de-gekste-eet-records-van-joey-chestnut-/
-date: 2022-05-11T19:16:41.067Z
+date: 2019-07-07T00:00:00.0000000Z
 author: VeraBosch
 auteur: Vera Bosch
 avatar: /sites/default/files/styles/node_author/public/Vera.jpg?itok=2rBVlrSc

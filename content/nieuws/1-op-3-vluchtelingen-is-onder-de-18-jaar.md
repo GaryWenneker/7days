@@ -1,10 +1,10 @@
 ---
-id: fb3dd14ced2a43749a4c600b80b7632c
+id: e8150361efc84db29e9fea468dd27d00
 type: nieuws
 layout: post
 title: "'1 op 3 vluchtelingen is onder de 18 jaar'"
 permalink: /nieuws/1-op-3-vluchtelingen-is-onder-de-18-jaar/
-date: 2022-05-11T19:16:41.067Z
+date: 2016-05-29T00:00:00.0000000Z
 author: MennoWoudt
 auteur: Menno Woudt
 avatar: /sites/default/files/styles/node_author/public/menno4_0.png?itok=5KD7Yfz3

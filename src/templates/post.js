@@ -13,16 +13,15 @@ const Post = ({ data }) => {
           {data.post.frontmatter.title}
         </h1>
         <div className="flex mx-auto my-12 max-w-3xl font-bold dark:text-white">
-          {/* <div
-            className="prose prose-lg mx-auto max-w-3xl dark:prose-invert"
-            dangerouslySetInnerHTML={{ __html: data?.post.frontmatter.avatar }}
-          ></div> */}
           {
             data.post.frontmatter.avatar ?
-            <img className='mr-5' src={data.post.frontmatter.avatar}/> : <></>
+            <img alt={data.post.frontmatter.auteur} className='mr-5' src={data.post.frontmatter.avatar}/> : <></>
           }
           <div class="text-sky-500 dark:text-sky-400 mt-0 pt-0">
-          {data.post.frontmatter.auteur}
+          {data.post.frontmatter.auteur}MEUK
+          </div>
+          <div class="dark:text-gray-300 ml-5">{data.post.frontmatter.date}
+          
           </div>
           <div class="text-slate-700 dark:text-slate-500 ml-5">
           {data.post.frontmatter.rubrieken.map((item, i) => (
@@ -64,6 +63,7 @@ export const basicPageQuery = graphql`
       html
       frontmatter {
         id
+        date
         title
         author
         auteur

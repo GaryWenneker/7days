@@ -1,10 +1,10 @@
 ---
-id: f2b9b9e63dbd4e4993110c0c172605db
+id: 16e67d28a4294b9896d7870f45535fe2
 type: nieuws
 layout: post
 title: "19-jarige pleegt aanslag op synagoge in San Diego"
 permalink: /nieuws/19-jarige-pleegt-aanslag-op-synagoge-in-san-diego/
-date: 2022-05-11T19:16:41.067Z
+date: 2019-04-29T00:00:00.0000000Z
 author: ThijsJacobs
 auteur: Thijs Jacobs
 avatar: /sites/default/files/styles/node_author/public/Foto%20Thijs%20Jacobs.jpg?itok=L5x8zrlc

@@ -1,10 +1,10 @@
 ---
-id: c865341f843e49cc9475f22b4bb1afb7
+id: 1907864397f043fc9bc672f3934d4c5e
 type: nieuws
 layout: post
 title: "24 uur lopen voor straatkinderen "
 permalink: /nieuws/24-uur-lopen-voor-straatkinderen-/
-date: 2022-05-11T19:16:41.067Z
+date: 2018-10-19T00:00:00.0000000Z
 author: Valerievan Vliet
 auteur: Valerie van Vliet
 avatar: /sites/default/files/styles/node_author/public/Foto%20Valerie.jpg?itok=JJKtHUUV

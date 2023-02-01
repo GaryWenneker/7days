@@ -23,6 +23,12 @@ const Config = {
       fields: [Content],
     },
     {
+      label: 'Searchbox',
+      name: 'searchbox',
+      widget: 'object',
+      fields: [Content],
+    },
+    {
       label: 'Content with Image',
       name: 'content_image',
       widget: 'object',

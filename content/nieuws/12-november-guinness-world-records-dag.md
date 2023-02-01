@@ -1,10 +1,10 @@
 ---
-id: db531587355548209a9b18316241064f
+id: f75399c4b4a04d77b7b1935018480cfb
 type: nieuws
 layout: post
 title: "12 november: Guinness World Records-dag"
 permalink: /nieuws/12-november-guinness-world-records-dag/
-date: 2022-05-11T19:16:41.067Z
+date: 2015-11-12T00:00:00.0000000Z
 author: JacquelineAncona
 auteur: Jacqueline Ancona
 avatar: /sites/default/files/styles/node_author/public/Jacqueline_Pasfoto.jpg?itok=RPZ_0CZG

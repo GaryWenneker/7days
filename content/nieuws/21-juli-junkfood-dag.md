@@ -1,10 +1,10 @@
 ---
-id: 73cbcd65a477462a84b84fe31d596560
+id: 1437c815949142e786cde0060f59fa61
 type: nieuws
 layout: post
 title: "21 juli: Junkfood-dag"
 permalink: /nieuws/21-juli-junkfood-dag/
-date: 2022-05-11T19:16:41.067Z
+date: 2015-07-21T00:00:00.0000000Z
 author: JacquelineAncona
 auteur: Jacqueline Ancona
 avatar: /sites/default/files/styles/node_author/public/Jacqueline_Pasfoto.jpg?itok=RPZ_0CZG

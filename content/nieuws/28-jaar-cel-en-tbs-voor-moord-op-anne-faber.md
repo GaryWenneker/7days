@@ -1,10 +1,10 @@
 ---
-id: 611844fffc704b669aa3e3f9af56813f
+id: 84ac23c4f5e840bab468f96ff9ce8ea9
 type: nieuws
 layout: post
 title: "28 jaar cel en TBS voor moord op Anne Faber"
 permalink: /nieuws/28-jaar-cel-en-tbs-voor-moord-op-anne-faber/
-date: 2022-05-11T19:16:41.067Z
+date: 2018-07-17T00:00:00.0000000Z
 author: MarindeHurenkamp
 auteur: Marinde Hurenkamp
 avatar: /sites/default/files/styles/node_author/public/Marinde3.jpg?itok=LMRPApOG

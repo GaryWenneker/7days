@@ -1,10 +1,10 @@
 ---
-id: bed9736dbb34474d83304883030cd529
+id: b5b1224c9d154e408ccdd0da9712f061
 type: nieuws
 layout: post
 title: "3 vragen over fikse boete voor Google"
 permalink: /nieuws/3-vragen-over-fikse-boete-voor-google/
-date: 2022-05-11T19:16:41.067Z
+date: 2018-06-09T00:00:00.0000000Z
 author: LisetteGerbrands
 auteur: Lisette Gerbrands
 avatar: /sites/default/files/styles/node_author/public/13450257_10208224020345949_4749455365629855480_n.jpg?itok=bu9Jk8Bo

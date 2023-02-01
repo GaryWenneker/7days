@@ -1,10 +1,10 @@
 ---
-id: 8aab7340f90049ed8043d9f37013e422
+id: 54310bf2fab34fb0bc9144dc0cce95bd
 type: nieuws
 layout: post
 title: "10x typisch Nadal"
 permalink: /nieuws/10x-typisch-nadal/
-date: 2022-05-11T19:16:41.067Z
+date: 2017-06-09T00:00:00.0000000Z
 author: JacquelineAncona
 auteur: Jacqueline Ancona
 avatar: /sites/default/files/styles/node_author/public/Jacqueline_Pasfoto.jpg?itok=RPZ_0CZG

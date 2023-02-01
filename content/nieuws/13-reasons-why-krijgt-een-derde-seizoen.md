@@ -1,10 +1,10 @@
 ---
-id: 25d1b200b36d4723993d9f2f3d3f730c
+id: b9839a110b254976ae369bf4e9c2df22
 type: nieuws
 layout: post
 title: "13 Reasons Why krijgt een derde seizoen"
 permalink: /nieuws/13-reasons-why-krijgt-een-derde-seizoen/
-date: 2022-05-11T19:16:41.067Z
+date: 2018-06-07T00:00:00.0000000Z
 author: MarindeHurenkamp
 auteur: Marinde Hurenkamp
 avatar: /sites/default/files/styles/node_author/public/Marinde3.jpg?itok=LMRPApOG

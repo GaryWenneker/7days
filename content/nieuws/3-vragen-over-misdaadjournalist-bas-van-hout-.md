@@ -1,10 +1,10 @@
 ---
-id: b70db8fac4704c328c89ae61a16666a3
+id: 67aa5a364ee7486481b62a77596893e0
 type: nieuws
 layout: post
 title: "3 vragen over misdaadjournalist Bas van Hout "
 permalink: /nieuws/3-vragen-over-misdaadjournalist-bas-van-hout-/
-date: 2022-05-11T19:16:41.067Z
+date: 2019-06-11T00:00:00.0000000Z
 author: GeorgiaOost
 auteur: Georgia Oost
 avatar: /sites/default/files/styles/node_author/public/254A4229.jpg?itok=Uxllc6oW

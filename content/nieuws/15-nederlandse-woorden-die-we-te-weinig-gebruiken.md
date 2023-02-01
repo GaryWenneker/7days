@@ -1,10 +1,10 @@
 ---
-id: eec73fefcf234dadba257b6c3216ed1e
+id: cee111af0be844c09c21640c3cc8e75c
 type: nieuws
 layout: post
 title: "15 Nederlandse woorden die we te weinig gebruiken"
 permalink: /nieuws/15-nederlandse-woorden-die-we-te-weinig-gebruiken/
-date: 2022-05-11T19:16:41.067Z
+date: 2017-09-26T00:00:00.0000000Z
 author: Sandravan de Wiel
 auteur: Sandra van de Wiel
 avatar: /sites/default/files/styles/node_author/public/Sandra%20van%20de%20Wiel_0.jpg?itok=62k7evo4

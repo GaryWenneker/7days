@@ -1,10 +1,10 @@
 ---
-id: a32079e329de4dc9a15fc485141b47eb
+id: 7c39b27980814fe682e4bf5b1fdc9d73
 type: nieuws
 layout: post
 title: "3 vragen over de Nicky Verstappen-schouw"
 permalink: /nieuws/3-vragen-over-de-nicky-verstappen-schouw/
-date: 2022-05-11T19:16:41.067Z
+date: 2019-08-27T00:00:00.0000000Z
 author: VeraBosch
 auteur: Vera Bosch
 avatar: /sites/default/files/styles/node_author/public/Vera.jpg?itok=2rBVlrSc

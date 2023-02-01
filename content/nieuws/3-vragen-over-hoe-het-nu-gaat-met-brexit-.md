@@ -1,10 +1,10 @@
 ---
-id: 1645d9cb8e954b0395d73889ba1e012f
+id: 071fb2a0150d40b0ba6c646faa416541
 type: nieuws
 layout: post
 title: "3 vragen over hoe het nu gaat met Brexit "
 permalink: /nieuws/3-vragen-over-hoe-het-nu-gaat-met-brexit-/
-date: 2022-05-11T19:16:41.067Z
+date: 2019-02-28T00:00:00.0000000Z
 author: SilkePolhuijs
 auteur: Silke Polhuijs
 avatar: /sites/default/files/styles/node_author/public/Silke.jpg?itok=KDYfzSu2

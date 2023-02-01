@@ -1,10 +1,10 @@
 ---
-id: bf29cfb27edc4a6cb03cb849e1142fa8
+id: 1de5d6c2c6844fae9b5d622334f70a9c
 type: nieuws
 layout: post
 title: "3 vragen over Nederlandse 'kalifaatkinderen' in Syrië"
 permalink: /nieuws/3-vragen-over-nederlandse-kalifaatkinderen-in-syrie/
-date: 2022-05-11T19:16:41.067Z
+date: 2018-04-19T00:00:00.0000000Z
 author: MarindeHurenkamp
 auteur: Marinde Hurenkamp
 avatar: /sites/default/files/styles/node_author/public/Marinde3.jpg?itok=LMRPApOG

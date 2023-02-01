@@ -1,10 +1,10 @@
 ---
-id: 452a84ac2ead441e9d6afc48fae580f9
+id: 0438b775a8c94c859c929871de1c2f6d
 type: nieuws
 layout: post
 title: "157 nieuwe emoji's vandaag gelanceerd"
 permalink: /nieuws/157-nieuwe-emojis-vandaag-gelanceerd/
-date: 2022-05-11T19:16:41.067Z
+date: 2018-06-04T00:00:00.0000000Z
 author: LisetteGerbrands
 auteur: Lisette Gerbrands
 avatar: /sites/default/files/styles/node_author/public/13450257_10208224020345949_4749455365629855480_n.jpg?itok=bu9Jk8Bo

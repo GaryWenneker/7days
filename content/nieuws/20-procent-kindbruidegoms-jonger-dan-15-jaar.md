@@ -1,10 +1,10 @@
 ---
-id: 79a0c3a492354431b3bef6ddb97a7eae
+id: ed650db0de9140a485bba6102af589f9
 type: nieuws
 layout: post
 title: "20 procent kindbruidegoms jonger dan 15 jaar"
 permalink: /nieuws/20-procent-kindbruidegoms-jonger-dan-15-jaar/
-date: 2022-05-11T19:16:41.067Z
+date: 2019-06-07T00:00:00.0000000Z
 author: ThijsJacobs
 auteur: Thijs Jacobs
 avatar: /sites/default/files/styles/node_author/public/Foto%20Thijs%20Jacobs.jpg?itok=L5x8zrlc

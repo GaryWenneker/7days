@@ -1,10 +1,10 @@
 ---
-id: 1be288bbb4924786b754d01663f9be4d
+id: 3aeec206ca2144c69c135500af9c73e0
 type: nieuws
 layout: post
 title: "13 Reasons Why in ‘real life'"
 permalink: /nieuws/13-reasons-why-in-real-life/
-date: 2022-05-11T19:16:41.067Z
+date: 2017-06-18T00:00:00.0000000Z
 author: Sandravan de Wiel
 auteur: Sandra van de Wiel
 avatar: /sites/default/files/styles/node_author/public/Sandra%20van%20de%20Wiel_0.jpg?itok=62k7evo4

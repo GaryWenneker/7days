@@ -1,10 +1,10 @@
 ---
-id: ff60feccaa96476db7217442ca5b8c78
+id: 6f63c9f99ba34c2bad0ed5e55be8f701
 type: nieuws
 layout: post
 title: "3 vragen en antwoorden over de aanslag in Iran"
 permalink: /nieuws/3-vragen-en-antwoorden-over-de-aanslag-in-iran/
-date: 2022-05-11T19:16:41.067Z
+date: 2018-09-23T00:00:00.0000000Z
 author: Sandravan de Wiel
 auteur: Sandra van de Wiel
 avatar: /sites/default/files/styles/node_author/public/Sandra%20van%20de%20Wiel_0.jpg?itok=62k7evo4

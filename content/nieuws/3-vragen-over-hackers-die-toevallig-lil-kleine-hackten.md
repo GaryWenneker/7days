@@ -1,10 +1,10 @@
 ---
-id: f15f55b89b424da1bdc4ec36f4e5eeff
+id: 0a5410dc4c184c9e90952238921e1269
 type: nieuws
 layout: post
 title: "3 vragen over hackers die toevallig Lil' Kleine hackten"
 permalink: /nieuws/3-vragen-over-hackers-die-toevallig-lil-kleine-hackten/
-date: 2022-05-11T19:16:41.067Z
+date: 2019-02-25T00:00:00.0000000Z
 author: LisetteGerbrands
 auteur: Lisette Gerbrands
 avatar: /sites/default/files/styles/node_author/public/13450257_10208224020345949_4749455365629855480_n.jpg?itok=bu9Jk8Bo

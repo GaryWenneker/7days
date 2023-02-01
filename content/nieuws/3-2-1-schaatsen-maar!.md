@@ -1,10 +1,10 @@
 ---
-id: 667b8b27ca784595a3cc36fcf99a834e
+id: 48f1c6644af14ec2a222494951ed4439
 type: nieuws
 layout: post
 title: "3-2-1: schaatsen maar!"
 permalink: /nieuws/3-2-1-schaatsen-maar!/
-date: 2022-05-11T19:16:41.067Z
+date: 2016-01-19T00:00:00.0000000Z
 author: CarolienPlasschaert
 auteur: Carolien Plasschaert
 avatar: /sites/default/files/styles/node_author/public/unnamed%20%282%29_0.jpg?itok=rj-sBLOL

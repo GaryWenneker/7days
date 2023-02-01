@@ -1,10 +1,10 @@
 ---
-id: 115f909334444e9e8bf7f81fe17279fe
+id: 74b3664ba87b4d8cbabb42568cd88833
 type: nieuws
 layout: post
 title: "14.049 beetjes mondslijm om oude moordzaak op te lossen"
 permalink: /nieuws/14049-beetjes-mondslijm-om-oude-moordzaak-op-te-lossen/
-date: 2022-05-11T19:16:41.067Z
+date: 2018-03-19T00:00:00.0000000Z
 author: NathalieStrijker
 auteur: Nathalie Strijker
 avatar: /sites/default/files/styles/node_author/public/Nathalie_pasfoto.jpg?itok=fb-LHyYL

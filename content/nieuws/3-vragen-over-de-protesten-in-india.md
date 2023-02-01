@@ -1,10 +1,10 @@
 ---
-id: 7464b83013db40ceae21d6f0a7a33a16
+id: 5629f884b2184248a584bc9457b6bcb8
 type: nieuws
 layout: post
 title: "3 vragen over de protesten in India"
 permalink: /nieuws/3-vragen-over-de-protesten-in-india/
-date: 2022-05-11T19:16:41.067Z
+date: 2018-04-03T00:00:00.0000000Z
 author: MarindeHurenkamp
 auteur: Marinde Hurenkamp
 avatar: /sites/default/files/styles/node_author/public/Marinde3.jpg?itok=LMRPApOG

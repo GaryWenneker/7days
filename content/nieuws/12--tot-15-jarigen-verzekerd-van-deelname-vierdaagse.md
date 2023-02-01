@@ -1,10 +1,10 @@
 ---
-id: 0df14195a80a42bea652ce7a6f2fb4bc
+id: e5b64d9550a3401b8420e026cfa18c11
 type: nieuws
 layout: post
 title: "12- tot 15-jarigen verzekerd van deelname Vierdaagse"
 permalink: /nieuws/12--tot-15-jarigen-verzekerd-van-deelname-vierdaagse/
-date: 2022-05-11T19:16:41.067Z
+date: 2019-01-14T00:00:00.0000000Z
 author: MarindeHurenkamp
 auteur: Marinde Hurenkamp
 avatar: /sites/default/files/styles/node_author/public/Marinde3.jpg?itok=LMRPApOG

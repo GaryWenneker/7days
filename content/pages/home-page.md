@@ -9,15 +9,9 @@ blocks:
   - type: hero
     title: 7Dagen
     content: |-
-      ## Zoeken naar artikelen
-
-      blah
+    
     variant: centered
-    buttons:
-      - button:
-          variant: default
-          content: Documentation
-          url: https://google.com
+  - type: searchbox
   - type: perks
     title: Features
     columns:

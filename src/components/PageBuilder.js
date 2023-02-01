@@ -8,6 +8,7 @@ import Lifestyle from '../blocks/Lifestyle';
 import ContentImage from '../blocks/ContentImage';
 import Perks from '../blocks/Perks';
 import Content from '../blocks/Content';
+import SearchBox from '../blocks/SearchBox';
 
 export default function PageBuilder({ blocks, preview = false }) {
   return (
@@ -17,6 +18,8 @@ export default function PageBuilder({ blocks, preview = false }) {
           switch (block.type) {
             case 'hero':
               return <Hero key={i} data={block} />;
+            case 'searchbox':
+              return <SearchBox key={i} data={block} />;
             case 'recentArticles':
               return <RecentArticles key={i} data={block} preview={preview} />;
             case 'recentNieuws':

@@ -1,10 +1,10 @@
 ---
-id: 8c793d7b26754acfb231cce6d875fe17
+id: 2cab024ed1604d65a63f3ffed4363263
 type: nieuws
 layout: post
 title: "106 jaar oude cake gevonden op Antarctica "
 permalink: /nieuws/106-jaar-oude-cake-gevonden-op-antarctica-/
-date: 2022-05-11T19:16:41.067Z
+date: 2017-08-14T00:00:00.0000000Z
 author: Janinede Wit
 auteur: Janine de Wit
 avatar: /sites/default/files/styles/node_author/public/p3PJedfR.jpg?itok=ev1RPrZe

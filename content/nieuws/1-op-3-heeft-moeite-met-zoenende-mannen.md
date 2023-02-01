@@ -1,10 +1,10 @@
 ---
-id: b62836cf271a4d3a80109f6415ba0eaf
+id: 5eb1d2301ae54a7783348e945e0f6e25
 type: nieuws
 layout: post
 title: "1 op 3 heeft moeite met zoenende mannen"
 permalink: /nieuws/1-op-3-heeft-moeite-met-zoenende-mannen/
-date: 2022-05-11T19:16:41.067Z
+date: 2016-05-12T00:00:00.0000000Z
 author: MennoWoudt
 auteur: Menno Woudt
 avatar: /sites/default/files/styles/node_author/public/menno4_0.png?itok=5KD7Yfz3
