@@ -8,7 +8,7 @@ export default function ArticleCard({ data }) {
       <h2 className='mb-4 text-2xl font-bold'>
         <Link to={post.fields.slug}>{post.frontmatter.title}</Link>
       </h2>
-      <div class="dark:text-gray-300 ml-5">ok
+      <div class="dark:text-gray-300 ml-5">
           {new Date(post.frontmatter.date).toLocaleDateString('nl-NL')}
       </div>
       <div className="flex mx-auto mb-1 max-w-3xl font-bold dark:text-white">

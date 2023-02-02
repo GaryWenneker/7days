@@ -25,6 +25,7 @@ export default function DefaultHead({ data, children }) {
         property="og:url"
         content={`${metadata.siteUrl}${pathname}`}
       />
+      <meta name="msvalidate.01" content="B01335C0B74AB787BC96C45E40F56C59" />
       <meta id="oty" property="og:type" content="website" />
       <meta id="oi" property="og:image" content={image} />
       <meta id="od" property="og:description" content={metaDescription} />
