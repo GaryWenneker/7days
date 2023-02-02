@@ -67,22 +67,7 @@ export const query = graphql`
       type
       title
       content
-      columns {
-        title
-        content
-      }
-      photo {
-        image
-        alt
-      }
       variant
-      buttons {
-        button {
-          content
-          url
-          variant
-        }
-      }
     }
   }
 `;
